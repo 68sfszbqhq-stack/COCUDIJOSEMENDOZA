@@ -189,6 +189,24 @@
             display: inline-block;
             font-weight: bold;
         }
+
+        /* Portada con Imagen de Fondo */
+        #portada {
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('portada_bg.png');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        .glass-container {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-radius: 40px;
+            padding: 50px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
     </style>
 </head>
 
@@ -196,23 +214,23 @@
 
     <!-- PORTADA -->
     <section id="portada" class="slide active">
-        <div class="text-center mt-20 max-w-4xl">
-            <h1 class="text-7xl font-black text-red-700 mb-4">Mi PLE</h1>
-            <p class="text-3xl text-gray-700 font-bold mb-2">Cultura Digital II</p>
-            <p class="text-xl text-gray-500 font-light mb-8">José Roberto Mendoza Mendoza | 2do Semestre</p>
-            <div class="bg-white p-10 rounded-3xl shadow-2xl border-l-[12px] border-red-600 text-left">
-                <p class="text-2xl italic text-gray-700 leading-relaxed">
+        <div class="glass-container text-center mt-10 max-w-4xl">
+            <h1 class="text-7xl font-black text-red-700 mb-4 shadow-sm">Mi PLE</h1>
+            <p class="text-3xl text-gray-800 font-bold mb-2">Cultura Digital II</p>
+            <p class="text-xl text-gray-600 font-semibold mb-8">José Roberto Mendoza Mendoza | 2do Semestre</p>
+            <div class="bg-red-700/10 p-10 rounded-3xl border-l-[12px] border-red-700 text-left">
+                <p class="text-2xl italic text-gray-800 leading-relaxed font-medium">
                     "No estandarizo la educación; arquitecto soluciones. Imagino el producto, lo valido con rigor y lo
                     programo hasta que existe."
                 </p>
             </div>
             <div class="flex gap-4 justify-center">
                 <button onclick="nav('detalles')"
-                    class="mt-12 bg-gray-900 text-white px-8 py-5 rounded-full text-xl font-black hover:bg-black transition-all shadow-xl">
+                    class="mt-12 bg-gray-900 text-white px-8 py-5 rounded-full text-xl font-black hover:bg-black transition-all shadow-xl hover:scale-105">
                     DATOS ACADÉMICOS <i class="fas fa-file-invoice ml-3"></i>
                 </button>
                 <button onclick="nav('ecosistema')"
-                    class="mt-12 bg-red-600 text-white px-12 py-5 rounded-full text-xl font-black hover:bg-red-800 transition-all shadow-xl">
+                    class="mt-12 bg-red-700 text-white px-12 py-5 rounded-full text-xl font-black hover:bg-red-900 transition-all shadow-xl hover:scale-105">
                     EXPLORAR ECOSISTEMA <i class="fas fa-rocket ml-3"></i>
                 </button>
             </div>

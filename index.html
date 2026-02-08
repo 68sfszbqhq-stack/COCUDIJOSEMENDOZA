@@ -17,185 +17,12 @@
 
         body {
             font-family: 'Inter', sans-serif;
-            background: var(--gris);
-            color: #2C3E50;
-        }
-
-        /* Animaciones */
-        .slide {
-            display: none;
-            min-height: 100vh;
-            animation: slideIn 0.5s ease-out;
-        }
-
-        .slide.active {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 40px 20px;
-        }
-
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateX(50px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
-
-        /* Mapa Radial */
-        .radial-menu {
-            position: relative;
-            width: 600px;
-            height: 600px;
-            margin: 40px auto;
-        }
-
-        .center-user {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 140px;
-            height: 140px;
-            background: var(--rojo);
-            color: white;
-            border-radius: 50%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            z-index: 10;
-            border: 8px solid white;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-        }
-
-        .node {
-            position: absolute;
-            width: 110px;
-            height: 110px;
-            background: white;
-            border-radius: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-            border: 2px solid transparent;
-        }
-
-        .node:hover {
-            transform: scale(1.1);
-            border-color: var(--rojo);
-            box-shadow: 0 8px 25px rgba(192, 57, 43, 0.2);
-        }
-
-        .node i {
-            font-size: 2rem;
-            color: var(--rojo);
-            margin-bottom: 8px;
-        }
-
-        .node span {
-            font-weight: 700;
-            font-size: 0.8rem;
-            text-transform: uppercase;
-        }
-
-        /* Posiciones Circulares */
-        .pos1 {
-            top: 0;
-            left: 50%;
-            transform: translateX(-50%);
-        }
-
-        .pos2 {
-            top: 20%;
-            right: 5%;
-        }
-
-        .pos3 {
-            bottom: 20%;
-            right: 5%;
-        }
-
-        .pos4 {
-            bottom: 0;
-            left: 50%;
-            transform: translateX(-50%);
-        }
-
-        .pos5 {
-            bottom: 20%;
-            left: 5%;
-        }
-
-        .pos6 {
-            top: 20%;
-            left: 5%;
-        }
-
-        /* Modal */
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.8);
-            z-index: 100;
-            justify-content: center;
-            align-items: center;
-            backdrop-filter: blur(5px);
-        }
-
-        .modal-content {
-            background: white;
-            width: 90%;
-            max-width: 600px;
-            max-height: 85vh;
-            overflow-y: auto;
-            padding: 30px;
-            border-radius: 25px;
-            position: relative;
-            animation: zoomIn 0.3s ease;
-            border-top: 10px solid var(--rojo);
-            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
-        }
-
-        @keyframes zoomIn {
-            from {
-                transform: scale(0.8);
-            }
-
-            to {
-                transform: scale(1);
-            }
-        }
-
-        .tool-tag {
-            background: #eee;
-            padding: 4px 10px;
-            border-radius: 8px;
-            font-size: 0.75rem;
-            margin: 4px;
-            display: inline-block;
-            font-weight: bold;
-        }
-
-        /* Portada con Imagen de Fondo */
-        #portada {
             background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('portada_bg.png');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
+            color: #2C3E50;
+            min-height: 100vh;
         }
 
         .glass-container {
@@ -203,9 +30,13 @@
             backdrop-filter: blur(12px);
             -webkit-backdrop-filter: blur(12px);
             border-radius: 40px;
-            padding: 50px;
+            padding: 40px;
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
             border: 1px solid rgba(255, 255, 255, 0.3);
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
     </style>
 </head>
@@ -239,192 +70,225 @@
 
     <!-- DETALLES ACADÉMICOS (REQUISITO MOODLE) -->
     <section id="detalles" class="slide">
-        <h2 class="text-4xl font-black text-red-700 mb-8 text-center">Contexto y Propósito del PLE</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl w-full">
-            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-red-600">
-                <h3 class="font-black text-xl mb-4 text-red-700 uppercase">Contexto de la Asignatura</h3>
-                <p class="text-gray-700 leading-relaxed text-sm">
-                    <strong>Cultura Digital II</strong> se imparte en modalidad presencial para estudiantes de
-                    bachillerato. El curso busca que los alumnos no solo consuman tecnología, sino que comprendan la
-                    arquitectura detrás de ella, fomentando la ciudadanía digital y el pensamiento computacional
-                    aplicado a la resolución de problemas reales.
-                </p>
+        <div class="glass-container max-w-6xl">
+            <h2 class="text-4xl font-black text-red-700 mb-8 text-center">Contexto y Propósito del PLE</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 w-full">
+                <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-red-600">
+                    <h3 class="font-black text-xl mb-4 text-red-700 uppercase">Contexto de la Asignatura</h3>
+                    <p class="text-gray-700 leading-relaxed text-sm">
+                        <strong>Cultura Digital II</strong> se imparte en modalidad presencial para estudiantes de
+                        bachillerato. El curso busca que los alumnos no solo consuman tecnología, sino que comprendan la
+                        arquitectura detrás de ella, fomentando la ciudadanía digital y el pensamiento computacional
+                        aplicado a la resolución de problemas reales.
+                    </p>
+                </div>
+                <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-gray-400">
+                    <h3 class="font-black text-xl mb-4 text-gray-700 uppercase">Propósito del PLE</h3>
+                    <p class="text-gray-700 leading-relaxed text-sm">
+                        Este PLE tiene como propósito articular mis herramientas de <strong>Vibecoding</strong> y
+                        gestión
+                        docente para maximizar el tiempo frente a grupo. Busca ser un puente entre la teoría académica y
+                        la
+                        práctica técnica, permitiendo una actualización constante que impacte directamente en la calidad
+                        de
+                        los recursos que entrego a mis estudiantes.
+                    </p>
+                </div>
+                <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-red-600">
+                    <h3 class="font-black text-xl mb-4 text-red-700 uppercase">Valoración del PLE</h3>
+                    <p class="text-gray-700 leading-relaxed text-sm">
+                        La construcción de este PLE me ha permitido mapear mis fortalezas y debilidades digitales.
+                        Aporta a
+                        mi práctica docente una estructura clara para el almacenamiento de evidencias y la transferencia
+                        de
+                        valor hacia mis colegas, transformando la burocracia en procesos automatizados y eficientes.
+                    </p>
+                </div>
+                <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-gray-400">
+                    <h3 class="font-black text-xl mb-4 text-gray-700 uppercase">Otros Comentarios</h3>
+                    <p class="text-gray-700 leading-relaxed text-sm italic">
+                        "Programar mi propio PLE en lugar de usar plantillas genéricas es una declaración de principios:
+                        como docente de Cultura Digital, predico con el ejemplo de la creación técnica. Este portafolio
+                        es
+                        un ente vivo que seguirá creciendo con cada línea de código y cada clase impartida."
+                    </p>
+                </div>
             </div>
-            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-gray-400">
-                <h3 class="font-black text-xl mb-4 text-gray-700 uppercase">Propósito del PLE</h3>
-                <p class="text-gray-700 leading-relaxed text-sm">
-                    Este PLE tiene como propósito articular mis herramientas de <strong>Vibecoding</strong> y gestión
-                    docente para maximizar el tiempo frente a grupo. Busca ser un puente entre la teoría académica y la
-                    práctica técnica, permitiendo una actualización constante que impacte directamente en la calidad de
-                    los recursos que entrego a mis estudiantes.
-                </p>
+            <div class="mt-10 flex gap-4">
+                <button onclick="nav('portada')" class="text-gray-500 font-bold hover:text-red-700">Volver a
+                    Inicio</button>
+                <button onclick="nav('ecosistema')"
+                    class="bg-red-700 text-white px-10 py-4 rounded-full font-bold shadow-lg hover:scale-105 transition">Ir
+                    al Mapa Radial</button>
             </div>
-            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-red-600">
-                <h3 class="font-black text-xl mb-4 text-red-700 uppercase">Valoración del PLE</h3>
-                <p class="text-gray-700 leading-relaxed text-sm">
-                    La construcción de este PLE me ha permitido mapear mis fortalezas y debilidades digitales. Aporta a
-                    mi práctica docente una estructura clara para el almacenamiento de evidencias y la transferencia de
-                    valor hacia mis colegas, transformando la burocracia en procesos automatizados y eficientes.
-                </p>
-            </div>
-            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-gray-400">
-                <h3 class="font-black text-xl mb-4 text-gray-700 uppercase">Otros Comentarios</h3>
-                <p class="text-gray-700 leading-relaxed text-sm italic">
-                    "Programar mi propio PLE en lugar de usar plantillas genéricas es una declaración de principios:
-                    como docente de Cultura Digital, predico con el ejemplo de la creación técnica. Este portafolio es
-                    un ente vivo que seguirá creciendo con cada línea de código y cada clase impartida."
-                </p>
-            </div>
-        </div>
-        <div class="mt-10 flex gap-4">
-            <button onclick="nav('portada')" class="text-gray-400 font-bold hover:text-red-600">Volver a Inicio</button>
-            <button onclick="nav('ecosistema')"
-                class="bg-red-600 text-white px-10 py-4 rounded-full font-bold shadow-lg">Ir al Mapa Radial</button>
         </div>
     </section>
     <!-- ECOSISTEMA INTERACTIVO -->
     <section id="ecosistema" class="slide">
-        <h2 class="text-4xl font-black text-red-700 mb-4 text-center">Mapa de Capacidades Digitales</h2>
-        <p class="text-gray-500 mb-10">Toca cada nodo para ver mis herramientas y ejemplos reales</p>
+        <div class="glass-container max-w-5xl">
+            <h2 class="text-4xl font-black text-red-700 mb-4 text-center">Mapa de Capacidades Digitales</h2>
+            <p class="text-gray-600 mb-6 font-medium">Toca cada nodo para ver mis herramientas y ejemplos reales</p>
 
-        <div class="radial-menu">
-            <div class="center-user">
-                <i class="fas fa-user-gear text-4xl mb-2"></i>
-                <span class="text-xs font-black">ARQUITECTO</span>
+            <div class="radial-menu">
+                <div class="center-user">
+                    <i class="fas fa-user-gear text-4xl mb-2"></i>
+                    <span class="text-xs font-black">ARQUITECTO</span>
+                </div>
+
+                <div class="node pos1" onclick="openModal('busco')">
+                    <i class="fas fa-magnifying-glass"></i><span>Busco</span>
+                </div>
+                <div class="node pos2" onclick="openModal('organizo')">
+                    <i class="fas fa-box-archive"></i><span>Organizo</span>
+                </div>
+                <div class="node pos3" onclick="openModal('creo')">
+                    <i class="fas fa-laptop-code"></i><span>Creo</span>
+                </div>
+                <div class="node pos4" onclick="openModal('colaboro')">
+                    <i class="fas fa-handshake-angle"></i><span>Colaboro</span>
+                </div>
+                <div class="node pos5" onclick="openModal('comparto')">
+                    <i class="fas fa-bullhorn"></i><span>Comparto</span>
+                </div>
+                <div class="node pos6" onclick="openModal('publico')">
+                    <i class="fab fa-github"></i><span>Publico</span>
+                </div>
             </div>
 
-            <div class="node pos1" onclick="openModal('busco')">
-                <i class="fas fa-magnifying-glass"></i><span>Busco</span>
+            <div class="flex gap-6 mt-6">
+                <button onclick="nav('detalles')" class="text-gray-500 font-bold hover:text-red-700">Volver</button>
+                <button onclick="nav('tabla')"
+                    class="bg-gray-800 text-white px-10 py-4 rounded-full font-bold shadow-lg hover:scale-105 transition">Ver
+                    Matriz Completa <i class="fas fa-table ml-2"></i></button>
             </div>
-            <div class="node pos2" onclick="openModal('organizo')">
-                <i class="fas fa-box-archive"></i><span>Organizo</span>
-            </div>
-            <div class="node pos3" onclick="openModal('creo')">
-                <i class="fas fa-laptop-code"></i><span>Creo</span>
-            </div>
-            <div class="node pos4" onclick="openModal('colaboro')">
-                <i class="fas fa-handshake-angle"></i><span>Colaboro</span>
-            </div>
-            <div class="node pos5" onclick="openModal('comparto')">
-                <i class="fas fa-bullhorn"></i><span>Comparto</span>
-            </div>
-            <div class="node pos6" onclick="openModal('publico')">
-                <i class="fab fa-github"></i><span>Publico</span>
-            </div>
-        </div>
-
-        <div class="flex gap-6">
-            <button onclick="nav('detalles')" class="text-gray-400 font-bold hover:text-red-600">Volver</button>
-            <button onclick="nav('tabla')"
-                class="bg-gray-800 text-white px-10 py-4 rounded-full font-bold shadow-lg">Ver Matriz Completa <i
-                    class="fas fa-table ml-2"></i></button>
         </div>
     </section>
     <!-- TABLA COMPLETA -->
     <section id="tabla" class="slide">
-        <h2 class="text-4xl font-black text-red-700 mb-8">Matriz de Gestión (Sinóptico)</h2>
-        <div class="bg-white rounded-3xl shadow-2xl overflow-hidden max-w-6xl w-full border-2 border-gray-100">
-            <table class="w-full text-left border-collapse">
-                <thead>
-                    <tr class="bg-red-700 text-white">
-                        <th class="p-6 text-xl">Dimensión</th>
-                        <th class="p-6 text-xl">Herramientas (Con qué)</th>
-                        <th class="p-6 text-xl">Mecanismos (Cómo)</th>
-                        <th class="p-6 text-xl">Actividades (Qué hago)</th>
-                    </tr>
-                </thead>
-                <tbody class="text-sm">
-                    <tr class="border-b bg-gray-50">
-                        <td class="p-6 font-black text-red-700">Procesar información (Busco)</td>
-                        <td class="p-6">Comet AI Browser, Google Scholar (desde 2009), Perplexity Pro, YouTube Premium,
-                            Platzi, Mendeley y bibliografía técnica.</td>
-                        <td class="p-6">Ingeniería de Prompts, navegación automatizada con asistente de IA, filtrado
-                            crítico de "alucinaciones" y organización de bibliografía académica.</td>
-                        <td class="p-6">Investigación de modelos biomecánicos, búsqueda científica automatizada,
-                            referenciación de fuentes académicas y validación de viabilidad científica.</td>
-                    </tr>
-                    <tr class="border-b">
-                        <td class="p-6 font-black text-red-700">Reflexionar haciendo (Organizo/Creo)</td>
-                        <td class="p-6">Vibecoding (IDE Antigravity), VS Code, Python/PHP/MySQL, iDoceo (Sincronización
-                            iCloud), Notion, OneNote, iLovePDF y PDF Expert.</td>
-                        <td class="p-6">Prototipado real a punta de prompts, gestión integral de alumnos y
-                            calificaciones, manipulación experta de PDF y estructuración de bases de datos.</td>
-                        <td class="p-6">Desarrollo de IberoActivate, Planeador MCCEMS (anti-burocracia), Simuladores de
-                            admisión, Exámenes interactivos QR y sincronización multi-dispositivo docente.</td>
-                    </tr>
-                    <tr>
-                        <td class="p-6 font-black text-red-700">Interactuar y compartir (Colaboro/Comparto)</td>
-                        <td class="p-6">Discord (Tiro con Arco), LinkedIn, Instagram, Microsoft Teams (Ibero/BUAP),
-                            Google Classroom y comunidades de desarrollo.</td>
-                        <td class="p-6">Transferencia activa de valor (legado), diálogo pedagógico profundo, mentoría en
-                            cultura digital, marca personal y comunicación "boca en boca".</td>
-                        <td class="p-6">Dictado de talleres de IA para docentes, gestión de resultados nacionales
-                            (IANSEO), publicación de logros profesionales y creación de activos sociales de salud.</td>
-                    </tr>
-                </tbody>
-            </table>
+        <div class="glass-container max-w-7xl">
+            <h2 class="text-4xl font-black text-red-700 mb-8">Matriz de Gestión (Sinóptico)</h2>
+            <div class="bg-white rounded-3xl shadow-2xl overflow-hidden w-full border-2 border-gray-100">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="bg-red-700 text-white">
+                            <th class="p-6 text-xl">Dimensión</th>
+                            <th class="p-6 text-xl">Herramientas (Con qué)</th>
+                            <th class="p-6 text-xl">Mecanismos (Cómo)</th>
+                            <th class="p-6 text-xl">Actividades (Qué hago)</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-sm text-gray-800">
+                        <tr class="border-b bg-gray-50">
+                            <td class="p-6 font-black text-red-700">Procesar información (Busco)</td>
+                            <td class="p-6">Comet AI Browser, Google Scholar (desde 2009), Perplexity Pro, YouTube
+                                Premium,
+                                Platzi, Mendeley y bibliografía técnica.</td>
+                            <td class="p-6">Ingeniería de Prompts, navegación automatizada con asistente de IA, filtrado
+                                crítico de "alucinaciones" y organización de bibliografía académica.</td>
+                            <td class="p-6">Investigación de modelos biomecánicos, búsqueda científica automatizada,
+                                referenciación de fuentes académicas y validación de viabilidad científica.</td>
+                        </tr>
+                        <tr class="border-b">
+                            <td class="p-6 font-black text-red-700">Reflexionar haciendo (Organizo/Creo)</td>
+                            <td class="p-6">Vibecoding (IDE Antigravity), VS Code, Python/PHP/MySQL, iDoceo
+                                (Sincronización
+                                iCloud), Notion, OneNote, iLovePDF y PDF Expert.</td>
+                            <td class="p-6">Prototipado real a punta de prompts, gestión integral de alumnos y
+                                calificaciones, manipulación experta de PDF y estructuración de bases de datos.</td>
+                            <td class="p-6">Desarrollo de IberoActivate, Planeador MCCEMS (anti-burocracia), Simuladores
+                                de
+                                admisión, Exámenes interactivos QR y sincronización multi-dispositivo docente.</td>
+                        </tr>
+                        <tr>
+                            <td class="p-6 font-black text-red-700">Interactuar y compartir (Colaboro/Comparto)</td>
+                            <td class="p-6">Discord (Tiro con Arco), LinkedIn, Instagram, Microsoft Teams (Ibero/BUAP),
+                                Google Classroom y comunidades de desarrollo.</td>
+                            <td class="p-6">Transferencia activa de valor (legado), diálogo pedagógico profundo,
+                                mentoría en
+                                cultura digital, marca personal y comunicación "boca en boca".</td>
+                            <td class="p-6">Dictado de talleres de IA para docentes, gestión de resultados nacionales
+                                (IANSEO), publicación de logros profesionales y creación de activos sociales de salud.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <button onclick="nav('preguntas')"
+                class="mt-10 bg-red-700 text-white px-12 py-4 rounded-full font-black shadow-xl hover:scale-105 transition">IR
+                A LAS 6 PREGUNTAS <i class="fas fa-chevron-right ml-2"></i></button>
         </div>
-        <button onclick="nav('preguntas')"
-            class="mt-10 bg-red-600 text-white px-12 py-4 rounded-full font-black shadow-xl">IR A LAS 6 PREGUNTAS <i
-                class="fas fa-chevron-right ml-2"></i></button>
     </section>
 
     <!-- 6 PREGUNTAS COMPLETAS -->
     <section id="preguntas" class="slide">
-        <h2 class="text-4xl font-black text-red-700 mb-10">Actualización Docente Permanente</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl">
-            <!-- P1 -->
-            <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
-                <h4 class="font-black text-lg mb-4 text-red-700">1. Objetivo de actualización permanente</h4>
-                <p class="text-gray-700 leading-relaxed italic">"Mi meta es la convergencia tecnológica crítica. Busco
-                    arquitectar soluciones de IA que no solo automaticen procesos en mis clases, sino que estén
-                    fundamentadas en el rigor. Mi objetivo es superar la estandarización educativa mediante el
-                    desarrollo de software propio (Vibecoding) que responda a las necesidades humanas de mis alumnos."
-                </p>
+        <div class="glass-container max-w-6xl">
+            <h2 class="text-4xl font-black text-red-700 mb-10 text-center">Actualización Docente Permanente</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 w-full">
+                <!-- P1 -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
+                    <h4 class="font-black text-lg mb-4 text-red-700">1. Objetivo de actualización permanente</h4>
+                    <p class="text-gray-700 font-medium leading-relaxed italic">"Mi meta es la convergencia tecnológica
+                        crítica. Busco
+                        arquitectar soluciones de IA que no solo automaticen procesos en mis clases, sino que estén
+                        fundamentadas en el rigor. Mi objetivo es superar la estandarización educativa mediante el
+                        desarrollo de software propio (Vibecoding) que responda a las necesidades humanas de mis
+                        alumnos."
+                    </p>
+                </div>
+                <!-- P2 -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
+                    <h4 class="font-black text-lg mb-4 text-gray-700">2. Servicios y herramientas digitales</h4>
+                    <p class="text-gray-700 font-medium leading-relaxed">Mi abanico combina vanguardia y potencia: Comet
+                        AI Browser y
+                        Google Scholar para el rigor, YouTube Premium y Platzi para la curiosidad agresiva. En creación:
+                        Vibecoding con Antigravity, Python y MySQL. Para el día a día: iDoceo, Teams, Mendeley e iCloud
+                        para
+                        que mis archivos me sigan a donde vaya.</p>
+                </div>
+                <!-- P3 -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
+                    <h4 class="font-black text-lg mb-4 text-red-700">3. Organización de la información</h4>
+                    <p class="text-gray-700 font-medium leading-relaxed italic">"No acepto lo que la IA entrega por
+                        simple probabilidad;
+                        interrogo al modelo con Ingeniería de Prompts y valido con Google Scholar. Toda esta 'magia
+                        académica' la segmento en Mendeley y la opero en iDoceo para tener mis calificaciones siempre al
+                        día, sincronizadas entre mi Mac, iPad e iPhone."</p>
+                </div>
+                <!-- P4 -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
+                    <h4 class="font-black text-lg mb-4 text-gray-700">4. Plataforma para portafolio digital</h4>
+                    <p class="text-gray-700 font-medium leading-relaxed">Mi portafolio es evidencia viva: GitHub para
+                        mis 'hijos'
+                        tecnológicos (IberoActivate, Simuladores y Planeadores), y este PLE interactivo donde documento
+                        mi
+                        evolución pedagógica y metodología de creación optimizada.</p>
+                </div>
+                <!-- P5 -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
+                    <h4 class="font-black text-lg mb-4 text-red-700">5. Redes sociales para contacto</h4>
+                    <p class="text-gray-700 font-medium leading-relaxed italic">"Me muevo en comunidades de Vibecoding y
+                        redes
+                        profesionales. Mi comunicación es de transferencia activa: como me enseñó mi mentor, lo que sé
+                        no
+                        sirve si no lo transmito. Comparto mis logros en Instagram y LinkedIn para conectar con quienes
+                        buscan hackear la educación tradicional."</p>
+                </div>
+                <!-- P6 -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
+                    <h4 class="font-black text-lg mb-4 text-gray-700">6. Comunidades de aprendizaje</h4>
+                    <p class="text-gray-700 font-medium leading-relaxed">Lidero talleres donde enseño a mis pares a
+                        pasar de
+                        consumidores a creadores. Uso Padlet y Kahoot para dinamizar, pero mi verdadera comunidad es la
+                        de
+                        'boca en boca' con amigos y colegas a quienes ayudo a automatizar su burocracia para que vuelvan
+                        a
+                        disfrutar la docencia.</p>
+                </div>
             </div>
-            <!-- P2 -->
-            <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
-                <h4 class="font-black text-lg mb-4 text-gray-700">2. Servicios y herramientas digitales</h4>
-                <p class="text-gray-700 leading-relaxed">Mi abanico combina vanguardia y potencia: Comet AI Browser y
-                    Google Scholar para el rigor, YouTube Premium y Platzi para la curiosidad agresiva. En creación:
-                    Vibecoding con Antigravity, Python y MySQL. Para el día a día: iDoceo, Teams, Mendeley e iCloud para
-                    que mis archivos me sigan a donde vaya.</p>
-            </div>
-            <!-- P3 -->
-            <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
-                <h4 class="font-black text-lg mb-4 text-red-700">3. Organización de la información</h4>
-                <p class="text-gray-700 leading-relaxed italic">"No acepto lo que la IA entrega por simple probabilidad;
-                    interrogo al modelo con Ingeniería de Prompts y valido con Google Scholar. Toda esta 'magia
-                    académica' la segmento en Mendeley y la opero en iDoceo para tener mis calificaciones siempre al
-                    día, sincronizadas entre mi Mac, iPad e iPhone."</p>
-            </div>
-            <!-- P4 -->
-            <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
-                <h4 class="font-black text-lg mb-4 text-gray-700">4. Plataforma para portafolio digital</h4>
-                <p class="text-gray-700 leading-relaxed">Mi portafolio es evidencia viva: GitHub para mis 'hijos'
-                    tecnológicos (IberoActivate, Simuladores y Planeadores), y este PLE interactivo donde documento mi
-                    evolución pedagógica y metodología de creación optimizada.</p>
-            </div>
-            <!-- P5 -->
-            <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
-                <h4 class="font-black text-lg mb-4 text-red-700">5. Redes sociales para contacto</h4>
-                <p class="text-gray-700 leading-relaxed italic">"Me muevo en comunidades de Vibecoding y redes
-                    profesionales. Mi comunicación es de transferencia activa: como me enseñó mi mentor, lo que sé no
-                    sirve si no lo transmito. Comparto mis logros en Instagram y LinkedIn para conectar con quienes
-                    buscan hackear la educación tradicional."</p>
-            </div>
-            <!-- P6 -->
-            <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
-                <h4 class="font-black text-lg mb-4 text-gray-700">6. Comunidades de aprendizaje</h4>
-                <p class="text-gray-700 leading-relaxed">Lidero talleres donde enseño a mis pares a pasar de
-                    consumidores a creadores. Uso Padlet y Kahoot para dinamizar, pero mi verdadera comunidad es la de
-                    'boca en boca' con amigos y colegas a quienes ayudo a automatizar su burocracia para que vuelvan a
-                    disfrutar la docencia.</p>
-            </div>
+            <button onclick="nav('portada')"
+                class="mt-12 bg-gray-900 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-black hover:scale-105 transition">VOLVER
+                AL INICIO</button>
         </div>
-        <button onclick="nav('portada')"
-            class="mt-12 bg-gray-900 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-black transition">VOLVER
-            AL INICIO</button>
     </section>
 
     <!-- VENTANA EMERGENTE (MODAL) -->

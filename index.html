@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,78 +9,266 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
     <style>
-        :root { --rojo: #C0392B; --rojo-dark: #922B21; --gris: #F4F7F6; }
-        body { font-family: 'Inter', sans-serif; background: var(--gris); color: #2C3E50; }
-        
+        :root {
+            --rojo: #C0392B;
+            --rojo-dark: #922B21;
+            --gris: #F4F7F6;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--gris);
+            color: #2C3E50;
+        }
+
         /* Animaciones */
-        .slide { display: none; min-height: 100vh; animation: slideIn 0.5s ease-out; }
-        .slide.active { display: flex; flex-direction: column; align-items: center; padding: 40px 20px; }
-        @keyframes slideIn { from { opacity: 0; transform: translateX(50px); } to { opacity: 1; transform: translateX(0); } }
+        .slide {
+            display: none;
+            min-height: 100vh;
+            animation: slideIn 0.5s ease-out;
+        }
+
+        .slide.active {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
 
         /* Mapa Radial */
-        .radial-menu { position: relative; width: 600px; height: 600px; margin: 40px auto; }
+        .radial-menu {
+            position: relative;
+            width: 600px;
+            height: 600px;
+            margin: 40px auto;
+        }
+
         .center-user {
-            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-            width: 140px; height: 140px; background: var(--rojo); color: white;
-            border-radius: 50%; display: flex; flex-direction: column; align-items: center;
-            justify-content: center; z-index: 10; border: 8px solid white; box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 140px;
+            height: 140px;
+            background: var(--rojo);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+            border: 8px solid white;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
         }
+
         .node {
-            position: absolute; width: 110px; height: 110px; background: white;
-            border-radius: 20px; display: flex; flex-direction: column; align-items: center;
-            justify-content: center; cursor: pointer; transition: all 0.3s ease;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.08); border: 2px solid transparent;
+            position: absolute;
+            width: 110px;
+            height: 110px;
+            background: white;
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            border: 2px solid transparent;
         }
-        .node:hover { transform: scale(1.1); border-color: var(--rojo); box-shadow: 0 8px 25px rgba(192,57,43,0.2); }
-        .node i { font-size: 2rem; color: var(--rojo); margin-bottom: 8px; }
-        .node span { font-weight: 700; font-size: 0.8rem; text-transform: uppercase; }
+
+        .node:hover {
+            transform: scale(1.1);
+            border-color: var(--rojo);
+            box-shadow: 0 8px 25px rgba(192, 57, 43, 0.2);
+        }
+
+        .node i {
+            font-size: 2rem;
+            color: var(--rojo);
+            margin-bottom: 8px;
+        }
+
+        .node span {
+            font-weight: 700;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+        }
 
         /* Posiciones Circulares */
-        .pos1 { top: 0; left: 50%; transform: translateX(-50%); }
-        .pos2 { top: 20%; right: 5%; }
-        .pos3 { bottom: 20%; right: 5%; }
-        .pos4 { bottom: 0; left: 50%; transform: translateX(-50%); }
-        .pos5 { bottom: 20%; left: 5%; }
-        .pos6 { top: 20%; left: 5%; }
+        .pos1 {
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .pos2 {
+            top: 20%;
+            right: 5%;
+        }
+
+        .pos3 {
+            bottom: 20%;
+            right: 5%;
+        }
+
+        .pos4 {
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .pos5 {
+            bottom: 20%;
+            left: 5%;
+        }
+
+        .pos6 {
+            top: 20%;
+            left: 5%;
+        }
 
         /* Modal */
-        .modal { 
-            display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
-            background: rgba(0,0,0,0.8); z-index: 100; justify-content: center; align-items: center; 
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 100;
+            justify-content: center;
+            align-items: center;
             backdrop-filter: blur(5px);
         }
-        .modal-content { 
-            background: white; width: 90%; max-width: 600px; padding: 30px; border-radius: 25px; 
-            position: relative; animation: zoomIn 0.3s ease; border-top: 10px solid var(--rojo);
+
+        .modal-content {
+            background: white;
+            width: 90%;
+            max-width: 600px;
+            max-height: 85vh;
+            overflow-y: auto;
+            padding: 30px;
+            border-radius: 25px;
+            position: relative;
+            animation: zoomIn 0.3s ease;
+            border-top: 10px solid var(--rojo);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
         }
-        @keyframes zoomIn { from { transform: scale(0.8); } to { transform: scale(1); } }
-        
-        .tool-tag { background: #eee; padding: 4px 10px; border-radius: 8px; font-size: 0.75rem; margin: 4px; display: inline-block; font-weight: bold; }
+
+        @keyframes zoomIn {
+            from {
+                transform: scale(0.8);
+            }
+
+            to {
+                transform: scale(1);
+            }
+        }
+
+        .tool-tag {
+            background: #eee;
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            margin: 4px;
+            display: inline-block;
+            font-weight: bold;
+        }
     </style>
 </head>
+
 <body>
 
     <!-- PORTADA -->
     <section id="portada" class="slide active">
         <div class="text-center mt-20 max-w-4xl">
             <h1 class="text-7xl font-black text-red-700 mb-4">Mi PLE</h1>
-            <p class="text-2xl text-gray-500 font-light mb-8">José Roberto Mendoza Mendoza</p>
+            <p class="text-3xl text-gray-700 font-bold mb-2">Cultura Digital II</p>
+            <p class="text-xl text-gray-500 font-light mb-8">José Roberto Mendoza Mendoza | 2do Semestre</p>
             <div class="bg-white p-10 rounded-3xl shadow-2xl border-l-[12px] border-red-600 text-left">
                 <p class="text-2xl italic text-gray-700 leading-relaxed">
-                    "No estandarizo la educación; arquitecto soluciones. Imagino el producto, lo valido con rigor y lo programo hasta que existe."
+                    "No estandarizo la educación; arquitecto soluciones. Imagino el producto, lo valido con rigor y lo
+                    programo hasta que existe."
                 </p>
             </div>
-            <button onclick="nav('ecosistema')" class="mt-12 bg-red-600 text-white px-12 py-5 rounded-full text-xl font-black hover:bg-red-800 transition-all shadow-xl">
-                EXPLORAR ECOSISTEMA <i class="fas fa-rocket ml-3"></i>
-            </button>
+            <div class="flex gap-4 justify-center">
+                <button onclick="nav('detalles')"
+                    class="mt-12 bg-gray-900 text-white px-8 py-5 rounded-full text-xl font-black hover:bg-black transition-all shadow-xl">
+                    DATOS ACADÉMICOS <i class="fas fa-file-invoice ml-3"></i>
+                </button>
+                <button onclick="nav('ecosistema')"
+                    class="mt-12 bg-red-600 text-white px-12 py-5 rounded-full text-xl font-black hover:bg-red-800 transition-all shadow-xl">
+                    EXPLORAR ECOSISTEMA <i class="fas fa-rocket ml-3"></i>
+                </button>
+            </div>
         </div>
     </section>
 
+    <!-- DETALLES ACADÉMICOS (REQUISITO MOODLE) -->
+    <section id="detalles" class="slide">
+        <h2 class="text-4xl font-black text-red-700 mb-8 text-center">Contexto y Propósito del PLE</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl w-full">
+            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-red-600">
+                <h3 class="font-black text-xl mb-4 text-red-700 uppercase">Contexto de la Asignatura</h3>
+                <p class="text-gray-700 leading-relaxed text-sm">
+                    <strong>Cultura Digital II</strong> se imparte en modalidad presencial para estudiantes de
+                    bachillerato. El curso busca que los alumnos no solo consuman tecnología, sino que comprendan la
+                    arquitectura detrás de ella, fomentando la ciudadanía digital y el pensamiento computacional
+                    aplicado a la resolución de problemas reales.
+                </p>
+            </div>
+            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-gray-400">
+                <h3 class="font-black text-xl mb-4 text-gray-700 uppercase">Propósito del PLE</h3>
+                <p class="text-gray-700 leading-relaxed text-sm">
+                    Este PLE tiene como propósito articular mis herramientas de <strong>Vibecoding</strong> y gestión
+                    docente para maximizar el tiempo frente a grupo. Busca ser un puente entre la teoría académica y la
+                    práctica técnica, permitiendo una actualización constante que impacte directamente en la calidad de
+                    los recursos que entrego a mis estudiantes.
+                </p>
+            </div>
+            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-red-600">
+                <h3 class="font-black text-xl mb-4 text-red-700 uppercase">Valoración del PLE</h3>
+                <p class="text-gray-700 leading-relaxed text-sm">
+                    La construcción de este PLE me ha permitido mapear mis fortalezas y debilidades digitales. Aporta a
+                    mi práctica docente una estructura clara para el almacenamiento de evidencias y la transferencia de
+                    valor hacia mis colegas, transformando la burocracia en procesos automatizados y eficientes.
+                </p>
+            </div>
+            <div class="bg-white p-8 rounded-3xl shadow-lg border-l-8 border-gray-400">
+                <h3 class="font-black text-xl mb-4 text-gray-700 uppercase">Otros Comentarios</h3>
+                <p class="text-gray-700 leading-relaxed text-sm italic">
+                    "Programar mi propio PLE en lugar de usar plantillas genéricas es una declaración de principios:
+                    como docente de Cultura Digital, predico con el ejemplo de la creación técnica. Este portafolio es
+                    un ente vivo que seguirá creciendo con cada línea de código y cada clase impartida."
+                </p>
+            </div>
+        </div>
+        <div class="mt-10 flex gap-4">
+            <button onclick="nav('portada')" class="text-gray-400 font-bold hover:text-red-600">Volver a Inicio</button>
+            <button onclick="nav('ecosistema')"
+                class="bg-red-600 text-white px-10 py-4 rounded-full font-bold shadow-lg">Ir al Mapa Radial</button>
+        </div>
+    </section>
     <!-- ECOSISTEMA INTERACTIVO -->
     <section id="ecosistema" class="slide">
         <h2 class="text-4xl font-black text-red-700 mb-4 text-center">Mapa de Capacidades Digitales</h2>
         <p class="text-gray-500 mb-10">Toca cada nodo para ver mis herramientas y ejemplos reales</p>
-        
+
         <div class="radial-menu">
             <div class="center-user">
                 <i class="fas fa-user-gear text-4xl mb-2"></i>
@@ -107,11 +296,12 @@
         </div>
 
         <div class="flex gap-6">
-            <button onclick="nav('portada')" class="text-gray-400 font-bold hover:text-red-600">Volver</button>
-            <button onclick="nav('tabla')" class="bg-gray-800 text-white px-10 py-4 rounded-full font-bold shadow-lg">Ver Matriz Completa <i class="fas fa-table ml-2"></i></button>
+            <button onclick="nav('detalles')" class="text-gray-400 font-bold hover:text-red-600">Volver</button>
+            <button onclick="nav('tabla')"
+                class="bg-gray-800 text-white px-10 py-4 rounded-full font-bold shadow-lg">Ver Matriz Completa <i
+                    class="fas fa-table ml-2"></i></button>
         </div>
     </section>
-
     <!-- TABLA COMPLETA -->
     <section id="tabla" class="slide">
         <h2 class="text-4xl font-black text-red-700 mb-8">Matriz de Gestión (Sinóptico)</h2>
@@ -127,27 +317,38 @@
                 </thead>
                 <tbody class="text-sm">
                     <tr class="border-b bg-gray-50">
-                        <td class="p-6 font-black text-red-700">Procesar información</td>
-                        <td class="p-6">Perplexity Pro (Comet), YouTube Premium, Platzi Lives, buscadores tradicionales (Google, Wikipedia), Google Scholar y bibliografía técnica.</td>
-                        <td class="p-6">Búsqueda con Ingeniería de Prompts, curiosidad dirigida por tendencias y filtrado crítico de contenido audiovisual.</td>
-                        <td class="p-6">Automatización de búsqueda en navegadores, visionado de tutoriales, escucha activa de expertos y validación de viabilidad científica vs plausibilidad de IA.</td>
+                        <td class="p-6 font-black text-red-700">Procesar información (Busco)</td>
+                        <td class="p-6">Comet AI Browser, Google Scholar (desde 2009), Perplexity Pro, YouTube Premium,
+                            Platzi, Mendeley y bibliografía técnica.</td>
+                        <td class="p-6">Ingeniería de Prompts, navegación automatizada con asistente de IA, filtrado
+                            crítico de "alucinaciones" y organización de bibliografía académica.</td>
+                        <td class="p-6">Investigación de modelos biomecánicos, búsqueda científica automatizada,
+                            referenciación de fuentes académicas y validación de viabilidad científica.</td>
                     </tr>
                     <tr class="border-b">
-                        <td class="p-6 font-black text-red-700">Reflexionar haciendo</td>
-                        <td class="p-6">Notion, iDoceo, Vibecoding, VS Code (Python/PHP/MySQL), GitHub, iCloud y OneDrive.</td>
-                        <td class="p-6">Síntesis de conceptos mediante prototipado real, organización de flujos de trabajo y estructuración compleja de bases de datos.</td>
-                        <td class="p-6">Creación de apps (IberoActivate), desarrollo de software de Tiro con Arco, diseño de planeaciones docentes personalizadas y gestión de libretas digitales en iDoceo.</td>
+                        <td class="p-6 font-black text-red-700">Reflexionar haciendo (Organizo/Creo)</td>
+                        <td class="p-6">Vibecoding (IDE Antigravity), VS Code, Python/PHP/MySQL, iDoceo (Sincronización
+                            iCloud), Notion, OneNote, iLovePDF y PDF Expert.</td>
+                        <td class="p-6">Prototipado real a punta de prompts, gestión integral de alumnos y
+                            calificaciones, manipulación experta de PDF y estructuración de bases de datos.</td>
+                        <td class="p-6">Desarrollo de IberoActivate, Planeador MCCEMS (anti-burocracia), Simuladores de
+                            admisión, Exámenes interactivos QR y sincronización multi-dispositivo docente.</td>
                     </tr>
                     <tr>
-                        <td class="p-6 font-black text-red-700">Interactuar y compartir</td>
-                        <td class="p-6">Talleres presenciales, Microsoft Teams, Moodle, Padlet, Mentimeter, redes de docentes de bachillerato y comunidades de desarrollo.</td>
-                        <td class="p-6">Diálogo pedagógico profundo, enseñanza de IA generativa, construcción de soluciones institucionales y retroalimentación crítica con pares.</td>
-                        <td class="p-6">Dictado de talleres de planeación con IA, demostración de procesos automatizados a jefes de área y mentoría en cultura digital para docentes.</td>
+                        <td class="p-6 font-black text-red-700">Interactuar y compartir (Colaboro/Comparto)</td>
+                        <td class="p-6">Discord (Tiro con Arco), LinkedIn, Instagram, Microsoft Teams (Ibero/BUAP),
+                            Google Classroom y comunidades de desarrollo.</td>
+                        <td class="p-6">Transferencia activa de valor (legado), diálogo pedagógico profundo, mentoría en
+                            cultura digital, marca personal y comunicación "boca en boca".</td>
+                        <td class="p-6">Dictado de talleres de IA para docentes, gestión de resultados nacionales
+                            (IANSEO), publicación de logros profesionales y creación de activos sociales de salud.</td>
                     </tr>
                 </tbody>
             </table>
         </div>
-        <button onclick="nav('preguntas')" class="mt-10 bg-red-600 text-white px-12 py-4 rounded-full font-black shadow-xl">IR A LAS 6 PREGUNTAS <i class="fas fa-chevron-right ml-2"></i></button>
+        <button onclick="nav('preguntas')"
+            class="mt-10 bg-red-600 text-white px-12 py-4 rounded-full font-black shadow-xl">IR A LAS 6 PREGUNTAS <i
+                class="fas fa-chevron-right ml-2"></i></button>
     </section>
 
     <!-- 6 PREGUNTAS COMPLETAS -->
@@ -157,41 +358,62 @@
             <!-- P1 -->
             <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
                 <h4 class="font-black text-lg mb-4 text-red-700">1. Objetivo de actualización permanente</h4>
-                <p class="text-gray-700 leading-relaxed italic">"Mi meta es la convergencia tecnológica crítica. Busco arquitectar soluciones de IA que no solo automaticen procesos en mis clases de educación física y bachillerato, sino que estén fundamentadas en datos reales. Mi objetivo es superar la estandarización educativa mediante el desarrollo de software propio que responda a las necesidades humanas de mis alumnos."</p>
+                <p class="text-gray-700 leading-relaxed italic">"Mi meta es la convergencia tecnológica crítica. Busco
+                    arquitectar soluciones de IA que no solo automaticen procesos en mis clases, sino que estén
+                    fundamentadas en el rigor. Mi objetivo es superar la estandarización educativa mediante el
+                    desarrollo de software propio (Vibecoding) que responda a las necesidades humanas de mis alumnos."
+                </p>
             </div>
             <!-- P2 -->
             <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
                 <h4 class="font-black text-lg mb-4 text-gray-700">2. Servicios y herramientas digitales</h4>
-                <p class="text-gray-700 leading-relaxed">Mi abanico combina la vanguardia con el rigor: Google Scholar para fuentes académicas, Perplexity Pro para búsquedas automatizadas y YouTube Premium para formación técnica. En IA y Desarrollo: Ingeniería de Prompts, Vibecoding, Python, PHP y MySQL. Gestión e Interacción: Teams, Moodle, Canva, Padlet y Mentimeter; iCloud y OneDrive para el flujo de archivos.</p>
+                <p class="text-gray-700 leading-relaxed">Mi abanico combina vanguardia y potencia: Comet AI Browser y
+                    Google Scholar para el rigor, YouTube Premium y Platzi para la curiosidad agresiva. En creación:
+                    Vibecoding con Antigravity, Python y MySQL. Para el día a día: iDoceo, Teams, Mendeley e iCloud para
+                    que mis archivos me sigan a donde vaya.</p>
             </div>
             <!-- P3 -->
             <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
                 <h4 class="font-black text-lg mb-4 text-red-700">3. Organización de la información</h4>
-                <p class="text-gray-700 leading-relaxed italic">"Aplico un proceso de validación riguroso: no acepto lo que la IA entrega por simple probabilidad; verifico la viabilidad de la información cruzándola con fuentes de Google Scholar. Toda esta información validada la estructuro en iDoceo para el día a día y estoy en proceso de dominar Notion para centralizar este conocimiento como mi sistema operativo personal."</p>
+                <p class="text-gray-700 leading-relaxed italic">"No acepto lo que la IA entrega por simple probabilidad;
+                    interrogo al modelo con Ingeniería de Prompts y valido con Google Scholar. Toda esta 'magia
+                    académica' la segmento en Mendeley y la opero en iDoceo para tener mis calificaciones siempre al
+                    día, sincronizadas entre mi Mac, iPad e iPhone."</p>
             </div>
             <!-- P4 -->
             <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
                 <h4 class="font-black text-lg mb-4 text-gray-700">4. Plataforma para portafolio digital</h4>
-                <p class="text-gray-700 leading-relaxed">Mi portafolio es un ecosistema de evidencia: GitHub para mis desarrollos técnicos (como IberoActivate o aplicaciones de tiro con arco), y Notion para documentar mi metodología pedagógica y la evolución de mis talleres para docentes.</p>
+                <p class="text-gray-700 leading-relaxed">Mi portafolio es evidencia viva: GitHub para mis 'hijos'
+                    tecnológicos (IberoActivate, Simuladores y Planeadores), y este PLE interactivo donde documento mi
+                    evolución pedagógica y metodología de creación optimizada.</p>
             </div>
             <!-- P5 -->
             <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-red-600">
                 <h4 class="font-black text-lg mb-4 text-red-700">5. Redes sociales para contacto</h4>
-                <p class="text-gray-700 leading-relaxed italic">"Me conecto a través de comunidades de Vibecoding y redes de expertos en IA como Freddy Vega. Mi comunicación es de transferencia activa: comparto sabiduría y resuelvo problemas técnicos de mis colegas de bachillerato y universidades (Ibero/BUAP), utilizando estas redes como canales de mentoría."</p>
+                <p class="text-gray-700 leading-relaxed italic">"Me muevo en comunidades de Vibecoding y redes
+                    profesionales. Mi comunicación es de transferencia activa: como me enseñó mi mentor, lo que sé no
+                    sirve si no lo transmito. Comparto mis logros en Instagram y LinkedIn para conectar con quienes
+                    buscan hackear la educación tradicional."</p>
             </div>
             <!-- P6 -->
             <div class="bg-white p-8 rounded-3xl shadow-xl border-t-8 border-gray-400">
                 <h4 class="font-black text-lg mb-4 text-gray-700">6. Comunidades de aprendizaje</h4>
-                <p class="text-gray-700 leading-relaxed">Lidero y participo en comunidades de capacitación docente. Utilizo Padlet y Mentimeter para dinamizar el aprendizaje colectivo en mis talleres. Mi práctica se centra en enseñar a otros maestros a no ser solo consumidores de tecnología, sino creadores críticos que validen y apliquen la IA con sentido pedagógico.</p>
+                <p class="text-gray-700 leading-relaxed">Lidero talleres donde enseño a mis pares a pasar de
+                    consumidores a creadores. Uso Padlet y Kahoot para dinamizar, pero mi verdadera comunidad es la de
+                    'boca en boca' con amigos y colegas a quienes ayudo a automatizar su burocracia para que vuelvan a
+                    disfrutar la docencia.</p>
             </div>
         </div>
-        <button onclick="nav('portada')" class="mt-12 bg-gray-900 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-black transition">VOLVER AL INICIO</button>
+        <button onclick="nav('portada')"
+            class="mt-12 bg-gray-900 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-black transition">VOLVER
+            AL INICIO</button>
     </section>
 
     <!-- VENTANA EMERGENTE (MODAL) -->
     <div id="modal" class="modal" onclick="closeModal()">
         <div class="modal-content" onclick="event.stopPropagation()">
-            <button class="absolute top-5 right-5 text-gray-400 hover:text-red-600 text-2xl" onclick="closeModal()">&times;</button>
+            <button class="absolute top-5 right-5 text-gray-400 hover:text-red-600 text-2xl"
+                onclick="closeModal()">&times;</button>
             <div id="modal-body">
                 <!-- Se llena con JS -->
             </div>
@@ -203,57 +425,207 @@
         function nav(id) {
             document.querySelectorAll('.slide').forEach(s => s.classList.remove('active'));
             document.getElementById(id).classList.add('active');
-            window.scrollTo(0,0);
+            window.scrollTo(0, 0);
         }
 
         // Datos del Ecosistema
         const info = {
             busco: {
                 title: "Búsqueda y Verificación",
-                tools: ["Google Scholar", "Perplexity Pro", "YouTube Premium", "Platzi"],
+                tools: ["Google Scholar", "Perplexity Pro", "YouTube Premium", "Platzi", "Comet AI Browser"],
                 desc: "Mi proceso no es pasivo. Utilizo Ingeniería de Prompts para interrogar a la IA y Google Scholar para verificar que la respuesta no sea una alucinación probabilística.",
+                sections: [
+                    {
+                        image: "google_scholar.png",
+                        text: "Desde la preparatoria 2009 entendí la magia de Google Scholar y cómo me daba libros, citas y datos académicos. Acceso a revistas y artículos, todo lo que haga que mis búsquedas sean de fuentes referenciadas."
+                    },
+                    {
+                        image: "youtube_premium.png",
+                        text: "Con mi suscripción como estudiante uso el beneficio de no tener comerciales y poder ver conferencias, talleres, divulgaciones, canales de ciencia y educación."
+                    },
+                    {
+                        image: "platzi.png",
+                        text: "Platzi como ese sitio que me ayudó a tener curiosidad intelectual agresiva. Ayudarme a nunca parar de aprender y entender tendencias de lo que debo aprender para que mi carrera profesional explote. Desde crear un CV, hablar en público, habilidades blandas, programación y clases en vivo que me mantienen al día de la tecnología educativa."
+                    },
+                    {
+                        image: "comet_browser.png",
+                        text: "Mi navegador favorito Comet. Tener un asistente de inteligencia artificial en el navegador que pago para que automatice mi navegación, trabaje en búsquedas científicas y que al preguntarle en prompts me ayude a encontrar en internet por mí, llevarme a sitios que me hubiera tardado mucho en encontrar."
+                    }
+                ],
                 ex: "Investigación de modelos biomecánicos para arquería validados científicamente."
             },
             organizo: {
                 title: "Estructura y Cerebro Digital",
-                tools: ["Notion", "iDoceo", "iCloud", "OneDrive"],
+                tools: ["OneNote", "Notion", "iDoceo", "iCloud", "OneDrive", "Office 365", "Mendeley"],
                 desc: "Organizo mi vida docente en iDoceo para el seguimiento de alumnos y estoy migrando mi 'OS Personal' a Notion para conectar mis códigos con mis planeaciones.",
+                sections: [
+                    {
+                        image: "onenote.png",
+                        text: "OneNote en la universidad me permitía crear libretas donde podía hacer anotaciones, ir creando mis proyectos, mis cuadernos por asignaturas, ir guardando pdfs, dibujos, esquemas, etc. También dictar y usarlo para ir guardando toda la clase del profesor."
+                    },
+                    {
+                        image: "notion.png",
+                        text: "Aunque no la he terminado de entender, quiero que Notion sea mi nuevo organizador de proyectos y pueda reemplazar a OneNote."
+                    },
+                    {
+                        image: "idoceo.png",
+                        text: "Es mi herramienta mágica de profesor. Me permite estar al corriente de cada alumno, tareas, trabajos y automáticamente me ayuda a tener las calificaciones al día, entregas, trabajo, incluso guardar sus áreas. Conectarlo con Google Classroom, vincularlo con mi iCloud para usarlo tanto en mi iPhone, iPad o Mac y que todo esté sincronizado si un día no llevo algún dispositivo."
+                    },
+                    {
+                        image: "mendeley.png",
+                        text: "Mendeley es esta herramienta que me ayuda a mantener organizados los documentos importantes en mis trabajos académicos para no perderlos de vista y poder referenciarlos fácilmente."
+                    },
+                    {
+                        image: "onedrive.png",
+                        text: "Me encanta tener acceso a mis cuentas universitarias (BUAP e Ibero) en OneDrive. Puedo organizar mis documentos desde preparatoria, universidad y mis primeros años de trabajo, hasta actualmente en la Ibero, donde organizo carpetas de trabajo por año y las comparto fácilmente en Teams."
+                    },
+                    {
+                        image: "office365.png",
+                        text: "Tener vinculado OneDrive en mis herramientas de ofimática de Office 365 me da paz. Poder cambiar entre mi cuenta personal e Ibero y ver mis archivos recientes en su lugar es invaluable."
+                    }
+                ],
                 ex: "Diseño de base de datos en Notion para seguimiento de proyectos de Cultura Digital."
             },
             creo: {
                 title: "Vibecoding y Desarrollo",
-                tools: ["Python", "PHP", "MySQL", "VS Code"],
-                desc: "Aquí es donde materializo mis ideas. Programo software que resuelve problemas reales de mi entorno laboral.",
+                tools: ["Python", "PHP", "MySQL", "VS Code", "iLovePDF", "PDF Expert", "Padlet", "Kahoot", "Google Antigravity"],
+                desc: "Aquí es donde materializo mis ideas. Más allá de crear documentación, presentaciones y hojas de cálculo, programo software que resuelve problemas reales de mi entorno laboral.",
+                sections: [
+                    {
+                        image: "ilovepdf.png",
+                        text: "Me gusta saber editar PDF que son muy complicados de editar. Uso herramientas web como iLovePDF que me permite unir PDF, separar PDF, comprimir PDF, convertir documentos Office a PDF, PDF a JPG y JPG a PDF."
+                    },
+                    {
+                        image: "pdfexpert.png",
+                        text: "Para hacerle lo que quiera a mis PDFs en mi iPhone y Mac uso PDF Expert. Ahí firmo mis documentos, acomodo páginas, agrego, organizo... es una joya."
+                    },
+                    {
+                        image: "padlet.png",
+                        text: "Gracias a la Ibero conocí herramientas como Padlet. Tener tableros interactivos donde todos participan y ponen sus avances, opiniones o guardan sus pensamientos de la clase."
+                    },
+                    {
+                        image: "kahoot.png",
+                        text: "Kahoot para crear juegos y participaciones interactivas. Lo único que no me gustó son los límites, por lo cual me he metido a la industria del Vibecoding."
+                    },
+                    {
+                        image: "google_antigravity.png",
+                        text: "Google Antigravity, mi espacio de creación optimizada. Desde aquí he creado mis propios juegos a punta de prompts. He realizado exámenes a mis alumnos donde escanean el código QR y mágicamente tienen acceso a mi sitio donde almaceno exámenes, encuestas y juegos, todo a punta de programación."
+                    }
+                ],
                 ex: "App IberoActivate: Una solución real de salud y pausas activas para la comunidad universitaria."
             },
             colaboro: {
                 title: "Colaboración Institucional",
-                tools: ["MS Teams", "Moodle", "Padlet"],
-                desc: "Uso las plataformas oficiales pero las potencio con herramientas dinámicas de participación activa en tiempo real.",
+                tools: ["MS Teams", "Moodle", "Padlet", "Discord", "LinkedIn", "Facebook", "Google Classroom", "Zoom"],
+                desc: "Uso las plataformas oficiales pero las potencio con herramientas dinámicas de participación activa en tiempo real y redes de contacto profesional.",
+                sections: [
+                    {
+                        image: "discord.png",
+                        text: "Discord es mi forma de trabajo eficiente para mis equipos de tiro con arco. Publicamos los próximos eventos nacionales, documentación y backups de los eventos gestionados por la comisión nacional de resultados que usamos la plataforma IANSEO."
+                    },
+                    {
+                        image: "teams.png",
+                        text: "Microsoft Teams es la gran herramienta colaborativa de las universidades. Me gustan los grupos, los canales, las publicaciones y cómo se integra con OneDrive, las videollamadas y el calendario. Muy completa."
+                    },
+                    {
+                        image: "linkedin.png",
+                        text: "LinkedIn es mi espacio profesional donde gestiono mi marca personal e intento conectar con personas que tengan mis intereses profesionales."
+                    },
+                    {
+                        image: "facebook.png",
+                        text: "Facebook Groups para compartir documentos, videos y gustos educativos. Me gusta que el algoritmo sepa que me gustan temas tecnológicos, de reparación, de programación y deportivos."
+                    },
+                    {
+                        image: "google_classroom.png",
+                        text: "Para canales no universitarios, como mis clases de bachillerato de la SEP, uso toda la plataforma gratuita de Google: Classroom, Drive y sus herramientas de ofimática colaborativas para que mis alumnos trabajen en equipo desde herramientas completamente gratuitas."
+                    },
+                    {
+                        image: "zoom.png",
+                        text: "Zoom pues tuvo su gran pico en pandemia pero ya casi no lo uso porque sigue dando límites de tiempo."
+                    }
+                ],
                 ex: "Manejo de grupos masivos en la BUAP y la Ibero mediante dashboards compartidos."
             },
             comparto: {
                 title: "Transferencia de Valor",
-                tools: ["Mentimeter", "Talleres Presenciales", "WhatsApp"],
-                desc: "Mi meta es que otros docentes aprendan a usar la IA. Dicto talleres donde demuestro procesos automatizados para ahorrar tiempo.",
-                ex: "Taller de Planeación con IA para maestros de educación física de zona escolar."
+                tools: ["Mentimeter", "Instagram", "LinkedIn", "OneDrive", "YouTube", "WhatsApp", "Talleres Presenciales"],
+                desc: "Mi meta es la transferencia activa. Como me enseñó mi entrenador, el conocimiento en mi cerebro no sirve si no lo comparto. Por eso, dicto talleres de IA para profesores y busco crear plataformas que maximicen tareas específicas: desde la labor docente hasta soluciones para formadores de pausas activas y entrenadores de salud.",
+                sections: [
+                    {
+                        image: "instagram.png",
+                        text: "Me gusta compartir historias y publicaciones de mis logros y de las experiencias que me han marcado en mis redes sociales personales como Instagram."
+                    },
+                    {
+                        image: "linkedin.png",
+                        text: "LinkedIn es donde comparto mis logros académicos y profesionales, mis experiencias y las plataformas que he creado para la comunidad."
+                    },
+                    {
+                        image: "onedrive.png",
+                        text: "Uso mi Drive para compartir documentos técnicos y pedagógicos que les pueden servir a los demás en su práctica diaria."
+                    },
+                    {
+                        image: "youtube_premium.png",
+                        text: "Aún no me animo del todo, pero sé que hacer videos compartiendo lo que sé en YouTube sería una herramienta de transferencia bastante útil para llegar a más personas."
+                    }
+                ],
+                ex: "Talleres de IA para docentes y desarrollo de plataformas para entrenamiento de baile fitness con personal de la BUAP que padece enfermedades crónico-degenerativas."
             },
             publico: {
                 title: "Publicación y Evidencia",
-                tools: ["GitHub", "GitHub Pages", "Notion Public"],
-                desc: "Mi trabajo es público. El código de mis apps reside en GitHub como prueba de mi capacidad técnica.",
-                ex: "Alojamiento de este portafolio y código de sistemas de tiro con arco en repositorios abiertos."
+                tools: ["GitHub", "GitHub Pages", "Notion Public", "Netlify", "Vercel"],
+                desc: "Mi foco actual es el despliegue de plataformas con impacto real. No solo creo el código, sino que busco que cada herramienta esté disponible para transformar la experiencia de usuarios y docentes.",
+                sections: [
+                    {
+                        image: "ibero_activate.png",
+                        text: "IBERO ACTIVATE: App que me ayuda a pasar lista, generar reportes, estadísticas, bases de datos y automatización muy completa. Ayuda a generar assets con valor para cada empleado y área, colocando las pausas activas como un sistema inteligente."
+                    },
+                    {
+                        image: "mccems_planner.png",
+                        text: "Sistema inteligente de creación de planes de clase de acuerdo a MCCEMS. Su tarea principal es ayudar con la burocracia que no deja al docente enfocarse en lo importante: los alumnos."
+                    },
+                    {
+                        image: "admission_simulator.png",
+                        text: "Simulador de examen de admisión: Hago que mis alumnos practiquen su próximo examen de admisión a la universidad sin gastar en plataformas y probándose las veces que sean necesarias."
+                    },
+                    {
+                        image: "interactive_exam.png",
+                        text: "Crear mi propio examen interactivo donde los alumnos contestan desde sus celulares. Es muy entretenido, lleno de emoción y aprendizaje. Lo mejor: solo pongo las nuevas preguntas a mi IDE Antigravity y las transforma en exámenes divertidos."
+                    }
+                ],
+                ex: "Alojamiento de este portafolio y despliegue de soluciones institucionales en repositorios abiertos y servidores cloud."
             }
         };
 
         function openModal(key) {
             const data = info[key];
             let toolsHtml = data.tools.map(t => `<span class="tool-tag">${t}</span>`).join('');
+
+            let contentHtml = '';
+
+            // Check for sections (multiple images + text)
+            if (data.sections) {
+                contentHtml += `<p class="text-gray-700 mb-6 text-lg"><strong>Cómo lo hago:</strong> ${data.desc}</p>`;
+                data.sections.forEach(section => {
+                    contentHtml += `
+                        <div class="mb-8">
+                            <img src="${section.image}" class="w-full rounded-xl shadow-lg border border-gray-200 mb-4 object-cover">
+                            <p class="text-gray-600 text-sm italic border-l-4 border-red-400 pl-4 py-1">${section.text}</p>
+                        </div>
+                    `;
+                });
+            } else {
+                // Default legacy styling
+                contentHtml += `<p class="text-gray-700 mb-4 text-lg"><strong>Cómo lo hago:</strong> ${data.desc}</p>`;
+                if (data.img) {
+                    contentHtml += `<img src="${data.img}" alt="Ejemplo de ${data.title}" class="w-full rounded-xl shadow-lg border border-gray-200 mt-4 mb-4 object-cover">`;
+                }
+            }
+
             document.getElementById('modal-body').innerHTML = `
                 <h2 class="text-3xl font-black text-red-700 mb-4">${data.title}</h2>
                 <div class="mb-4">${toolsHtml}</div>
-                <p class="text-gray-700 mb-4 text-lg"><strong>Cómo lo hago:</strong> ${data.desc}</p>
-                <div class="bg-red-50 p-4 rounded-xl border-l-4 border-red-600">
+                ${contentHtml}
+                <div class="bg-red-50 p-4 rounded-xl border-l-4 border-red-600 mt-6">
                     <p class="text-sm text-red-800"><strong>Ejemplo Real:</strong> ${data.ex}</p>
                 </div>
             `;
@@ -265,4 +637,5 @@
         }
     </script>
 </body>
+
 </html>

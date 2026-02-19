@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia de la Educación en México - La Odisea Liberal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #8E44AD;
+            --secondary: #2C3E50;
+            --accent: #E67E22;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: #0a0a0a;
+            color: white;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .serif {
+            font-family: 'Playfair Display', serif;
+        }
+
+        /* Background Cinematic */
+        #bg-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url('mex_history_edu_bg.png');
+            background-size: cover;
+            background-position: center;
+            z-index: -1;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(25px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 40px;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.6);
+            transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .glass-card:hover {
+            background: rgba(255, 255, 255, 0.05);
+            border-color: var(--accent);
+            transform: scale(1.02);
+        }
+
+        /* Timeline Logic */
+        .timeline-container {
+            position: relative;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 100px 20px;
+        }
+
+        .timeline-line {
+            position: absolute;
+            left: 50%;
+            top: 200px;
+            bottom: 200px;
+            width: 2px;
+            background: linear-gradient(to bottom, transparent, rgba(230, 126, 34, 0.5), rgba(230, 126, 34, 0.5), transparent);
+            transform: translateX(-50%);
+        }
+
+        .timeline-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 200px;
+            position: relative;
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all 1s ease-out;
+        }
+
+        .timeline-item.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .timeline-date {
+            font-size: 5rem;
+            font-weight: 900;
+            color: var(--accent);
+            margin-bottom: -20px;
+            z-index: 1;
+            letter-spacing: -5px;
+            opacity: 0.8;
+            font-family: 'Playfair Display', serif;
+        }
+
+        .concept-tag {
+            background: var(--accent);
+            color: black;
+            padding: 5px 20px;
+            border-radius: 50px;
+            font-weight: 800;
+            text-transform: uppercase;
+            font-size: 0.7rem;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+        }
+
+        .speech-bubble {
+            max-width: 700px;
+            padding: 50px;
+            text-align: center;
+        }
+
+        .quote {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 1.5rem;
+            color: #bdc3c7;
+            margin-bottom: 30px;
+            line-height: 1.4;
+        }
+
+        .law-info {
+            font-size: 0.8rem;
+            color: #7f8c8d;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        /* Final Talk Section */
+        .ted-section {
+            background: linear-gradient(to bottom, transparent, #1a1a1a);
+            padding: 150px 20px;
+        }
+
+        .btn-premium {
+            background: var(--accent);
+            color: black;
+            padding: 20px 50px;
+            border-radius: 100px;
+            font-weight: 900;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 30px rgba(230, 126, 34, 0.3);
+        }
+
+        .btn-premium:hover {
+            transform: scale(1.1);
+            box-shadow: 0 15px 40px rgba(230, 126, 34, 0.5);
+        }
+
+        @media (max-width: 768px) {
+            .timeline-date {
+                font-size: 3rem;
+            }
+
+            .speech-bubble {
+                padding: 30px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="bg-canvas"></div>
+
+    <!-- HERO / INTRO -->
+    <header class="min-h-screen flex flex-col items-center justify-center text-center px-6 relative">
+        <div class="mb-6 concept-tag">Historia de la Educación en México</div>
+        <h1 class="serif text-7xl md:text-9xl font-black mb-8 leading-tight">
+            De la Oscuridad <br> <span class="text-orange-500">a la Ciudadanía</span>
+        </h1>
+        <p class="text-xl md:text-2xl text-gray-400 max-w-3xl font-light leading-relaxed mb-12">
+            No es solo una lista de fechas. Es la historia de cómo un país decidió dejar de "salvar almas" para empezar
+            a "formar ciudadanos". Es la odisea de la razón sobre el dogma.
+        </p>
+        <div class="flex flex-wrap justify-center gap-6">
+            <button onclick="window.scrollTo({top: window.innerHeight, behavior: 'smooth'})" class="btn-premium">
+                COMENZAR EL RECORRIDO <i class="fas fa-chevron-down ml-2"></i>
+            </button>
+            <button onclick="downloadPDF()"
+                class="bg-white/10 hover:bg-white/20 text-white px-8 py-4 rounded-full font-bold border border-white/20 transition-all flex items-center gap-3">
+                <i class="fas fa-file-pdf"></i> DESCARGAR MEMORIA PDF
+            </button>
+        </div>
+
+        <div class="absolute bottom-10 animate-bounce text-gray-500">
+            <i class="fas fa-mouse text-2xl"></i>
+        </div>
+    </header>
+
+    <div id="timeline-body">
+        <div class="timeline-container">
+            <div class="timeline-line"></div>
+
+            <!-- ACTO 1 -->
+            <div class="timeline-item">
+                <div class="timeline-date">1821</div>
+                <div class="concept-tag">El Sueño de la Soberanía</div>
+                <div class="glass-card speech-bubble">
+                    <p class="quote">"La independencia no servía de nada si la mente seguía encadenada."</p>
+                    <p class="text-lg leading-relaxed text-gray-200">
+                        Tras siglos de control eclesiástico, México necesitaba una identidad. El <strong>Reglamento de
+                            1821</strong> propuso lo impensable: que el Estado, y no la Iglesia, debía coordinar el
+                        conocimiento. Fue el despertar de la <strong>Gratuidad y Uniformidad</strong>.
+                    </p>
+                    <div class="law-info">
+                        <i class="fas fa-landmark"></i> Instrumento: Reglamento Provisorio de Instrucción Pública
+                    </div>
+                </div>
+            </div>
+
+            <!-- ACTO 2 -->
+            <div class="timeline-item">
+                <div class="timeline-date">1833</div>
+                <div class="concept-tag">La Ruptura con el Pasado</div>
+                <div class="glass-card speech-bubble">
+                    <p class="quote">"Para que la libertad exista, el maestro debe ser la autoridad del aula."</p>
+                    <p class="text-lg leading-relaxed text-gray-200">
+                        Valentín Gómez Farías entendió que el monopolio religioso frenaba el progreso. Al suprimir la
+                        Real y Pontificia Universidad, no solo cerró un edificio; abrió las puertas a las
+                        <strong>Escuelas Normales</strong>. La educación se convirtió en una profesión oficial.
+                    </p>
+                    <div class="law-info">
+                        <i class="fas fa-balance-scale"></i> Hito: Creación de la Dirección General de Instrucción
+                        Pública
+                    </div>
+                </div>
+            </div>
+
+            <!-- ACTO 3 -->
+            <div class="timeline-item">
+                <div class="timeline-date">1857</div>
+                <div class="concept-tag">La Ley del Hombre</div>
+                <div class="glass-card speech-bubble">
+                    <p class="quote">"La enseñanza debe ser libre, como libre es el pensamiento."</p>
+                    <p class="text-lg leading-relaxed text-gray-200">
+                        La <strong>Constitución del 57</strong> elevó la <strong>Libertad de Enseñanza</strong> a rango
+                        de derecho humano. Fue el grito desesperado de un país que quería que sus hijos aprendieran a
+                        pensar por sí mismos, lejos de la intervención de los fueros y el clero.
+                    </p>
+                    <div class="law-info">
+                        <i class="fas fa-scroll"></i> Regulación: Artículo 3° Constitucional
+                    </div>
+                </div>
+            </div>
+
+            <!-- ACTO 4 -->
+            <div class="timeline-item">
+                <div class="timeline-date">1861</div>
+                <div class="concept-tag">El Deber del Estado</div>
+                <div class="glass-card speech-bubble">
+                    <p class="quote">"Donde haya un niño, debe haber un Estado que lo enseñe."</p>
+                    <p class="text-lg leading-relaxed text-gray-200">
+                        Juárez, en plena reconstrucción nacional, decretó la <strong>Obligatoriedad</strong>. La
+                        educación primaria dejó de ser un privilegio de las ciudades para ser una inspección federal. El
+                        Estado asumió el rol de educador protector de la infancia.
+                    </p>
+                    <div class="law-info">
+                        <i class="fas fa-shield-alt"></i> Ley: Decreto sobre Instrucción Pública de 1861
+                    </div>
+                </div>
+            </div>
+
+            <!-- ACTO 5 -->
+            <div class="timeline-item">
+                <div class="timeline-date">1867</div>
+                <div class="concept-tag">La Revolución Científica</div>
+                <div class="glass-card speech-bubble">
+                    <p class="quote">"Amor, Orden y Progreso: la ciencia sobre el dogma."</p>
+                    <p class="text-lg leading-relaxed text-gray-200">
+                        Gabino Barreda importó el <strong>Positivismo</strong>. La Escuela Nacional Preparatoria nació
+                        como el semillero de un "nuevo México". Se excluyó la religión de los planes oficiales para dar
+                        paso a la física, la astronomía y la lógica.
+                    </p>
+                    <div class="law-info">
+                        <i class="fas fa-microscope"></i> Regulación: Ley Orgánica de Instrucción Pública
+                    </div>
+                </div>
+            </div>
+
+            <!-- ACTO 6 -->
+            <div class="timeline-item">
+                <div class="timeline-date">1869</div>
+                <div class="concept-tag">Cerrando el Círculo</div>
+                <div class="glass-card speech-bubble">
+                    <p class="quote">"Una nación no progresa si deja atrás a la mitad de su población."</p>
+                    <p class="text-lg leading-relaxed text-gray-200">
+                        La Reforma de 1869 no solo consolidó la laicidad; dio el paso histórico hacia la
+                        <strong>Educación Femenina</strong> profesional. Reconocer el derecho de la mujer a la
+                        instrucción fue la innovación liberal que humanizó el sistema educativo.
+                    </p>
+                    <div class="law-info">
+                        <i class="fas fa-venus"></i> Innovación: Creación de la Escuela Secundaria para Señoritas
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- TED TALK SECTION / MESSAGE -->
+    <section class="ted-section text-center px-6">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="serif text-5xl md:text-7xl mb-12 font-black leading-tight">¿Por qué esto <br> <span
+                    class="text-orange-500">importa hoy?</span></h2>
+            <div class="text-xl md:text-2xl text-gray-300 leading-relaxed space-y-8 font-light italic">
+                <p>
+                    "Hemos visto cómo México pasó de la oscuridad del dogma a la luz de la razón. Pero esta línea del
+                    tiempo no es el pasado, es el cimiento de nuestro presente."
+                </p>
+                <p>
+                    "Cada vez que un niño entra a una escuela pública, gratuita y laica, Benito Juárez está ahí. Cada
+                    vez que un profesor se prepara para transformar una vida, Gabino Barreda está ahí."
+                </p>
+                <p>
+                    "La educación no es solo impartir saberes; es el acto más radical de libertad que una nación puede
+                    ejercer. Nuestra tarea no terminó en 1877; nuestra tarea es proteger este legado para que nunca más
+                    la mente de un mexicano vuelva a estar encadenada."
+                </p>
+            </div>
+
+            <div class="mt-20 flex flex-col items-center">
+                <div class="w-24 h-1 bg-orange-500 mb-8"></div>
+                <p class="text-gray-500 uppercase tracking-widest font-black text-sm">Fin del Mensaje</p>
+                <p class="text-white mt-2 font-bold opacity-80 serif text-xl">Historia de la Educación en México</p>
+            </div>
+
+            <a href="index.html"
+                class="inline-block mt-20 text-orange-500 hover:text-orange-300 font-black tracking-widest text-sm uppercase transition-all">
+                <i class="fas fa-arrow-left mr-2"></i> Volver al Portal Principal
+            </a>
+        </div>
+    </section>
+
+    <!-- BIBLIOGRAPHY -->
+    <section class="py-20 bg-black/80 px-6">
+        <div class="max-w-4xl mx-auto glass-card p-10 border-white/5">
+            <h3 class="text-2xl font-bold mb-8 text-orange-500 uppercase tracking-widest">Fuentes Históricas y
+                Referencias</h3>
+            <ul class="space-y-4 text-sm text-gray-400 font-light list-none">
+                <li class="border-b border-white/10 pb-4"><strong class="text-white">Vázquez, J. Z. (1970).</strong>
+                    Nacionalismo y educación en México. El Colegio de México. Capítulo 6: La Reforma.</li>
+                <li class="border-b border-white/10 pb-4"><strong class="text-white">Constitución de 1857.</strong>
+                    Diario Oficial de la Nación. México.</li>
+                <li class="border-b border-white/10 pb-4"><strong class="text-white">Ley Orgánica de 1867.</strong>
+                    Ministerio de Instrucción Pública. Archivo Histórico.</li>
+                <li class="border-b border-white/10 pb-4"><strong class="text-white">Análisis de Estructuras
+                        Educativas.</strong> Repositorio de Investigación Histórica (México).</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center text-gray-600 text-xs uppercase tracking-widest border-t border-white/5 bg-black">
+        © 2026 - Investigación Histórica | La Odisea Liberal de México
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script>
+        // Reveal on scroll
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) entry.target.classList.add('visible');
+            });
+        }, { threshold: 0.2 });
+
+        document.querySelectorAll('.timeline-item').forEach(el => observer.observe(el));
+
+        // PDF Logic
+        function downloadPDF() {
+            const element = document.getElementById('timeline-body');
+            const opt = {
+                margin: 0,
+                filename: 'Odisea_Educativa_Mexico.pdf',
+                image: { type: 'jpeg', quality: 1.0 },
+                html2canvas: { scale: 1.5, useCORS: true, backgroundColor: '#000000' },
+                jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+            };
+
+            const btn = event.target.closest('button');
+            const originalText = btn.innerHTML;
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> GENERANDO...';
+
+            html2pdf().from(element).set(opt).save().then(() => {
+                btn.innerHTML = originalText;
+            });
+        }
+    </script>
+</body>
+
+</html>

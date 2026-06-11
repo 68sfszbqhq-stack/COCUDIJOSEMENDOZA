@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagrama de Procesos de Comunicación - Cultura Digital II</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --rojo: #C0392B;
+            --rojo-light: #E74C3C;
+            --rojo-dark: #922B21;
+            --oscuro: #121214;
+            --card-bg: rgba(26, 26, 30, 0.65);
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: linear-gradient(135deg, #1e0c0c 0%, #111116 100%);
+            color: #f3f4f6;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .glass-card {
+            background: var(--card-bg);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+
+        .glass-card:hover {
+            border-color: rgba(192, 57, 43, 0.4);
+            box-shadow: 0 30px 60px rgba(192, 57, 43, 0.15);
+        }
+
+        /* SVG Glow and Animation */
+        .flow-line {
+            stroke-dasharray: 8;
+            animation: dash 30s linear infinite;
+            transition: stroke 0.3s ease, stroke-width 0.3s ease;
+        }
+
+        .flow-line.active {
+            stroke: var(--rojo-light);
+            stroke-width: 3.5;
+            filter: drop-shadow(0px 0px 8px rgba(231, 76, 60, 0.8));
+            animation: dash 12s linear infinite;
+        }
+
+        @keyframes dash {
+            to {
+                stroke-dashoffset: -1000;
+            }
+        }
+
+        .interactive-node {
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .interactive-node:hover {
+            transform: scale(1.08);
+        }
+
+        /* Active highlight for nodes */
+        .interactive-node.active rect,
+        .interactive-node.active circle {
+            fill: #C0392B !important;
+            stroke: #E74C3C !important;
+            filter: drop-shadow(0px 0px 12px rgba(231, 76, 60, 0.6));
+        }
+
+        .interactive-node.active text {
+            fill: #ffffff !important;
+            font-weight: bold;
+        }
+
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #111116;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #4a2828;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #C0392B;
+        }
+    </style>
+</head>
+
+<body class="flex flex-col min-h-screen">
+
+    <!-- HEADER / NAVIGATION -->
+    <header class="w-full px-6 py-6 max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 z-10">
+        <div class="flex items-center gap-3">
+            <div class="w-12 h-12 rounded-2xl bg-red-700 flex items-center justify-center shadow-lg shadow-red-700/30">
+                <i class="fas fa-circle-nodes text-white text-xl"></i>
+            </div>
+            <div>
+                <h1 class="text-xl font-black uppercase tracking-wider text-red-500">Cultura Digital II</h1>
+                <p class="text-xs text-gray-400 font-semibold">Diagrama de Comunicación Docente</p>
+            </div>
+        </div>
+        <div class="flex gap-4">
+            <a href="index.html" class="bg-white/5 hover:bg-white/10 text-white px-6 py-3 rounded-full font-bold border border-white/10 transition-all flex items-center gap-2 hover:scale-105">
+                <i class="fas fa-arrow-left text-red-500"></i> Volver a Mi PLE
+            </a>
+            <button onclick="window.print()" class="bg-red-700 hover:bg-red-800 text-white px-6 py-3 rounded-full font-bold shadow-lg shadow-red-700/20 transition-all flex items-center gap-2 hover:scale-105">
+                <i class="fas fa-print"></i> Imprimir Diagrama
+            </button>
+        </div>
+    </header>
+
+    <!-- MAIN BODY -->
+    <main class="flex-grow w-full max-w-7xl mx-auto px-6 py-8 grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+        
+        <!-- INTRO & MAP PANEL -->
+        <div class="lg:col-span-8 flex flex-col gap-6">
+            
+            <!-- Description Card -->
+            <div class="glass-card p-6 md:p-8 border-l-[10px] border-red-700">
+                <h2 class="text-3xl font-black text-white mb-3">Canales de Comunicación en el Aula</h2>
+                <p class="text-gray-300 leading-relaxed text-sm md:text-base">
+                    Gestión de flujos de información de la asignatura coordinados por el <strong>Profesor José Roberto Mendoza Mendoza</strong>. 
+                    Este mapa ilustra la interacción entre estudiantes, padres de familia, tutores y directivos utilizando herramientas síncronas y asíncronas para resolver dudas, entregar proyectos e informar eventos en clase.
+                </p>
+                <div class="mt-4 flex flex-wrap gap-2">
+                    <span class="text-xs font-semibold bg-red-950/80 text-red-400 border border-red-900/50 px-3 py-1 rounded-full"><i class="fab fa-whatsapp mr-1 text-green-500"></i> WhatsApp</span>
+                    <span class="text-xs font-semibold bg-blue-950/80 text-blue-400 border border-blue-900/50 px-3 py-1 rounded-full"><i class="fab fa-google-drive mr-1 text-yellow-500"></i> Google Drive</span>
+                    <span class="text-xs font-semibold bg-purple-950/80 text-purple-400 border border-purple-900/50 px-3 py-1 rounded-full"><i class="fas fa-school mr-1"></i> Entorno Académico</span>
+                </div>
+            </div>
+
+            <!-- Interactive Diagram Card -->
+            <div class="glass-card p-6 flex flex-col items-center relative overflow-hidden">
+                <div class="w-full flex justify-between items-center mb-4 border-b border-white/5 pb-4">
+                    <span class="text-sm font-bold text-gray-400 uppercase tracking-widest flex items-center gap-2">
+                        <span class="flex h-2 w-2 relative">
+                            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                            <span class="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
+                        </span>
+                        Mapa Interactivo de Flujos
+                    </span>
+                    <p class="text-xs text-gray-400 italic hidden sm:block">Haz clic en cualquier nodo o canal para inspeccionar detalles</p>
+                </div>
+                
+                <!-- SVG DIAGRAM -->
+                <div class="w-full aspect-[4/3] max-w-2xl relative">
+                    <svg viewBox="0 0 800 600" width="100%" height="100%" class="select-none">
+                        <!-- Definitions for Gradients/Glows -->
+                        <defs>
+                            <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#C0392B" stop-opacity="0.3"/>
+                                <stop offset="100%" stop-color="#111116" stop-opacity="0"/>
+                            </radialGradient>
+                            
+                            <linearGradient id="grad-prof" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" stop-color="#E74C3C"/>
+                                <stop offset="100%" stop-color="#922B21"/>
+                            </linearGradient>
+
+                            <linearGradient id="grad-node" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" stop-color="#2c3e50"/>
+                                <stop offset="100%" stop-color="#1a252f"/>
+                            </linearGradient>
+                        </defs>
+
+                        <!-- Background glow under center node -->
+                        <circle cx="400" cy="300" r="180" fill="url(#glow)"/>
+
+                        <!-- CONNECTION LINES -->
+                        <!-- Line 1: Prof -> Estudiantes (Dudas) -->
+                        <path id="line-dudas" d="M 400 300 Q 250 200 150 170" fill="none" stroke="#555" stroke-width="2" class="flow-line"/>
+                        <!-- Line 2: Prof -> Estudiantes (Grupos) -->
+                        <path id="line-grupos" d="M 400 300 Q 250 380 150 430" fill="none" stroke="#555" stroke-width="2" class="flow-line"/>
+                        <!-- Line 3: Prof -> Google Drive -->
+                        <path id="line-drive" d="M 400 300 L 400 480" fill="none" stroke="#555" stroke-width="2" class="flow-line"/>
+                        <!-- Line 4: Prof -> Directora & Maestros -->
+                        <path id="line-directora" d="M 400 300 Q 550 200 650 170" fill="none" stroke="#555" stroke-width="2" class="flow-line"/>
+                        <!-- Line 5: Prof -> Padres & Tutor -->
+                        <path id="line-padres" d="M 400 300 Q 550 380 650 430" fill="none" stroke="#555" stroke-width="2" class="flow-line"/>
+
+                        <!-- INTERACTIVE NODES -->
+
+                        <!-- NODE: Estudiantes (Dudas) -->
+                        <g id="node-dudas" class="interactive-node" onclick="selectChannel('dudas')">
+                            <rect x="50" y="110" width="200" height="80" rx="15" fill="url(#grad-node)" stroke="#444" stroke-width="1.5"/>
+                            <circle cx="90" cy="150" r="22" fill="#1e2d3d" stroke="#3498db" stroke-width="1.5"/>
+                            <text x="90" y="156" font-family="Font Awesome 6 Free" font-size="20" fill="#3498db" text-anchor="middle" font-weight="900">&#xf059;</text>
+                            <text x="130" y="145" fill="#fff" font-size="14" font-weight="bold">Canal de Dudas</text>
+                            <text x="130" y="165" fill="#aaa" font-size="11">WhatsApp Personal</text>
+                        </g>
+
+                        <!-- NODE: Estudiantes (Grupos) -->
+                        <g id="node-grupos" class="interactive-node" onclick="selectChannel('grupos')">
+                            <rect x="50" y="400" width="200" height="80" rx="15" fill="url(#grad-node)" stroke="#444" stroke-width="1.5"/>
+                            <circle cx="90" cy="440" r="22" fill="#1e3a2d" stroke="#2ecc71" stroke-width="1.5"/>
+                            <text x="90" y="446" font-family="Font Awesome 6 Free" font-size="20" fill="#2ecc71" text-anchor="middle" font-weight="900">&#xf0c0;</text>
+                            <text x="130" y="435" fill="#fff" font-size="14" font-weight="bold">Grupos de Clase</text>
+                            <text x="130" y="455" fill="#aaa" font-size="11">WhatsApp (Tareas/Fotos)</text>
+                        </g>
+
+                        <!-- NODE: Google Drive -->
+                        <g id="node-drive" class="interactive-node" onclick="selectChannel('drive')">
+                            <rect x="300" y="480" width="200" height="80" rx="15" fill="url(#grad-node)" stroke="#444" stroke-width="1.5"/>
+                            <circle cx="340" cy="520" r="22" fill="#3d3725" stroke="#f1c40f" stroke-width="1.5"/>
+                            <text x="340" y="526" font-family="Font Awesome 6 Brands" font-size="22" fill="#f1c40f" text-anchor="middle" font-weight="400">&#xf3ab;</text>
+                            <text x="380" y="515" fill="#fff" font-size="14" font-weight="bold">Carpeta Proyectos</text>
+                            <text x="380" y="535" fill="#aaa" font-size="11">Google Drive Compartido</text>
+                        </g>
+
+                        <!-- NODE: Directora & Maestros -->
+                        <g id="node-directora" class="interactive-node" onclick="selectChannel('directora')">
+                            <rect x="550" y="110" width="200" height="80" rx="15" fill="url(#grad-node)" stroke="#444" stroke-width="1.5"/>
+                            <circle cx="590" cy="150" r="22" fill="#3a223a" stroke="#9b59b6" stroke-width="1.5"/>
+                            <text x="590" y="156" font-family="Font Awesome 6 Free" font-size="20" fill="#9b59b6" text-anchor="middle" font-weight="900">&#xf509;</text>
+                            <text x="630" y="145" fill="#fff" font-size="14" font-weight="bold">Directora y Docentes</text>
+                            <text x="630" y="165" fill="#aaa" font-size="11">WhatsApp Institucional</text>
+                        </g>
+
+                        <!-- NODE: Padres & Tutor -->
+                        <g id="node-padres" class="interactive-node" onclick="selectChannel('padres')">
+                            <rect x="550" y="400" width="200" height="80" rx="15" fill="url(#grad-node)" stroke="#444" stroke-width="1.5"/>
+                            <circle cx="590" cy="440" r="22" fill="#3a2d24" stroke="#e67e22" stroke-width="1.5"/>
+                            <text x="590" y="446" font-family="Font Awesome 6 Free" font-size="20" fill="#e67e22" text-anchor="middle" font-weight="900">&#xf4c2;</text>
+                            <text x="630" y="435" fill="#fff" font-size="14" font-weight="bold">Tutor y Padres</text>
+                            <text x="630" y="455" fill="#aaa" font-size="11">WhatsApp con Asesor</text>
+                        </g>
+
+                        <!-- CENTER NODE: PROFESSOR -->
+                        <g id="node-professor" class="interactive-node" onclick="selectChannel('professor')">
+                            <circle cx="400" cy="300" r="55" fill="url(#grad-prof)" stroke="#fff" stroke-width="3" filter="drop-shadow(0px 8px 16px rgba(192, 57, 43, 0.4))"/>
+                            <text x="400" y="295" font-family="Font Awesome 6 Free" font-size="28" fill="#fff" text-anchor="middle" font-weight="900">&#xf51c;</text>
+                            <text x="400" y="325" fill="#fff" font-size="12" font-weight="900" text-anchor="middle" letter-spacing="1">PROFESOR</text>
+                            <text x="400" y="340" fill="#ffcccc" font-size="9" font-weight="700" text-anchor="middle">J. Roberto Mendoza</text>
+                        </g>
+                    </svg>
+                </div>
+                
+                <!-- Quick controls -->
+                <div class="w-full grid grid-cols-2 sm:grid-cols-5 gap-2 mt-4 border-t border-white/5 pt-4 text-center">
+                    <button onclick="selectChannel('dudas')" class="px-2 py-1 rounded bg-white/5 hover:bg-white/10 text-xs font-semibold text-blue-400">1. Dudas</button>
+                    <button onclick="selectChannel('grupos')" class="px-2 py-1 rounded bg-white/5 hover:bg-white/10 text-xs font-semibold text-green-400">2. Grupos Clase</button>
+                    <button onclick="selectChannel('drive')" class="px-2 py-1 rounded bg-white/5 hover:bg-white/10 text-xs font-semibold text-yellow-400">3. Google Drive</button>
+                    <button onclick="selectChannel('directora')" class="px-2 py-1 rounded bg-white/5 hover:bg-white/10 text-xs font-semibold text-purple-400">4. Directiva/Docentes</button>
+                    <button onclick="selectChannel('padres')" class="px-2 py-1 rounded bg-white/5 hover:bg-white/10 text-xs font-semibold text-orange-400">5. Tutor/Padres</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- DETAILS SIDEBAR PANEL -->
+        <div class="lg:col-span-4 flex flex-col gap-6">
+            
+            <!-- Detail Card -->
+            <div id="detail-card" class="glass-card p-6 border-t-[8px] border-red-700 min-h-[350px] flex flex-col justify-between">
+                <div>
+                    <div class="flex justify-between items-start mb-4">
+                        <span id="detail-tool-tag" class="text-xs font-black uppercase tracking-widest bg-red-950/80 text-red-400 px-3 py-1 rounded border border-red-900/50">PROFESOR</span>
+                        <div id="detail-icon-circle" class="w-10 h-10 rounded-full bg-red-700/20 flex items-center justify-center border border-red-500/20">
+                            <i id="detail-icon" class="fas fa-user-tie text-red-500"></i>
+                        </div>
+                    </div>
+                    <h3 id="detail-title" class="text-2xl font-black text-white mb-2">Canal Docente Central</h3>
+                    <p id="detail-subtitle" class="text-gray-400 text-sm font-semibold mb-4 border-b border-white/5 pb-3">José Roberto Mendoza Mendoza</p>
+                    
+                    <div class="space-y-4 text-sm">
+                        <div>
+                            <span class="block text-gray-500 uppercase text-xs font-bold tracking-wider">Propósito / Descripción</span>
+                            <p id="detail-desc" class="text-gray-200 mt-1 leading-relaxed">
+                                Eje central del ecosistema educativo. Desde aquí se diseñan, coordinan y articulan todas las herramientas del PLE para una interacción fluida con el alumnado, padres de familia, compañeros docentes y personal directivo de la institución.
+                            </p>
+                        </div>
+                        <div id="detail-extra-container">
+                            <span class="block text-gray-500 uppercase text-xs font-bold tracking-wider">Destinatarios / Flujo</span>
+                            <p id="detail-extra" class="text-gray-200 mt-1">Todo el ecosistema de Cultura Digital II.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-6 pt-4 border-t border-white/5 flex gap-2">
+                    <span class="text-xs text-gray-500"><i class="fas fa-info-circle mr-1"></i> Pulsa otro nodo para actualizar la información</span>
+                </div>
+            </div>
+            
+            <!-- Summary stats card -->
+            <div class="glass-card p-6 bg-gradient-to-r from-red-950/20 to-black/40 border-r-2 border-red-700/40">
+                <h4 class="text-white font-bold mb-3 flex items-center gap-2">
+                    <i class="fas fa-list-check text-red-500"></i>
+                    Matriz de Flujos de Comunicación
+                </h4>
+                <ul class="text-xs space-y-3 text-gray-300">
+                    <li class="flex items-center gap-2"><i class="fas fa-circle-check text-blue-500"></i> DUDAS: Alumno ↔ Profesor (Privacidad y Enfoque)</li>
+                    <li class="flex items-center gap-2"><i class="fas fa-circle-check text-green-500"></i> GRUPOS: Profesor → Alumnos (Material de Apoyo)</li>
+                    <li class="flex items-center gap-2"><i class="fas fa-circle-check text-yellow-500"></i> PROYECTOS: Alumno ↔ Google Drive (Evaluación/Entrega)</li>
+                    <li class="flex items-center gap-2"><i class="fas fa-circle-check text-purple-500"></i> INSTITUCIONAL: Profesor ↔ Directora/Docentes (Coordinación)</li>
+                    <li class="flex items-center gap-2"><i class="fas fa-circle-check text-orange-500"></i> TUTORÍA: Profesor ↔ Asesor ↔ Padres (Monitoreo)</li>
+                </ul>
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="w-full py-6 text-center text-xs text-gray-500 uppercase tracking-widest border-t border-white/5 bg-black/40 mt-10">
+        © 2026 - Cultura Digital II | Diseñado por José Roberto Mendoza Mendoza
+    </footer>
+
+    <!-- INTERACTIVE SCRIPT -->
+    <script>
+        const channels = {
+            professor: {
+                title: "José Roberto Mendoza Mendoza",
+                subtitle: "Profesor Titular de Cultura Digital II",
+                tool: "Profesor",
+                icon: "fa-user-tie",
+                iconColor: "text-red-500",
+                iconBg: "bg-red-700/20",
+                borderColor: "border-red-700",
+                desc: "Actor clave que regula y emite las tareas de Cultura Digital II. Utiliza un modelo multicanal estructurado para mantener a los alumnos con material disponible, resolver sus dudas de manera privada, reportar planeaciones y eventos a la dirección, e informar a los padres de familia a través de la tutoría de grupo.",
+                extra: "Gestiona los canales individuales, de grupo, carpetas compartidas de Google Drive y el canal institucional de WhatsApp."
+            },
+            dudas: {
+                title: "Canal de Dudas Académicas",
+                subtitle: "Comunicación Privada Estudiante ↔ Docente",
+                tool: "WhatsApp Personal",
+                icon: "fa-circle-question",
+                iconColor: "text-blue-400",
+                iconBg: "bg-blue-900/20",
+                borderColor: "border-blue-500",
+                desc: "Un canal de comunicación exclusivamente reservado para resolver dudas de manera directa e individual con los alumnos. Al separar el canal de dudas del grupo general se logra un trato personalizado que promueve la confianza sin saturar a los demás estudiantes.",
+                extra: "Vía de comunicación: Mensaje directo o chat privado."
+            },
+            grupos: {
+                title: "Grupos de Apoyo de Clase",
+                subtitle: "Difusión de Materiales Profesor → Estudiantes",
+                tool: "WhatsApp Grupal",
+                icon: "fa-users",
+                iconColor: "text-green-400",
+                iconBg: "bg-green-900/20",
+                borderColor: "border-green-500",
+                desc: "Aquí se envían de manera ágil los trabajos del día, las tareas asignadas, resúmenes de temas y capturas de pantalla de la pizarra o las diapositivas. Está diseñado especialmente para que los alumnos puedan copiar los contenidos en su libreta en caso de que no alcancen a visualizar el proyector en el aula.",
+                extra: "Vía de comunicación: Mensajería masiva del grupo de la asignatura."
+            },
+            drive: {
+                title: "Carpeta de Proyectos Compartida",
+                subtitle: "Gestión de Portafolio y Evidencias",
+                tool: "Google Drive",
+                icon: "fa-folder-open",
+                iconColor: "text-yellow-400",
+                iconBg: "bg-yellow-900/20",
+                borderColor: "border-yellow-500",
+                desc: "Carpeta en la nube compartida con todo el grupo de clase. En este espacio digital, cada estudiante tiene acceso para subir de forma asíncrona sus tareas y trabajos prácticos, conformando su portafolio de evidencias de Cultura Digital II para su evaluación.",
+                extra: "Vía de comunicación: Enlace de Drive compartido con permisos de carga de archivos."
+            },
+            directora: {
+                title: "Coordinación Institucional",
+                subtitle: "Vínculo con Directivos y Colegas",
+                tool: "WhatsApp Institucional",
+                icon: "fa-school-flag",
+                iconColor: "text-purple-400",
+                iconBg: "bg-purple-900/20",
+                borderColor: "border-purple-500",
+                desc: "Canal bidireccional y ágil en WhatsApp donde mantengo comunicación fluida con la Directora de la escuela y el grupo de maestros. Sirve para alineaciones pedagógicas, avisos institucionales, reportes académicos y organización interna del plantel.",
+                extra: "Vía de comunicación: Chats grupales y directos de carácter institucional."
+            },
+            padres: {
+                title: "Vínculo de Tutoría Familiar",
+                subtitle: "Monitoreo del Alumno Docente ↔ Asesor ↔ Padres",
+                tool: "WhatsApp con Asesor",
+                icon: "fa-users-rectangle",
+                iconColor: "text-orange-400",
+                iconBg: "bg-orange-900/20",
+                borderColor: "border-orange-500",
+                desc: "Canal enfocado en el seguimiento integral del comportamiento y rendimiento del alumno. La comunicación se realiza de manera personal o en grupos de padres a través del asesor o tutor del grupo (que es un compañero docente), estableciendo una red de apoyo escolar-familiar sólida.",
+                extra: "Vía de comunicación: Enlace directo con el tutor docente de grupo y los padres de familia."
+            }
+        };
+
+        function selectChannel(key) {
+            // Remove active class from all nodes
+            document.querySelectorAll('.interactive-node').forEach(el => {
+                el.classList.remove('active');
+            });
+            // Remove active class from all lines
+            document.querySelectorAll('.flow-line').forEach(el => {
+                el.classList.remove('active');
+            });
+
+            // Set current node active
+            const node = document.getElementById(`node-${key}`);
+            if (node) node.classList.add('active');
+
+            // Set corresponding connection line active
+            const line = document.getElementById(`line-${key}`);
+            if (line) line.classList.add('active');
+
+            // Update details card
+            const data = channels[key];
+            if (!data) return;
+
+            document.getElementById('detail-tool-tag').innerText = data.tool;
+            document.getElementById('detail-tool-tag').className = `text-xs font-black uppercase tracking-widest px-3 py-1 rounded border ${getBadgeColors(key)}`;
+            
+            document.getElementById('detail-icon').className = `fas ${data.icon} ${data.iconColor}`;
+            document.getElementById('detail-icon-circle').className = `w-10 h-10 rounded-full ${data.iconBg} flex items-center justify-center border ${getBorderColorClass(key)}`;
+            
+            document.getElementById('detail-title').innerText = data.title;
+            document.getElementById('detail-subtitle').innerText = data.subtitle;
+            document.getElementById('detail-desc').innerText = data.desc;
+            
+            document.getElementById('detail-extra').innerText = data.extra;
+            document.getElementById('detail-card').style.borderColor = getBorderColorHex(key);
+        }
+
+        function getBadgeColors(key) {
+            const colors = {
+                professor: "bg-red-950/80 text-red-400 border-red-900/50",
+                dudas: "bg-blue-950/80 text-blue-400 border-blue-900/50",
+                grupos: "bg-green-950/80 text-green-400 border-green-900/50",
+                drive: "bg-yellow-950/80 text-yellow-400 border-yellow-900/50",
+                directora: "bg-purple-950/80 text-purple-400 border-purple-900/50",
+                padres: "bg-orange-950/80 text-orange-400 border-orange-900/50"
+            };
+            return colors[key] || colors.professor;
+        }
+
+        function getBorderColorClass(key) {
+            const colors = {
+                professor: "border-red-500/20",
+                dudas: "border-blue-500/20",
+                grupos: "border-green-500/20",
+                drive: "border-yellow-500/20",
+                directora: "border-purple-500/20",
+                padres: "border-orange-500/20"
+            };
+            return colors[key] || colors.professor;
+        }
+
+        function getBorderColorHex(key) {
+            const colors = {
+                professor: "#C0392B",
+                dudas: "#3498db",
+                grupos: "#2ecc71",
+                drive: "#f1c40f",
+                directora: "#9b59b6",
+                padres: "#e67e22"
+            };
+            return colors[key] || colors.professor;
+        }
+
+        // Select professor on load
+        window.addEventListener('DOMContentLoaded', () => {
+            selectChannel('professor');
+        });
+    </script>
+
+</body>
+
+</html>

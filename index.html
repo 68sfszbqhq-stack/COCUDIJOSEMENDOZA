@@ -209,6 +209,129 @@
             flex-direction: column;
             align-items: center;
         }
+
+        /* Estilos específicos para la sección PLN */
+        .pln-card {
+            background: white;
+            padding: 24px;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+            border-top: 6px solid var(--rojo);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .pln-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(192, 57, 43, 0.15);
+        }
+
+        .pln-title {
+            font-size: 1.25rem;
+            font-weight: 800;
+            color: var(--rojo);
+            margin-bottom: 12px;
+        }
+
+        .pln-desc {
+            font-size: 0.875rem;
+            color: #4A5568;
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .pln-tags-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+
+        .pln-tag {
+            background: #F7FAFC;
+            color: #4A5568;
+            border: 1px solid #E2E8F0;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .pln-btn {
+            background: #2D3748;
+            color: white;
+            text-align: center;
+            padding: 10px 16px;
+            border-radius: 12px;
+            font-size: 0.875rem;
+            font-weight: 700;
+            transition: background 0.2s ease, transform 0.2s ease;
+            display: block;
+            width: 100%;
+        }
+
+        .pln-btn:hover {
+            background: #1A202C;
+            transform: scale(1.02);
+        }
+
+        .pln-step-num {
+            background: var(--rojo);
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 900;
+            flex-shrink: 0;
+            margin-right: 16px;
+        }
+
+        .pln-activity-card {
+            background: rgba(255, 255, 255, 0.6);
+            border-left: 5px solid #E2E8F0;
+            padding: 16px 20px;
+            border-radius: 0 16px 16px 0;
+            margin-bottom: 12px;
+            transition: all 0.2s ease;
+        }
+
+        .pln-activity-card:hover {
+            background: rgba(255, 255, 255, 0.9);
+            border-left-color: var(--rojo);
+        }
+
+        /* Estilos del panel de administración PLN */
+        .pln-admin-panel {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            border: 2px dashed var(--rojo);
+            border-radius: 24px;
+            padding: 24px;
+            margin-top: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+        }
+
+        .pln-input {
+            width: 100%;
+            padding: 10px 14px;
+            border: 1px solid #CBD5E0;
+            border-radius: 10px;
+            font-size: 0.875rem;
+            background: white;
+            outline: none;
+            transition: border-color 0.2s ease;
+        }
+
+        .pln-input:focus {
+            border-color: var(--rojo);
+        }
     </style>
 </head>
 
@@ -235,6 +358,11 @@
                 <button onclick="nav('ecosistema')"
                     class="mt-12 bg-red-700 text-white px-12 py-5 rounded-full text-xl font-black hover:bg-red-900 transition-all shadow-xl hover:scale-105">
                     EXPLORAR ECOSISTEMA <i class="fas fa-rocket ml-3"></i>
+                </button>
+
+                <button onclick="nav('pln')"
+                    class="mt-12 bg-violet-700 text-white px-8 py-5 rounded-full text-xl font-black hover:bg-violet-900 transition-all shadow-xl hover:scale-105">
+                    MI PLN <i class="fas fa-network-wired ml-3"></i>
                 </button>
 
                 <a href="diagrama.html"
@@ -462,9 +590,176 @@
                         disfrutar la docencia.</p>
                 </div>
             </div>
-            <button onclick="nav('portada')"
-                class="mt-12 bg-gray-900 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-black hover:scale-105 transition">VOLVER
-                AL INICIO</button>
+            <div class="mt-12 flex gap-4 justify-center flex-wrap">
+                <button onclick="nav('portada')"
+                    class="bg-gray-900 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-black hover:scale-105 transition">VOLVER
+                    AL INICIO</button>
+                <button onclick="nav('pln')"
+                    class="bg-violet-700 text-white px-12 py-4 rounded-full font-black shadow-xl hover:bg-violet-900 hover:scale-105 transition">IR
+                    A MI PLN <i class="fas fa-network-wired ml-2"></i></button>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECCIÓN PLN (RED PERSONAL DE APRENDIZAJE) -->
+    <section id="pln" class="slide">
+        <div class="glass-container max-w-6xl">
+            <h2 class="text-4xl font-black text-red-700 mb-2 text-center">Mi Red Personal de Aprendizaje de Cultura Digital (PLN)</h2>
+            <p class="text-xl text-gray-800 font-bold mb-8 text-center">Recursos, conexiones e ideas para estudiantes de bachillerato</p>
+
+            <div class="bg-red-700/5 p-8 rounded-3xl border-l-[8px] border-red-700 text-left mb-10 w-full">
+                <h3 class="text-xl font-bold text-red-700 mb-2">¿Qué es una PLN?</h3>
+                <p class="text-gray-700 leading-relaxed text-sm">
+                    Una <strong>PLN (Red Personal de Aprendizaje)</strong> es el conjunto de herramientas, fuentes de información, conexiones y actividades que utilizamos de manera constante para aprender y mantenernos actualizados. Como docente de Cultura Digital, utilizo este ecosistema para integrar videos interactivos, artículos científicos, libros recomendados y casos del mundo real, facilitando que comprendas los conceptos técnicos fundamentales y los apliques en tu entorno académico y personal.
+                </p>
+            </div>
+
+            <!-- Grid de Tarjetas (Se llena dinámicamente con JavaScript) -->
+            <div id="pln-cards-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
+                <!-- Se llena con JS -->
+            </div>
+
+            <!-- Cómo usar esta PLN en clase -->
+            <div class="w-full mt-16 bg-white p-8 rounded-3xl shadow-lg border-t-8 border-red-700">
+                <h3 class="text-3xl font-black text-red-700 mb-6">Cómo usar esta PLN en clase</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="flex items-start">
+                        <div class="pln-step-num">1</div>
+                        <div>
+                            <h4 class="font-black text-lg text-gray-800">Exploración previa</h4>
+                            <p class="text-gray-600 text-sm mt-1">Antes de la sesión presencial, revisa el video recomendado o el artículo introductorio asignado en tu tarjeta del tema para familiarizarte con los términos clave.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <div class="pln-step-num">2</div>
+                        <div>
+                            <h4 class="font-black text-lg text-gray-800">Análisis y discusión en el aula</h4>
+                            <p class="text-gray-600 text-sm mt-1">Durante la clase presencial, planteamos preguntas sobre el recurso observado y resolvemos dudas específicas mediante simulaciones y debates grupales.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <div class="pln-step-num">3</div>
+                        <div>
+                            <h4 class="font-black text-lg text-gray-800">Construcción y profundización</h4>
+                            <p class="text-gray-600 text-sm mt-1">Utiliza el botón 'Ver mapa completo' para profundizar en los recursos adicionales de Pearltrees y recopilar datos para tus proyectos de clase.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <div class="pln-step-num">4</div>
+                        <div>
+                            <h4 class="font-black text-lg text-gray-800">Reflexión y bitácora</h4>
+                            <p class="text-gray-600 text-sm mt-1">Al terminar la clase, realiza una breve bitácora o reflexión digital en tu libreta o Notion, conectando lo aprendido con tus actividades cotidianas en tus dispositivos.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Actividades sugeridas -->
+            <div class="w-full mt-12">
+                <h3 class="text-3xl font-black text-red-700 mb-6">Actividades sugeridas</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="pln-activity-card">
+                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Higiene e Identidad Digital</h4>
+                        <p class="text-gray-700 text-sm leading-relaxed">Explora el tema de identidad digital y escribe tres riesgos y tres prácticas de higiene digital en tus redes sociales actuales.</p>
+                    </div>
+                    <div class="pln-activity-card">
+                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Diseño de Mini-prueba</h4>
+                        <p class="text-gray-700 text-sm leading-relaxed">Elige un video sobre fundamentos de programación y crea una pequeña prueba interactiva con 5 preguntas en Kahoot o Google Forms para tus compañeros.</p>
+                    </div>
+                    <div class="pln-activity-card">
+                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Arqueología del Smartphone</h4>
+                        <p class="text-gray-700 text-sm leading-relaxed">Investiga la historia de tu primer smartphone (o el de tus padres) y compárala con alguno de los recursos recomendados de evolución tecnológica.</p>
+                    </div>
+                    <div class="pln-activity-card">
+                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Exploración en Pearltrees</h4>
+                        <p class="text-gray-700 text-sm leading-relaxed">Visita el Pearltrees docente y selecciona dos recursos de la categoría de 'Marca Personal' que podrías aplicar hoy para mejorar tu presencia académica en línea.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PANEL DE CONTROL DOCENTE (ADMINISTRADOR PLN) -->
+            <div class="w-full mt-12">
+                <button onclick="togglePlnAdmin()" class="bg-gray-800 hover:bg-black text-white px-6 py-3 rounded-xl font-bold text-sm shadow transition flex items-center gap-2">
+                    <i class="fas fa-cog"></i> Administrar Recursos de la PLN (Docente)
+                </button>
+                
+                <div id="pln-admin-panel" class="pln-admin-panel hidden">
+                    <h3 class="text-xl font-black text-red-700 mb-4"><i class="fas fa-edit"></i> Panel de Configuración Docente</h3>
+                    <p class="text-sm text-gray-600 mb-6">Añade nuevos recursos a las tarjetas de temas o crea nuevas tarjetas. Cualquier cambio se guardará en tu navegador. Puedes copiar el código JSON exportado al final para pegarlo en tu archivo HTML permanentemente.</p>
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <!-- Formulario agregar recurso -->
+                        <div class="bg-white p-6 rounded-2xl border border-gray-200">
+                            <h4 class="font-bold text-gray-800 mb-4">➕ Agregar Recurso a Tema Existente</h4>
+                            <div class="space-y-4">
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Seleccionar Tema</label>
+                                    <select id="admin-select-topic" class="pln-input">
+                                        <!-- Se llena dinámicamente -->
+                                    </select>
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Nombre del Recurso (ej. Video Platzi / Freddy Vega)</label>
+                                    <input type="text" id="admin-resource-name" class="pln-input" placeholder="Nombre descriptivo">
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Tipo de Recurso</label>
+                                    <select id="admin-resource-type" class="pln-input">
+                                        <option value="video">📹 Video</option>
+                                        <option value="book">📚 Libro / Capítulo</option>
+                                        <option value="file">📄 Artículo / Documento</option>
+                                        <option value="globe">🌐 Sitio web / Enlace</option>
+                                    </select>
+                                </div>
+                                <button onclick="addResource()" class="w-full bg-red-700 hover:bg-red-800 text-white py-3 rounded-xl font-bold text-sm transition">
+                                    Añadir Recurso
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Formulario crear nuevo tema -->
+                        <div class="bg-white p-6 rounded-2xl border border-gray-200">
+                            <h4 class="font-bold text-gray-800 mb-4">➕ Crear Nuevo Tema de la PLN</h4>
+                            <div class="space-y-4">
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Nombre del Tema</label>
+                                    <input type="text" id="admin-topic-title" class="pln-input" placeholder="ej. Ciudadanía y Huella Digital">
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Explicación para Bachillerato</label>
+                                    <textarea id="admin-topic-desc" class="pln-input h-24" placeholder="Breve explicación docente..."></textarea>
+                                </div>
+                                <button onclick="addNewTopic()" class="w-full bg-gray-900 hover:bg-black text-white py-3 rounded-xl font-bold text-sm transition">
+                                    Crear Tema
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Exportación de código JSON -->
+                    <div class="mt-8 bg-gray-50 p-6 rounded-2xl border border-gray-200">
+                        <h4 class="font-bold text-gray-800 mb-2">📋 Guardar Cambios Permanentes (GitHub Pages)</h4>
+                        <p class="text-xs text-gray-600 mb-4">Copia este código y reemplázalo en la variable <code>plnData</code> dentro del bloque de script de tu archivo <code>index.html</code> para que todos tus visitantes lo vean.</p>
+                        <textarea id="admin-json-export" class="w-full h-32 pln-input font-mono text-xs mb-4" readonly onclick="this.select()"></textarea>
+                        <div class="flex gap-4 flex-wrap">
+                            <button onclick="copyJsonCode()" class="bg-red-700 hover:bg-red-800 text-white px-6 py-2 rounded-xl font-bold text-xs transition">
+                                <i class="fas fa-copy mr-1"></i> Copiar Código JSON
+                            </button>
+                            <button onclick="resetPlnData()" class="bg-gray-200 hover:bg-gray-300 text-gray-800 px-6 py-2 rounded-xl font-bold text-xs transition">
+                                <i class="fas fa-undo mr-1"></i> Restaurar Valores Originales
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botones de Navegación -->
+            <div class="mt-12 flex gap-4 justify-center flex-wrap">
+                <button onclick="nav('portada')" class="text-gray-500 font-bold hover:text-red-700 py-4 px-6">Volver al Inicio</button>
+                <button onclick="nav('ecosistema')" class="bg-red-700 text-white px-10 py-4 rounded-full font-bold shadow-lg hover:scale-105 transition">
+                    Explorar Ecosistema <i class="fas fa-rocket ml-2"></i>
+                </button>
+            </div>
         </div>
     </section>
 
@@ -694,6 +989,210 @@
         function closeModal() {
             document.getElementById('modal').style.display = 'none';
         }
+
+        // --- CÓDIGO DE ADMINISTRACIÓN Y RENDERIZADO DE PLN ---
+        const plnDataDefault = [
+            {
+                id: "internet",
+                title: "Cómo funciona Internet",
+                desc: "Exploramos la infraestructura global que permite conectar al mundo. Desde cables submarinos y servidores DNS hasta el viaje de los paquetes de datos y el protocolo TCP/IP, explicados de forma sencilla y visual.",
+                resources: [
+                    { name: "Video Platzi / Freddy Vega", type: "video" },
+                    { name: "Capítulo: Redes de computadoras", type: "book" },
+                    { name: "Sitio: Code.org (How Internet Works)", type: "globe" }
+                ]
+            },
+            {
+                id: "computadoras",
+                title: "Computadoras y sistemas",
+                desc: "Entendemos el hardware y el software que dan vida a nuestros dispositivos. Analizamos la CPU, la memoria RAM, el almacenamiento y cómo el sistema operativo coordina todo para ejecutar nuestras aplicaciones cotidianas.",
+                resources: [
+                    { name: "Video / Crash Course Computer Science", type: "video" },
+                    { name: "Artículo: Arquitectura de Von Neumann", type: "file" },
+                    { name: "Sitio: HowStuffWorks (Hardware)", type: "globe" }
+                ]
+            },
+            {
+                id: "smartphone",
+                title: "Historia del smartphone",
+                desc: "El dispositivo más revolucionario de nuestro siglo. Desde los primeros teléfonos celulares analógicos hasta las supercomputadoras de bolsillo actuales, analizando su evolución tecnológica y su impacto social.",
+                resources: [
+                    { name: "Video: Evolución del iPhone y Android", type: "video" },
+                    { name: "Libro: La sociedad del smartphone", type: "book" },
+                    { name: "Artículo: Brecha digital en media superior", type: "file" }
+                ]
+            },
+            {
+                id: "seguridad",
+                title: "Identidad digital y seguridad",
+                desc: "Tu huella digital en la red es permanente. Aprendemos prácticas de higiene digital, configuración de privacidad, prevención de riesgos como el phishing y cómo construir una reputación en línea positiva y segura.",
+                resources: [
+                    { name: "Video / Guía de ciberseguridad para jóvenes", type: "video" },
+                    { name: "Artículo: Huella digital en adolescentes", type: "file" },
+                    { name: "Sitio: Oficina de Seguridad del Internauta", type: "globe" }
+                ]
+            },
+            {
+                id: "marca",
+                title: "Marca personal",
+                desc: "El currículum del futuro ya no es papel. Enseñamos a los estudiantes a destacar sus talentos, proyectos escolares y habilidades mediante el uso estratégico de redes profesionales y portafolios digitales como GitHub.",
+                resources: [
+                    { name: "Video: Cómo crear tu marca personal", type: "video" },
+                    { name: "Libro: Muestra tu trabajo / Austin Kleon", type: "book" },
+                    { name: "Sitio: Guías de portafolios en GitHub Pages", type: "globe" }
+                ]
+            },
+            {
+                id: "programacion",
+                title: "Fundamentos de programación",
+                desc: "La programación es el superpoder de crear soluciones. Introducimos conceptos básicos como algoritmos, variables, condicionales, ciclos y cómo el pensamiento computacional te ayuda a estructurar problemas.",
+                resources: [
+                    { name: "Video Platzi / Qué es la programación", type: "video" },
+                    { name: "Sitio: FreeCodeCamp / Scratch", type: "globe" },
+                    { name: "Libro / Introducción a algoritmos sencillos", type: "book" }
+                ]
+            }
+        ];
+
+        let plnData = JSON.parse(localStorage.getItem('plnData')) || JSON.parse(JSON.stringify(plnDataDefault));
+
+        function getResourceIcon(type) {
+            switch (type) {
+                case 'video': return 'fa-video';
+                case 'book': return 'fa-book';
+                case 'file': return 'fa-file-alt';
+                case 'globe': return 'fa-globe';
+                default: return 'fa-bookmark';
+            }
+        }
+
+        function renderPLN() {
+            const grid = document.getElementById('pln-cards-grid');
+            const selectTopic = document.getElementById('admin-select-topic');
+            
+            if (!grid) return;
+
+            // Renderizar Tarjetas
+            grid.innerHTML = plnData.map(topic => {
+                const tagsHtml = topic.resources.map(res => `
+                    <span class="pln-tag">
+                        <i class="fas ${getResourceIcon(res.type)} mr-1.5 text-red-600"></i> ${res.name}
+                    </span>
+                `).join('');
+
+                return `
+                    <div class="pln-card">
+                        <div>
+                            <h4 class="pln-title">${topic.title}</h4>
+                            <p class="pln-desc">${topic.desc}</p>
+                            <div class="pln-tags-container">
+                                ${tagsHtml}
+                            </div>
+                        </div>
+                        <a href="https://www.pearltrees.com/josemendozam" target="_blank" class="pln-btn">
+                            Ver mapa completo <i class="fas fa-external-link-alt ml-1 text-xs"></i>
+                        </a>
+                    </div>
+                `;
+            }).join('');
+
+            // Renderizar Opciones del Select
+            if (selectTopic) {
+                selectTopic.innerHTML = plnData.map(topic => `
+                    <option value="${topic.id}">${topic.title}</option>
+                `).join('');
+            }
+
+            // Exportar JSON
+            const jsonTextarea = document.getElementById('admin-json-export');
+            if (jsonTextarea) {
+                jsonTextarea.value = JSON.stringify(plnData, null, 2);
+            }
+        }
+
+        function togglePlnAdmin() {
+            const panel = document.getElementById('pln-admin-panel');
+            if (panel) {
+                panel.classList.toggle('hidden');
+            }
+        }
+
+        function addResource() {
+            const topicId = document.getElementById('admin-select-topic').value;
+            const name = document.getElementById('admin-resource-name').value.trim();
+            const type = document.getElementById('admin-resource-type').value;
+
+            if (!name) {
+                alert('Por favor, introduce el nombre del recurso.');
+                return;
+            }
+
+            const topic = plnData.find(t => t.id === topicId);
+            if (topic) {
+                topic.resources.push({ name, type });
+                localStorage.setItem('plnData', JSON.stringify(plnData));
+                renderPLN();
+                document.getElementById('admin-resource-name').value = '';
+                alert('Recurso agregado correctamente.');
+            }
+        }
+
+        function addNewTopic() {
+            const title = document.getElementById('admin-topic-title').value.trim();
+            const desc = document.getElementById('admin-topic-desc').value.trim();
+
+            if (!title || !desc) {
+                alert('Por favor, completa el título y la explicación del tema.');
+                return;
+            }
+
+            const id = 'custom-' + title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+            
+            if (plnData.some(t => t.id === id)) {
+                alert('Ya existe un tema con un nombre similar.');
+                return;
+            }
+
+            plnData.push({
+                id,
+                title,
+                desc,
+                resources: []
+            });
+
+            localStorage.setItem('plnData', JSON.stringify(plnData));
+            renderPLN();
+
+            document.getElementById('admin-topic-title').value = '';
+            document.getElementById('admin-topic-desc').value = '';
+            alert('Nuevo tema creado correctamente.');
+        }
+
+        function resetPlnData() {
+            if (confirm('¿Estás seguro de restaurar los valores originales? Esto eliminará todos tus recursos y temas personalizados.')) {
+                localStorage.removeItem('plnData');
+                plnData = JSON.parse(JSON.stringify(plnDataDefault));
+                renderPLN();
+                alert('Valores predeterminados restaurados.');
+            }
+        }
+
+        function copyJsonCode() {
+            const copyText = document.getElementById('admin-json-export');
+            if (copyText) {
+                copyText.select();
+                navigator.clipboard.writeText(copyText.value)
+                    .then(() => {
+                        alert('Código JSON copiado al portapapeles. Ahora puedes pegarlo en tu código index.html.');
+                    })
+                    .catch(err => {
+                        alert('No se pudo copiar el código. Por favor, selecciónalo y cópialo manualmente.');
+                    });
+            }
+        }
+
+        // Renderizar en la carga inicial
+        renderPLN();
     </script>
 </body>
 

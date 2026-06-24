@@ -210,74 +210,151 @@
             align-items: center;
         }
 
-        /* Estilos específicos para la sección PLN */
+        /* ===== ESTILOS PLN REDISEÑADO POR SEMESTRE MCC SEP 2025 ===== */
+        .pln-semester-wrapper {
+            width: 100%;
+            margin-bottom: 48px;
+        }
+
+        .pln-semester-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 18px 24px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+            color: white;
+            font-weight: 900;
+            font-size: 1.4rem;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+        }
+
+        .pln-semester-header.sem1 { background: linear-gradient(135deg, #C0392B, #922B21); }
+        .pln-semester-header.sem2 { background: linear-gradient(135deg, #6C3483, #4A235A); }
+        .pln-semester-header.sem3 { background: linear-gradient(135deg, #1A5276, #0E3460); }
+
+        .pln-semester-badge {
+            background: rgba(255,255,255,0.25);
+            border-radius: 12px;
+            padding: 6px 14px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            white-space: nowrap;
+        }
+
         .pln-card {
             background: white;
-            padding: 24px;
             border-radius: 20px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
-            border-top: 6px solid var(--rojo);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.07);
+            border-left: 6px solid var(--rojo);
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            overflow: hidden;
         }
+
+        .pln-card.sem1 { border-left-color: #C0392B; }
+        .pln-card.sem2 { border-left-color: #6C3483; }
+        .pln-card.sem3 { border-left-color: #1A5276; }
 
         .pln-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 30px rgba(192, 57, 43, 0.15);
+            transform: translateY(-6px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.12);
         }
+
+        .pln-card-body { padding: 24px; flex: 1; }
+        .pln-card-footer { padding: 16px 24px; background: #f8f9fa; border-top: 1px solid #eee; }
 
         .pln-title {
-            font-size: 1.25rem;
+            font-size: 1.1rem;
             font-weight: 800;
+            margin-bottom: 8px;
+        }
+
+        .pln-title.sem1 { color: #C0392B; }
+        .pln-title.sem2 { color: #6C3483; }
+        .pln-title.sem3 { color: #1A5276; }
+
+        .pln-purpose-label {
+            font-size: 0.65rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #718096;
+            margin-bottom: 8px;
+            margin-top: 12px;
+        }
+
+        .pln-purpose-list {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 16px 0;
+        }
+
+        .pln-purpose-list li {
+            font-size: 0.78rem;
+            color: #4A5568;
+            padding: 5px 0 5px 18px;
+            position: relative;
+            line-height: 1.5;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .pln-purpose-list li:last-child { border-bottom: none; }
+
+        .pln-purpose-list li::before {
+            content: '▸';
+            position: absolute;
+            left: 0;
             color: var(--rojo);
-            margin-bottom: 12px;
+            font-size: 0.7rem;
+            top: 6px;
         }
 
-        .pln-desc {
-            font-size: 0.875rem;
-            color: #4A5568;
-            line-height: 1.6;
-            margin-bottom: 16px;
-        }
+        .pln-purpose-list.sem2 li::before { color: #6C3483; }
+        .pln-purpose-list.sem3 li::before { color: #1A5276; }
 
-        .pln-tags-container {
+        /* Recursos con link */
+        .pln-resource-link {
             display: flex;
-            flex-wrap: wrap;
+            align-items: center;
             gap: 8px;
-            margin-bottom: 20px;
-        }
-
-        .pln-tag {
-            background: #F7FAFC;
-            color: #4A5568;
-            border: 1px solid #E2E8F0;
-            padding: 6px 12px;
-            border-radius: 8px;
+            padding: 8px 10px;
+            border-radius: 10px;
             font-size: 0.75rem;
             font-weight: 600;
-            display: inline-flex;
-            align-items: center;
+            color: #2D3748;
+            background: #F7FAFC;
+            border: 1px solid #E2E8F0;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            margin-bottom: 6px;
         }
 
-        .pln-btn {
-            background: #2D3748;
-            color: white;
-            text-align: center;
-            padding: 10px 16px;
-            border-radius: 12px;
-            font-size: 0.875rem;
-            font-weight: 700;
-            transition: background 0.2s ease, transform 0.2s ease;
-            display: block;
-            width: 100%;
+        .pln-resource-link:hover {
+            background: #EDF2F7;
+            border-color: #CBD5E0;
+            transform: translateX(3px);
         }
 
-        .pln-btn:hover {
-            background: #1A202C;
-            transform: scale(1.02);
+        .pln-resource-link .badge {
+            font-size: 0.6rem;
+            font-weight: 800;
+            padding: 2px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            flex-shrink: 0;
         }
+
+        .badge-yt    { background: #FF0000; color: white; }
+        .badge-cpe   { background: #0066CC; color: white; }
+        .badge-sep   { background: #006847; color: white; }
+        .badge-tiktok{ background: #010101; color: white; }
+        .badge-web   { background: #6C3483; color: white; }
+        .badge-libro { background: #D4AC0D; color: white; }
+        .badge-platzi{ background: #98CA3F; color: #1a1a1a; }
 
         .pln-step-num {
             background: var(--rojo);
@@ -293,24 +370,10 @@
             margin-right: 16px;
         }
 
-        .pln-activity-card {
-            background: rgba(255, 255, 255, 0.6);
-            border-left: 5px solid #E2E8F0;
-            padding: 16px 20px;
-            border-radius: 0 16px 16px 0;
-            margin-bottom: 12px;
-            transition: all 0.2s ease;
-        }
-
-        .pln-activity-card:hover {
-            background: rgba(255, 255, 255, 0.9);
-            border-left-color: var(--rojo);
-        }
-
         /* Estilos del panel de administración PLN */
         .pln-admin-panel {
             width: 100%;
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(255, 255, 255, 0.97);
             border: 2px dashed var(--rojo);
             border-radius: 24px;
             padding: 24px;
@@ -329,9 +392,7 @@
             transition: border-color 0.2s ease;
         }
 
-        .pln-input:focus {
-            border-color: var(--rojo);
-        }
+        .pln-input:focus { border-color: var(--rojo); }
     </style>
 </head>
 
@@ -604,149 +665,108 @@
     <!-- SECCIÓN PLN (RED PERSONAL DE APRENDIZAJE) -->
     <section id="pln" class="slide">
         <div class="glass-container max-w-6xl">
-            <h2 class="text-4xl font-black text-red-700 mb-2 text-center">Mi Red Personal de Aprendizaje de Cultura Digital (PLN)</h2>
-            <p class="text-xl text-gray-800 font-bold mb-8 text-center">Recursos, conexiones e ideas para estudiantes de bachillerato</p>
+            <h2 class="text-4xl font-black text-red-700 mb-2 text-center">🎓 PLN de Cultura Digital</h2>
+            <p class="text-xl text-gray-800 font-bold mb-2 text-center">Red Personal de Aprendizaje — Marco Curricular Común SEP 2025</p>
+            <p class="text-sm text-gray-500 text-center mb-8">Propósitos formativos y recursos digitales curados por semestre · Bachillerato · Puebla, México</p>
 
-            <div class="bg-red-700/5 p-8 rounded-3xl border-l-[8px] border-red-700 text-left mb-10 w-full">
-                <h3 class="text-xl font-bold text-red-700 mb-2">¿Qué es una PLN?</h3>
-                <p class="text-gray-700 leading-relaxed text-sm">
-                    Una <strong>PLN (Red Personal de Aprendizaje)</strong> es el conjunto de herramientas, fuentes de información, conexiones y actividades que utilizamos de manera constante para aprender y mantenernos actualizados. Como docente de Cultura Digital, utilizo este ecosistema para integrar videos interactivos, artículos científicos, libros recomendados y casos del mundo real, facilitando que comprendas los conceptos técnicos fundamentales y los apliques en tu entorno académico y personal.
-                </p>
+            <!-- Leyenda de plataformas -->
+            <div class="flex flex-wrap gap-2 justify-center mb-10 w-full">
+                <span class="badge badge-yt px-3 py-1.5 rounded-lg text-xs font-bold">YouTube</span>
+                <span class="badge badge-platzi px-3 py-1.5 rounded-lg text-xs font-bold">Platzi</span>
+                <span class="badge badge-cpe px-3 py-1.5 rounded-lg text-xs font-bold">Capacítate p/ el Empleo</span>
+                <span class="badge badge-sep px-3 py-1.5 rounded-lg text-xs font-bold">SEP / Oficial</span>
+                <span class="badge badge-web px-3 py-1.5 rounded-lg text-xs font-bold">Web / Artículo</span>
+                <span class="badge badge-tiktok px-3 py-1.5 rounded-lg text-xs font-bold">TikTok / Redes</span>
+                <span class="badge badge-libro px-3 py-1.5 rounded-lg text-xs font-bold">Libro / Lectura</span>
             </div>
 
-            <!-- Grid de Tarjetas (Se llena dinámicamente con JavaScript) -->
-            <div id="pln-cards-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
+            <!-- Contenedor de semestres (se llena con JS) -->
+            <div id="pln-cards-grid" class="w-full">
                 <!-- Se llena con JS -->
             </div>
 
-            <!-- Cómo usar esta PLN en clase -->
-            <div class="w-full mt-16 bg-white p-8 rounded-3xl shadow-lg border-t-8 border-red-700">
-                <h3 class="text-3xl font-black text-red-700 mb-6">Cómo usar esta PLN en clase</h3>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div class="flex items-start">
-                        <div class="pln-step-num">1</div>
-                        <div>
-                            <h4 class="font-black text-lg text-gray-800">Exploración previa</h4>
-                            <p class="text-gray-600 text-sm mt-1">Antes de la sesión presencial, revisa el video recomendado o el artículo introductorio asignado en tu tarjeta del tema para familiarizarte con los términos clave.</p>
-                        </div>
-                    </div>
-                    <div class="flex items-start">
-                        <div class="pln-step-num">2</div>
-                        <div>
-                            <h4 class="font-black text-lg text-gray-800">Análisis y discusión en el aula</h4>
-                            <p class="text-gray-600 text-sm mt-1">Durante la clase presencial, planteamos preguntas sobre el recurso observado y resolvemos dudas específicas mediante simulaciones y debates grupales.</p>
-                        </div>
-                    </div>
-                    <div class="flex items-start">
-                        <div class="pln-step-num">3</div>
-                        <div>
-                            <h4 class="font-black text-lg text-gray-800">Construcción y profundización</h4>
-                            <p class="text-gray-600 text-sm mt-1">Utiliza el botón 'Ver mapa completo' para profundizar en los recursos adicionales de Pearltrees y recopilar datos para tus proyectos de clase.</p>
-                        </div>
-                    </div>
-                    <div class="flex items-start">
-                        <div class="pln-step-num">4</div>
-                        <div>
-                            <h4 class="font-black text-lg text-gray-800">Reflexión y bitácora</h4>
-                            <p class="text-gray-600 text-sm mt-1">Al terminar la clase, realiza una breve bitácora o reflexión digital en tu libreta o Notion, conectando lo aprendido con tus actividades cotidianas en tus dispositivos.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Actividades sugeridas -->
-            <div class="w-full mt-12">
-                <h3 class="text-3xl font-black text-red-700 mb-6">Actividades sugeridas</h3>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <div class="pln-activity-card">
-                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Higiene e Identidad Digital</h4>
-                        <p class="text-gray-700 text-sm leading-relaxed">Explora el tema de identidad digital y escribe tres riesgos y tres prácticas de higiene digital en tus redes sociales actuales.</p>
-                    </div>
-                    <div class="pln-activity-card">
-                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Diseño de Mini-prueba</h4>
-                        <p class="text-gray-700 text-sm leading-relaxed">Elige un video sobre fundamentos de programación y crea una pequeña prueba interactiva con 5 preguntas en Kahoot o Google Forms para tus compañeros.</p>
-                    </div>
-                    <div class="pln-activity-card">
-                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Arqueología del Smartphone</h4>
-                        <p class="text-gray-700 text-sm leading-relaxed">Investiga la historia de tu primer smartphone (o el de tus padres) y compárala con alguno de los recursos recomendados de evolución tecnológica.</p>
-                    </div>
-                    <div class="pln-activity-card">
-                        <h4 class="font-black text-lg text-red-700 mb-2">📌 Exploración en Pearltrees</h4>
-                        <p class="text-gray-700 text-sm leading-relaxed">Visita el Pearltrees docente y selecciona dos recursos de la categoría de 'Marca Personal' que podrías aplicar hoy para mejorar tu presencia académica en línea.</p>
-                    </div>
-                </div>
-            </div>
-
             <!-- PANEL DE CONTROL DOCENTE (ADMINISTRADOR PLN) -->
-            <div class="w-full mt-12">
+            <div class="w-full mt-10">
                 <button onclick="togglePlnAdmin()" class="bg-gray-800 hover:bg-black text-white px-6 py-3 rounded-xl font-bold text-sm shadow transition flex items-center gap-2">
-                    <i class="fas fa-cog"></i> Administrar Recursos de la PLN (Docente)
+                    <i class="fas fa-cog"></i> ⚙️ Panel del Docente — Administrar Recursos
                 </button>
-                
+
                 <div id="pln-admin-panel" class="pln-admin-panel hidden">
-                    <h3 class="text-xl font-black text-red-700 mb-4"><i class="fas fa-edit"></i> Panel de Configuración Docente</h3>
-                    <p class="text-sm text-gray-600 mb-6">Añade nuevos recursos a las tarjetas de temas o crea nuevas tarjetas. Cualquier cambio se guardará en tu navegador. Puedes copiar el código JSON exportado al final para pegarlo en tu archivo HTML permanentemente.</p>
-                    
+                    <h3 class="text-xl font-black text-red-700 mb-1"><i class="fas fa-edit"></i> Panel de Configuración Docente</h3>
+                    <p class="text-sm text-gray-600 mb-6">Agrega nuevos recursos con URL directa a cualquier semestre. Los cambios se guardan en Firebase y se reflejan en tiempo real para todos los estudiantes.</p>
+
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <!-- Formulario agregar recurso -->
                         <div class="bg-white p-6 rounded-2xl border border-gray-200">
-                            <h4 class="font-bold text-gray-800 mb-4">➕ Agregar Recurso a Tema Existente</h4>
-                            <div class="space-y-4">
+                            <h4 class="font-bold text-gray-800 mb-4">➕ Agregar Recurso con Link</h4>
+                            <div class="space-y-3">
                                 <div>
-                                    <label class="block text-xs font-bold text-gray-600 mb-1">Seleccionar Tema</label>
-                                    <select id="admin-select-topic" class="pln-input">
-                                        <!-- Se llena dinámicamente -->
-                                    </select>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Seleccionar Semestre / Tema</label>
+                                    <select id="admin-select-topic" class="pln-input"></select>
                                 </div>
                                 <div>
-                                    <label class="block text-xs font-bold text-gray-600 mb-1">Nombre del Recurso (ej. Video Platzi / Freddy Vega)</label>
-                                    <input type="text" id="admin-resource-name" class="pln-input" placeholder="Nombre descriptivo">
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Nombre descriptivo del recurso</label>
+                                    <input type="text" id="admin-resource-name" class="pln-input" placeholder="ej. Platzi – Cómo funciona el internet">
                                 </div>
                                 <div>
-                                    <label class="block text-xs font-bold text-gray-600 mb-1">Tipo de Recurso</label>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">URL del recurso (obligatoria)</label>
+                                    <input type="url" id="admin-resource-url" class="pln-input" placeholder="https://www.youtube.com/watch?v=...">
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Plataforma</label>
                                     <select id="admin-resource-type" class="pln-input">
-                                        <option value="video">📹 Video</option>
-                                        <option value="book">📚 Libro / Capítulo</option>
-                                        <option value="file">📄 Artículo / Documento</option>
-                                        <option value="globe">🌐 Sitio web / Enlace</option>
+                                        <option value="yt">▶ YouTube (canal educativo)</option>
+                                        <option value="platzi">🟢 Platzi</option>
+                                        <option value="cpe">🎓 Capacítate para el Empleo</option>
+                                        <option value="sep">🏛 SEP / Recurso Oficial</option>
+                                        <option value="web">🌐 Web / Artículo</option>
+                                        <option value="tiktok">🎵 TikTok / Red Social</option>
+                                        <option value="libro">📚 Libro / Lectura</option>
                                     </select>
                                 </div>
                                 <button onclick="addResource()" class="w-full bg-red-700 hover:bg-red-800 text-white py-3 rounded-xl font-bold text-sm transition">
-                                    Añadir Recurso
+                                    💾 Guardar en Firebase
                                 </button>
                             </div>
                         </div>
 
                         <!-- Formulario crear nuevo tema -->
                         <div class="bg-white p-6 rounded-2xl border border-gray-200">
-                            <h4 class="font-bold text-gray-800 mb-4">➕ Crear Nuevo Tema de la PLN</h4>
-                            <div class="space-y-4">
+                            <h4 class="font-bold text-gray-800 mb-4">➕ Crear Nuevo Bloque Temático</h4>
+                            <div class="space-y-3">
                                 <div>
-                                    <label class="block text-xs font-bold text-gray-600 mb-1">Nombre del Tema</label>
-                                    <input type="text" id="admin-topic-title" class="pln-input" placeholder="ej. Ciudadanía y Huella Digital">
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Título del bloque</label>
+                                    <input type="text" id="admin-topic-title" class="pln-input" placeholder="ej. Inteligencia Artificial en la Educación">
                                 </div>
                                 <div>
-                                    <label class="block text-xs font-bold text-gray-600 mb-1">Explicación para Bachillerato</label>
-                                    <textarea id="admin-topic-desc" class="pln-input h-24" placeholder="Breve explicación docente..."></textarea>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Semestre al que pertenece</label>
+                                    <select id="admin-topic-semester" class="pln-input">
+                                        <option value="1">Cultura Digital I – 1er Semestre</option>
+                                        <option value="2">Cultura Digital II – 2do Semestre</option>
+                                        <option value="3">Cultura Digital III – 6to Semestre</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Propósito formativo SEP</label>
+                                    <textarea id="admin-topic-desc" class="pln-input h-20" placeholder="Describe el propósito que cubre este tema..."></textarea>
                                 </div>
                                 <button onclick="addNewTopic()" class="w-full bg-gray-900 hover:bg-black text-white py-3 rounded-xl font-bold text-sm transition">
-                                    Crear Tema
+                                    Crear Bloque
                                 </button>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Exportación de código JSON -->
-                    <div class="mt-8 bg-gray-50 p-6 rounded-2xl border border-gray-200">
-                        <h4 class="font-bold text-gray-800 mb-2">📋 Guardar Cambios Permanentes (GitHub Pages)</h4>
-                        <p class="text-xs text-gray-600 mb-4">Copia este código y reemplázalo en la variable <code>plnData</code> dentro del bloque de script de tu archivo <code>index.html</code> para que todos tus visitantes lo vean.</p>
-                        <textarea id="admin-json-export" class="w-full h-32 pln-input font-mono text-xs mb-4" readonly onclick="this.select()"></textarea>
-                        <div class="flex gap-4 flex-wrap">
-                            <button onclick="copyJsonCode()" class="bg-red-700 hover:bg-red-800 text-white px-6 py-2 rounded-xl font-bold text-xs transition">
-                                <i class="fas fa-copy mr-1"></i> Copiar Código JSON
+                    <!-- Exportación JSON -->
+                    <div class="mt-6 bg-gray-50 p-6 rounded-2xl border border-gray-200">
+                        <h4 class="font-bold text-gray-800 mb-2">📋 Exportar configuración actual</h4>
+                        <textarea id="admin-json-export" class="w-full h-28 pln-input font-mono text-xs mb-4" readonly onclick="this.select()"></textarea>
+                        <div class="flex gap-3 flex-wrap">
+                            <button onclick="copyJsonCode()" class="bg-red-700 hover:bg-red-800 text-white px-5 py-2 rounded-xl font-bold text-xs transition">
+                                <i class="fas fa-copy mr-1"></i> Copiar JSON
                             </button>
-                            <button onclick="resetPlnData()" class="bg-gray-200 hover:bg-gray-300 text-gray-800 px-6 py-2 rounded-xl font-bold text-xs transition">
-                                <i class="fas fa-undo mr-1"></i> Restaurar Valores Originales
+                            <button onclick="resetPlnData()" class="bg-gray-200 hover:bg-gray-300 text-gray-800 px-5 py-2 rounded-xl font-bold text-xs transition">
+                                <i class="fas fa-undo mr-1"></i> Restaurar originales SEP
                             </button>
                         </div>
                     </div>
@@ -755,7 +775,7 @@
 
             <!-- Botones de Navegación -->
             <div class="mt-12 flex gap-4 justify-center flex-wrap">
-                <button onclick="nav('portada')" class="text-gray-500 font-bold hover:text-red-700 py-4 px-6">Volver al Inicio</button>
+                <button onclick="nav('portada')" class="text-gray-500 font-bold hover:text-red-700 py-4 px-6">← Volver al Inicio</button>
                 <button onclick="nav('ecosistema')" class="bg-red-700 text-white px-10 py-4 rounded-full font-bold shadow-lg hover:scale-105 transition">
                     Explorar Ecosistema <i class="fas fa-rocket ml-2"></i>
                 </button>
@@ -995,65 +1015,164 @@
         }
 
         // --- CÓDIGO DE ADMINISTRACIÓN Y RENDERIZADO DE PLN CON FIREBASE ---
+        // Estructura por semestre del MCC SEP 2025 — Cultura Digital Bachillerato
         const plnDataDefault = [
+            // ============ CULTURA DIGITAL I — 1er Semestre ============
             {
-                id: "internet",
-                title: "Cómo funciona Internet",
-                desc: "Exploramos la infraestructura global que permite conectar al mundo. Desde cables submarinos y servidores DNS hasta el viaje de los paquetes de datos y el protocolo TCP/IP, explicados de forma sencilla y visual.",
+                id: "cd1-ciudadania",
+                title: "Ciudadanía Digital y Ética en la Red",
+                semester: 1,
+                purposes: [
+                    "Reconocer los derechos y responsabilidades como ciudadano digital.",
+                    "Identificar normas de netiqueta y convivencia ética en el ciberespacio.",
+                    "Distinguir el impacto social y cultural de las TICCAD en la vida cotidiana.",
+                    "Analizar la relación entre tecnología, soberanía y bienestar colectivo."
+                ],
                 resources: [
-                    { name: "Video Platzi / Freddy Vega", type: "video" },
-                    { name: "Capítulo: Redes de computadoras", type: "book" },
-                    { name: "Sitio: Code.org (How Internet Works)", type: "globe" }
+                    { name: "Platzi – Qué es la identidad digital y cómo te afecta", type: "platzi", url: "https://www.youtube.com/@Platzi" },
+                    { name: "Capacítate – Habilidades Digitales Básicas (Carlos Slim)", type: "cpe", url: "https://capacitateparaelempleo.org" },
+                    { name: "SEP – Libros de texto Cultura Digital I", type: "sep", url: "https://www.sep.gob.mx/es/sep1/MCCEMS" },
+                    { name: "YouTube – Qué es la ciudadanía digital (EDteam)", type: "yt", url: "https://www.youtube.com/watch?v=FVIF-jvjxdc" }
                 ]
             },
             {
-                id: "computadoras",
-                title: "Computadoras y sistemas",
-                desc: "Entendemos el hardware y el software que dan vida a nuestros dispositivos. Analizamos la CPU, la memoria RAM, el almacenamiento y cómo el sistema operativo coordina todo para ejecutar nuestras aplicaciones cotidianas.",
+                id: "cd1-seguridad",
+                title: "Seguridad Digital e Identidad en Línea",
+                semester: 1,
+                purposes: [
+                    "Comprender qué es la huella digital y cómo protegerla.",
+                    "Aplicar prácticas de higiene digital: contraseñas, privacidad, phishing.",
+                    "Reconocer el ciberacoso, el sexting y riesgos en redes sociales.",
+                    "Configurar ajustes de privacidad en dispositivos y plataformas."
+                ],
                 resources: [
-                    { name: "Video / Crash Course Computer Science", type: "video" },
-                    { name: "Artículo: Arquitectura de Von Neumann", type: "file" },
-                    { name: "Sitio: HowStuffWorks (Hardware)", type: "globe" }
+                    { name: "Platzi – Cómo protegerte en internet (YouTube)", type: "platzi", url: "https://www.youtube.com/watch?v=Jm9qKz7Kq7c" },
+                    { name: "Capacítate – Fundamentos de Seguridad Informática", type: "cpe", url: "https://capacitateparaelempleo.org/categoria/tecnologia" },
+                    { name: "YouTube – Ciberseguridad básica para jóvenes (Platzi)", type: "yt", url: "https://www.youtube.com/watch?v=a2fYXIF11HU" },
+                    { name: "Web – OSI: Oficina de Seguridad del Internauta", type: "web", url: "https://www.osi.es/es/que-es-osi" }
                 ]
             },
             {
-                id: "smartphone",
-                title: "Historia del smartphone",
-                desc: "El dispositivo más revolucionario de nuestro siglo. Desde los primeros teléfonos celulares analógicos hasta las supercomputadoras de bolsillo actuales, analizando su evolución tecnológica y su impacto social.",
+                id: "cd1-hardware",
+                title: "Hardware, Software y Evolución Tecnológica",
+                semester: 1,
+                purposes: [
+                    "Identificar los componentes de hardware y software de los dispositivos actuales.",
+                    "Reconocer la historia de las computadoras y su evolución hasta los smartphones.",
+                    "Distinguir entre software libre y software privativo.",
+                    "Comprender los sistemas operativos y sus funciones básicas."
+                ],
                 resources: [
-                    { name: "Video: Evolución del iPhone y Android", type: "video" },
-                    { name: "Libro: La sociedad del smartphone", type: "book" },
-                    { name: "Artículo: Brecha digital en media superior", type: "file" }
+                    { name: "YouTube – Historia de las computadoras (Crash Course en español)", type: "yt", url: "https://www.youtube.com/watch?v=O5nskjZ_GoI" },
+                    { name: "Capacítate – Cómputo Básico (Fundación Carlos Slim)", type: "cpe", url: "https://capacitateparaelempleo.org" },
+                    { name: "Platzi – Fundamentos de Ingeniería de Software", type: "platzi", url: "https://platzi.com/cursos/ingenieria/" },
+                    { name: "YouTube – Qué es el software libre (LibrePlanet)", type: "yt", url: "https://www.youtube.com/watch?v=UUJ0dFpj1-M" }
+                ]
+            },
+
+            // ============ CULTURA DIGITAL II — 2do Semestre ============
+            {
+                id: "cd2-colaboracion",
+                title: "Aprendizaje Colaborativo y Herramientas Digitales Libres",
+                semester: 2,
+                purposes: [
+                    "Usar herramientas digitales libres para crear y colaborar (Cryptpad, Riseup Pad).",
+                    "Trabajar en equipo mediante entornos digitales de edición simultánea.",
+                    "Producir documentos y presentaciones de forma colaborativa en la nube.",
+                    "Aplicar la netiqueta en espacios de trabajo digital compartido."
+                ],
+                resources: [
+                    { name: "YouTube – Google Workspace colaborativo para bachillerato", type: "yt", url: "https://www.youtube.com/watch?v=3Bc8GFXKBDE" },
+                    { name: "Capacítate – Ofimática y Trabajo en Equipo Digital", type: "cpe", url: "https://capacitateparaelempleo.org/categoria/tecnologia" },
+                    { name: "Web – Cryptpad: Colaboración sin vigilancia", type: "web", url: "https://cryptpad.fr" },
+                    { name: "Platzi – Curso de Google Workspace (Drive, Docs, Slides)", type: "platzi", url: "https://platzi.com/cursos/google-workspace/" }
                 ]
             },
             {
-                id: "seguridad",
-                title: "Identidad digital y seguridad",
-                desc: "Tu huella digital en la red es permanente. Aprendemos prácticas de higiene digital, configuración de privacidad, prevención de riesgos como el phishing y cómo construir una reputación en línea positiva y segura.",
+                id: "cd2-datos",
+                title: "Gestión de Datos e Información Digital",
+                semester: 2,
+                purposes: [
+                    "Organizar y procesar información utilizando hojas de cálculo y bases de datos sencillas.",
+                    "Distinguir entre dato, información y conocimiento digital.",
+                    "Evaluar la confiabilidad y veracidad de fuentes en internet.",
+                    "Comprender el funcionamiento de los algoritmos de búsqueda y redes sociales."
+                ],
                 resources: [
-                    { name: "Video / Guía de ciberseguridad para jóvenes", type: "video" },
-                    { name: "Artículo: Huella digital en adolescentes", type: "file" },
-                    { name: "Sitio: Oficina de Seguridad del Internauta", type: "globe" }
+                    { name: "Platzi – Cómo funcionan los algoritmos de redes sociales", type: "platzi", url: "https://www.youtube.com/@Platzi" },
+                    { name: "YouTube – Fake News y verificación de información (España)", type: "yt", url: "https://www.youtube.com/watch?v=WpVHaTDLwRE" },
+                    { name: "Capacítate – Manejo de Datos con Excel", type: "cpe", url: "https://capacitateparaelempleo.org/categoria/tecnologia" },
+                    { name: "YouTube – Aprende a buscar en Google como experto", type: "yt", url: "https://www.youtube.com/watch?v=erZ3IyBCXdY" }
                 ]
             },
             {
-                id: "marca",
-                title: "Marca personal",
-                desc: "El currículum del futuro ya no es papel. Enseñamos a los estudiantes a destacar sus talentos, proyectos escolares y habilidades mediante el uso estratégico de redes profesionales y portafolios digitales como GitHub.",
+                id: "cd2-contenido",
+                title: "Creación de Contenidos y Marca Personal Digital",
+                semester: 2,
+                purposes: [
+                    "Producir contenidos digitales con responsabilidad y creatividad.",
+                    "Construir una identidad digital profesional y positiva en redes.",
+                    "Conocer los derechos de autor, licencias Creative Commons y propiedad intelectual.",
+                    "Diseñar un portafolio digital básico que muestre habilidades académicas."
+                ],
                 resources: [
-                    { name: "Video: Cómo crear tu marca personal", type: "video" },
-                    { name: "Libro: Muestra tu trabajo / Austin Kleon", type: "book" },
-                    { name: "Sitio: Guías de portafolios en GitHub Pages", type: "globe" }
+                    { name: "Platzi – Crea tu marca personal desde cero (YouTube)", type: "platzi", url: "https://www.youtube.com/watch?v=6bxdFfFGHyM" },
+                    { name: "YouTube – Licencias Creative Commons explicadas fácil", type: "yt", url: "https://www.youtube.com/watch?v=HRoM9PEDfaM" },
+                    { name: "Capacítate – Comunicación Digital y Redes Sociales", type: "cpe", url: "https://capacitateparaelempleo.org" },
+                    { name: "TikTok – @platzi (tips de marca personal y tecnología)", type: "tiktok", url: "https://www.tiktok.com/@platzi" }
+                ]
+            },
+
+            // ============ CULTURA DIGITAL III — 6to Semestre ============
+            {
+                id: "cd3-pensamiento",
+                title: "Pensamiento Computacional y Programación Básica",
+                semester: 3,
+                purposes: [
+                    "Aplicar el pensamiento computacional para resolver problemas de la vida real.",
+                    "Comprender los fundamentos de algoritmos, variables, ciclos y funciones.",
+                    "Construir programas simples usando entornos visuales (Scratch) o lenguajes básicos.",
+                    "Desarrollar proyectos digitales colaborativos con impacto social."
+                ],
+                resources: [
+                    { name: "Platzi – Curso de Programación Básica (gratis)", type: "platzi", url: "https://platzi.com/cursos/programacion-basica/" },
+                    { name: "YouTube – Aprende a programar con Scratch (en español)", type: "yt", url: "https://www.youtube.com/watch?v=JxJ_pYPPkoo" },
+                    { name: "Capacítate – Programador Orientado a Objetos (Carlos Slim)", type: "cpe", url: "https://capacitateparaelempleo.org/categoria/tecnologia" },
+                    { name: "Web – Code.org: Introducción a la Ciencia Computacional", type: "web", url: "https://code.org/educate/curriculum/express-course" }
                 ]
             },
             {
-                id: "programacion",
-                title: "Fundamentos de programación",
-                desc: "La programación es el superpoder de crear soluciones. Introducimos conceptos básicos como algoritmos, variables, condicionales, ciclos y cómo el pensamiento computacional te ayuda a estructurar problemas.",
+                id: "cd3-redes",
+                title: "Cómo Funciona Internet y las Redes Digitales",
+                semester: 3,
+                purposes: [
+                    "Explicar cómo funciona internet: protocolos TCP/IP, DNS, servidores y paquetes de datos.",
+                    "Distinguir entre la web superficial, la web profunda y sus implicaciones éticas.",
+                    "Comprender el Internet de las Cosas (IoT) y la inteligencia artificial básica.",
+                    "Analizar el impacto medioambiental de la infraestructura digital global."
+                ],
                 resources: [
-                    { name: "Video Platzi / Qué es la programación", type: "video" },
-                    { name: "Sitio: FreeCodeCamp / Scratch", type: "globe" },
-                    { name: "Libro / Introducción a algoritmos sencillos", type: "book" }
+                    { name: "YouTube – Cómo funciona el internet (Platzi / Freddy Vega)", type: "yt", url: "https://www.youtube.com/watch?v=_9-NtYAP6uc" },
+                    { name: "Platzi – Fundamentos de Redes e Internet", type: "platzi", url: "https://platzi.com/cursos/redes/" },
+                    { name: "YouTube – Internet de las Cosas explicado para bachillerato", type: "yt", url: "https://www.youtube.com/watch?v=QSIPNhOiMoE" },
+                    { name: "Capacítate – Técnico en Redes IP (Fundación Carlos Slim)", type: "cpe", url: "https://capacitateparaelempleo.org/categoria/tecnologia" }
+                ]
+            },
+            {
+                id: "cd3-difusion",
+                title: "Difusión del Conocimiento y Ciudadanía Digital Avanzada",
+                semester: 3,
+                purposes: [
+                    "Construir y publicar conocimiento en plataformas digitales abiertas.",
+                    "Participar en comunidades virtuales de aprendizaje con ética y responsabilidad.",
+                    "Usar herramientas de IA generativa de forma crítica y responsable.",
+                    "Reflexionar sobre la soberanía tecnológica y el futuro del trabajo digital."
+                ],
+                resources: [
+                    { name: "Platzi – Inteligencia Artificial para todos (YouTube)", type: "platzi", url: "https://www.youtube.com/watch?v=Jm9qKz7Kq7c" },
+                    { name: "Capacítate – Introducción a la Inteligencia Artificial", type: "cpe", url: "https://capacitateparaelempleo.org/categoria/tecnologia" },
+                    { name: "YouTube – El futuro del trabajo y las habilidades digitales", type: "yt", url: "https://www.youtube.com/watch?v=7Pq-S557XQU" },
+                    { name: "TikTok – @midudev (programación y tecnología en español)", type: "tiktok", url: "https://www.tiktok.com/@midudev" }
                 ]
             }
         ];
@@ -1085,14 +1204,16 @@
                             id: doc.id,
                             title: data.title,
                             desc: data.desc,
+                            purposes: data.purposes || (data.desc ? [data.desc] : []),
                             resources: data.resources || [],
+                            semester: data.semester || 1,
                             order: data.order
                         });
                     }
                 });
 
                 if (fetchedData.length === 0) {
-                    console.log("Firestore vacío, subiendo plantilla inicial...");
+                    console.log("Firestore vacío, subiendo plantilla inicial SEP MCC 2025...");
                     uploadDefaultTemplate();
                 } else {
                     plnData = fetchedData;
@@ -1109,60 +1230,122 @@
                     const topic = plnDataDefault[i];
                     await db.collection("pln_topics").doc(topic.id).set({
                         title: topic.title,
-                        desc: topic.desc,
+                        purposes: topic.purposes || [],
                         resources: topic.resources,
+                        semester: topic.semester || 1,
                         order: i,
                         passcode: passcode,
                         deleted: false
                     });
                 }
-                console.log("Datos de la PLN inicializados en Firestore.");
+                console.log("PLN MCC SEP 2025 inicializada en Firestore.");
             } catch (e) {
-                console.error("Fallo al subir datos iniciales en Firestore:", e);
+                console.error("Fallo al subir plantilla SEP en Firestore:", e);
             }
         }
 
-        function getResourceIcon(type) {
+        // Helpers de recursos
+        function getPlatformBadge(type) {
             switch (type) {
-                case 'video': return 'fa-video';
-                case 'book': return 'fa-book';
-                case 'file': return 'fa-file-alt';
-                case 'globe': return 'fa-globe';
-                default: return 'fa-bookmark';
+                case 'yt':     return '<span class="badge badge-yt">YouTube</span>';
+                case 'platzi': return '<span class="badge badge-platzi">Platzi</span>';
+                case 'cpe':    return '<span class="badge badge-cpe">Capacítate</span>';
+                case 'sep':    return '<span class="badge badge-sep">SEP</span>';
+                case 'tiktok': return '<span class="badge badge-tiktok">TikTok</span>';
+                case 'libro':  return '<span class="badge badge-libro">Libro</span>';
+                default:       return '<span class="badge badge-web">Web</span>';
             }
+        }
+
+        function getPlatformIcon(type) {
+            switch (type) {
+                case 'yt':     return 'fa-brands fa-youtube';
+                case 'platzi': return 'fas fa-graduation-cap';
+                case 'cpe':    return 'fas fa-university';
+                case 'sep':    return 'fas fa-landmark';
+                case 'tiktok': return 'fa-brands fa-tiktok';
+                case 'libro':  return 'fas fa-book';
+                default:       return 'fas fa-globe';
+            }
+        }
+
+        function getSemesterConfig(sem) {
+            const configs = {
+                1: { cls: 'sem1', label: '1er Semestre', emoji: '📗', title: 'Cultura Digital I — Ciudadanía Digital' },
+                2: { cls: 'sem2', label: '2do Semestre', emoji: '📘', title: 'Cultura Digital II — Aprendizaje Colaborativo' },
+                3: { cls: 'sem3', label: '6to Semestre', emoji: '📙', title: 'Cultura Digital III — Uso y Difusión del Conocimiento' }
+            };
+            return configs[sem] || { cls: 'sem1', label: 'Semestre', emoji: '📚', title: 'Cultura Digital' };
         }
 
         function renderPLN() {
             const grid = document.getElementById('pln-cards-grid');
             const selectTopic = document.getElementById('admin-select-topic');
-            
+
             if (!grid) return;
 
-            // Renderizar Tarjetas
-            grid.innerHTML = plnData.map(topic => {
-                const tagsHtml = topic.resources.map(res => `
-                    <span class="pln-tag">
-                        <i class="fas ${getResourceIcon(res.type)} mr-1.5 text-red-600"></i> ${res.name}
-                    </span>
-                `).join('');
+            // Agrupar por semestre
+            const bySemester = {};
+            plnData.forEach(topic => {
+                const sem = topic.semester || 1;
+                if (!bySemester[sem]) bySemester[sem] = [];
+                bySemester[sem].push(topic);
+            });
 
-                return `
-                    <div class="pln-card">
+            let html = '';
+            [1, 2, 3].forEach(sem => {
+                const topics = bySemester[sem];
+                if (!topics || topics.length === 0) return;
+                const cfg = getSemesterConfig(sem);
+
+                html += `
+                <div class="pln-semester-wrapper">
+                    <div class="pln-semester-header ${cfg.cls}">
+                        <span style="font-size:1.8rem">${cfg.emoji}</span>
                         <div>
-                            <h4 class="pln-title">${topic.title}</h4>
-                            <p class="pln-desc">${topic.desc}</p>
-                            <div class="pln-tags-container">
-                                ${tagsHtml}
+                            <div>${cfg.title}</div>
+                            <div style="font-size:0.75rem;opacity:0.85;font-weight:500;margin-top:2px">Marco Curricular Común — SEP 2025</div>
+                        </div>
+                        <span class="pln-semester-badge ml-auto">${cfg.label}</span>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                `;
+
+                topics.forEach(topic => {
+                    const purposesHtml = (topic.purposes || []).map(p => `<li>${p}</li>`).join('');
+                    const resourcesHtml = (topic.resources || []).map(res => {
+                        const url = res.url || '#';
+                        const target = url !== '#' ? 'target="_blank" rel="noopener"' : '';
+                        const icon = getPlatformIcon(res.type);
+                        const badge = getPlatformBadge(res.type);
+                        return `
+                            <a href="${url}" ${target} class="pln-resource-link">
+                                <i class="${icon}" style="width:14px;text-align:center"></i>
+                                <span style="flex:1">${res.name}</span>
+                                ${badge}
+                            </a>
+                        `;
+                    }).join('');
+
+                    html += `
+                        <div class="pln-card ${cfg.cls}">
+                            <div class="pln-card-body">
+                                <h4 class="pln-title ${cfg.cls}">${topic.title}</h4>
+                                <div class="pln-purpose-label">Propósitos formativos SEP</div>
+                                <ul class="pln-purpose-list ${cfg.cls}">${purposesHtml}</ul>
+                                <div class="pln-purpose-label" style="margin-top:16px">Recursos digitales curados</div>
+                                <div>${resourcesHtml}</div>
                             </div>
                         </div>
-                        <a href="https://www.pearltrees.com/josemendozam" target="_blank" class="pln-btn">
-                            Ver mapa completo <i class="fas fa-external-link-alt ml-1 text-xs"></i>
-                        </a>
-                    </div>
-                `;
-            }).join('');
+                    `;
+                });
 
-            // Renderizar Opciones del Select
+                html += `</div></div>`;
+            });
+
+            grid.innerHTML = html;
+
+            // Llenar select del panel admin
             if (selectTopic) {
                 selectTopic.innerHTML = plnData.map(topic => `
                     <option value="${topic.id}">${topic.title}</option>
@@ -1175,7 +1358,8 @@
                 jsonTextarea.value = JSON.stringify(plnData.map(t => ({
                     id: t.id,
                     title: t.title,
-                    desc: t.desc,
+                    semester: t.semester,
+                    purposes: t.purposes,
                     resources: t.resources
                 })), null, 2);
             }
@@ -1191,10 +1375,11 @@
         async function addResource() {
             const topicId = document.getElementById('admin-select-topic').value;
             const name = document.getElementById('admin-resource-name').value.trim();
+            const url = document.getElementById('admin-resource-url').value.trim();
             const type = document.getElementById('admin-resource-type').value;
 
-            if (!name) {
-                alert('Por favor, introduce el nombre del recurso.');
+            if (!name || !url) {
+                alert('Por favor, completa el nombre y la URL del recurso.');
                 return;
             }
 
@@ -1203,14 +1388,15 @@
 
             const topic = plnData.find(t => t.id === topicId);
             if (topic) {
-                const updatedResources = [...topic.resources, { name, type }];
+                const updatedResources = [...topic.resources, { name, type, url }];
                 try {
                     await db.collection("pln_topics").doc(topicId).update({
                         resources: updatedResources,
                         passcode: passcode
                     });
                     document.getElementById('admin-resource-name').value = '';
-                    alert('Recurso agregado correctamente en Firestore.');
+                    document.getElementById('admin-resource-url').value = '';
+                    alert('✅ Recurso agregado correctamente en Firestore.');
                 } catch (e) {
                     console.error(e);
                     alert('Error al guardar en Firestore. Verifica que tu clave docente sea correcta.');
@@ -1221,34 +1407,37 @@
         async function addNewTopic() {
             const title = document.getElementById('admin-topic-title').value.trim();
             const desc = document.getElementById('admin-topic-desc').value.trim();
+            const semesterEl = document.getElementById('admin-topic-semester');
+            const semester = semesterEl ? parseInt(semesterEl.value) : 1;
 
-            if (!title || !desc) {
-                alert('Por favor, completa el título y la explicación del tema.');
+            if (!title) {
+                alert('Por favor, completa el título del bloque temático.');
                 return;
             }
 
-            const passcode = prompt('Introduce la Clave Docente para crear el tema:');
+            const passcode = prompt('Introduce la Clave Docente para crear el bloque:');
             if (!passcode) return;
 
             const id = 'custom-' + title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-            
+
             if (plnData.some(t => t.id === id)) {
-                alert('Ya existe un tema con un nombre similar.');
+                alert('Ya existe un bloque con un nombre similar.');
                 return;
             }
 
             try {
                 await db.collection("pln_topics").doc(id).set({
                     title: title,
-                    desc: desc,
+                    purposes: desc ? [desc] : [],
                     resources: [],
+                    semester: semester,
                     order: plnData.length,
                     passcode: passcode,
                     deleted: false
                 });
                 document.getElementById('admin-topic-title').value = '';
                 document.getElementById('admin-topic-desc').value = '';
-                alert('Nuevo tema creado en Firestore correctamente.');
+                alert('✅ Nuevo bloque creado en Firestore correctamente.');
             } catch (e) {
                 console.error(e);
                 alert('Error al guardar en Firestore. Verifica tu clave docente.');
@@ -1261,13 +1450,14 @@
                 if (!passcode) return;
 
                 try {
-                    // 1. Restaurar los 6 originales
+                    // 1. Restaurar los 9 originales (3 por semestre MCC SEP 2025)
                     for (let i = 0; i < plnDataDefault.length; i++) {
                         const topic = plnDataDefault[i];
                         await db.collection("pln_topics").doc(topic.id).set({
                             title: topic.title,
-                            desc: topic.desc,
+                            purposes: topic.purposes || [],
                             resources: topic.resources,
+                            semester: topic.semester || 1,
                             order: i,
                             passcode: passcode,
                             deleted: false

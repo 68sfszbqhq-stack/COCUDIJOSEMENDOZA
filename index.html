@@ -774,6 +774,10 @@
         </div>
     </div>
 
+    <!-- Firebase SDK (Compat v9/v10 para compatibilidad directa sin compiladores) -->
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
+
     <script>
         // Navegación
         function nav(id) {
@@ -990,7 +994,7 @@
             document.getElementById('modal').style.display = 'none';
         }
 
-        // --- CÓDIGO DE ADMINISTRACIÓN Y RENDERIZADO DE PLN ---
+        // --- CÓDIGO DE ADMINISTRACIÓN Y RENDERIZADO DE PLN CON FIREBASE ---
         const plnDataDefault = [
             {
                 id: "internet",
@@ -1054,34 +1058,69 @@
             }
         ];
 
-        // Funciones auxiliares de persistencia con control de excepciones para navegadores con restricciones
-        function loadPlnData() {
+        // Inicializar Firebase
+        const firebaseConfig = {
+            projectId: "cocudijosemendoza",
+            appId: "1:538290327743:web:bff2b69b020184a181360a",
+            storageBucket: "cocudijosemendoza.firebasestorage.app",
+            apiKey: "AIzaSyBOID4njPzWTq-32BBzhQVWM3RRQp7izbI",
+            authDomain: "cocudijosemendoza.firebaseapp.com",
+            messagingSenderId: "538290327743"
+        };
+
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore();
+
+        let plnData = [];
+
+        // Conectar escucha en tiempo real de Firestore
+        db.collection("pln_topics")
+            .orderBy("order", "asc")
+            .onSnapshot((snapshot) => {
+                const fetchedData = [];
+                snapshot.forEach((doc) => {
+                    const data = doc.data();
+                    if (!data.deleted) {
+                        fetchedData.push({
+                            id: doc.id,
+                            title: data.title,
+                            desc: data.desc,
+                            resources: data.resources || [],
+                            order: data.order
+                        });
+                    }
+                });
+
+                if (fetchedData.length === 0) {
+                    console.log("Firestore vacío, subiendo plantilla inicial...");
+                    uploadDefaultTemplate();
+                } else {
+                    plnData = fetchedData;
+                    renderPLN();
+                }
+            }, (error) => {
+                console.error("Error al suscribirse a Firestore:", error);
+            });
+
+        async function uploadDefaultTemplate() {
+            const passcode = "ClaveDocente2026";
             try {
-                const stored = localStorage.getItem('plnData');
-                return stored ? JSON.parse(stored) : JSON.parse(JSON.stringify(plnDataDefault));
+                for (let i = 0; i < plnDataDefault.length; i++) {
+                    const topic = plnDataDefault[i];
+                    await db.collection("pln_topics").doc(topic.id).set({
+                        title: topic.title,
+                        desc: topic.desc,
+                        resources: topic.resources,
+                        order: i,
+                        passcode: passcode,
+                        deleted: false
+                    });
+                }
+                console.log("Datos de la PLN inicializados en Firestore.");
             } catch (e) {
-                console.warn("localStorage no está disponible en este navegador:", e);
-                return JSON.parse(JSON.stringify(plnDataDefault));
+                console.error("Fallo al subir datos iniciales en Firestore:", e);
             }
         }
-
-        function savePlnData(data) {
-            try {
-                localStorage.setItem('plnData', JSON.stringify(data));
-            } catch (e) {
-                console.warn("No se pudo guardar en localStorage:", e);
-            }
-        }
-
-        function clearPlnData() {
-            try {
-                localStorage.removeItem('plnData');
-            } catch (e) {
-                console.warn("No se pudo limpiar localStorage:", e);
-            }
-        }
-
-        let plnData = loadPlnData();
 
         function getResourceIcon(type) {
             switch (type) {
@@ -1133,7 +1172,12 @@
             // Exportar JSON
             const jsonTextarea = document.getElementById('admin-json-export');
             if (jsonTextarea) {
-                jsonTextarea.value = JSON.stringify(plnData, null, 2);
+                jsonTextarea.value = JSON.stringify(plnData.map(t => ({
+                    id: t.id,
+                    title: t.title,
+                    desc: t.desc,
+                    resources: t.resources
+                })), null, 2);
             }
         }
 
@@ -1144,7 +1188,7 @@
             }
         }
 
-        function addResource() {
+        async function addResource() {
             const topicId = document.getElementById('admin-select-topic').value;
             const name = document.getElementById('admin-resource-name').value.trim();
             const type = document.getElementById('admin-resource-type').value;
@@ -1154,17 +1198,27 @@
                 return;
             }
 
+            const passcode = prompt('Introduce la Clave Docente para guardar los cambios:');
+            if (!passcode) return;
+
             const topic = plnData.find(t => t.id === topicId);
             if (topic) {
-                topic.resources.push({ name, type });
-                savePlnData(plnData);
-                renderPLN();
-                document.getElementById('admin-resource-name').value = '';
-                alert('Recurso agregado correctamente.');
+                const updatedResources = [...topic.resources, { name, type }];
+                try {
+                    await db.collection("pln_topics").doc(topicId).update({
+                        resources: updatedResources,
+                        passcode: passcode
+                    });
+                    document.getElementById('admin-resource-name').value = '';
+                    alert('Recurso agregado correctamente en Firestore.');
+                } catch (e) {
+                    console.error(e);
+                    alert('Error al guardar en Firestore. Verifica que tu clave docente sea correcta.');
+                }
             }
         }
 
-        function addNewTopic() {
+        async function addNewTopic() {
             const title = document.getElementById('admin-topic-title').value.trim();
             const desc = document.getElementById('admin-topic-desc').value.trim();
 
@@ -1173,6 +1227,9 @@
                 return;
             }
 
+            const passcode = prompt('Introduce la Clave Docente para crear el tema:');
+            if (!passcode) return;
+
             const id = 'custom-' + title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
             
             if (plnData.some(t => t.id === id)) {
@@ -1180,27 +1237,55 @@
                 return;
             }
 
-            plnData.push({
-                id,
-                title,
-                desc,
-                resources: []
-            });
-
-            savePlnData(plnData);
-            renderPLN();
-
-            document.getElementById('admin-topic-title').value = '';
-            document.getElementById('admin-topic-desc').value = '';
-            alert('Nuevo tema creado correctamente.');
+            try {
+                await db.collection("pln_topics").doc(id).set({
+                    title: title,
+                    desc: desc,
+                    resources: [],
+                    order: plnData.length,
+                    passcode: passcode,
+                    deleted: false
+                });
+                document.getElementById('admin-topic-title').value = '';
+                document.getElementById('admin-topic-desc').value = '';
+                alert('Nuevo tema creado en Firestore correctamente.');
+            } catch (e) {
+                console.error(e);
+                alert('Error al guardar en Firestore. Verifica tu clave docente.');
+            }
         }
 
-        function resetPlnData() {
-            if (confirm('¿Estás seguro de restaurar los valores originales? Esto eliminará todos tus recursos y temas personalizados.')) {
-                clearPlnData();
-                plnData = JSON.parse(JSON.stringify(plnDataDefault));
-                renderPLN();
-                alert('Valores predeterminados restaurados.');
+        async function resetPlnData() {
+            if (confirm('¿Estás seguro de restaurar los valores originales? Esto restablecerá todos tus recursos y marcará los temas personalizados como inactivos en Firestore.')) {
+                const passcode = prompt('Introduce la Clave Docente para confirmar la restauración:');
+                if (!passcode) return;
+
+                try {
+                    // 1. Restaurar los 6 originales
+                    for (let i = 0; i < plnDataDefault.length; i++) {
+                        const topic = plnDataDefault[i];
+                        await db.collection("pln_topics").doc(topic.id).set({
+                            title: topic.title,
+                            desc: topic.desc,
+                            resources: topic.resources,
+                            order: i,
+                            passcode: passcode,
+                            deleted: false
+                        });
+                    }
+                    // 2. Marcar temas personalizados como eliminados
+                    const customTopics = plnData.filter(t => !plnDataDefault.some(d => d.id === t.id));
+                    for (let topic of customTopics) {
+                        await db.collection("pln_topics").doc(topic.id).update({
+                            deleted: true,
+                            passcode: passcode
+                        });
+                    }
+                    alert('Valores predeterminados restaurados en Firestore.');
+                } catch (e) {
+                    console.error(e);
+                    alert('Error al restaurar datos. Verifica tu clave docente.');
+                }
             }
         }
 
@@ -1210,10 +1295,10 @@
                 copyText.select();
                 navigator.clipboard.writeText(copyText.value)
                     .then(() => {
-                        alert('Código JSON copiado al portapapeles. Ahora puedes pegarlo en tu código index.html.');
+                        alert('Código JSON copiado al portapapeles.');
                     })
                     .catch(err => {
-                        alert('No se pudo copiar el código. Por favor, selecciónalo y cópialo manualmente.');
+                        alert('No se pudo copiar. Por favor, cópialo manualmente.');
                     });
             }
         }

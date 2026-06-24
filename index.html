@@ -1054,7 +1054,34 @@
             }
         ];
 
-        let plnData = JSON.parse(localStorage.getItem('plnData')) || JSON.parse(JSON.stringify(plnDataDefault));
+        // Funciones auxiliares de persistencia con control de excepciones para navegadores con restricciones
+        function loadPlnData() {
+            try {
+                const stored = localStorage.getItem('plnData');
+                return stored ? JSON.parse(stored) : JSON.parse(JSON.stringify(plnDataDefault));
+            } catch (e) {
+                console.warn("localStorage no está disponible en este navegador:", e);
+                return JSON.parse(JSON.stringify(plnDataDefault));
+            }
+        }
+
+        function savePlnData(data) {
+            try {
+                localStorage.setItem('plnData', JSON.stringify(data));
+            } catch (e) {
+                console.warn("No se pudo guardar en localStorage:", e);
+            }
+        }
+
+        function clearPlnData() {
+            try {
+                localStorage.removeItem('plnData');
+            } catch (e) {
+                console.warn("No se pudo limpiar localStorage:", e);
+            }
+        }
+
+        let plnData = loadPlnData();
 
         function getResourceIcon(type) {
             switch (type) {
@@ -1130,7 +1157,7 @@
             const topic = plnData.find(t => t.id === topicId);
             if (topic) {
                 topic.resources.push({ name, type });
-                localStorage.setItem('plnData', JSON.stringify(plnData));
+                savePlnData(plnData);
                 renderPLN();
                 document.getElementById('admin-resource-name').value = '';
                 alert('Recurso agregado correctamente.');
@@ -1160,7 +1187,7 @@
                 resources: []
             });
 
-            localStorage.setItem('plnData', JSON.stringify(plnData));
+            savePlnData(plnData);
             renderPLN();
 
             document.getElementById('admin-topic-title').value = '';
@@ -1170,7 +1197,7 @@
 
         function resetPlnData() {
             if (confirm('¿Estás seguro de restaurar los valores originales? Esto eliminará todos tus recursos y temas personalizados.')) {
-                localStorage.removeItem('plnData');
+                clearPlnData();
                 plnData = JSON.parse(JSON.stringify(plnDataDefault));
                 renderPLN();
                 alert('Valores predeterminados restaurados.');

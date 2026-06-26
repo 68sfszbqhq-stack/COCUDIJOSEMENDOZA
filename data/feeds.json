@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "generated": "2026-06-26T00:00:00Z",
+    "total": 0,
+    "note": "Ejecuta: cd scripts && python3 fetch_feeds.py  — este archivo se sobreescribe automáticamente"
+  },
+  "items": []
+}

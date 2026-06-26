@@ -38,7 +38,73 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 40px 20px;
+            padding: 96px 20px 40px 20px;
+        }
+
+        /* ===== BARRA DE NAVEGACIÓN SUPERIOR ===== */
+        #top-nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 500;
+            height: 56px;
+            background: rgba(15, 15, 15, 0.93);
+            backdrop-filter: blur(14px);
+            -webkit-backdrop-filter: blur(14px);
+            border-bottom: 2px solid rgba(192, 57, 43, 0.55);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+        }
+
+        .nav-brand {
+            font-size: 0.7rem;
+            font-weight: 900;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: rgba(255,255,255,0.5);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 6px;
+        }
+
+        .nav-link {
+            font-size: 0.78rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            padding: 7px 16px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: rgba(255,255,255,0.65);
+            transition: all 0.2s ease;
+            border: 1px solid transparent;
+        }
+
+        .nav-link:hover {
+            color: white;
+            background: rgba(255,255,255,0.08);
+            border-color: rgba(255,255,255,0.12);
+        }
+
+        .nav-link.active-subject {
+            background: var(--rojo);
+            color: white;
+            border-color: var(--rojo-dark);
+        }
+
+        .nav-link.active-subject:hover {
+            background: var(--rojo-dark);
+        }
+
+        @media (max-width: 480px) {
+            .nav-brand { display: none; }
+            .nav-link { font-size: 0.68rem; padding: 6px 10px; }
         }
 
         @keyframes slideIn {
@@ -397,6 +463,22 @@
 </head>
 
 <body>
+
+    <!-- BARRA DE NAVEGACIÓN SUPERIOR -->
+    <nav id="top-nav">
+        <span class="nav-brand">MCCEMS · Cultura Digital · SEP 2025</span>
+        <div class="nav-links">
+            <a href="cultura-digital-1.html" target="_blank" class="nav-link">
+                CD I
+            </a>
+            <a href="index.html" class="nav-link active-subject">
+                CD II
+            </a>
+            <a href="cultura-digital-3.html" target="_blank" class="nav-link">
+                CD III
+            </a>
+        </div>
+    </nav>
 
     <!-- PORTADA -->
     <section id="portada" class="slide active">

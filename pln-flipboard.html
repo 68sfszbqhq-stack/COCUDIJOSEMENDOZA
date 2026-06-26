@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PLN Feed — José Roberto Mendoza</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+    <!-- Readability.js: extractor de contenido limpio (sin anuncios) -->
+    <script src="https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js"></script>
+    <style>
+        :root {
+            --cat-tech:    #C0392B;
+            --cat-edu:     #1A7A4A;
+            --cat-coaching:#E67E22;
+            --cat-psico:   #8E44AD;
+            --cat-juegos:  #B7950B;
+            --cat-geo:     #1A5276;
+            --cat-startup: #117A65;
+            --nav-h:       56px;
+            --bar-h:       52px;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background: #f0f2f5; color: #1a1a2e; min-height: 100vh; }
+
+        /* ═══ NAVBAR ═══ */
+        #top-nav {
+            position: fixed; top: 0; left: 0; width: 100%;
+            z-index: 500; height: var(--nav-h);
+            background: rgba(13,13,13,0.96);
+            backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+            border-bottom: 2px solid rgba(192,57,43,0.4);
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 0 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+        .nav-brand {
+            font-size: 0.67rem; font-weight: 900;
+            letter-spacing: 0.12em; text-transform: uppercase;
+            color: rgba(255,255,255,0.4); white-space: nowrap;
+        }
+        .nav-links { display: flex; gap: 5px; }
+        .nav-link {
+            font-size: 0.71rem; font-weight: 800;
+            text-transform: uppercase; letter-spacing: 0.05em;
+            padding: 6px 12px; border-radius: 7px; text-decoration: none;
+            color: rgba(255,255,255,0.6); border: 1px solid transparent;
+            transition: all 0.2s;
+        }
+        .nav-link:hover { color: white; background: rgba(255,255,255,0.1); }
+        .nav-link.active-subject { background: #C0392B; color: white; border-color: #922B21; }
+
+        /* ═══ FILTER BAR ═══ */
+        #filter-bar {
+            position: fixed; top: var(--nav-h); left: 0; width: 100%;
+            z-index: 400; height: var(--bar-h);
+            background: white; border-bottom: 1px solid #e5e7eb;
+            display: flex; align-items: center; gap: 6px;
+            padding: 0 16px; overflow-x: auto; -webkit-overflow-scrolling: touch;
+            scrollbar-width: none; box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        #filter-bar::-webkit-scrollbar { display: none; }
+
+        .pill {
+            display: inline-flex; align-items: center; gap: 5px;
+            padding: 6px 13px; border-radius: 20px;
+            font-size: 0.73rem; font-weight: 700;
+            white-space: nowrap; cursor: pointer;
+            border: 2px solid transparent;
+            background: #f3f4f6; color: #374151;
+            transition: all 0.18s; user-select: none; flex-shrink: 0;
+        }
+        .pill:hover { background: #e5e7eb; }
+        .pill.active { color: white; }
+        .pill.active[data-cat="all"]         { background: #111827; }
+        .pill.active[data-cat="tech-ia"]     { background: var(--cat-tech); }
+        .pill.active[data-cat="educacion"]   { background: var(--cat-edu); }
+        .pill.active[data-cat="coaching"]    { background: var(--cat-coaching); }
+        .pill.active[data-cat="psicologia"]  { background: var(--cat-psico); }
+        .pill.active[data-cat="juegos"]      { background: var(--cat-juegos); }
+        .pill.active[data-cat="geopolitica"] { background: var(--cat-geo); }
+        .pill.active[data-cat="startup"]     { background: var(--cat-startup); }
+
+        #search-wrap { margin-left: auto; position: relative; flex-shrink: 0; }
+        #search-input {
+            padding: 7px 13px 7px 32px; border-radius: 18px;
+            border: 1.5px solid #e5e7eb; font-size: 0.77rem;
+            font-family: 'Inter', sans-serif; outline: none;
+            width: 170px; transition: width 0.3s, border-color 0.2s;
+            background: #f9fafb;
+        }
+        #search-input:focus { width: 210px; border-color: var(--cat-tech); background: white; }
+        #search-wrap i {
+            position: absolute; left: 10px; top: 50%;
+            transform: translateY(-50%);
+            color: #9ca3af; font-size: 0.73rem; pointer-events: none;
+        }
+
+        /* ═══ MAIN ═══ */
+        #main { padding: calc(var(--nav-h) + var(--bar-h) + 20px) 18px 60px; }
+
+        /* ═══ MASONRY (CSS columns — responsive sin JS) ═══ */
+        .masonry { columns: 4 255px; column-gap: 14px; }
+
+        /* ═══ CARD ═══ */
+        .card {
+            break-inside: avoid; display: inline-block; width: 100%;
+            background: white; border-radius: 16px; overflow: hidden;
+            margin-bottom: 14px; cursor: pointer;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+            border: 1px solid rgba(0,0,0,0.04);
+            transition: transform 0.22s ease, box-shadow 0.22s ease;
+        }
+        .card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(0,0,0,0.12); }
+
+        .card-thumb {
+            width: 100%; aspect-ratio: 16/9;
+            object-fit: cover; display: block;
+        }
+        .card-placeholder {
+            width: 100%; aspect-ratio: 16/9;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.8rem; opacity: 0.6;
+        }
+        .card-body { padding: 14px 16px 16px; }
+        .cat-badge {
+            display: inline-block; font-size: 0.58rem; font-weight: 900;
+            text-transform: uppercase; letter-spacing: 0.08em;
+            padding: 3px 7px; border-radius: 5px; color: white; margin-bottom: 9px;
+        }
+        .card-title {
+            font-size: 0.9rem; font-weight: 700; line-height: 1.45;
+            color: #111827; margin-bottom: 7px;
+            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .card-summary {
+            font-size: 0.76rem; color: #6b7280; line-height: 1.6; margin-bottom: 11px;
+            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .card-meta { display: flex; align-items: center; gap: 5px; font-size: 0.66rem; color: #9ca3af; font-weight: 600; }
+        .card-source { font-weight: 700; color: #6b7280; }
+        .dot { width: 3px; height: 3px; border-radius: 50%; background: #d1d5db; }
+
+        /* ═══ SKELETON ═══ */
+        .skel {
+            background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
+            background-size: 200% 100%;
+            border-radius: 6px;
+            animation: shimmer 1.4s ease infinite;
+        }
+        @keyframes shimmer { 0%,100%{background-position:0% 50%} 50%{background-position:100% 50%} }
+
+        /* ═══ EMPTY ═══ */
+        #empty { display: none; text-align: center; padding: 80px 20px; color: #9ca3af; }
+        #empty i { font-size: 2.8rem; margin-bottom: 14px; display: block; opacity: 0.3; }
+
+        /* ═══ READER MODAL ═══ */
+        #modal {
+            display: none; position: fixed; inset: 0; z-index: 900;
+            background: rgba(0,0,0,0.78);
+            backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+            justify-content: center; align-items: flex-start;
+            overflow-y: auto; padding: 40px 16px;
+        }
+        #modal.open { display: flex; }
+
+        #reader {
+            background: white; border-radius: 22px; width: 100%; max-width: 720px;
+            position: relative; margin: auto;
+            box-shadow: 0 32px 70px rgba(0,0,0,0.4);
+            animation: zoomIn 0.28s ease; overflow: hidden;
+        }
+        @keyframes zoomIn { from { transform: scale(0.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+        #r-header {
+            padding: 16px 20px; border-bottom: 1px solid #f3f4f6;
+            display: flex; align-items: center; gap: 10px;
+            position: sticky; top: 0; background: white; z-index: 10;
+        }
+        #r-badge { font-size: 0.58rem; font-weight: 900; text-transform: uppercase; padding: 4px 9px; border-radius: 5px; color: white; }
+        #r-source { font-size: 0.73rem; font-weight: 700; color: #6b7280; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        #r-ext {
+            background: #f3f4f6; border: none; padding: 6px 11px; border-radius: 8px;
+            cursor: pointer; font-size: 0.68rem; font-weight: 700; color: #374151;
+            text-decoration: none; display: flex; align-items: center; gap: 5px;
+            transition: background 0.2s; flex-shrink: 0;
+        }
+        #r-ext:hover { background: #e5e7eb; }
+        #r-close {
+            background: #f3f4f6; border: none; width: 32px; height: 32px; border-radius: 50%;
+            cursor: pointer; font-size: 0.85rem; color: #374151;
+            display: flex; align-items: center; justify-content: center;
+            transition: background 0.2s; flex-shrink: 0;
+        }
+        #r-close:hover { background: #e5e7eb; }
+
+        #r-hero { width: 100%; max-height: 260px; object-fit: cover; display: none; }
+
+        #r-body { padding: 28px 38px 48px; }
+        #r-title { font-size: 1.55rem; font-weight: 900; line-height: 1.3; color: #111827; margin-bottom: 10px; }
+        #r-meta { font-size: 0.72rem; color: #9ca3af; font-weight: 600; margin-bottom: 26px; display: flex; gap: 8px; flex-wrap: wrap; }
+
+        #r-content { font-size: 1rem; line-height: 1.88; color: #1f2937; }
+        #r-content h1,#r-content h2,#r-content h3 { margin: 22px 0 10px; font-weight: 800; line-height: 1.3; }
+        #r-content h1 { font-size: 1.35rem; }
+        #r-content h2 { font-size: 1.15rem; }
+        #r-content h3 { font-size: 0.97rem; }
+        #r-content p { margin-bottom: 15px; }
+        #r-content a { color: var(--cat-tech); }
+        #r-content img { max-width: 100%; border-radius: 8px; margin: 14px 0; display: block; }
+        #r-content blockquote { border-left: 4px solid var(--cat-tech); padding-left: 14px; margin: 18px 0; color: #4b5563; font-style: italic; }
+        #r-content ul,#r-content ol { padding-left: 20px; margin-bottom: 14px; }
+        #r-content li { margin-bottom: 5px; }
+        #r-content pre,#r-content code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem; }
+        #r-content pre { display: block; padding: 14px; overflow-x: auto; margin-bottom: 14px; }
+
+        #r-loading { padding: 60px 40px; text-align: center; color: #9ca3af; }
+        #r-loading i { font-size: 1.4rem; display: block; margin-bottom: 10px; animation: spin 0.8s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        #r-error { padding: 40px; text-align: center; color: #6b7280; display: none; }
+        #r-error i { font-size: 2rem; margin-bottom: 12px; display: block; color: #F59E0B; }
+        #r-fallback {
+            display: inline-block; margin-top: 14px;
+            background: var(--cat-tech); color: white;
+            padding: 9px 20px; border-radius: 10px;
+            font-weight: 700; font-size: 0.82rem; text-decoration: none;
+        }
+        #r-article { display: none; }
+
+        /* ═══ FAB REFRESH ═══ */
+        #fab {
+            position: fixed; bottom: 26px; right: 22px; z-index: 300;
+            background: var(--cat-tech); color: white; border: none;
+            width: 50px; height: 50px; border-radius: 50%;
+            font-size: 0.95rem; cursor: pointer;
+            box-shadow: 0 6px 18px rgba(192,57,43,0.45);
+            transition: all 0.2s;
+            display: flex; align-items: center; justify-content: center;
+        }
+        #fab:hover { transform: scale(1.1); }
+        #fab.spin i { animation: spin 0.7s linear infinite; }
+
+        /* ═══ TOAST ═══ */
+        #toast {
+            position: fixed; bottom: 86px; right: 22px; z-index: 600;
+            background: #111827; color: white;
+            padding: 9px 16px; border-radius: 10px;
+            font-size: 0.78rem; font-weight: 600;
+            box-shadow: 0 8px 22px rgba(0,0,0,0.3);
+            transform: translateY(12px); opacity: 0;
+            transition: all 0.25s; pointer-events: none;
+        }
+        #toast.show { transform: translateY(0); opacity: 1; }
+
+        /* ═══ RESPONSIVE ═══ */
+        @media (max-width: 600px) {
+            .nav-brand { display: none; }
+            .nav-link { font-size: 0.66rem; padding: 5px 8px; }
+            #r-body { padding: 20px 18px 36px; }
+            #r-title { font-size: 1.25rem; }
+            #r-content { font-size: 0.95rem; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════
+     NAVBAR
+════════════════════════════════════════════ -->
+<nav id="top-nav">
+    <span class="nav-brand">MCCEMS · Cultura Digital · SEP 2025</span>
+    <div class="nav-links">
+        <a href="cultura-digital-1.html" target="_blank" class="nav-link">CD I</a>
+        <a href="index.html"             target="_blank" class="nav-link">CD II</a>
+        <a href="cultura-digital-3.html" target="_blank" class="nav-link">CD III</a>
+        <a href="pln-flipboard.html"                     class="nav-link active-subject">
+            <i class="fas fa-newspaper" style="margin-right:4px;"></i>PLN Feed
+        </a>
+    </div>
+</nav>
+
+<!-- ════════════════════════════════════════════
+     FILTER BAR
+════════════════════════════════════════════ -->
+<div id="filter-bar">
+    <div class="pill active" data-cat="all"><i class="fas fa-border-all"></i> Todos</div>
+    <div class="pill" data-cat="tech-ia">  <i class="fas fa-microchip"></i> Tech / IA</div>
+    <div class="pill" data-cat="educacion"><i class="fas fa-graduation-cap"></i> Educación</div>
+    <div class="pill" data-cat="coaching"> <i class="fas fa-briefcase"></i> Coaching</div>
+    <div class="pill" data-cat="psicologia"><i class="fas fa-brain"></i> Psicología</div>
+    <div class="pill" data-cat="juegos">   <i class="fas fa-chess"></i> Juegos</div>
+    <div class="pill" data-cat="geopolitica"><i class="fas fa-globe"></i> Geopolítica</div>
+    <div class="pill" data-cat="startup">  <i class="fas fa-rocket"></i> Startups</div>
+    <div id="search-wrap">
+        <i class="fas fa-search"></i>
+        <input type="text" id="search-input" placeholder="Buscar...">
+    </div>
+</div>
+
+<!-- ════════════════════════════════════════════
+     MASONRY GRID
+════════════════════════════════════════════ -->
+<div id="main">
+    <div class="masonry" id="grid"></div>
+    <div id="empty">
+        <i class="fas fa-inbox"></i>
+        <p style="font-size:1.05rem;font-weight:700;margin-bottom:6px;">Sin resultados</p>
+        <p style="font-size:0.83rem;">Prueba con otro filtro o búsqueda.</p>
+    </div>
+</div>
+
+<!-- ════════════════════════════════════════════
+     READER MODAL
+════════════════════════════════════════════ -->
+<div id="modal" role="dialog" aria-modal="true" aria-label="Modo lectura">
+    <div id="reader">
+        <!-- Header fijo -->
+        <div id="r-header">
+            <span id="r-badge"></span>
+            <span id="r-source"></span>
+            <a id="r-ext" href="#" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-external-link-alt"></i> Original
+            </a>
+            <button id="r-close" onclick="closeReader()" aria-label="Cerrar">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+
+        <!-- Estado: cargando -->
+        <div id="r-loading">
+            <i class="fas fa-circle-notch"></i>
+            <p style="font-weight:600;font-size:0.9rem;">Extrayendo contenido limpio...</p>
+            <p style="font-size:0.77rem;margin-top:5px;color:#d1d5db;">Eliminando anuncios y distractores</p>
+        </div>
+
+        <!-- Estado: error -->
+        <div id="r-error">
+            <i class="fas fa-exclamation-triangle"></i>
+            <p style="font-weight:700;margin-bottom:6px;">El sitio bloqueó la extracción</p>
+            <p style="font-size:0.82rem;">Algunos sitios no permiten lectores externos.</p>
+            <a id="r-fallback" href="#" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-external-link-alt"></i> Abrir en nueva pestaña
+            </a>
+        </div>
+
+        <!-- Estado: artículo listo -->
+        <div id="r-article">
+            <img id="r-hero" src="" alt="">
+            <div id="r-body">
+                <h1 id="r-title"></h1>
+                <div id="r-meta"></div>
+                <div id="r-content"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FAB actualizar -->
+<button id="fab" onclick="refresh()" title="Actualizar feeds">
+    <i class="fas fa-sync-alt"></i>
+</button>
+
+<!-- Toast -->
+<div id="toast"></div>
+
+<script>
+// ════════════════════════════════════════════════
+// CONFIG
+// ════════════════════════════════════════════════
+const FEEDS_URL  = 'data/feeds.json';
+const CORS_PROXY = 'https://api.allorigins.win/get?url='; // proxy libre para modo lectura
+
+const CATS = {
+    all:          { label:'Todos',       color:'#111827', icon:'fa-border-all' },
+    'tech-ia':    { label:'Tech / IA',   color:'#C0392B', icon:'fa-microchip' },
+    educacion:    { label:'Educación',   color:'#1A7A4A', icon:'fa-graduation-cap' },
+    coaching:     { label:'Coaching',    color:'#E67E22', icon:'fa-briefcase' },
+    psicologia:   { label:'Psicología',  color:'#8E44AD', icon:'fa-brain' },
+    juegos:       { label:'Juegos',      color:'#B7950B', icon:'fa-chess' },
+    geopolitica:  { label:'Geopolítica', color:'#1A5276', icon:'fa-globe' },
+    startup:      { label:'Startups',    color:'#117A65', icon:'fa-rocket' },
+};
+
+// ════════════════════════════════════════════════
+// STATE
+// ════════════════════════════════════════════════
+let items = [];
+let activeCat = 'all';
+let query = '';
+
+// ════════════════════════════════════════════════
+// CARGAR FEEDS
+// ════════════════════════════════════════════════
+async function loadFeeds() {
+    showSkeletons(12);
+    try {
+        const r = await fetch(FEEDS_URL + '?t=' + Date.now());
+        if (!r.ok) throw new Error('no feeds.json');
+        const data = await r.json();
+        items = data.items || [];
+        if (!items.length) throw new Error('vacío');
+        toast(`${items.length} artículos cargados`);
+    } catch {
+        items = demoItems();
+        toast('Datos de demostración · Ejecuta fetch_feeds.py para datos reales');
+    }
+    render();
+}
+
+// ════════════════════════════════════════════════
+// RENDER MASONRY
+// ════════════════════════════════════════════════
+function render() {
+    const grid  = document.getElementById('grid');
+    const empty = document.getElementById('empty');
+    const q     = query.toLowerCase();
+
+    const list = items.filter(it => {
+        const catOk = activeCat === 'all' || it.category === activeCat;
+        const qOk   = !q || it.title.toLowerCase().includes(q)
+                         || (it.summary||'').toLowerCase().includes(q)
+                         || it.source.toLowerCase().includes(q);
+        return catOk && qOk;
+    });
+
+    if (!list.length) { grid.innerHTML = ''; empty.style.display = 'block'; return; }
+    empty.style.display = 'none';
+
+    grid.innerHTML = list.map(it => cardHTML(it)).join('');
+}
+
+function cardHTML(it) {
+    const cat  = CATS[it.category] || CATS['tech-ia'];
+    const ago  = timeAgo(it.published);
+    const args = `'${esc(it.url)}','${esc(it.title)}','${esc(it.image||'')}','${it.category}','${esc(it.source)}'`;
+
+    const thumb = it.image
+        ? `<img class="card-thumb" src="${esc(it.image)}" alt="" loading="lazy"
+               onerror="this.parentElement.innerHTML='<div class=\\'card-placeholder\\' style=\\'background:${cat.color}18\\'><i class=\\'fas ${cat.icon}\\' style=\\'color:${cat.color}\\'></i></div>'">`
+        : `<div class="card-placeholder" style="background:${cat.color}18">
+               <i class="fas ${cat.icon}" style="color:${cat.color}"></i>
+           </div>`;
+
+    return `
+    <div class="card" onclick="openReader(${args})">
+        ${thumb}
+        <div class="card-body">
+            <span class="cat-badge" style="background:${cat.color}">${cat.label}</span>
+            <h3 class="card-title">${escHtml(it.title)}</h3>
+            ${it.summary ? `<p class="card-summary">${escHtml(it.summary)}</p>` : ''}
+            <div class="card-meta">
+                <span class="card-source">${escHtml(it.source)}</span>
+                <span class="dot"></span>
+                <span>${ago}</span>
+                ${it.score ? `<span class="dot"></span><i class="fas fa-arrow-up" style="color:#F59E0B;font-size:0.58rem;"></i><span>${it.score}</span>` : ''}
+            </div>
+        </div>
+    </div>`;
+}
+
+// ════════════════════════════════════════════════
+// SKELETON LOADING
+// ════════════════════════════════════════════════
+function showSkeletons(n) {
+    document.getElementById('grid').innerHTML = Array(n).fill(0).map(() => `
+        <div class="card" style="pointer-events:none;">
+            <div class="skel" style="width:100%;aspect-ratio:16/9;border-radius:0;"></div>
+            <div class="card-body">
+                <div class="skel" style="width:56px;height:17px;border-radius:5px;margin-bottom:9px;"></div>
+                <div class="skel" style="width:100%;height:13px;border-radius:4px;margin-bottom:5px;"></div>
+                <div class="skel" style="width:80%;height:13px;border-radius:4px;margin-bottom:5px;"></div>
+                <div class="skel" style="width:60%;height:13px;border-radius:4px;margin-bottom:11px;"></div>
+                <div class="skel" style="width:38%;height:10px;border-radius:4px;"></div>
+            </div>
+        </div>`).join('');
+}
+
+// ════════════════════════════════════════════════
+// READER MODE (Readability.js + CORS proxy)
+// ════════════════════════════════════════════════
+async function openReader(url, title, image, category, source) {
+    const modal   = document.getElementById('modal');
+    const loading = document.getElementById('r-loading');
+    const error   = document.getElementById('r-error');
+    const article = document.getElementById('r-article');
+
+    // Reset
+    loading.style.display = 'block';
+    error.style.display   = 'none';
+    article.style.display = 'none';
+    modal.classList.add('open');
+    document.body.style.overflow = 'hidden';
+
+    // Meta
+    const cat = CATS[category] || CATS['tech-ia'];
+    document.getElementById('r-badge').textContent   = cat.label;
+    document.getElementById('r-badge').style.background = cat.color;
+    document.getElementById('r-source').textContent  = source;
+    document.getElementById('r-ext').href            = url;
+    document.getElementById('r-fallback').href       = url;
+
+    try {
+        const html = await fetchProxy(url);
+        const parser = new DOMParser();
+        const doc    = parser.parseFromString(html, 'text/html');
+
+        // Base URL para resolver links relativos dentro del artículo
+        const base = doc.createElement('base');
+        base.href  = url;
+        doc.head.appendChild(base);
+
+        const result = new Readability(doc, { charThreshold: 80 }).parse();
+        if (!result || !result.content) throw new Error('Sin contenido extraíble');
+
+        // Hero image
+        const hero = document.getElementById('r-hero');
+        if (image) { hero.src = image; hero.style.display = 'block'; }
+        else        { hero.style.display = 'none'; }
+
+        document.getElementById('r-title').textContent = result.title || title;
+
+        const words   = (result.textContent || '').split(/\s+/).length;
+        const minRead = Math.max(1, Math.ceil(words / 200));
+        document.getElementById('r-meta').innerHTML =
+            `<span>${escHtml(source)}</span>
+             <span>·</span>
+             <span><i class="fas fa-clock" style="margin-right:3px;"></i>${minRead} min lectura</span>`;
+
+        document.getElementById('r-content').innerHTML = result.content;
+
+        loading.style.display = 'none';
+        article.style.display = 'block';
+
+    } catch (err) {
+        console.warn('Reader error:', err.message);
+        loading.style.display = 'none';
+        error.style.display   = 'block';
+    }
+}
+
+async function fetchProxy(url) {
+    const r = await fetch(CORS_PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(12000) });
+    if (!r.ok) throw new Error('Proxy ' + r.status);
+    const data = await r.json();
+    if (!data.contents) throw new Error('Proxy vacío');
+    return data.contents;
+}
+
+function closeReader() {
+    document.getElementById('modal').classList.remove('open');
+    document.body.style.overflow = '';
+}
+
+// ════════════════════════════════════════════════
+// FILTROS Y BÚSQUEDA
+// ════════════════════════════════════════════════
+document.querySelectorAll('.pill').forEach(p => {
+    p.addEventListener('click', () => {
+        document.querySelectorAll('.pill').forEach(x => x.classList.remove('active'));
+        p.classList.add('active');
+        activeCat = p.dataset.cat;
+        render();
+    });
+});
+
+let searchTimer;
+document.getElementById('search-input').addEventListener('input', e => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => { query = e.target.value; render(); }, 280);
+});
+
+// ════════════════════════════════════════════════
+// REFRESH
+// ════════════════════════════════════════════════
+async function refresh() {
+    const fab = document.getElementById('fab');
+    fab.classList.add('spin');
+    await loadFeeds();
+    fab.classList.remove('spin');
+}
+
+// ════════════════════════════════════════════════
+// TECLADO Y CLICK FUERA DEL MODAL
+// ════════════════════════════════════════════════
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeReader(); });
+document.getElementById('modal').addEventListener('click', e => {
+    if (e.target === document.getElementById('modal')) closeReader();
+});
+
+// ════════════════════════════════════════════════
+// UTILIDADES
+// ════════════════════════════════════════════════
+function escHtml(s) {
+    return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function esc(s) {
+    return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'\\"');
+}
+function timeAgo(iso) {
+    if (!iso) return '';
+    const d = (Date.now() - new Date(iso)) / 1000;
+    if (d < 3600)   return Math.floor(d/60)    + ' min';
+    if (d < 86400)  return Math.floor(d/3600)  + ' h';
+    if (d < 604800) return Math.floor(d/86400) + ' d';
+    return             Math.floor(d/604800)     + ' sem';
+}
+function toast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg; t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 3000);
+}
+
+// ════════════════════════════════════════════════
+// DATOS DE DEMOSTRACIÓN (fallback sin feeds.json)
+// ════════════════════════════════════════════════
+function demoItems() {
+    const n = h => new Date(Date.now() - h * 3600000).toISOString();
+    return [
+        { id:'d1',  title:'GPT-5 Turbo supera benchmarks de razonamiento en todas las categorías',                         url:'https://openai.com',                  source:'TechCrunch',          category:'tech-ia',    summary:'La capacidad multimodal y de razonamiento matemático del nuevo modelo marca un antes y después en la industria.',         image:null, published:n(1),  score:1840 },
+        { id:'d2',  title:'Psicología del alto rendimiento: Cómo los atletas olímpicos entrenan la mente bajo presión',    url:'https://psychologytoday.com',          source:'Psychology Today',    category:'psicologia', summary:'Técnicas de visualización y autorregulación emocional que usan medallistas y que puedes aplicar en el aula.',            image:null, published:n(2)         },
+        { id:'d3',  title:'MCCEMS 2025: Todo lo que los docentes de bachillerato necesitan saber este ciclo',              url:'https://sep.gob.mx',                  source:'SEP México',          category:'educacion',  summary:'El nuevo Marco Curricular integra ciudadanía digital y pensamiento computacional desde primer semestre.',                 image:null, published:n(3)         },
+        { id:'d4',  title:'Wingspan y los juegos cooperativos como herramienta de Team Building corporativo',              url:'https://boardgamegeek.com',           source:'BoardGameGeek',       category:'juegos',     summary:'40 estudios de caso muestran cómo los juegos de mesa cooperativos mejoran la comunicación y cohesión en equipos de trabajo.',image:null, published:n(4)         },
+        { id:'d5',  title:'China vs. EEUU en IA: El mapa geopolítico que redefinirá alianzas antes de 2030',              url:'https://reddit.com/r/geopolitics',    source:'r/geopolitics',       category:'geopolitica',summary:'Análisis profundo del ecosistema tecnológico que está reconfigurando las relaciones internacionales en tiempo real.',        image:null, published:n(5),  score:920  },
+        { id:'d6',  title:'Freddy Vega: "El futuro del aprendizaje en LATAM es hiper-personalizado e impulsado por IA"',  url:'https://platzi.com/blog',             source:'Platzi Blog',         category:'educacion',  summary:'El CEO de Platzi comparte cómo la IA generativa transformará la educación online en América Latina en los próximos 5 años.',image:null, published:n(6)         },
+        { id:'d7',  title:'LLaMA 3.2 open-source iguala a GPT-4 en benchmarks de código y matemáticas',                  url:'https://hnrss.org',                   source:'Hacker News',         category:'tech-ia',    summary:'Meta libera su modelo más potente con licencia comercial permisiva, sacudiendo el mercado de los LLMs propietarios.',      image:null, published:n(7),  score:2340 },
+        { id:'d8',  title:'El arte de dar retroalimentación difícil: Marco COIN para líderes empáticos',                  url:'https://hbr.org',                     source:'Harvard Business Review',category:'coaching',  summary:'Investigadores de Stanford presentan el marco que preserva motivación y relación sin sacrificar honestidad.',              image:null, published:n(8)         },
+        { id:'d9',  title:'Y Combinator W26: 12 startups de EdTech que cambiarán la educación en 2027',                  url:'https://techcrunch.com',              source:'TechCrunch',          category:'startup',    summary:'Desde tutores IA personalizados hasta plataformas de micro-credenciales para habilidades técnicas emergentes.',           image:null, published:n(9)         },
+        { id:'d10', title:'Pandemic Legacy S3: Análisis de mecánicas cooperativas y su transferencia al liderazgo real',  url:'https://boardgamegeek.com',           source:'BoardGameGeek',       category:'juegos',     summary:'Una revisión profunda de cómo este juego entrena decisión colaborativa, roles dinámicos y comunicación bajo crisis.',       image:null, published:n(10)        },
+        { id:'d11', title:'Flow State en el deporte escolar: Guía práctica para docentes de EF',                          url:'https://reddit.com/r/SportPsychology',source:'r/SportPsychology',  category:'psicologia', summary:'Csikszentmihalyi aplicado al aula: cómo diseñar actividades que generen estado de flujo en estudiantes de bachillerato.',  image:null, published:n(12)        },
+        { id:'d12', title:'Christian Van Der Henst: Construye una marca personal auténtica en LinkedIn sin teatro',        url:'https://cvander.com',                 source:'Blog CVander',        category:'coaching',   summary:'Estrategias concretas para posicionarte como referente sin caer en el perfil genérico de "Speaker | Mentor | CEO".',      image:null, published:n(14)        },
+        { id:'d13', title:'Geopolítica del litio: Por qué LATAM es la pieza clave de la transición energética global',   url:'https://reddit.com/r/Futurology',     source:'r/Futurology',        category:'geopolitica',summary:'Chile, Argentina y Bolivia concentran el 60% de reservas mundiales. Análisis de tensiones y oportunidades para la región.',  image:null, published:n(16), score:1450 },
+        { id:'d14', title:'Vibe Coding con Claude: Un docente construyó su sistema de gestión escolar sin experiencia',   url:'https://anthropic.com',               source:'Medium',              category:'tech-ia',    summary:'Cómo usar IA generativa para prototipar apps educativas reales en horas, no semanas. Caso de uso: IberoActivate.',         image:null, published:n(20)        },
+        { id:'d15', title:'r/MachineLearning: Los 5 papers más importantes de la semana en ArXiv',                        url:'https://reddit.com/r/MachineLearning',source:'r/MachineLearning',  category:'tech-ia',    summary:'La comunidad resume las publicaciones más relevantes: nuevas arquitecturas transformer, RAG eficiente y agentes multi-modal.',image:null, published:n(22), score:567  },
+        { id:'d16', title:'Startups de coaching digital: Cómo Pablo Lomelí está democratizando el alto rendimiento',      url:'https://linkedin.com',                source:'LinkedIn',            category:'startup',    summary:'El emprendedor mexicano explica cómo escalar metodologías de coaching ejecutivo a través de plataformas digitales accesibles.',image:null, published:n(24)        },
+    ];
+}
+
+// ════════════════════════════════════════════════
+// INIT
+// ════════════════════════════════════════════════
+loadFeeds();
+</script>
+</body>
+</html>

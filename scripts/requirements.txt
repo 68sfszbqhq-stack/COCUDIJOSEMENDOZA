@@ -1,0 +1,11 @@
+# PLN Feed Fetcher — dependencias Python
+# Instalar con:  pip install -r requirements.txt
+
+feedparser>=6.0.11        # Parseo de feeds RSS/Atom
+requests>=2.31.0          # HTTP requests
+beautifulsoup4>=4.12.3    # Extracción de imágenes y texto de HTML
+lxml>=5.1.0               # Parser HTML rápido (usado por BeautifulSoup)
+
+# Opcional — extracción de contenido completo desde Python
+# (el modo lectura del frontend ya usa Readability.js en el navegador)
+# newspaper4k>=0.9.3

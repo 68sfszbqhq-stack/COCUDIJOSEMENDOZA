@@ -248,6 +248,31 @@
         }
         .sec-source { color: #555; font-weight: 700; }
         .sec-dot { width: 2px; height: 2px; border-radius: 50%; background: #ccc; }
+
+        /* ── LOGOS ── */
+        .logo-wrap {
+            background: white;
+            border-bottom: 1px solid #f0f0f0;
+            display: flex; align-items: center; justify-content: center;
+            padding: 20px 28px;
+        }
+        .logo-wrap .sec-img {
+            max-width: 68%; max-height: 68px;
+            width: auto; height: auto;
+            object-fit: contain;
+            transition: transform 0.3s ease;
+        }
+        .sec-card:hover .logo-wrap .sec-img { transform: scale(1.06); }
+        .feat-logo {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -62%);
+            max-width: 170px; max-height: 96px;
+            object-fit: contain;
+            filter: drop-shadow(0 4px 18px rgba(0,0,0,0.4));
+            z-index: 2;
+        }
+
         .sec-visit-hint {
             display: inline-flex; align-items: center; gap: 4px;
             font-size: 0.65rem; font-weight: 800;
@@ -582,12 +607,16 @@ function featHTML(it) {
     const args = mkArgs(it);
     const isDirect = !!it.direct;
 
-    const bgImg = it.image
+    const bgImg = it.image && !it.isLogo
         ? `<img class="feat-img" src="${eh(it.image)}" alt="" onerror="this.style.display='none'">`
         : '';
     const bgDiv = `<div class="feat-bg" style="background:${cat.grad}">
                        <i class="fas ${cat.icon}" style="color:white;"></i>
                    </div>`;
+    const logoInset = it.isLogo && it.image
+        ? `<img class="feat-logo" src="${eh(it.image)}" alt="${eh(it.source)}"
+               onerror="this.style.display='none'">`
+        : '';
 
     const visitHint = isDirect
         ? `<div class="feat-visit-hint"><i class="fas fa-external-link-alt"></i> Ver sitio en vivo</div>` : '';
@@ -600,7 +629,7 @@ function featHTML(it) {
 
     return `<div class="feat" onclick="openReader(${args})" role="article" tabindex="0"
                  aria-label="${eh(it.title)}">
-        ${bgDiv}${bgImg}
+        ${bgDiv}${bgImg}${logoInset}
         <div class="feat-overlay">
             <span class="feat-badge" style="background:${cat.color}">${cat.label}</span>
             ${summaryLine}
@@ -628,13 +657,26 @@ function secCardHTML(it) {
     const args    = mkArgs(it);
     const isDirect = !!it.direct;
 
-    const img = it.image
-        ? `<img class="sec-img" src="${eh(it.image)}" alt="" loading="lazy"
-               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
-        : '';
-    const ph = `<div class="sec-img-placeholder" style="background:${cat.grad};${it.image ? 'display:none' : ''}">
-                    <i class="fas ${cat.icon}" style="color:white;"></i>
-                </div>`;
+    let imgBlock;
+    if (it.isLogo && it.image) {
+        imgBlock = `<div class="sec-img-wrap logo-wrap">
+            <img class="sec-img" src="${eh(it.image)}" alt="${eh(it.source)}" loading="lazy"
+                 onerror="this.parentElement.classList.remove('logo-wrap');this.style.display='none';
+                          this.parentElement.querySelector('.sec-img-placeholder').style.display='flex'">
+            <div class="sec-img-placeholder" style="background:${cat.grad};display:none">
+                <i class="fas ${cat.icon}" style="color:white;"></i>
+            </div>
+        </div>`;
+    } else {
+        const imgTag = it.image
+            ? `<img class="sec-img" src="${eh(it.image)}" alt="" loading="lazy"
+                   onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+            : '';
+        const ph = `<div class="sec-img-placeholder" style="background:${cat.grad};${it.image ? 'display:none' : ''}">
+                        <i class="fas ${cat.icon}" style="color:white;"></i>
+                    </div>`;
+        imgBlock = `<div class="sec-img-wrap">${imgTag}${ph}</div>`;
+    }
 
     const summaryLine = (it.summary && (isDirect || it.category === 'academia'))
         ? `<p class="sec-summary-text">${eh(it.summary)}</p>` : '';
@@ -646,7 +688,7 @@ function secCardHTML(it) {
            <span>${it.score}</span>` : '';
 
     return `<div class="sec-card" onclick="openReader(${args})" role="article" tabindex="0">
-        <div class="sec-img-wrap">${img}${ph}</div>
+        ${imgBlock}
         <div class="sec-body">
             <span class="sec-badge" style="background:${cat.color}">${cat.label}</span>
             <h3 class="sec-title">${eh(it.title)}</h3>
@@ -816,371 +858,375 @@ function toast(msg) {
 // DEMO ITEMS
 // ════════════════════════════════════════════════
 function demoItems() {
-    const n = h => new Date(Date.now() - h * 3600000).toISOString();
+    const n  = h  => new Date(Date.now() - h * 3600000).toISOString();
+    const cb = d  => `https://logo.clearbit.com/${d}`;       // Clearbit logo
+    const th = u  => `https://image.thum.io/get/width/640/${u}`;  // Screenshot
+    const YT = cb('youtube.com');
+    const GH = cb('github.com');
     return [
 
-        /* ══ MIS PROYECTOS (10) ══════════════════════════════════════════════ */
-        { id:'p1',  category:'proyectos', direct:true,
+        /* ══ MIS PROYECTOS — screenshots automáticos ═══════════════════════ */
+        { id:'p1',  category:'proyectos', direct:true, isLogo:false,
           title:'Portafolio Profesional — José Roberto Mendoza',
           url:'https://68sfszbqhq-stack.github.io/PORTAFOLIO_JOSE_MENDOZA/',
           source:'GitHub Pages', published:n(1),
           summary:'Mi portafolio web: proyectos de desarrollo, educación, IA y cultura física.',
-          image:null },
-        { id:'p2',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/PORTAFOLIO_JOSE_MENDOZA/') },
+        { id:'p2',  category:'proyectos', direct:true, isLogo:false,
           title:'EduPlan MX — Planeación docente inteligente',
           url:'https://68sfszbqhq-stack.github.io/EDUPLANMX/',
           source:'GitHub Pages', published:n(2),
           summary:'Planeación didáctica inteligente para Media Superior MCCEMS.',
-          image:null },
-        { id:'p3',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/EDUPLANMX/') },
+        { id:'p3',  category:'proyectos', direct:true, isLogo:false,
           title:'IBERO Actívate — Pausas activas y asistencia',
           url:'https://68sfszbqhq-stack.github.io/ibero-activate/',
           source:'GitHub Pages', published:n(3),
           summary:'Pausas activas y pase de lista para el bienestar en el aula.',
-          image:null },
-        { id:'p4',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/ibero-activate/') },
+        { id:'p4',  category:'proyectos', direct:true, isLogo:false,
           title:'Simulador de Examen de Admisión',
           url:'https://68sfszbqhq-stack.github.io/SIMULADOR-EXAMENBGO/',
           source:'GitHub Pages', published:n(4),
           summary:'Simulador interactivo para examen de admisión a bachillerato y licenciatura.',
-          image:null },
-        { id:'p5',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/SIMULADOR-EXAMENBGO/') },
+        { id:'p5',  category:'proyectos', direct:true, isLogo:false,
           title:'Clase Muestra IEU — Ciencias del Deporte',
           url:'https://68sfszbqhq-stack.github.io/clase-muestra-ieu/',
           source:'GitHub Pages', published:n(5),
           summary:'Presentación interactiva de clase para la carrera de Ciencias del Deporte.',
-          image:null },
-        { id:'p6',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/clase-muestra-ieu/') },
+        { id:'p6',  category:'proyectos', direct:true, isLogo:false,
           title:'Taller de IA para Docentes',
           url:'https://68sfszbqhq-stack.github.io/PRESENTACION-TALLER-IA-/',
           source:'GitHub Pages', published:n(6),
           summary:'Presentación interactiva del taller de Inteligencia Artificial para docentes.',
-          image:null },
-        { id:'p7',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/PRESENTACION-TALLER-IA-/') },
+        { id:'p7',  category:'proyectos', direct:true, isLogo:false,
           title:'Prácticas FACUFI — Campeones en Movimiento',
           url:'https://68sfszbqhq-stack.github.io/practicas-facufi/',
           source:'GitHub Pages', published:n(7),
           summary:'Registro de prácticas curriculares "Campeones en Movimiento".',
-          image:null },
-        { id:'p8',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/practicas-facufi/') },
+        { id:'p8',  category:'proyectos', direct:true, isLogo:false,
           title:'Incidencias C.C. — Bitácora institucional',
           url:'https://68sfszbqhq-stack.github.io/incidentes-cce/',
           source:'GitHub Pages', published:n(8),
           summary:'Bitácora digital de incidencias y reparaciones del Centro de Cómputo.',
-          image:null },
-        { id:'p9',  category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/incidentes-cce/') },
+        { id:'p9',  category:'proyectos', direct:true, isLogo:false,
           title:'Panel de Reportes FACUFI 2025',
           url:'https://68sfszbqhq-stack.github.io/facufi-2025/',
           source:'GitHub Pages', published:n(9),
           summary:'Panel de reportes y estadísticas del Centro de Cómputo.',
-          image:null },
-        { id:'p10', category:'proyectos', direct:true,
+          image:th('https://68sfszbqhq-stack.github.io/facufi-2025/') },
+        { id:'p10', category:'proyectos', direct:true, isLogo:false,
           title:'Mi PLE Cultura Digital — MCCEMS 2025',
           url:'https://68sfszbqhq-stack.github.io/COCUDIJOSEMENDOZA/index.html',
           source:'GitHub Pages', published:n(10),
           summary:'Mi Entorno Personal de Aprendizaje: Cultura Digital I, II y III.',
-          image:null },
+          image:th('https://68sfszbqhq-stack.github.io/COCUDIJOSEMENDOZA/index.html') },
 
-        /* ══ TECH / IA (19) ══════════════════════════════════════════════════ */
-        { id:'d1',  category:'tech-ia',
+        /* ══ TECH / IA ══════════════════════════════════════════════════════ */
+        { id:'d1',  category:'tech-ia', isLogo:true,
           title:'GPT-5 Turbo supera benchmarks de razonamiento en todas las categorías',
           url:'https://openai.com', source:'TechCrunch', published:n(1), score:1840,
           summary:'La capacidad multimodal del nuevo modelo marca un antes y después.',
-          image:null },
-        { id:'d7',  category:'tech-ia',
+          image:cb('techcrunch.com') },
+        { id:'d7',  category:'tech-ia', isLogo:true,
           title:'LLaMA 3.2 open-source iguala a GPT-4 en benchmarks de código y matemáticas',
           url:'https://hnrss.org', source:'Hacker News', published:n(7), score:2340,
           summary:'Meta libera su modelo más potente con licencia comercial permisiva.',
-          image:null },
-        { id:'d14', category:'tech-ia',
+          image:cb('ycombinator.com') },
+        { id:'d14', category:'tech-ia', isLogo:true,
           title:'Vibe Coding con Claude: Un docente construyó su sistema escolar sin experiencia previa',
           url:'https://anthropic.com', source:'Medium', published:n(20),
           summary:'Prototipado de apps educativas reales con IA en horas, no semanas.',
-          image:null },
-        { id:'d15', category:'tech-ia',
+          image:cb('medium.com') },
+        { id:'d15', category:'tech-ia', isLogo:true,
           title:'r/MachineLearning: Los 5 papers más relevantes de la semana en ArXiv',
           url:'https://reddit.com/r/MachineLearning', source:'r/MachineLearning', published:n(22), score:567,
           summary:'Nuevas arquitecturas transformer, RAG eficiente y agentes multimodal.',
-          image:null },
-        { id:'s1',  category:'tech-ia',
+          image:cb('reddit.com') },
+        { id:'s1',  category:'tech-ia', isLogo:true,
           title:'Xataka: Las 10 herramientas de IA que están cambiando la productividad en 2026',
           url:'https://www.xataka.com/', source:'Xataka', published:n(0.5),
           summary:'El referente en español analiza las plataformas de IA generativa con mayor impacto en flujos de trabajo profesionales.',
-          image:null },
-        { id:'s2',  category:'tech-ia',
+          image:cb('xataka.com') },
+        { id:'s2',  category:'tech-ia', isLogo:true,
           title:'Hipertextual: Cómo los modelos de lenguaje están redefiniendo la búsqueda en internet',
           url:'https://hipertextual.com/', source:'Hipertextual', published:n(1.5),
           summary:'Análisis profundo de cómo GPT, Gemini y Claude están desplazando a los buscadores tradicionales.',
-          image:null },
-        { id:'s3',  category:'tech-ia',
+          image:cb('hipertextual.com') },
+        { id:'s3',  category:'tech-ia', isLogo:true,
           title:'Platzi: Aprende a construir agentes de IA con Python desde cero — Guía 2026',
           url:'https://platzi.com/blog/', source:'Platzi Blog', published:n(2.5),
           summary:'El equipo de Platzi publica la ruta de aprendizaje más actualizada para construir agentes autónomos con LangChain.',
-          image:null },
-        { id:'s4',  category:'tech-ia',
+          image:cb('platzi.com') },
+        { id:'s4',  category:'tech-ia', isLogo:true,
           title:'Genbeta: Las mejores extensiones de IA para VS Code que debes instalar hoy',
           url:'https://www.genbeta.com/', source:'Genbeta', published:n(3.5),
           summary:'Copilot, Codeium, Tabnine y más: comparativa honesta de asistentes de código.',
-          image:null },
-        { id:'s5',  category:'tech-ia',
+          image:cb('genbeta.com') },
+        { id:'s5',  category:'tech-ia', isLogo:true,
           title:'midu.dev: React 19 — Todo lo nuevo que necesitas saber en 15 minutos',
           url:'https://midu.dev/', source:'midu.dev', published:n(5),
           summary:'Miguel Ángel Durán explica las Acciones, los hooks nuevos y el compilador de React 19.',
-          image:null },
-        { id:'s6',  category:'tech-ia',
+          image:cb('midu.dev') },
+        { id:'s6',  category:'tech-ia', isLogo:true,
           title:'MoureDev: Python en 2026 — Las librerías que dominan el mercado laboral',
           url:'https://www.youtube.com/@mouredev', source:'MoureDev (YouTube)', published:n(6),
           summary:'Brais Moure analiza el ecosistema Python: FastAPI, Polars, uv y las herramientas que piden las empresas.',
-          image:null },
-        { id:'s7',  category:'tech-ia',
+          image:YT },
+        { id:'s7',  category:'tech-ia', isLogo:true,
           title:'Código Facilito: Curso completo de Docker y Kubernetes — Gratis',
           url:'https://codigofacilito.com/', source:'Código Facilito', published:n(8),
           summary:'La plataforma mexicana lanza su nuevo curso de contenedores con proyectos prácticos en español.',
-          image:null },
-        { id:'s8',  category:'tech-ia',
+          image:cb('codigofacilito.com') },
+        { id:'s8',  category:'tech-ia', isLogo:true,
           title:'MDN Web Docs: Guía completa de CSS Grid en español — actualizada 2026',
           url:'https://developer.mozilla.org/es/', source:'MDN Web Docs (ES)', published:n(10),
           summary:'Mozilla actualiza su documentación oficial de CSS Grid con subgrid, masonry y propiedades experimentales.',
-          image:null },
-        { id:'s9',  category:'tech-ia',
+          image:cb('mozilla.org') },
+        { id:'s9',  category:'tech-ia', isLogo:true,
           title:'Python Docs ES: Novedades de Python 3.13 — Lo que debes saber',
           url:'https://docs.python.org/es/3/', source:'Python Docs (ES)', published:n(11),
           summary:'Documentación oficial en español sobre el nuevo compilador JIT, mejoras en el GIL y nuevas funciones.',
-          image:null },
-        { id:'n1',  category:'tech-ia',
+          image:cb('python.org') },
+        { id:'n1',  category:'tech-ia', isLogo:true,
           title:'Fernando Herrera: Domina TypeScript en 2026 — Tipos avanzados y decoradores',
           url:'https://fernando-herrera.com/', source:'Fernando Herrera', published:n(13),
           summary:'El instructor estrella de Udemy hispanoparlante explica los patrones que diferencian a los desarrolladores senior.',
-          image:null },
-        { id:'n2',  category:'tech-ia',
+          image:cb('udemy.com') },
+        { id:'n2',  category:'tech-ia', isLogo:true,
           title:'Fazt: Crea tu primera API REST con Node.js y Express en 30 minutos',
           url:'https://fazt.dev/', source:'Fazt', published:n(15),
           summary:'Tutorial paso a paso para construir una API con autenticación JWT y base de datos MongoDB.',
-          image:null },
-        { id:'n3',  category:'tech-ia',
+          image:YT },
+        { id:'n3',  category:'tech-ia', isLogo:true,
           title:'HolaMundo: Aprende Git y GitHub desde cero — La guía definitiva en español',
           url:'https://www.youtube.com/@HolaMundoDev', source:'HolaMundo (YouTube)', published:n(17),
           summary:'Canal de desarrollo moderno con proyectos reales, desde JavaScript hasta arquitecturas cloud.',
-          image:null },
-        { id:'n4',  category:'tech-ia',
+          image:YT },
+        { id:'n4',  category:'tech-ia', isLogo:true,
           title:'Carlos Azaustre: Productividad con IA — Mi flujo de trabajo como desarrollador en 2026',
           url:'https://carlosazaustre.es/', source:'Carlos Azaustre', published:n(19),
           summary:'Google Developer Expert comparte cómo integra herramientas de IA en su flujo de desarrollo diario.',
-          image:null },
-        { id:'n5',  category:'tech-ia',
+          image:cb('google.com') },
+        { id:'n5',  category:'tech-ia', isLogo:true,
           title:'Héktor Profe: Django REST Framework — Tutorial completo para principiantes',
           url:'https://hektorprofe.net/', source:'Héktor Profe', published:n(21),
           summary:'Guía completa para construir una API robusta con Django, serializers, permisos y autenticación token.',
-          image:null },
-        { id:'n6',  category:'tech-ia',
+          image:YT },
+        { id:'n6',  category:'tech-ia', isLogo:true,
           title:'DotCSV: El estado actual de la IA generativa — Lo que nadie te está contando',
           url:'https://www.youtube.com/@DotCSV', source:'DotCSV (YouTube)', published:n(23),
           summary:'Carlos Santana analiza sin hype el impacto real de los modelos generativos en ciencia, arte e industria.',
-          image:null },
+          image:YT },
 
-        /* ══ EDUCACIÓN (10) ══════════════════════════════════════════════════ */
-        { id:'d3',  category:'educacion',
+        /* ══ EDUCACIÓN ══════════════════════════════════════════════════════ */
+        { id:'d3',  category:'educacion', isLogo:true,
           title:'MCCEMS 2025: Todo lo que los docentes de bachillerato deben saber este ciclo',
           url:'https://sep.gob.mx', source:'SEP México', published:n(3),
           summary:'El nuevo Marco Curricular integra pensamiento computacional desde el 1er semestre.',
-          image:null },
-        { id:'d6',  category:'educacion',
+          image:cb('gob.mx') },
+        { id:'d6',  category:'educacion', isLogo:true,
           title:'Freddy Vega: El futuro del aprendizaje en LATAM es hiper-personalizado e impulsado por IA',
           url:'https://platzi.com/blog', source:'Platzi Blog', published:n(6),
           summary:'El CEO de Platzi comparte su visión sobre IA y educación en Latinoamérica.',
-          image:null },
-        { id:'s10', category:'educacion',
+          image:cb('platzi.com') },
+        { id:'s10', category:'educacion', isLogo:true,
           title:'SEP: Nueva guía de planeación didáctica para Cultura Digital — Descarga oficial',
           url:'https://www.gob.mx/sep', source:'SEP México', published:n(4),
           summary:'La SEP publica los lineamientos actualizados para la planeación por competencias en el MCCEMS 2025.',
-          image:null },
-        { id:'s11', category:'educacion',
+          image:cb('gob.mx') },
+        { id:'s11', category:'educacion', isLogo:true,
           title:'Educación 3.0: 7 estrategias con IA para el aula de bachillerato',
           url:'https://www.educaciontrespuntocero.com/', source:'Educación 3.0', published:n(7),
-          summary:'Propuestas prácticas respaldadas por evidencia para integrar IA generativa en el aula sin perder el foco pedagógico.',
-          image:null },
-        { id:'s12', category:'educacion',
+          summary:'Propuestas prácticas respaldadas por evidencia para integrar IA generativa en el aula.',
+          image:cb('educaciontrespuntocero.com') },
+        { id:'s12', category:'educacion', isLogo:true,
           title:'Tiching: Recursos digitales gratuitos para Cultura Digital I, II y III',
           url:'https://blog.tiching.com/', source:'Tiching Blog', published:n(9),
           summary:'Más de 40 recursos digitales clasificados por nivel y competencia, listos para usar en bachillerato.',
-          image:null },
-        { id:'s13', category:'educacion',
+          image:cb('tiching.com') },
+        { id:'s13', category:'educacion', isLogo:true,
           title:'INTEF: Formación en Competencia Digital Docente — Itinerarios 2026',
           url:'https://intef.es/', source:'INTEF', published:n(13),
           summary:'El Instituto Nacional de Tecnologías Educativas lanza nuevos itinerarios formativos para el Marco DigCompEdu.',
-          image:null },
-        { id:'s14', category:'educacion',
+          image:cb('intef.es') },
+        { id:'s14', category:'educacion', isLogo:true,
           title:'Fisioterapia-online: Biomecánica del movimiento deportivo — Guía para docentes de EF',
           url:'https://www.fisioterapia-online.com/', source:'Fisioterapia-online', published:n(15),
-          summary:'Principios de biomecánica aplicados a la educación física escolar, con protocolos de prevención de lesiones.',
-          image:null },
-        { id:'s16', category:'educacion',
+          summary:'Principios de biomecánica aplicados a la educación física escolar con protocolos de prevención.',
+          image:cb('fisioterapia-online.com') },
+        { id:'s16', category:'educacion', isLogo:true,
           title:'CuriosaMente: ¿Cómo aprende el cerebro? Neurociencia aplicada al aprendizaje',
           url:'https://www.youtube.com/@curiosamente', source:'CuriosaMente (YouTube)', published:n(19),
           summary:'El canal más visto en español explica cómo la memoria, la atención y el sueño afectan el aprendizaje.',
-          image:null },
-        { id:'e1',  category:'educacion',
+          image:YT },
+        { id:'e1',  category:'educacion', isLogo:true,
           title:'Observatorio Tec: Las 10 tendencias educativas que transformarán el aula en 2026',
           url:'https://observatorio.tec.mx/', source:'Observatorio Tec de Monterrey', published:n(11),
-          summary:'Análisis de innovaciones pedagógicas, tecnologías emergentes y nuevos modelos de aprendizaje para educación superior.',
-          image:null },
-        { id:'e2',  category:'educacion',
+          summary:'Análisis de innovaciones pedagógicas, tecnologías emergentes y nuevos modelos de aprendizaje.',
+          image:cb('tec.mx') },
+        { id:'e2',  category:'educacion', isLogo:true,
           title:'World Archery: Reglas oficiales de tiro con arco para competencia escolar 2026',
           url:'https://www.worldarchery.sport/es', source:'World Archery (ES)', published:n(18),
-          summary:'La federación internacional actualiza el reglamento y los formatos de competencia adaptados para programas escolares.',
-          image:null },
+          summary:'La federación internacional actualiza el reglamento y los formatos de competencia escolares.',
+          image:cb('worldarchery.sport') },
 
-        /* ══ ACADEMIA / INVESTIGACIÓN (12) ═══════════════════════════════════ */
-        { id:'a1',  category:'academia',
-          title:'Google Scholar: Encuentra artículos científicos de acceso abierto sobre IA en educación',
+        /* ══ ACADEMIA / INVESTIGACIÓN ═══════════════════════════════════════ */
+        { id:'a1',  category:'academia', isLogo:true,
+          title:'Google Scholar: Artículos científicos de acceso abierto sobre IA en educación',
           url:'https://scholar.google.com/', source:'Google Scholar', published:n(2),
-          summary:'El mayor índice de literatura académica. Encuentra citas, papers y revistas arbitradas en todas las disciplinas.',
-          image:null },
-        { id:'a2',  category:'academia',
+          summary:'El mayor índice de literatura académica: papers, citas y revistas arbitradas en todas las disciplinas.',
+          image:cb('google.com') },
+        { id:'a2',  category:'academia', isLogo:true,
           title:'Redalyc: Red de Revistas Científicas de América Latina en Acceso Abierto',
           url:'https://www.redalyc.org/', source:'Redalyc', published:n(4),
-          summary:'Miles de artículos arbitrados en español de las mejores revistas latinoamericanas en ciencias sociales, educación y deporte.',
-          image:null },
-        { id:'a3',  category:'academia',
+          summary:'Miles de artículos arbitrados de las mejores revistas latinoamericanas en ciencias sociales, educación y deporte.',
+          image:cb('redalyc.org') },
+        { id:'a3',  category:'academia', isLogo:true,
           title:'Dialnet: El mayor portal de difusión de la producción científica hispana',
           url:'https://dialnet.unirioja.es/', source:'Dialnet', published:n(6),
-          summary:'Base de datos de acceso abierto con más de 12 millones de documentos académicos en lengua española.',
-          image:null },
-        { id:'a4',  category:'academia',
-          title:'SciELO: Biblioteca científica electrónica en línea — Ciencias del deporte y educación',
+          summary:'Base de datos de acceso abierto con más de 12 millones de documentos académicos en español.',
+          image:cb('unirioja.es') },
+        { id:'a4',  category:'academia', isLogo:true,
+          title:'SciELO: Biblioteca científica electrónica — Ciencias del deporte y educación',
           url:'https://scielo.org/es/', source:'SciELO', published:n(8),
-          summary:'Modelo cooperativo de publicación electrónica de revistas científicas iberoamericanas de acceso abierto.',
-          image:null },
-        { id:'a5',  category:'academia',
+          summary:'Modelo cooperativo de publicación electrónica de revistas iberoamericanas de acceso abierto.',
+          image:cb('scielo.org') },
+        { id:'a5',  category:'academia', isLogo:true,
           title:'DOAJ: Directorio de Revistas de Acceso Abierto — Educación Física y Deporte',
           url:'https://doaj.org/', source:'DOAJ', published:n(10),
-          summary:'Directorio curado de miles de revistas científicas y académicas de acceso abierto en todo el mundo.',
-          image:null },
-        { id:'a6',  category:'academia',
-          title:'Latindex: Sistema Regional de Información en Línea para Revistas de América Latina',
+          summary:'Directorio curado de miles de revistas científicas de acceso abierto en todo el mundo.',
+          image:cb('doaj.org') },
+        { id:'a6',  category:'academia', isLogo:true,
+          title:'Latindex: Sistema Regional de Información para Revistas de América Latina',
           url:'https://www.latindex.org/', source:'Latindex', published:n(12),
           summary:'Directorio y catálogo de revistas científicas iberoamericanas con criterios de calidad editorial.',
-          image:null },
-        { id:'a7',  category:'academia',
+          image:cb('latindex.org') },
+        { id:'a7',  category:'academia', isLogo:true,
           title:'EFDeportes: Revista Digital de Educación Física y Ciencias del Deporte',
           url:'https://www.efdeportes.com/', source:'EFDeportes', published:n(3),
-          summary:'La mayor revista digital iberoamericana de educación física, deporte y recreación con más de 20 años de trayectoria.',
-          image:null },
-        { id:'a8',  category:'academia',
+          summary:'La mayor revista digital iberoamericana de educación física con más de 20 años de trayectoria.',
+          image:cb('efdeportes.com') },
+        { id:'a8',  category:'academia', isLogo:true,
           title:'RICYDE: Revista Internacional de Ciencias del Deporte — Últimos números',
           url:'https://www.cafyd.com/', source:'RICYDE', published:n(5),
-          summary:'Revista arbitrada de alto impacto en ciencias del deporte, publicada por la CAFYD con indexación internacional.',
-          image:null },
-        { id:'a9',  category:'academia',
+          summary:'Revista arbitrada de alto impacto en ciencias del deporte, publicada por la CAFYD.',
+          image:cb('cafyd.com') },
+        { id:'a9',  category:'academia', isLogo:true,
           title:'Apunts Educación Física y Deportes: Investigación en rendimiento y pedagogía',
           url:'https://revista-apunts.com/', source:'Apunts EF y Deportes', published:n(7),
-          summary:'Revista científica con más de 40 años publicando investigación en educación física, deporte y actividad física.',
-          image:null },
-        { id:'a10', category:'academia',
-          title:'RIMCAFD: Nuevas tendencias en entrenamiento deportivo y biomecánica aplicada',
+          summary:'Revista científica con más de 40 años publicando investigación en educación física y deporte.',
+          image:cb('revista-apunts.com') },
+        { id:'a10', category:'academia', isLogo:true,
+          title:'RIMCAFD: Tendencias en entrenamiento deportivo y biomecánica aplicada',
           url:'https://revistas.uam.es/rimcafd', source:'RIMCAFD (UAM)', published:n(9),
-          summary:'Revista Internacional de Medicina y Ciencias de la Actividad Física y del Deporte — indexada en WoS y Scopus.',
-          image:null },
-        { id:'a11', category:'academia',
+          summary:'Revista Internacional de Medicina y Ciencias de la Actividad Física — indexada en WoS y Scopus.',
+          image:cb('uam.es') },
+        { id:'a11', category:'academia', isLogo:true,
           title:'SPORT TK: Revista euroamericana de ciencias del deporte',
           url:'https://revistas.um.es/sportk', source:'SPORT TK (UMurcia)', published:n(11),
-          summary:'Publicación científica de la Universidad de Murcia especializada en educación física, deporte y salud.',
-          image:null },
-        { id:'a12', category:'academia',
-          title:'Investigación en tiro con arco: Biomecánica, psicología y rendimiento de élite',
+          summary:'Publicación de la Universidad de Murcia especializada en educación física, deporte y salud.',
+          image:cb('um.es') },
+        { id:'a12', category:'academia', isLogo:true,
+          title:'World Archery: Investigación en biomecánica y psicología del tiro con arco',
           url:'https://www.worldarchery.sport/es', source:'World Archery Research', published:n(14),
-          summary:'Recopilación de investigaciones científicas sobre biomecánica del tiro con arco y preparación psicológica del arquero.',
-          image:null },
+          summary:'Investigaciones científicas sobre biomecánica del tiro con arco y preparación psicológica del arquero.',
+          image:cb('worldarchery.sport') },
 
-        /* ══ COACHING (4) ════════════════════════════════════════════════════ */
-        { id:'d8',  category:'coaching',
+        /* ══ COACHING ═══════════════════════════════════════════════════════ */
+        { id:'d8',  category:'coaching', isLogo:true,
           title:'El arte de dar retroalimentación difícil: Marco COIN para líderes empáticos',
           url:'https://hbr.org', source:'Harvard Business Review', published:n(8),
           summary:'Investigadores de Stanford presentan el marco que preserva la motivación.',
-          image:null },
-        { id:'d12', category:'coaching',
+          image:cb('hbr.org') },
+        { id:'d12', category:'coaching', isLogo:true,
           title:'Christian Van Der Henst: Construye una marca personal auténtica en LinkedIn',
           url:'https://cvander.com', source:'Blog CVander', published:n(14),
           summary:'Estrategias para posicionarte como referente sin el perfil genérico.',
-          image:null },
-        { id:'s17', category:'coaching',
-          title:'Xavier Pirla: Los 6 principios de influencia de Cialdini aplicados al liderazgo docente',
+          image:cb('linkedin.com') },
+        { id:'s17', category:'coaching', isLogo:true,
+          title:'Xavier Pirla: Los 6 principios de influencia de Cialdini aplicados al liderazgo',
           url:'https://www.youtube.com/@Xavier_Pirla', source:'Xavier Pirla (YouTube)', published:n(6),
           summary:'El experto adapta los principios de Cialdini al contexto de la gestión de equipos educativos.',
-          image:null },
-        { id:'s18', category:'coaching',
-          title:'Eduardo Navas: Cómo construir un sistema de coaching para equipos de alto rendimiento',
+          image:YT },
+        { id:'s18', category:'coaching', isLogo:true,
+          title:'Eduardo Navas: Sistema de coaching para equipos de alto rendimiento',
           url:'https://www.youtube.com/@Eduardonavascoach', source:'Eduardo Navas (YouTube)', published:n(11),
-          summary:'Metodología práctica para implementar sesiones de coaching individual y grupal en organizaciones educativas.',
-          image:null },
+          summary:'Metodología práctica para implementar sesiones de coaching individual y grupal en organizaciones.',
+          image:YT },
 
-        /* ══ PSICOLOGÍA (4) ══════════════════════════════════════════════════ */
-        { id:'d2',  category:'psicologia',
+        /* ══ PSICOLOGÍA ═════════════════════════════════════════════════════ */
+        { id:'d2',  category:'psicologia', isLogo:true,
           title:'Psicología del alto rendimiento: Cómo los atletas olímpicos entrenan la mente',
           url:'https://psychologytoday.com', source:'Psychology Today', published:n(2),
           summary:'Técnicas de visualización y autorregulación emocional aplicadas al aula.',
-          image:null },
-        { id:'d11', category:'psicologia',
+          image:cb('psychologytoday.com') },
+        { id:'d11', category:'psicologia', isLogo:true,
           title:'Flow State en el deporte escolar: Guía práctica para docentes',
           url:'https://reddit.com/r/SportPsychology', source:'r/SportPsychology', published:n(12),
           summary:'Csikszentmihalyi aplicado al aula para generar flujo en estudiantes.',
-          image:null },
-        { id:'s19', category:'psicologia',
+          image:cb('reddit.com') },
+        { id:'s19', category:'psicologia', isLogo:true,
           title:'Farid Dieck: La trampa del perfeccionismo — Por qué te frena y cómo salir',
           url:'https://www.youtube.com/@FaridDieckOficial', source:'Farid Dieck (YouTube)', published:n(8),
           summary:'Análisis psicológico del perfeccionismo disfuncional y herramientas concretas para superarlo.',
-          image:null },
-        { id:'s20', category:'psicologia',
+          image:YT },
+        { id:'s20', category:'psicologia', isLogo:true,
           title:'Psyciencia: Terapia de Aceptación y Compromiso (ACT) — Evidencia y aplicaciones',
           url:'https://www.psyciencia.com/', source:'Psyciencia', published:n(14),
-          summary:'Revisión de la evidencia científica detrás de ACT y cómo los docentes pueden aplicarla en el bienestar estudiantil.',
-          image:null },
+          summary:'Revisión de la evidencia científica detrás de ACT y cómo los docentes pueden aplicarla.',
+          image:cb('psyciencia.com') },
 
-        /* ══ JUEGOS (2) ══════════════════════════════════════════════════════ */
-        { id:'d4',  category:'juegos',
+        /* ══ JUEGOS ═════════════════════════════════════════════════════════ */
+        { id:'d4',  category:'juegos', isLogo:true,
           title:'Wingspan y los juegos cooperativos como herramienta de Team Building',
           url:'https://boardgamegeek.com', source:'BoardGameGeek', published:n(4),
           summary:'40 estudios muestran cómo los juegos de mesa mejoran la cohesión de equipo.',
-          image:null },
-        { id:'d10', category:'juegos',
+          image:cb('boardgamegeek.com') },
+        { id:'d10', category:'juegos', isLogo:true,
           title:'Pandemic Legacy S3: Mecánicas cooperativas y su transferencia al liderazgo real',
           url:'https://boardgamegeek.com', source:'BoardGameGeek', published:n(10),
           summary:'Cómo este juego entrena decisión colaborativa y comunicación bajo crisis.',
-          image:null },
+          image:cb('boardgamegeek.com') },
 
-        /* ══ GEOPOLÍTICA (2) ═════════════════════════════════════════════════ */
-        { id:'d5',  category:'geopolitica',
+        /* ══ GEOPOLÍTICA ════════════════════════════════════════════════════ */
+        { id:'d5',  category:'geopolitica', isLogo:true,
           title:'China vs. EEUU en IA: El mapa geopolítico que redefinirá alianzas antes de 2030',
           url:'https://reddit.com/r/geopolitics', source:'r/geopolitics', published:n(5), score:920,
           summary:'Análisis del ecosistema tecnológico que reconfigura relaciones internacionales.',
-          image:null },
-        { id:'d13', category:'geopolitica',
+          image:cb('reddit.com') },
+        { id:'d13', category:'geopolitica', isLogo:true,
           title:'Geopolítica del litio: Por qué LATAM es clave en la transición energética global',
           url:'https://reddit.com/r/Futurology', source:'r/Futurology', published:n(16), score:1450,
           summary:'Chile, Argentina y Bolivia concentran el 60% de las reservas mundiales.',
-          image:null },
+          image:cb('reddit.com') },
 
-        /* ══ STARTUPS (4) ════════════════════════════════════════════════════ */
-        { id:'d9',  category:'startup',
+        /* ══ STARTUPS ═══════════════════════════════════════════════════════ */
+        { id:'d9',  category:'startup', isLogo:true,
           title:'Y Combinator W26: 12 startups de EdTech que cambiarán la educación en 2027',
           url:'https://techcrunch.com', source:'TechCrunch', published:n(9),
           summary:'Tutores IA personalizados y plataformas de micro-credenciales emergentes.',
-          image:null },
-        { id:'d16', category:'startup',
+          image:cb('techcrunch.com') },
+        { id:'d16', category:'startup', isLogo:true,
           title:'Startups de coaching digital: Democratizando el alto rendimiento',
           url:'https://linkedin.com', source:'LinkedIn', published:n(24),
           summary:'Cómo escalar metodologías de coaching ejecutivo a plataformas digitales.',
-          image:null },
-        { id:'s21', category:'startup',
+          image:cb('linkedin.com') },
+        { id:'s21', category:'startup', isLogo:true,
           title:'Moris Dieck: Cómo invertir en ETFs de IA desde México — Guía práctica 2026',
           url:'https://www.youtube.com/@MorisDieck', source:'Moris Dieck (YouTube)', published:n(5),
-          summary:'El youtuber de finanzas personales explica cómo diversificar hacia tecnología e IA con bajo capital.',
-          image:null },
-        { id:'s22', category:'startup',
+          summary:'El youtuber de finanzas personales explica cómo diversificar hacia tecnología e IA.',
+          image:YT },
+        { id:'s22', category:'startup', isLogo:true,
           title:'Juan Guáqueta: Tendencias de inversión en startups latinoamericanas 2026-2027',
           url:'https://www.youtube.com/@JGuaqueta', source:'Juan Guáqueta (YouTube)', published:n(10),
-          summary:'Análisis del ecosistema emprendedor de LATAM: sectores con más tracción y fondos más activos.',
-          image:null },
+          summary:'Análisis del ecosistema emprendedor de LATAM: sectores con más tracción y fondos activos.',
+          image:YT },
     ];
 }
 

@@ -520,6 +520,7 @@ const CATS = {
     juegos:       { label:'Juegos',         color:'#B7950B', icon:'fa-chess',         grad:'linear-gradient(135deg,#827717,#B7950B)' },
     geopolitica:  { label:'Geopolítica',    color:'#1A5276', icon:'fa-globe',         grad:'linear-gradient(135deg,#0D47A1,#1A5276)' },
     startup:      { label:'Startups',       color:'#117A65', icon:'fa-rocket',        grad:'linear-gradient(135deg,#004D40,#117A65)' },
+    archivos:     { label:'Mis Archivos',   color:'#0078D4', icon:'fa-folder-open',   grad:'linear-gradient(135deg,#003F7F,#0078D4)' },
 };
 
 // ════════════════════════════════════════════════
@@ -570,7 +571,7 @@ function filtered() {
 function forYou(items) {
     // Top 3 de cada categoría (sin proyectos), mezclados por frescura
     const bycat = {};
-    items.filter(i => i.category !== 'proyectos').forEach(i => {
+    items.filter(i => i.category !== 'proyectos' && i.category !== 'archivos').forEach(i => {
         if (!bycat[i.category]) bycat[i.category] = [];
         if (bycat[i.category].length < 3) bycat[i.category].push(i);
     });
@@ -1227,6 +1228,68 @@ function demoItems() {
           url:'https://www.youtube.com/@JGuaqueta', source:'Juan Guáqueta (YouTube)', published:n(10),
           summary:'Análisis del ecosistema emprendedor de LATAM: sectores con más tracción y fondos activos.',
           image:YT },
+
+        /* ══ MIS ARCHIVOS — OneDrive IBERO ══════════════════════════════════ */
+        { id:'arc0', category:'archivos', direct:true, isLogo:true,
+          title:'📁 PDFS ACADÉMICOS — Carpeta raíz OneDrive',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE',
+          source:'OneDrive IBERO', published:n(1),
+          summary:'Acceso directo a todas las carpetas académicas organizadas en OneDrive IBERO (136 archivos).',
+          image:cb('microsoft.com') },
+        { id:'arc1', category:'archivos', direct:true, isLogo:true,
+          title:'📂 SEP / MCCEMS — Documentos Oficiales (14)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/01_SEP_MCCEMS_Documentos_Oficiales',
+          source:'OneDrive IBERO', published:n(2),
+          summary:'Programas SEP 2025 MCC, Rediseño MCCEMS, Modelo Educativo 2025, COCUDI 2026, PAEC.',
+          image:cb('sep.gob.mx') },
+        { id:'arc2', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Certificaciones y Cursos (23)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/02_Certificaciones_Cursos',
+          source:'OneDrive IBERO', published:n(2),
+          summary:'Google for Education, IA en Clave Docente, Cursos extracurriculares USICAMM, constancias IBERO.',
+          image:cb('google.com') },
+        { id:'arc3', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Planeaciones Didácticas (10)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/03_Planeaciones_Didacticas',
+          source:'OneDrive IBERO', published:n(2),
+          summary:'Planeaciones Cultura Digital I, II y III, Formación Socioemocional, Deportivas, Orientaciones SEP.',
+          image:cb('iberopuebla.mx') },
+        { id:'arc4', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Leyes y Normativas (6)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/04_Leyes_Normativas',
+          source:'OneDrive IBERO', published:n(2),
+          summary:'LGE, CPEUM, LGDNNA, LGRA, Protocolo de Convivencia EMS, Plan AEMS.',
+          image:cb('gob.mx') },
+        { id:'arc5', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Investigación y Libros (10)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/05_Investigacion_Libros_Articulos',
+          source:'OneDrive IBERO', published:n(3),
+          summary:'Liderazgo UNESCO, Comunidades de aprendizaje, Tudor Bompa, Matveev, Historia Educación México.',
+          image:cb('redalyc.org') },
+        { id:'arc6', category:'archivos', direct:true, isLogo:true,
+          title:'📂 USICAMM — Expediente Docente (6)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/06_USICAMM_Expediente_Docente',
+          source:'OneDrive IBERO', published:n(2),
+          summary:'Guía USICAMM 2026, Experiencia Docente, Manual de Admisión EMS, Convocatoria 2026.',
+          image:cb('sep.gob.mx') },
+        { id:'arc7', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Exposiciones Comunicación (26)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/07_Exposiciones_Comunicacion',
+          source:'OneDrive IBERO', published:n(1),
+          summary:'Presentaciones y PDFs de alumnos: Azul, Camila, Gonzalo, Rubí, Yahir, Miranda y más.',
+          image:cb('iberopuebla.mx') },
+        { id:'arc8', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Libros Cultura Digital (36)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/08_Libros_Cultura_Digital',
+          source:'OneDrive IBERO', published:n(2),
+          summary:'Python, JavaScript, SQL, Stanford AI Index, IA en Educación, Programas SEP, Prompt Engineering.',
+          image:cb('zotero.org') },
+        { id:'arc9', category:'archivos', direct:true, isLogo:true,
+          title:'📂 Presentaciones Docente (5)',
+          url:'https://iberopuebla-my.sharepoint.com/personal/716276_iberopuebla_mx/_layouts/15/onedrive.aspx?id=/personal/716276_iberopuebla_mx/Documents/PDFS_ACADEMICOS_JOSE/09_Presentaciones_Docente',
+          source:'OneDrive IBERO', published:n(1),
+          summary:'IA en mi Labor Docente, Comunicación Profesional, Herramientas Colaborativas, Páginas Web.',
+          image:cb('microsoft.com') },
     ];
 }
 

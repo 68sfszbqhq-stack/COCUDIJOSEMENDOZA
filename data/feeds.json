@@ -1,86 +1,204 @@
 {
   "meta": {
-    "generated": "2026-06-27T08:37:06.720580+00:00",
-    "total": 90
+    "generated": "2026-06-27T13:44:20.569066+00:00",
+    "total": 75
   },
   "items": [
     {
-      "id": "b2d1061fb03582",
-      "title": "Australian arrested after teenage girl's body found in Thailand",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugw8bl/australian_arrested_after_teenage_girls_body/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/Familiar-Ability6383 [link] [comments]",
-      "image": "https://external-preview.redd.it/lGnAQozQ_pEQFjRWD-m396vx9KXc14nA6S46CYy7fVo.jpeg?width=640&crop=smart&auto=webp&s=dde071bf701dde6a78b066f069b8ab7e105fd4f1",
-      "published": "2026-06-27T07:30:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48695694",
-      "title": "Is America Becoming a Gerontocracy?",
-      "url": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
+      "id": "hn-48697768",
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-27T06:22:45+00:00",
-      "score": 21,
+      "published": "2026-06-27T12:43:16+00:00",
+      "score": 22,
       "tags": [
         "hackernews"
       ]
     },
     {
-      "id": "561a1d83dae595",
-      "title": "Defense plant in Volgograd hit by Flamingo missiles",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugu9ai/defense_plant_in_volgograd_hit_by_flamingo/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/modernbonaparte [link] [comments]",
-      "image": "https://external-preview.redd.it/Npsl6joQvrgo7I8Flx_IKz_FLdLqmZp8dBaRf0jGxwY.jpeg?width=640&crop=smart&auto=webp&s=12735773f7e84160d5fbd2a1e50072418e095613",
-      "published": "2026-06-27T05:40:13+00:00",
+      "id": "04ebd4ac993a65",
+      "title": "The third Xbox price hike in 15 months raises all models by at least $100",
+      "url": "https://www.reddit.com/r/technology/comments/1uh1shy/the_third_xbox_price_hike_in_15_months_raises_all/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "image": "https://external-preview.redd.it/JKBN-7oYy9NXOlLaI0atQT9UG55RpilLnBoNypIg05g.jpeg?width=640&crop=smart&auto=webp&s=adedcc8e20a627f049756b6694581705a313e533",
+      "published": "2026-06-27T12:42:07+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "88d82e7910a1b2",
-      "title": "Iranian army announces strikes against US forces in Middle East",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugu5oy/iranian_army_announces_strikes_against_us_forces/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/mark000 [link] [comments]",
-      "image": null,
-      "published": "2026-06-27T05:34:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48695363",
-      "title": "IBM MCGA Gate Array Reverse Engineering",
-      "url": "https://github.com/schlae/IBM_MCGA",
+      "id": "hn-48697746",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-27T05:17:08+00:00",
-      "score": 19,
+      "published": "2026-06-27T12:40:59+00:00",
+      "score": 4,
       "tags": [
         "hackernews"
       ]
     },
     {
-      "id": "hn-48695149",
-      "title": "OpenTTD 16.0-Beta1",
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "id": "bd11b265c02583",
+      "title": "Scientists found a cannabis compound that relieves pain without the high",
+      "url": "https://www.reddit.com/r/technology/comments/1uh1pky/scientists_found_a_cannabis_compound_that/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/_Dark_Wing [link] [comments]",
+      "image": "https://external-preview.redd.it/d8Iwa7wtNnGi1j7t_Yd4phzA7M1HUh9DX6qhADtNbVs.jpeg?width=640&crop=smart&auto=webp&s=3327afab72e0635dbf33e40a0f5a35fd933dcc83",
+      "published": "2026-06-27T12:38:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48697560",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-27T04:31:06+00:00",
-      "score": 131,
+      "published": "2026-06-27T12:10:27+00:00",
+      "score": 69,
       "tags": [
         "hackernews"
       ]
+    },
+    {
+      "id": "hn-48697504",
+      "title": "Nox Metals (YC S25) Is Hiring SWE",
+      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T12:01:03+00:00",
+      "score": 1,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "4209c1889e4c8d",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch",
+      "category": "tech-ia",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "image": null,
+      "published": "2026-06-27T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48697335",
+      "title": "If you can't hold it, you don't own it",
+      "url": "https://dervis.de/physical/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T11:32:10+00:00",
+      "score": 76,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "eae87b843fb883",
+      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
+      "source": "Ars Technica",
+      "category": "tech-ia",
+      "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Amble-0085_HERO-500x500.jpg",
+      "published": "2026-06-27T11:07:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48696982",
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T10:28:53+00:00",
+      "score": 161,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48696585",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T09:18:52+00:00",
+      "score": 502,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48696510",
+      "title": "Beer CSS – Build material design in record time",
+      "url": "https://www.beercss.com",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T09:06:11+00:00",
+      "score": 65,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "1d58dc81a1b01e",
+      "title": "PlayStation console sales hit lowest total since 2000 falling 58%",
+      "url": "https://www.reddit.com/r/technology/comments/1ugwtr8/playstation_console_sales_hit_lowest_total_since/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/That_Trouble87 [link] [comments]",
+      "image": null,
+      "published": "2026-06-27T08:04:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bb2f99f053faaf",
+      "title": "Streaming Ads Are About to Get Quieter | A California law will go into effect on July 1, 2026 prohibiting streaming platforms from airing ads louder than the content they accompany.",
+      "url": "https://www.reddit.com/r/technology/comments/1ugvq1r/streaming_ads_are_about_to_get_quieter_a/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/ControlCAD [link] [comments]",
+      "image": "https://external-preview.redd.it/ZZ8y0OyzuXG2ilJleDO8QyXOrQ_wxvfYgo4RcHeeZ8c.jpeg?width=640&crop=smart&auto=webp&s=5bbf957a86d32fb126f9d9b8c189a55a731d7634",
+      "published": "2026-06-27T07:01:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d47346517c467a",
+      "title": "All the money flooding into AI is a giant warning sign — When companies as a group turn into sellers, it’s a reasonable sign that stocks are very overpriced",
+      "url": "https://www.reddit.com/r/technology/comments/1ugu9s8/all_the_money_flooding_into_ai_is_a_giant_warning/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/marketrent [link] [comments]",
+      "image": null,
+      "published": "2026-06-27T05:40:58+00:00",
+      "score": null,
+      "tags": []
     },
     {
       "id": "3faa3dfcabb6a0",
@@ -95,18 +213,6 @@
       "tags": []
     },
     {
-      "id": "4a46f7b6e15d17",
-      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1584, Part 1 (Thread #1731)",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugse46/rworldnews_live_thread_russian_invasion_of/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/WorldNewsMods [link] [comments]",
-      "image": null,
-      "published": "2026-06-27T04:02:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "hn-48694853",
       "title": "WordStar: A Writer's Word Processor (1996)",
       "url": "https://www.sfwriter.com/wordstar.htm",
@@ -115,46 +221,10 @@
       "summary": "",
       "image": null,
       "published": "2026-06-27T03:30:01+00:00",
-      "score": 75,
+      "score": 120,
       "tags": [
         "hackernews"
       ]
-    },
-    {
-      "id": "fcf33b3f93eff3",
-      "title": "US strikes Iran for first time since ceasefire agreement - and Tehran responds",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugqdjl/us_strikes_iran_for_first_time_since_ceasefire/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/Dexterestein [link] [comments]",
-      "image": "https://external-preview.redd.it/Zvtjv8VHSw1VA2obWcAYDyOtmarfIKzC3IPmJAdtFxY.jpeg?width=640&crop=smart&auto=webp&s=a71c1c28ed785cbd2d339cb7d5b10964ade65a6b",
-      "published": "2026-06-27T02:23:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d21786677b7248",
-      "title": "The KIDS Act Would Require Age Checks To Get Online",
-      "url": "https://www.reddit.com/r/technology/comments/1ugpf01/the_kids_act_would_require_age_checks_to_get/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Limp_Fig6236 [link] [comments]",
-      "image": "https://external-preview.redd.it/btKPTYaM99ZoIX6bzhPwD7yHlr3Dk0J21DhrFhfbLPo.png?width=640&crop=smart&auto=webp&s=8132c5f1d0a4bdadc3ebe60cd660b8f4a35d6a80",
-      "published": "2026-06-27T01:37:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7021c8f59ac71f",
-      "title": "Denmark plans nationwide ban on Islamic call to prayer, cites concerns over 'Islamisation'",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugowny/denmark_plans_nationwide_ban_on_islamic_call_to/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/Inevitable-Push-8061 [link] [comments]",
-      "image": "https://external-preview.redd.it/aTzwAmrTrMEyRghxgVsY4QvFbyN4Bkn4oykJTuUbCw4.jpeg?width=640&crop=smart&auto=webp&s=2ec79a7881011c81b28a20b04688be7578270fff",
-      "published": "2026-06-27T01:13:10+00:00",
-      "score": null,
-      "tags": []
     },
     {
       "id": "b18057ca1428fe",
@@ -181,20 +251,6 @@
       "tags": []
     },
     {
-      "id": "hn-48693912",
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-27T00:43:39+00:00",
-      "score": 66,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "f8e9f26e10cc92",
       "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
@@ -203,18 +259,6 @@
       "summary": "Mesh came out of stealth in February with a $50 million Series A.",
       "image": null,
       "published": "2026-06-27T00:38:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9e465872f44bc4",
-      "title": "Iran's IRGC says it targeted US positions after American strikes near Hormuz",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugo3np/irans_irgc_says_it_targeted_us_positions_after/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/aihumen [link] [comments]",
-      "image": "https://external-preview.redd.it/ii9WFoUBPBRBFWhhu-ALdBlkEazU6BAh6MYwiYvF4BI.png?width=320&crop=smart&auto=webp&s=84d04da3777e7c7931fde0d4435e484ef741e52a",
-      "published": "2026-06-27T00:35:33+00:00",
       "score": null,
       "tags": []
     },
@@ -243,20 +287,6 @@
       "tags": []
     },
     {
-      "id": "hn-48692995",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T22:48:28+00:00",
-      "score": 413,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "hn-48692946",
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
       "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
@@ -265,21 +295,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T22:43:29+00:00",
-      "score": 228,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48692883",
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T22:36:51+00:00",
-      "score": 114,
+      "score": 283,
       "tags": [
         "hackernews"
       ]
@@ -321,18 +337,6 @@
       "tags": []
     },
     {
-      "id": "9f9c76995da16a",
-      "title": "Tell Congress: Don’t Force Age Checks Online",
-      "url": "https://www.reddit.com/r/technology/comments/1ugkcxb/tell_congress_dont_force_age_checks_online/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Anoth3rDude [link] [comments]",
-      "image": "https://external-preview.redd.it/6eE0PDrjIrxNz63fP7ZbpLe4yxGIgfDJfbolFKwEZOs.png?width=640&crop=smart&auto=webp&s=9e37f3d00f1455cb06d13c0a524286223326f317",
-      "published": "2026-06-26T21:57:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4bfd63abfa87ad",
       "title": "Doctors suspected man had brain cancer. He actually had worms.",
       "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
@@ -341,18 +345,6 @@
       "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1-500x308.jpg",
       "published": "2026-06-26T21:43:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ae36644e5aaf0e",
-      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugjvjn/us_strikes_iran_after_trump_accuses_tehran_of/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/sapphirelike [link] [comments]",
-      "image": "https://external-preview.redd.it/v7EAM-epJO4Al8bbiKNr1czLvFQ4BgC0D8g6D8YJ_VA.png?width=640&crop=smart&auto=webp&s=1cace8352728d5686ba5073bc9027e2bec05d00d",
-      "published": "2026-06-26T21:38:21+00:00",
       "score": null,
       "tags": []
     },
@@ -393,30 +385,6 @@
       "tags": []
     },
     {
-      "id": "bb087615a70ff2",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugij6f/us_conducts_strikes_on_iran_after_attack_on_cargo/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/Alarming-Safety3200 [link] [comments]",
-      "image": "https://external-preview.redd.it/TxmiDJuxnMHiA6O0oVptMeroUpsmG59h-haDXbDp2dw.png?width=640&crop=smart&auto=webp&s=96933db08674ae2a564240aa90abb97c9de620b0",
-      "published": "2026-06-26T20:46:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f3b38c65d0ed5d",
-      "title": "German lawyers: Ban on far-right AfD 'likely successful'",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugihx2/german_lawyers_ban_on_farright_afd_likely/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/Inevitable-Push-8061 [link] [comments]",
-      "image": "https://external-preview.redd.it/ufu0Mn5lmJmXXsaKKVU7vR_mebnAyjjpF9D-ccFrLOM.jpeg?width=640&crop=smart&auto=webp&s=5a3cef9a92374c70895b232c5734bfec091a981f",
-      "published": "2026-06-26T20:44:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6676e195d81cf6",
       "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
       "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
@@ -425,18 +393,6 @@
       "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-500x500-1782501951.jpg",
       "published": "2026-06-26T20:04:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ac7332c2a7a08e",
-      "title": "In Viral Post, Russian Veteran Warns Putin Of Mutiny, Then Walks Back Threat",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ugg5l7/in_viral_post_russian_veteran_warns_putin_of/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/Dramatic-Shake-8888 [link] [comments]",
-      "image": "https://external-preview.redd.it/24pZeG77B4NAI3t09wHAFrOOmjG6ms8nVq25NqXTi8E.jpeg?width=640&crop=smart&auto=webp&s=0bea0dbffd304380ce6c54926e26f1d439482d46",
-      "published": "2026-06-26T19:16:04+00:00",
       "score": null,
       "tags": []
     },
@@ -581,7 +537,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T17:06:55+00:00",
-      "score": 980,
+      "score": 1040,
       "tags": [
         "hackernews"
       ]
@@ -683,42 +639,6 @@
       "tags": []
     },
     {
-      "id": "e8c0e0014824e5",
-      "title": "Ukraine unleashes one of its heaviest drone bombardments of Russia",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ug886t/ukraine_unleashes_one_of_its_heaviest_drone/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/CTVNEWS [link] [comments]",
-      "image": "https://external-preview.redd.it/mIg9GtiWPEkhjhtWB0FR7X0CmCktnC50uMt74Y_SXgo.jpeg?width=640&crop=smart&auto=webp&s=8003e7333021923edbb8ee26e5014d82dd762cb7",
-      "published": "2026-06-26T14:21:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "932940c8b07427",
-      "title": "‘No evidence’: Kevin O’Leary walks back claims that data center opposition is funded by China",
-      "url": "https://www.reddit.com/r/technology/comments/1ug7skn/no_evidence_kevin_oleary_walks_back_claims_that/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Hrekires [link] [comments]",
-      "image": "https://external-preview.redd.it/fnHcxK2BvxIMEsrzkslcGHXVlUWMbEIR_jst72Tiv8s.png?width=640&crop=smart&auto=webp&s=df4b117948cbad5bb8e4da4a44a9610b909063ca",
-      "published": "2026-06-26T14:04:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3c534ed1748245",
-      "title": "Small aircraft crashes into Beijing’s tallest skyscraper",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ug6wzi/small_aircraft_crashes_into_beijings_tallest/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/cnn [link] [comments]",
-      "image": "https://external-preview.redd.it/C7UDoarJP0zyRzuOWmI52y0QnNSiRM3sPrbleVS-pRA.jpeg?width=640&crop=smart&auto=webp&s=b8c731ed46466f911930c093bb113b4fc78ab503",
-      "published": "2026-06-26T13:29:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d387f145d33175",
       "title": "SpaceX plans to launch Starlink mobile service in the US",
       "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
@@ -727,30 +647,6 @@
       "summary": "Move would test whether group can turn ambition into a mass-market phone business.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-500x500.jpg",
       "published": "2026-06-26T13:22:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1031a904846ac0",
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "url": "https://www.reddit.com/r/technology/comments/1ug6qbs/anthropic_says_alibaba_must_be_punished_for/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/deraser [link] [comments]",
-      "image": "https://external-preview.redd.it/Xv5WIf69qNI8q3QoTPRcCFoCS03zXjMbFFjsJJpzaQU.jpeg?width=640&crop=smart&auto=webp&s=836a00a27be4f9eb687cf636c58fc5d5eebd2f1a",
-      "published": "2026-06-26T13:22:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f312ecdfe15907",
-      "title": "Wikipedia co-founder is permanently banned from editing the website",
-      "url": "https://www.reddit.com/r/technology/comments/1ug66jc/wikipedia_cofounder_is_permanently_banned_from/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/InternetEntire438 [link] [comments]",
-      "image": "https://external-preview.redd.it/-rlaEhfNQ6-R9AQQgHSU61ix1hDjn5gnOFmIzZLl8P4.jpeg?width=640&crop=smart&auto=webp&s=2d24898620d58684783917710ee462c6f7bf1d0e",
-      "published": "2026-06-26T13:00:12+00:00",
       "score": null,
       "tags": []
     },
@@ -775,18 +671,6 @@
       "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
       "image": null,
       "published": "2026-06-26T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "064fdb0622e3e1",
-      "title": "State of Emergency Declared in Occupied Crimea by Russian-Installed Authorities",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ug4ow2/state_of_emergency_declared_in_occupied_crimea_by/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "submitted by /u/UNITED24Media [link] [comments]",
-      "image": "https://external-preview.redd.it/QDITGDc50xBFq9eaTBoWMEdxzcwcdmKR8ajZWJ-DqRs.jpeg?width=640&crop=smart&auto=webp&s=da8a05b3506b757e0354a2ccaf68cce298675763",
-      "published": "2026-06-26T11:54:41+00:00",
       "score": null,
       "tags": []
     },
@@ -839,14 +723,14 @@
       "tags": []
     },
     {
-      "id": "7d96e7dab5885b",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TechCrunch",
-      "category": "tech-ia",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+      "id": "edd0f2ce2f8a92",
+      "title": "Basedash for Excel",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Turn any Excel file into a live dashboard Discussion | Link",
       "image": null,
-      "published": "2026-06-25T23:34:39+00:00",
+      "published": "2026-06-26T04:15:50+00:00",
       "score": null,
       "tags": []
     },
@@ -887,18 +771,6 @@
       "tags": []
     },
     {
-      "id": "ebdefb1fdc36a3",
-      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-      "source": "Ars Technica",
-      "category": "tech-ia",
-      "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-500x500.jpg",
-      "published": "2026-06-25T20:01:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "hn-48677564",
       "title": "Long Wave radio era set to end with switch-off",
       "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
@@ -907,22 +779,38 @@
       "summary": "",
       "image": null,
       "published": "2026-06-25T18:42:17+00:00",
-      "score": 11,
+      "score": 81,
       "tags": [
         "hackernews"
       ]
     },
     {
-      "id": "1894bd8e20b213",
-      "title": "LockIn MCP",
-      "url": "https://www.producthunt.com/products/lockin-mcp",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "Let AI block distractions for you when you need to lock in Discussion | Link",
+      "id": "hn-48675290",
+      "title": "Cultures of Making and Relating",
+      "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
       "image": null,
-      "published": "2026-06-25T09:35:32+00:00",
-      "score": null,
-      "tags": []
+      "published": "2026-06-25T15:54:17+00:00",
+      "score": 15,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48670103",
+      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-25T07:26:06+00:00",
+      "score": 47,
+      "tags": [
+        "hackernews"
+      ]
     },
     {
       "id": "8033ef29df6b83",
@@ -945,7 +833,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-25T04:06:29+00:00",
-      "score": 15,
+      "score": 106,
       "tags": [
         "hackernews"
       ]
@@ -963,34 +851,6 @@
       "tags": []
     },
     {
-      "id": "hn-48658148",
-      "title": "Fusion Programming Language",
-      "url": "https://fusion-lang.org/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-24T11:27:07+00:00",
-      "score": 61,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48656982",
-      "title": "SCC Technical Assistance Program",
-      "url": "https://nerocam.com/scc_tap.asp",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-24T08:46:04+00:00",
-      "score": 13,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "beac9ebb46c00e",
       "title": "Nada",
       "url": "https://www.producthunt.com/products/nada-2",
@@ -1001,46 +861,6 @@
       "published": "2026-06-24T07:54:20+00:00",
       "score": null,
       "tags": []
-    },
-    {
-      "id": "1c7252c2df24b7",
-      "title": "note.md",
-      "url": "https://www.producthunt.com/products/note-md",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "your notes and research documentation now a local LLM Memory Discussion | Link",
-      "image": null,
-      "published": "2026-06-23T12:07:40+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48642510",
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-23T09:39:35+00:00",
-      "score": 323,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48633839",
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-22T18:17:20+00:00",
-      "score": 51,
-      "tags": [
-        "hackernews"
-      ]
     },
     {
       "id": "0f300b70d5d85a",
@@ -1079,6 +899,18 @@
       "tags": []
     },
     {
+      "id": "4488da4054e294",
+      "title": "SquidHub",
+      "url": "https://www.producthunt.com/products/squidhub",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Multiplayer mode for humans and AI Discussion | Link",
+      "image": null,
+      "published": "2026-06-16T13:38:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "76940cacd04681",
       "title": "ModuleX",
       "url": "https://www.producthunt.com/products/modulex",
@@ -1087,18 +919,6 @@
       "summary": "AI workspace that’s already connected to everything Discussion | Link",
       "image": null,
       "published": "2026-06-14T12:41:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0ae50013420044",
-      "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #19)",
-      "url": "https://www.reddit.com/r/worldnews/comments/1u39jcq/rworldnews_discussion_thread_us_and_israel_launch/",
-      "source": "r/worldnews",
-      "category": "geopolitica",
-      "summary": "If you see any newsworthy information from a major news outlet or live broadcast, feel free to share a brief summary as a top-level comment in the discussion post. Other redditors will appreciate if you include the sourc…",
-      "image": null,
-      "published": "2026-06-11T19:52:36+00:00",
       "score": null,
       "tags": []
     },

@@ -1,19 +1,95 @@
 {
   "meta": {
-    "generated": "2026-06-26T23:48:41.767744+00:00",
-    "total": 84
+    "generated": "2026-06-27T03:31:04.384900+00:00",
+    "total": 75
   },
   "items": [
     {
+      "id": "b18057ca1428fe",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch",
+      "category": "tech-ia",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "image": null,
+      "published": "2026-06-27T01:01:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "de57161660c275",
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "url": "https://www.reddit.com/r/technology/comments/1ugocre/doctors_suspected_man_had_brain_cancer_he/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/CircumspectCapybara [link] [comments]",
+      "image": "https://external-preview.redd.it/u_plqcqHAdzjndsx_ldyftKZvkMxAnFpmzegC1N_AM8.jpeg?width=640&crop=smart&auto=webp&s=ca23b24123c25800da189c3591081a6f70ccf2e7",
+      "published": "2026-06-27T00:47:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48693912",
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T00:43:39+00:00",
+      "score": 25,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "f8e9f26e10cc92",
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "source": "TechCrunch",
+      "category": "tech-ia",
+      "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+      "image": null,
+      "published": "2026-06-27T00:38:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "287e9179e398b2",
+      "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+      "url": "https://www.reddit.com/r/technology/comments/1ugnt7x/oracle_stock_has_worst_week_since_2001_dotcom/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "image": "https://external-preview.redd.it/fAAHjAqdan1uJEibolBX9JzLifwr7chP5ZrcQXPdFCE.jpeg?width=640&crop=smart&auto=webp&s=2c2156ef2fc5b15ff9149f039e420384de7baad9",
+      "published": "2026-06-27T00:22:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48693391",
+      "title": "Om",
+      "url": "https://daringfireball.net/2026/06/om",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-26T23:33:46+00:00",
+      "score": 159,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
       "id": "hn-48692995",
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
       "published": "2026-06-26T22:48:28+00:00",
-      "score": 81,
+      "score": 260,
       "tags": [
         "hackernews"
       ]
@@ -27,7 +103,21 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T22:43:29+00:00",
-      "score": 6,
+      "score": 126,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48692883",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-26T22:36:51+00:00",
+      "score": 67,
       "tags": [
         "hackernews"
       ]
@@ -69,6 +159,18 @@
       "tags": []
     },
     {
+      "id": "9f9c76995da16a",
+      "title": "Tell Congress: Don’t Force Age Checks Online",
+      "url": "https://www.reddit.com/r/technology/comments/1ugkcxb/tell_congress_dont_force_age_checks_online/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Anoth3rDude [link] [comments]",
+      "image": "https://external-preview.redd.it/6eE0PDrjIrxNz63fP7ZbpLe4yxGIgfDJfbolFKwEZOs.png?width=640&crop=smart&auto=webp&s=9e37f3d00f1455cb06d13c0a524286223326f317",
+      "published": "2026-06-26T21:57:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "4bfd63abfa87ad",
       "title": "Doctors suspected man had brain cancer. He actually had worms.",
       "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
@@ -89,7 +191,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T21:18:28+00:00",
-      "score": 43,
+      "score": 71,
       "tags": [
         "hackernews"
       ]
@@ -103,33 +205,21 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T21:14:47+00:00",
-      "score": 85,
+      "score": 136,
       "tags": [
         "hackernews"
       ]
     },
     {
-      "id": "e359ec81948424",
-      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme Comments URL: https://news.ycombinator.com/item?id=48692051 Points: 130 # Comments: 18",
-      "image": null,
-      "published": "2026-06-26T21:13:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "hn-48692051",
-      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+      "title": "We can still stop California's 3D printer surveillance scheme",
       "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
       "published": "2026-06-26T21:13:50+00:00",
-      "score": 131,
+      "score": 266,
       "tags": [
         "hackernews"
       ]
@@ -147,20 +237,6 @@
       "tags": []
     },
     {
-      "id": "hn-48691893",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers#open-positions",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T21:00:50+00:00",
-      "score": 1,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "a9ac2a1f6722a5",
       "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
       "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
@@ -169,18 +245,6 @@
       "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-500x500-1782506413.jpg",
       "published": "2026-06-26T20:58:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3b7adbfb3aa46d",
-      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "Article URL: https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013 Comments URL: https://news.ycombinator.com/item?id=48691346 Points: 116 # Comments: 66",
-      "image": null,
-      "published": "2026-06-26T20:07:18+00:00",
       "score": null,
       "tags": []
     },
@@ -281,18 +345,6 @@
       "tags": []
     },
     {
-      "id": "15745e7ea12969",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 731 # Comments: 852",
-      "image": null,
-      "published": "2026-06-26T18:23:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "hn-48690101",
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
@@ -301,7 +353,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T18:23:14+00:00",
-      "score": 731,
+      "score": 876,
       "tags": [
         "hackernews"
       ]
@@ -367,44 +419,6 @@
       "tags": []
     },
     {
-      "id": "hn-48689277",
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T17:24:25+00:00",
-      "score": 69,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "594403904bfd9a",
-      "title": "Data centers trigger voter backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "Article URL: https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327 Comments URL: https://news.ycombinator.com/item?id=48689275 Points: 145 # Comments: 263",
-      "image": null,
-      "published": "2026-06-26T17:24:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e42beeccabf07b",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 760 # Comments: 471",
-      "image": null,
-      "published": "2026-06-26T17:06:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "hn-48689028",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
@@ -413,48 +427,10 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T17:06:55+00:00",
-      "score": 761,
+      "score": 881,
       "tags": [
         "hackernews"
       ]
-    },
-    {
-      "id": "821ced831e9eda",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtu…",
-      "image": null,
-      "published": "2026-06-26T16:40:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48688700",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T16:40:11+00:00",
-      "score": 133,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "174be083efe58c",
-      "title": "‘An Infestation that Can’t Be Swipe Away’: How MAGA Bots Hijacked Black Influencer Spaces",
-      "url": "https://www.reddit.com/r/technology/comments/1ugbvoc/an_infestation_that_cant_be_swipe_away_how_maga/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/idkbruh653 [link] [comments]",
-      "image": "https://external-preview.redd.it/fVpNTGjFng6dzQP9S0NZgv14ympGmsA93kH5_iMTdGY.jpeg?width=640&crop=smart&auto=webp&s=cf1f56381f01f58aa53ecf4bf8398c7dc9758ca4",
-      "published": "2026-06-26T16:37:13+00:00",
-      "score": null,
-      "tags": []
     },
     {
       "id": "cc8c8cb9f91a2e",
@@ -537,18 +513,6 @@
       "summary": "With falling sales in the US and especially China, VW Group wants to restructure.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2240447022-500x500.jpg",
       "published": "2026-06-26T15:10:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a208a543d4757c",
-      "title": "Nintendo has raised its employees base salary by 10%",
-      "url": "https://www.reddit.com/r/technology/comments/1ug8y9e/nintendo_has_raised_its_employees_base_salary_by/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/yourfavchoom [link] [comments]",
-      "image": "https://external-preview.redd.it/TBgL3mUSO8ZHwGdaMYSu6IXdDg1t37SUu--utHaevng.jpeg?width=640&crop=smart&auto=webp&s=1c8dd3ffda4d2f4556a92e488d4fe88191b60590",
-      "published": "2026-06-26T14:49:24+00:00",
       "score": null,
       "tags": []
     },
@@ -649,32 +613,6 @@
       "tags": []
     },
     {
-      "id": "de3f43ec6efc43",
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "Article URL: https://alephneuro.com/blog/ultrasound-brain Comments URL: https://news.ycombinator.com/item?id=48685558 Points: 221 # Comments: 92",
-      "image": null,
-      "published": "2026-06-26T11:51:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48685558",
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T11:51:11+00:00",
-      "score": 221,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "4d0bcf367d81bb",
       "title": "The AI backlash is only getting started",
       "url": "https://www.reddit.com/r/technology/comments/1ug4lut/the_ai_backlash_is_only_getting_started/",
@@ -747,18 +685,6 @@
       "tags": []
     },
     {
-      "id": "453d99f54d6722",
-      "title": "The American mind cannot comprehend Europe's AC aversion",
-      "url": "https://www.reddit.com/r/technology/comments/1ufsq7l/the_american_mind_cannot_comprehend_europes_ac/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "image": "https://external-preview.redd.it/rjQwv8p1-RmivmkHf3BOuELK0WOApXGn2Z55Fc_ogUY.jpeg?width=640&crop=smart&auto=webp&s=2341510d1996ab15ee5f52594e884c2a65a0eba2",
-      "published": "2026-06-26T01:26:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "7d96e7dab5885b",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -767,18 +693,6 @@
       "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "image": null,
       "published": "2026-06-25T23:34:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "71421124165c76",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "source": "TechCrunch",
-      "category": "tech-ia",
-      "summary": "YouTube Shorts is getting a makeover.",
-      "image": null,
-      "published": "2026-06-25T22:02:12+00:00",
       "score": null,
       "tags": []
     },
@@ -807,18 +721,6 @@
       "tags": []
     },
     {
-      "id": "7f5ba665e4de15",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TechCrunch",
-      "category": "tech-ia",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "image": null,
-      "published": "2026-06-25T20:19:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ebdefb1fdc36a3",
       "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
@@ -839,7 +741,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-25T13:32:12+00:00",
-      "score": 9,
+      "score": 31,
       "tags": [
         "hackernews"
       ]
@@ -893,27 +795,15 @@
       "tags": []
     },
     {
-      "id": "80720005d433dd",
-      "title": "My Steam Machine is a 50ft HDMI cable",
-      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "Article URL: https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/ Comments URL: https://news.ycombinator.com/item?id=48648550 Points: 149 # Comments: 147",
-      "image": null,
-      "published": "2026-06-23T17:45:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48644111",
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+      "id": "hn-48662988",
+      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "url": "https://github.com/dbos-inc/dbosify-py",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-23T12:45:09+00:00",
-      "score": 65,
+      "published": "2026-06-24T17:20:48+00:00",
+      "score": 32,
       "tags": [
         "hackernews"
       ]
@@ -931,16 +821,18 @@
       "tags": []
     },
     {
-      "id": "4ee4173d35635b",
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "id": "hn-48643661",
+      "title": "Making Sense of Proof by Contradiction [pdf]",
+      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
       "source": "Hacker News",
       "category": "tech-ia",
-      "summary": "Article URL: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/ Comments URL: https://news.ycombinator.com/item?id=48642510 Points: 232 # Comments: 136",
+      "summary": "",
       "image": null,
-      "published": "2026-06-23T09:39:35+00:00",
-      "score": null,
-      "tags": []
+      "published": "2026-06-23T12:00:13+00:00",
+      "score": 13,
+      "tags": [
+        "hackernews"
+      ]
     },
     {
       "id": "hn-48642510",
@@ -951,22 +843,24 @@
       "summary": "",
       "image": null,
       "published": "2026-06-23T09:39:35+00:00",
-      "score": 232,
+      "score": 279,
       "tags": [
         "hackernews"
       ]
     },
     {
-      "id": "a2567d7a169baf",
-      "title": "Bipartite Matching Is in NC",
-      "url": "https://scottaaronson.blog/?p=9851",
+      "id": "hn-48633839",
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
       "source": "Hacker News",
       "category": "tech-ia",
-      "summary": "Article URL: https://scottaaronson.blog/?p=9851 Comments URL: https://news.ycombinator.com/item?id=48637433 Points: 106 # Comments: 16",
+      "summary": "",
       "image": null,
-      "published": "2026-06-22T22:43:48+00:00",
-      "score": null,
-      "tags": []
+      "published": "2026-06-22T18:17:20+00:00",
+      "score": 9,
+      "tags": [
+        "hackernews"
+      ]
     },
     {
       "id": "5b027996de51ed",

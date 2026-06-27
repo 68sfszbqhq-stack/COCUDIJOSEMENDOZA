@@ -1,22 +1,238 @@
 {
   "meta": {
-    "generated": "2026-06-27T13:44:20.569066+00:00",
+    "generated": "2026-06-27T19:21:57.604208+00:00",
     "total": 75
   },
   "items": [
     {
-      "id": "hn-48697768",
-      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "id": "hn-48700805",
+      "title": "Ships keep moving through Hormuz despite strike",
+      "url": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-27T12:43:16+00:00",
-      "score": 22,
+      "published": "2026-06-27T19:06:03+00:00",
+      "score": 3,
       "tags": [
         "hackernews"
       ]
+    },
+    {
+      "id": "42bc0c3b2f82f1",
+      "title": "Ford Asked AI To Build Better Cars, Then Rehired Humans To Fix What AI Broke",
+      "url": "https://www.reddit.com/r/technology/comments/1uha7tx/ford_asked_ai_to_build_better_cars_then_rehired/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Anchor_Aways [link] [comments]",
+      "image": "https://external-preview.redd.it/MlINLzKxe_a_gjzyWKEQV6UIoM3ZDxcv8Aeqg_-zs_Q.jpeg?width=640&crop=smart&auto=webp&s=f628616f6f6c991886cbc06e5b773ffb1f2b3348",
+      "published": "2026-06-27T18:32:54+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "54c8835d2e9276",
+      "title": "Why not build data centers in very cold places, versus trying to do it in space?",
+      "url": "https://www.reddit.com/r/technology/comments/1uh9oca/why_not_build_data_centers_in_very_cold_places/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/DiyYou [link] [comments]",
+      "image": null,
+      "published": "2026-06-27T18:11:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "eee25ecf9d2162",
+      "title": "AI companies are learning an ironic lesson as the people they pay to improve their chatbots are just feeding AI slop into them",
+      "url": "https://www.reddit.com/r/technology/comments/1uh8kj7/ai_companies_are_learning_an_ironic_lesson_as_the/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/marketrent [link] [comments]",
+      "image": "https://external-preview.redd.it/LAgOciSuZfcwqWpaMlOyDaTkeMMgxO84HoVkAO-Cq6Q.jpeg?width=640&crop=smart&auto=webp&s=581da8241575585abd4f700617c630c40ca01bb4",
+      "published": "2026-06-27T17:26:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48699928",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T17:11:20+00:00",
+      "score": 27,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "6858f804f71ace",
+      "title": "Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For",
+      "url": "https://www.reddit.com/r/technology/comments/1uh868l/mark_zuckerberg_is_selflessly_building_yet/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+      "image": "https://external-preview.redd.it/I4BpDFwl2y5aWCDmOJb9_x6GrXMGrEE4W-z4_Snb9Mw.jpeg?width=640&crop=smart&auto=webp&s=9f46600859016c0f21cbd1f4c5604166dd7c4034",
+      "published": "2026-06-27T17:10:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48699842",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T17:00:15+00:00",
+      "score": 1,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "1facd80fd98c97",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch",
+      "category": "tech-ia",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "image": null,
+      "published": "2026-06-27T16:45:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "35e25412df4fc7",
+      "title": "'It's not going away': The Stanford economist who called the AI entry-level jobs crisis early has the receipts",
+      "url": "https://www.reddit.com/r/technology/comments/1uh79qd/its_not_going_away_the_stanford_economist_who/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/joe4942 [link] [comments]",
+      "image": "https://external-preview.redd.it/RM_l6PnGDJ2TqYt6sO192jucXTokbyaxFqxsCBXYdj4.jpeg?width=640&crop=smart&auto=webp&s=004e78963ba5704884c2bfe83a4e6ccf99967ba9",
+      "published": "2026-06-27T16:34:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "358927d27da425",
+      "title": "Grok is more important than clean air, DOJ says",
+      "url": "https://www.reddit.com/r/technology/comments/1uh6i69/grok_is_more_important_than_clean_air_doj_says/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Wagamaga [link] [comments]",
+      "image": "https://external-preview.redd.it/WehfSESK5BkMDBwpxR6ksv0Kk3cJW6M-d3YWe9GNUjE.jpeg?width=640&crop=smart&auto=webp&s=9bf654702feb86904f8b70eda19c701e8cb9d043",
+      "published": "2026-06-27T16:03:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3ba973216fef6a",
+      "title": "Lenovo Warns PC RAM Prices Will \"Never\" Go Back to Normal",
+      "url": "https://www.reddit.com/r/technology/comments/1uh5qcy/lenovo_warns_pc_ram_prices_will_never_go_back_to/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/esporx [link] [comments]",
+      "image": "https://external-preview.redd.it/1v7UJZvpt1IeMO15_8--uRVHSOBDGZWvHx5ScOvyuqw.jpeg?width=640&crop=smart&auto=webp&s=12b713cbaeb60d2c6125a2cc3ae1a16e39ed63f2",
+      "published": "2026-06-27T15:32:32+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48698684",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T14:38:05+00:00",
+      "score": 415,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48698617",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T14:31:00+00:00",
+      "score": 393,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48698559",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T14:23:40+00:00",
+      "score": 86,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "d032b792729fa2",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch",
+      "category": "tech-ia",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "image": null,
+      "published": "2026-06-27T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48698151",
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T13:32:20+00:00",
+      "score": 141,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "bce007f3906c99",
+      "title": "Windows 10 support extended to 2027 for free — Is this Microsoft admitting Windows 11 isn’t enough?",
+      "url": "https://www.reddit.com/r/technology/comments/1uh2tmj/windows_10_support_extended_to_2027_for_free_is/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/rkhunter_ [link] [comments]",
+      "image": "https://external-preview.redd.it/IHqyAA3rLM6060WmdZfgB1_pUIjxA89sdXg3JF8Gr9U.jpeg?width=640&crop=smart&auto=webp&s=ba05d13c9b35866a200e05f8b8f6c0892adc194f",
+      "published": "2026-06-27T13:29:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3d7b525f55111c",
+      "title": "The memory shortage shaking Apple and Microsoft is ‘existential crisis’ for smaller players",
+      "url": "https://www.reddit.com/r/technology/comments/1uh2hhb/the_memory_shortage_shaking_apple_and_microsoft/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "image": "https://external-preview.redd.it/kN8wuZEonEcpyJ5nYcHug_z0PyHOUSLMeSM89kvz1rs.jpeg?width=640&crop=smart&auto=webp&s=968cd4c921ddb70a24ad4798c3a09f2ef183cc74",
+      "published": "2026-06-27T13:14:08+00:00",
+      "score": null,
+      "tags": []
     },
     {
       "id": "04ebd4ac993a65",
@@ -29,20 +245,6 @@
       "published": "2026-06-27T12:42:07+00:00",
       "score": null,
       "tags": []
-    },
-    {
-      "id": "hn-48697746",
-      "title": "How Many Elementary Particles Are There, Really?",
-      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-27T12:40:59+00:00",
-      "score": 4,
-      "tags": [
-        "hackernews"
-      ]
     },
     {
       "id": "bd11b265c02583",
@@ -65,21 +267,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-27T12:10:27+00:00",
-      "score": 69,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48697504",
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-27T12:01:03+00:00",
-      "score": 1,
+      "score": 412,
       "tags": [
         "hackernews"
       ]
@@ -105,7 +293,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-27T11:32:10+00:00",
-      "score": 76,
+      "score": 263,
       "tags": [
         "hackernews"
       ]
@@ -131,7 +319,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-27T10:28:53+00:00",
-      "score": 161,
+      "score": 367,
       "tags": [
         "hackernews"
       ]
@@ -145,21 +333,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-27T09:18:52+00:00",
-      "score": 502,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48696510",
-      "title": "Beer CSS – Build material design in record time",
-      "url": "https://www.beercss.com",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-27T09:06:11+00:00",
-      "score": 65,
+      "score": 672,
       "tags": [
         "hackernews"
       ]
@@ -189,44 +363,6 @@
       "tags": []
     },
     {
-      "id": "d47346517c467a",
-      "title": "All the money flooding into AI is a giant warning sign — When companies as a group turn into sellers, it’s a reasonable sign that stocks are very overpriced",
-      "url": "https://www.reddit.com/r/technology/comments/1ugu9s8/all_the_money_flooding_into_ai_is_a_giant_warning/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/marketrent [link] [comments]",
-      "image": null,
-      "published": "2026-06-27T05:40:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3faa3dfcabb6a0",
-      "title": "Scalpers are already selling the Steam Machine for over $3000 on eBay despite Valve's efforts",
-      "url": "https://www.reddit.com/r/technology/comments/1ugsote/scalpers_are_already_selling_the_steam_machine/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "image": null,
-      "published": "2026-06-27T04:18:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "hn-48694853",
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-27T03:30:01+00:00",
-      "score": 120,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "b18057ca1428fe",
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
@@ -235,18 +371,6 @@
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "image": null,
       "published": "2026-06-27T01:01:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "de57161660c275",
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "url": "https://www.reddit.com/r/technology/comments/1ugocre/doctors_suspected_man_had_brain_cancer_he/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/CircumspectCapybara [link] [comments]",
-      "image": "https://external-preview.redd.it/u_plqcqHAdzjndsx_ldyftKZvkMxAnFpmzegC1N_AM8.jpeg?width=640&crop=smart&auto=webp&s=ca23b24123c25800da189c3591081a6f70ccf2e7",
-      "published": "2026-06-27T00:47:26+00:00",
       "score": null,
       "tags": []
     },
@@ -263,18 +387,6 @@
       "tags": []
     },
     {
-      "id": "4f7138499b712c",
-      "title": "Epic’s Tim Sweeney Keeps Inventing Solutions To Problems That Are Already Solved",
-      "url": "https://www.reddit.com/r/technology/comments/1ugnuwq/epics_tim_sweeney_keeps_inventing_solutions_to/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "image": "https://external-preview.redd.it/ymzkxKAFI00nLXEB5TbWtuhbz6VkWuCCwwF4Uu2eyM0.jpeg?width=640&crop=smart&auto=webp&s=7847a6724bec7bc0c1de216c5a78111b4cb8c4a3",
-      "published": "2026-06-27T00:24:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "287e9179e398b2",
       "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
       "url": "https://www.reddit.com/r/technology/comments/1ugnt7x/oracle_stock_has_worst_week_since_2001_dotcom/",
@@ -287,20 +399,6 @@
       "tags": []
     },
     {
-      "id": "hn-48692946",
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T22:43:29+00:00",
-      "score": 283,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "9b4be103f5d0af",
       "title": "South Korea plans to train entire military as \"drone warriors\"",
       "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
@@ -309,18 +407,6 @@
       "summary": "Half-million strong military will train on drones as “universal combat tool.”",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg",
       "published": "2026-06-26T22:19:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "371f280e4f2bb9",
-      "title": "Gen Z’s hiring hell is real: 1 in 3 employers admit they’re replacing entry-level roles with AI—and tech and manufacturing jobs are most at risk",
-      "url": "https://www.reddit.com/r/technology/comments/1ugkjx0/gen_zs_hiring_hell_is_real_1_in_3_employers_admit/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-      "image": "https://external-preview.redd.it/B_T359DqC6ll5J-OVpqI0-58nh4K8AUgF-xVdOhkAKc.jpeg?width=640&crop=smart&auto=webp&s=5840b47b570168dc71a7888b2d62dd9cdb13242e",
-      "published": "2026-06-26T22:05:05+00:00",
       "score": null,
       "tags": []
     },
@@ -409,18 +495,6 @@
       "tags": []
     },
     {
-      "id": "c1c0bac13fe4fc",
-      "title": "Mark Cuban gets dragged after saying people don't really hate data centers — “The fight against data centers has nothing to do with data centers. They have become a proxy for the hate towards AI”",
-      "url": "https://www.reddit.com/r/technology/comments/1ugfx7m/mark_cuban_gets_dragged_after_saying_people_dont/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/marketrent [link] [comments]",
-      "image": "https://external-preview.redd.it/8TpUYCgFpAAj06jaJ4DiEn3NP91Y3S2s330mKO9Ib_U.jpeg?width=640&crop=smart&auto=webp&s=3b403a8566a430602698d90e21dea2389c3810d5",
-      "published": "2026-06-26T19:07:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cc7e6b483363e8",
       "title": "PlayStation is Deleting 551 Movies From Customers’ Accounts, Reminding Us Nothing Digital is Ever Truly Ours",
       "url": "https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/",
@@ -453,18 +527,6 @@
       "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them…",
       "image": null,
       "published": "2026-06-26T18:32:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4c2252a1712f01",
-      "title": "Netflix now requires every user profile to be tied to unique email address",
-      "url": "https://www.reddit.com/r/technology/comments/1ugexxj/netflix_now_requires_every_user_profile_to_be/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-      "image": "https://external-preview.redd.it/oLvVlL9GKnUk4a6rxWVTfca2qINWYq2flFh5_TO1Va4.jpeg?width=640&crop=smart&auto=webp&s=00bb2434121593c00bbc46cf46887d7b3d6d4c21",
-      "published": "2026-06-26T18:30:24+00:00",
       "score": null,
       "tags": []
     },
@@ -537,7 +599,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T17:06:55+00:00",
-      "score": 1040,
+      "score": 1091,
       "tags": [
         "hackernews"
       ]
@@ -591,16 +653,18 @@
       "tags": []
     },
     {
-      "id": "626ae922b6e43e",
-      "title": "The ‘papers, please’ era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
-      "url": "https://www.reddit.com/r/technology/comments/1ugbdje/the_papers_please_era_of_the_internet_will/",
-      "source": "r/technology",
+      "id": "hn-48688438",
+      "title": "One man, two kernels, and a lot of RISC-V",
+      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+      "source": "Hacker News",
       "category": "tech-ia",
-      "summary": "submitted by /u/Future-sight-5829 [link] [comments]",
-      "image": "https://external-preview.redd.it/Adi7O8L2HaY3IzhN3edkyXcHezizDY5vagzLA08dyTU.jpeg?width=640&crop=smart&auto=webp&s=7cf4f2c6c7e05f86e916cf9d6c30311dbbe95fd9",
-      "published": "2026-06-26T16:18:25+00:00",
-      "score": null,
-      "tags": []
+      "summary": "",
+      "image": null,
+      "published": "2026-06-26T16:20:06+00:00",
+      "score": 49,
+      "tags": [
+        "hackernews"
+      ]
     },
     {
       "id": "b96da9c599d14d",
@@ -651,42 +715,6 @@
       "tags": []
     },
     {
-      "id": "95139ea183b5ab",
-      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
-      "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
-      "source": "TechCrunch",
-      "category": "tech-ia",
-      "summary": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
-      "image": null,
-      "published": "2026-06-26T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fea00359a7e219",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch",
-      "category": "tech-ia",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-      "image": null,
-      "published": "2026-06-26T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4d0bcf367d81bb",
-      "title": "The AI backlash is only getting started",
-      "url": "https://www.reddit.com/r/technology/comments/1ug4lut/the_ai_backlash_is_only_getting_started/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-      "image": null,
-      "published": "2026-06-26T11:50:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c954823c486ba6",
       "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
       "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
@@ -723,14 +751,14 @@
       "tags": []
     },
     {
-      "id": "edd0f2ce2f8a92",
-      "title": "Basedash for Excel",
-      "url": "https://www.producthunt.com/products/basedash",
+      "id": "10b93a23487760",
+      "title": "Group Subscriptions by beehiiv",
+      "url": "https://www.producthunt.com/products/beehiiv",
       "source": "Product Hunt",
       "category": "startup",
-      "summary": "Turn any Excel file into a live dashboard Discussion | Link",
+      "summary": "Sell subscriptions to teams, companies, and organizations. Discussion | Link",
       "image": null,
-      "published": "2026-06-26T04:15:50+00:00",
+      "published": "2026-06-26T01:59:59+00:00",
       "score": null,
       "tags": []
     },
@@ -771,72 +799,30 @@
       "tags": []
     },
     {
-      "id": "hn-48677564",
-      "title": "Long Wave radio era set to end with switch-off",
-      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "id": "hn-48674244",
+      "title": "A History of Menus Is a Menu of History",
+      "url": "https://pudding.cool/2026/06/menu-story/",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-25T18:42:17+00:00",
-      "score": 81,
+      "published": "2026-06-25T14:45:17+00:00",
+      "score": 11,
       "tags": [
         "hackernews"
       ]
     },
     {
-      "id": "hn-48675290",
-      "title": "Cultures of Making and Relating",
-      "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-25T15:54:17+00:00",
-      "score": 15,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48670103",
-      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-25T07:26:06+00:00",
-      "score": 47,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "8033ef29df6b83",
-      "title": "Sleek Analytics",
-      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "id": "1894bd8e20b213",
+      "title": "LockIn MCP",
+      "url": "https://www.producthunt.com/products/lockin-mcp",
       "source": "Product Hunt",
       "category": "startup",
-      "summary": "See who's on your site. Right now. Discussion | Link",
+      "summary": "Let AI block distractions for you when you need to lock in Discussion | Link",
       "image": null,
-      "published": "2026-06-25T05:52:23+00:00",
+      "published": "2026-06-25T09:35:32+00:00",
       "score": null,
       "tags": []
-    },
-    {
-      "id": "hn-48668747",
-      "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-25T04:06:29+00:00",
-      "score": 106,
-      "tags": [
-        "hackernews"
-      ]
     },
     {
       "id": "6328955fca1da1",
@@ -849,6 +835,20 @@
       "published": "2026-06-24T23:07:45+00:00",
       "score": null,
       "tags": []
+    },
+    {
+      "id": "hn-48660021",
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-24T14:02:16+00:00",
+      "score": 85,
+      "tags": [
+        "hackernews"
+      ]
     },
     {
       "id": "beac9ebb46c00e",
@@ -887,6 +887,30 @@
       "tags": []
     },
     {
+      "id": "68208110dfaea5",
+      "title": "Atlas",
+      "url": "https://www.producthunt.com/products/nanonets",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Every AI tool you use should know how your company works Discussion | Link",
+      "image": null,
+      "published": "2026-06-19T14:21:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1c55588f4b586c",
+      "title": "DMV by Agent Community",
+      "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "A community-governed namespace for AI agents Discussion | Link",
+      "image": null,
+      "published": "2026-06-18T19:14:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "3ceef3c7d7b656",
       "title": "QApilot's CoWork",
       "url": "https://www.producthunt.com/products/qapilot",
@@ -895,30 +919,6 @@
       "summary": "3x Mobile Automation. Same QE Team. Discussion | Link",
       "image": null,
       "published": "2026-06-17T21:40:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4488da4054e294",
-      "title": "SquidHub",
-      "url": "https://www.producthunt.com/products/squidhub",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "Multiplayer mode for humans and AI Discussion | Link",
-      "image": null,
-      "published": "2026-06-16T13:38:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "76940cacd04681",
-      "title": "ModuleX",
-      "url": "https://www.producthunt.com/products/modulex",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "AI workspace that’s already connected to everything Discussion | Link",
-      "image": null,
-      "published": "2026-06-14T12:41:09+00:00",
       "score": null,
       "tags": []
     },

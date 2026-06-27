@@ -5,159 +5,287 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PLN Feed — José Roberto Mendoza</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
-    <!-- Readability.js: extractor de contenido limpio (sin anuncios) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js"></script>
     <style>
+        /* ── VARIABLES ── */
         :root {
-            --cat-tech:    #C0392B;
-            --cat-edu:     #1A7A4A;
-            --cat-coaching:#E67E22;
-            --cat-psico:   #8E44AD;
-            --cat-juegos:  #B7950B;
-            --cat-geo:     #1A5276;
-            --cat-startup: #117A65;
-            --nav-h:       56px;
-            --bar-h:       52px;
+            --red:      #E12828;
+            --red-dark: #B71C1C;
+            --nav-h:    56px;
+            --tab-h:    48px;
+            --c-tech:   #C0392B;
+            --c-edu:    #1A7A4A;
+            --c-coach:  #E67E22;
+            --c-psico:  #8E44AD;
+            --c-juegos: #B7950B;
+            --c-geo:    #1A5276;
+            --c-start:  #117A65;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: 'Inter', sans-serif; background: #f0f2f5; color: #1a1a2e; min-height: 100vh; }
 
-        /* ═══ NAVBAR ═══ */
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #f5f5f0;
+            color: #111;
+            min-height: 100vh;
+        }
+
+        /* ══════════════════════════════════
+           NAVBAR
+        ══════════════════════════════════ */
         #top-nav {
-            position: fixed; top: 0; left: 0; width: 100%;
-            z-index: 500; height: var(--nav-h);
-            background: rgba(13,13,13,0.96);
+            position: fixed; top: 0; left: 0; width: 100%; z-index: 600;
+            height: var(--nav-h);
+            background: rgba(10,10,10,0.96);
             backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
-            border-bottom: 2px solid rgba(192,57,43,0.4);
+            border-bottom: 2px solid rgba(225,40,40,0.35);
             display: flex; align-items: center; justify-content: space-between;
             padding: 0 20px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+            box-shadow: 0 4px 24px rgba(0,0,0,0.55);
         }
         .nav-brand {
             font-size: 0.67rem; font-weight: 900;
-            letter-spacing: 0.12em; text-transform: uppercase;
-            color: rgba(255,255,255,0.4); white-space: nowrap;
+            letter-spacing: 0.14em; text-transform: uppercase;
+            color: rgba(255,255,255,0.38);
         }
         .nav-links { display: flex; gap: 5px; }
         .nav-link {
-            font-size: 0.71rem; font-weight: 800;
+            font-size: 0.7rem; font-weight: 800;
             text-transform: uppercase; letter-spacing: 0.05em;
             padding: 6px 12px; border-radius: 7px; text-decoration: none;
-            color: rgba(255,255,255,0.6); border: 1px solid transparent;
+            color: rgba(255,255,255,0.58); border: 1px solid transparent;
             transition: all 0.2s;
         }
         .nav-link:hover { color: white; background: rgba(255,255,255,0.1); }
-        .nav-link.active-subject { background: #C0392B; color: white; border-color: #922B21; }
+        .nav-link.active-subject { background: var(--red); color: white; border-color: var(--red-dark); }
 
-        /* ═══ FILTER BAR ═══ */
-        #filter-bar {
-            position: fixed; top: var(--nav-h); left: 0; width: 100%;
-            z-index: 400; height: var(--bar-h);
-            background: white; border-bottom: 1px solid #e5e7eb;
-            display: flex; align-items: center; gap: 6px;
-            padding: 0 16px; overflow-x: auto; -webkit-overflow-scrolling: touch;
-            scrollbar-width: none; box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        /* ══════════════════════════════════
+           TAB BAR (estilo Flipboard)
+        ══════════════════════════════════ */
+        #tab-bar {
+            position: fixed; top: var(--nav-h); left: 0; width: 100%; z-index: 500;
+            height: var(--tab-h);
+            background: white;
+            border-bottom: 2px solid #e8e8e8;
+            display: flex; align-items: stretch;
+            overflow-x: auto; -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
         }
-        #filter-bar::-webkit-scrollbar { display: none; }
+        #tab-bar::-webkit-scrollbar { display: none; }
 
-        .pill {
+        .tab {
             display: inline-flex; align-items: center; gap: 5px;
-            padding: 6px 13px; border-radius: 20px;
+            padding: 0 16px;
             font-size: 0.73rem; font-weight: 700;
             white-space: nowrap; cursor: pointer;
-            border: 2px solid transparent;
-            background: #f3f4f6; color: #374151;
-            transition: all 0.18s; user-select: none; flex-shrink: 0;
+            color: #777; border: none; background: none;
+            border-bottom: 3px solid transparent;
+            transition: color 0.18s, border-color 0.18s;
+            position: relative; top: 2px;
+            user-select: none; flex-shrink: 0;
         }
-        .pill:hover { background: #e5e7eb; }
-        .pill.active { color: white; }
-        .pill.active[data-cat="all"]         { background: #111827; }
-        .pill.active[data-cat="tech-ia"]     { background: var(--cat-tech); }
-        .pill.active[data-cat="educacion"]   { background: var(--cat-edu); }
-        .pill.active[data-cat="coaching"]    { background: var(--cat-coaching); }
-        .pill.active[data-cat="psicologia"]  { background: var(--cat-psico); }
-        .pill.active[data-cat="juegos"]      { background: var(--cat-juegos); }
-        .pill.active[data-cat="geopolitica"] { background: var(--cat-geo); }
-        .pill.active[data-cat="startup"]     { background: var(--cat-startup); }
+        .tab:hover { color: #222; }
+        .tab.active { color: var(--red); border-bottom-color: var(--red); }
 
-        #search-wrap { margin-left: auto; position: relative; flex-shrink: 0; }
+        /* Search en el tab bar */
+        #search-wrap {
+            margin-left: auto; display: flex; align-items: center;
+            padding: 0 12px; flex-shrink: 0; position: relative;
+        }
         #search-input {
-            padding: 7px 13px 7px 32px; border-radius: 18px;
-            border: 1.5px solid #e5e7eb; font-size: 0.77rem;
+            padding: 6px 12px 6px 30px; border-radius: 16px;
+            border: 1.5px solid #e5e7eb; font-size: 0.75rem;
             font-family: 'Inter', sans-serif; outline: none;
-            width: 170px; transition: width 0.3s, border-color 0.2s;
-            background: #f9fafb;
+            width: 150px; transition: width 0.3s, border-color 0.2s;
+            background: #f7f7f5;
         }
-        #search-input:focus { width: 210px; border-color: var(--cat-tech); background: white; }
+        #search-input:focus { width: 190px; border-color: var(--red); background: white; }
         #search-wrap i {
-            position: absolute; left: 10px; top: 50%;
-            transform: translateY(-50%);
-            color: #9ca3af; font-size: 0.73rem; pointer-events: none;
+            position: absolute; left: 22px; top: 50%; transform: translateY(-50%);
+            color: #aaa; font-size: 0.72rem; pointer-events: none;
         }
 
-        /* ═══ MAIN ═══ */
-        #main { padding: calc(var(--nav-h) + var(--bar-h) + 20px) 18px 60px; }
+        /* ══════════════════════════════════
+           MAIN
+        ══════════════════════════════════ */
+        #main-wrap {
+            padding: calc(var(--nav-h) + var(--tab-h) + 24px) 16px 80px;
+            max-width: 1100px; margin: 0 auto;
+        }
 
-        /* ═══ MASONRY (CSS columns — responsive sin JS) ═══ */
-        .masonry { columns: 4 255px; column-gap: 14px; }
+        /* Flip animation */
+        #mag-grid {
+            transform-origin: top center;
+            transition: transform 0.2s ease, opacity 0.2s ease;
+        }
+        #mag-grid.flip-out {
+            transform: perspective(900px) rotateX(-7deg) translateY(-8px);
+            opacity: 0;
+            pointer-events: none;
+        }
 
-        /* ═══ CARD ═══ */
-        .card {
-            break-inside: avoid; display: inline-block; width: 100%;
-            background: white; border-radius: 16px; overflow: hidden;
-            margin-bottom: 14px; cursor: pointer;
+        /* ══════════════════════════════════
+           TARJETA DESTACADA (featured)
+        ══════════════════════════════════ */
+        .feat {
+            position: relative; width: 100%;
+            height: 420px; border-radius: 18px; overflow: hidden;
+            cursor: pointer; margin-bottom: 16px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            display: block; text-decoration: none; color: inherit;
+        }
+        .feat:hover { transform: scale(1.007); box-shadow: 0 16px 48px rgba(0,0,0,0.24); }
+
+        .feat-img {
+            width: 100%; height: 100%; object-fit: cover;
+            display: block; position: absolute; inset: 0;
+        }
+        .feat-bg {
+            position: absolute; inset: 0;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 3.5rem; opacity: 0.22;
+        }
+        .feat-overlay {
+            position: absolute; inset: 0;
+            background: linear-gradient(to top,
+                rgba(0,0,0,0.88) 0%,
+                rgba(0,0,0,0.45) 55%,
+                rgba(0,0,0,0.08) 100%);
+            display: flex; flex-direction: column;
+            justify-content: flex-end;
+            padding: 28px 30px 30px;
+        }
+        .feat-badge {
+            display: inline-block; font-size: 0.58rem; font-weight: 900;
+            text-transform: uppercase; letter-spacing: 0.1em;
+            padding: 4px 9px; border-radius: 4px;
+            color: white; margin-bottom: 12px;
+            width: fit-content;
+        }
+        .feat-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.85rem; font-weight: 900;
+            line-height: 1.25; color: white;
+            margin-bottom: 12px;
+            text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+            display: -webkit-box; -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .feat-meta {
+            font-size: 0.72rem; font-weight: 600;
+            color: rgba(255,255,255,0.7);
+            display: flex; align-items: center; gap: 6px;
+        }
+        .feat-meta-dot { width: 3px; height: 3px; border-radius: 50%; background: rgba(255,255,255,0.5); }
+
+        /* ══════════════════════════════════
+           GRILLA SECUNDARIA
+        ══════════════════════════════════ */
+        .sec-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 14px;
+            margin-bottom: 32px;
+        }
+
+        .sec-card {
+            background: white; border-radius: 14px; overflow: hidden;
+            cursor: pointer; display: flex; flex-direction: column;
             box-shadow: 0 2px 8px rgba(0,0,0,0.07);
             border: 1px solid rgba(0,0,0,0.04);
             transition: transform 0.22s ease, box-shadow 0.22s ease;
+            text-decoration: none; color: inherit;
         }
-        .card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(0,0,0,0.12); }
+        .sec-card:hover { transform: translateY(-4px); box-shadow: 0 10px 28px rgba(0,0,0,0.12); }
 
-        .card-thumb {
-            width: 100%; aspect-ratio: 16/9;
-            object-fit: cover; display: block;
+        .sec-img-wrap {
+            width: 100%; aspect-ratio: 16/9; overflow: hidden;
+            position: relative; flex-shrink: 0;
         }
-        .card-placeholder {
-            width: 100%; aspect-ratio: 16/9;
+        .sec-img {
+            width: 100%; height: 100%; object-fit: cover; display: block;
+            transition: transform 0.35s ease;
+        }
+        .sec-card:hover .sec-img { transform: scale(1.04); }
+
+        .sec-img-placeholder {
+            width: 100%; height: 100%; position: absolute; inset: 0;
             display: flex; align-items: center; justify-content: center;
-            font-size: 1.8rem; opacity: 0.6;
+            font-size: 2rem; opacity: 0.45;
         }
-        .card-body { padding: 14px 16px 16px; }
-        .cat-badge {
-            display: inline-block; font-size: 0.58rem; font-weight: 900;
-            text-transform: uppercase; letter-spacing: 0.08em;
-            padding: 3px 7px; border-radius: 5px; color: white; margin-bottom: 9px;
-        }
-        .card-title {
-            font-size: 0.9rem; font-weight: 700; line-height: 1.45;
-            color: #111827; margin-bottom: 7px;
-            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-        }
-        .card-summary {
-            font-size: 0.76rem; color: #6b7280; line-height: 1.6; margin-bottom: 11px;
-            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-        }
-        .card-meta { display: flex; align-items: center; gap: 5px; font-size: 0.66rem; color: #9ca3af; font-weight: 600; }
-        .card-source { font-weight: 700; color: #6b7280; }
-        .dot { width: 3px; height: 3px; border-radius: 50%; background: #d1d5db; }
 
-        /* ═══ SKELETON ═══ */
+        .sec-body { padding: 14px 16px 16px; flex: 1; display: flex; flex-direction: column; }
+        .sec-badge {
+            display: inline-block; font-size: 0.56rem; font-weight: 900;
+            text-transform: uppercase; letter-spacing: 0.09em;
+            padding: 3px 7px; border-radius: 4px; color: white;
+            margin-bottom: 8px; width: fit-content;
+        }
+        .sec-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 0.96rem; font-weight: 700; line-height: 1.42;
+            color: #111; flex: 1; margin-bottom: 10px;
+            display: -webkit-box; -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .sec-meta {
+            font-size: 0.65rem; font-weight: 600; color: #999;
+            display: flex; align-items: center; gap: 4px;
+        }
+        .sec-source { color: #555; font-weight: 700; }
+        .sec-dot { width: 2px; height: 2px; border-radius: 50%; background: #ccc; }
+
+        /* ══════════════════════════════════
+           SEPARADOR DE SECCIÓN
+        ══════════════════════════════════ */
+        .sec-header {
+            display: flex; align-items: center; gap: 10px;
+            margin: 24px 0 14px;
+        }
+        .sec-header-line { flex: 1; height: 1px; background: #e0e0e0; }
+        .sec-header-label {
+            font-size: 0.68rem; font-weight: 900; text-transform: uppercase;
+            letter-spacing: 0.1em; color: #aaa;
+        }
+
+        /* ══════════════════════════════════
+           SKELETON
+        ══════════════════════════════════ */
         .skel {
-            background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
+            background: linear-gradient(90deg, #ebebeb 25%, #f5f5f5 50%, #ebebeb 75%);
             background-size: 200% 100%;
-            border-radius: 6px;
+            border-radius: 8px;
             animation: shimmer 1.4s ease infinite;
         }
-        @keyframes shimmer { 0%,100%{background-position:0% 50%} 50%{background-position:100% 50%} }
+        @keyframes shimmer { 0%,100%{background-position:0%} 50%{background-position:100%} }
 
-        /* ═══ EMPTY ═══ */
-        #empty { display: none; text-align: center; padding: 80px 20px; color: #9ca3af; }
-        #empty i { font-size: 2.8rem; margin-bottom: 14px; display: block; opacity: 0.3; }
+        .skel-feat {
+            width: 100%; height: 420px; border-radius: 18px;
+            margin-bottom: 16px;
+        }
+        .skel-sec {
+            background: white; border-radius: 14px; overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
 
-        /* ═══ READER MODAL ═══ */
+        /* ══════════════════════════════════
+           EMPTY STATE
+        ══════════════════════════════════ */
+        #empty {
+            display: none; text-align: center;
+            padding: 100px 20px; color: #aaa;
+        }
+        #empty i { font-size: 3rem; margin-bottom: 16px; display: block; opacity: 0.25; }
+
+        /* ══════════════════════════════════
+           READER MODAL
+        ══════════════════════════════════ */
         #modal {
             display: none; position: fixed; inset: 0; z-index: 900;
-            background: rgba(0,0,0,0.78);
+            background: rgba(0,0,0,0.8);
             backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
             justify-content: center; align-items: flex-start;
             overflow-y: auto; padding: 40px 16px;
@@ -165,109 +293,108 @@
         #modal.open { display: flex; }
 
         #reader {
-            background: white; border-radius: 22px; width: 100%; max-width: 720px;
-            position: relative; margin: auto;
-            box-shadow: 0 32px 70px rgba(0,0,0,0.4);
-            animation: zoomIn 0.28s ease; overflow: hidden;
+            background: white; border-radius: 22px;
+            width: 100%; max-width: 720px; margin: auto;
+            box-shadow: 0 32px 70px rgba(0,0,0,0.45);
+            animation: zoomIn 0.26s ease; overflow: hidden;
         }
-        @keyframes zoomIn { from { transform: scale(0.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+        @keyframes zoomIn { from{transform:scale(0.9);opacity:0} to{transform:scale(1);opacity:1} }
 
         #r-header {
-            padding: 16px 20px; border-bottom: 1px solid #f3f4f6;
+            padding: 16px 20px; border-bottom: 1px solid #f0f0f0;
             display: flex; align-items: center; gap: 10px;
             position: sticky; top: 0; background: white; z-index: 10;
         }
-        #r-badge { font-size: 0.58rem; font-weight: 900; text-transform: uppercase; padding: 4px 9px; border-radius: 5px; color: white; }
-        #r-source { font-size: 0.73rem; font-weight: 700; color: #6b7280; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        #r-badge { font-size: 0.58rem; font-weight: 900; text-transform: uppercase; padding: 4px 9px; border-radius: 4px; color: white; }
+        #r-source { font-size: 0.73rem; font-weight: 700; color: #777; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
         #r-ext {
             background: #f3f4f6; border: none; padding: 6px 11px; border-radius: 8px;
-            cursor: pointer; font-size: 0.68rem; font-weight: 700; color: #374151;
+            cursor: pointer; font-size: 0.68rem; font-weight: 700; color: #444;
             text-decoration: none; display: flex; align-items: center; gap: 5px;
-            transition: background 0.2s; flex-shrink: 0;
+            transition: background 0.18s; flex-shrink: 0;
         }
         #r-ext:hover { background: #e5e7eb; }
         #r-close {
-            background: #f3f4f6; border: none; width: 32px; height: 32px; border-radius: 50%;
-            cursor: pointer; font-size: 0.85rem; color: #374151;
+            background: #f3f4f6; border: none; width: 32px; height: 32px;
+            border-radius: 50%; cursor: pointer; font-size: 0.85rem; color: #444;
             display: flex; align-items: center; justify-content: center;
-            transition: background 0.2s; flex-shrink: 0;
+            transition: background 0.18s; flex-shrink: 0;
         }
         #r-close:hover { background: #e5e7eb; }
-
-        #r-hero { width: 100%; max-height: 260px; object-fit: cover; display: none; }
-
-        #r-body { padding: 28px 38px 48px; }
-        #r-title { font-size: 1.55rem; font-weight: 900; line-height: 1.3; color: #111827; margin-bottom: 10px; }
-        #r-meta { font-size: 0.72rem; color: #9ca3af; font-weight: 600; margin-bottom: 26px; display: flex; gap: 8px; flex-wrap: wrap; }
-
+        #r-hero { width: 100%; max-height: 280px; object-fit: cover; display: none; }
+        #r-body { padding: 30px 40px 52px; }
+        #r-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.65rem; font-weight: 900; line-height: 1.28;
+            color: #111; margin-bottom: 12px;
+        }
+        #r-meta { font-size: 0.72rem; color: #aaa; font-weight: 600; margin-bottom: 28px; display: flex; gap: 8px; flex-wrap: wrap; }
         #r-content { font-size: 1rem; line-height: 1.88; color: #1f2937; }
-        #r-content h1,#r-content h2,#r-content h3 { margin: 22px 0 10px; font-weight: 800; line-height: 1.3; }
-        #r-content h1 { font-size: 1.35rem; }
-        #r-content h2 { font-size: 1.15rem; }
-        #r-content h3 { font-size: 0.97rem; }
+        #r-content h1,#r-content h2,#r-content h3 { font-family:'Playfair Display',serif; margin: 22px 0 10px; font-weight: 700; }
+        #r-content h1{font-size:1.4rem} #r-content h2{font-size:1.2rem} #r-content h3{font-size:1rem}
         #r-content p { margin-bottom: 15px; }
-        #r-content a { color: var(--cat-tech); }
+        #r-content a { color: var(--red); }
         #r-content img { max-width: 100%; border-radius: 8px; margin: 14px 0; display: block; }
-        #r-content blockquote { border-left: 4px solid var(--cat-tech); padding-left: 14px; margin: 18px 0; color: #4b5563; font-style: italic; }
+        #r-content blockquote { border-left: 4px solid var(--red); padding-left: 16px; margin: 18px 0; color: #555; font-style: italic; }
         #r-content ul,#r-content ol { padding-left: 20px; margin-bottom: 14px; }
         #r-content li { margin-bottom: 5px; }
-        #r-content pre,#r-content code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem; }
-        #r-content pre { display: block; padding: 14px; overflow-x: auto; margin-bottom: 14px; }
+        #r-content pre,#r-content code { background:#f5f5f0; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem; }
+        #r-content pre { display:block; padding: 14px; overflow-x: auto; margin-bottom: 14px; }
 
-        #r-loading { padding: 60px 40px; text-align: center; color: #9ca3af; }
+        #r-loading { padding: 60px 40px; text-align: center; color: #aaa; }
         #r-loading i { font-size: 1.4rem; display: block; margin-bottom: 10px; animation: spin 0.8s linear infinite; }
         @keyframes spin { to { transform: rotate(360deg); } }
-
-        #r-error { padding: 40px; text-align: center; color: #6b7280; display: none; }
+        #r-error { padding: 40px; text-align: center; color: #777; display: none; }
         #r-error i { font-size: 2rem; margin-bottom: 12px; display: block; color: #F59E0B; }
         #r-fallback {
-            display: inline-block; margin-top: 14px;
-            background: var(--cat-tech); color: white;
-            padding: 9px 20px; border-radius: 10px;
-            font-weight: 700; font-size: 0.82rem; text-decoration: none;
+            display: inline-block; margin-top: 14px; background: var(--red); color: white;
+            padding: 9px 20px; border-radius: 10px; font-weight: 700; font-size: 0.82rem; text-decoration: none;
         }
         #r-article { display: none; }
 
-        /* ═══ FAB REFRESH ═══ */
+        /* ══════════════════════════════════
+           FAB + TOAST
+        ══════════════════════════════════ */
         #fab {
-            position: fixed; bottom: 26px; right: 22px; z-index: 300;
-            background: var(--cat-tech); color: white; border: none;
-            width: 50px; height: 50px; border-radius: 50%;
-            font-size: 0.95rem; cursor: pointer;
-            box-shadow: 0 6px 18px rgba(192,57,43,0.45);
-            transition: all 0.2s;
-            display: flex; align-items: center; justify-content: center;
+            position: fixed; bottom: 24px; right: 20px; z-index: 400;
+            background: var(--red); color: white; border: none;
+            width: 50px; height: 50px; border-radius: 50%; font-size: 0.95rem;
+            cursor: pointer; box-shadow: 0 6px 20px rgba(225,40,40,0.45);
+            transition: all 0.2s; display: flex; align-items: center; justify-content: center;
         }
         #fab:hover { transform: scale(1.1); }
         #fab.spin i { animation: spin 0.7s linear infinite; }
 
-        /* ═══ TOAST ═══ */
         #toast {
-            position: fixed; bottom: 86px; right: 22px; z-index: 600;
-            background: #111827; color: white;
-            padding: 9px 16px; border-radius: 10px;
-            font-size: 0.78rem; font-weight: 600;
+            position: fixed; bottom: 84px; right: 20px; z-index: 700;
+            background: #111; color: white; padding: 9px 16px;
+            border-radius: 10px; font-size: 0.78rem; font-weight: 600;
             box-shadow: 0 8px 22px rgba(0,0,0,0.3);
             transform: translateY(12px); opacity: 0;
             transition: all 0.25s; pointer-events: none;
         }
         #toast.show { transform: translateY(0); opacity: 1; }
 
-        /* ═══ RESPONSIVE ═══ */
-        @media (max-width: 600px) {
+        /* ══════════════════════════════════
+           RESPONSIVE
+        ══════════════════════════════════ */
+        @media (max-width: 640px) {
             .nav-brand { display: none; }
-            .nav-link { font-size: 0.66rem; padding: 5px 8px; }
+            .nav-link { font-size: 0.64rem; padding: 5px 8px; }
+            .feat { height: 280px; }
+            .feat-title { font-size: 1.3rem; }
+            .feat-overlay { padding: 20px 18px 22px; }
+            .sec-grid { grid-template-columns: 1fr; }
             #r-body { padding: 20px 18px 36px; }
-            #r-title { font-size: 1.25rem; }
-            #r-content { font-size: 0.95rem; }
+            #r-title { font-size: 1.3rem; }
         }
     </style>
 </head>
 <body>
 
-<!-- ════════════════════════════════════════════
+<!-- ════════════════════════════════════
      NAVBAR
-════════════════════════════════════════════ -->
+════════════════════════════════════ -->
 <nav id="top-nav">
     <span class="nav-brand">MCCEMS · SEP 2025</span>
     <div class="nav-links">
@@ -280,42 +407,42 @@
     </div>
 </nav>
 
-<!-- ════════════════════════════════════════════
-     FILTER BAR
-════════════════════════════════════════════ -->
-<div id="filter-bar">
-    <div class="pill active" data-cat="all"><i class="fas fa-border-all"></i> Todos</div>
-    <div class="pill" data-cat="tech-ia">  <i class="fas fa-microchip"></i> Tech / IA</div>
-    <div class="pill" data-cat="educacion"><i class="fas fa-graduation-cap"></i> Educación</div>
-    <div class="pill" data-cat="coaching"> <i class="fas fa-briefcase"></i> Coaching</div>
-    <div class="pill" data-cat="psicologia"><i class="fas fa-brain"></i> Psicología</div>
-    <div class="pill" data-cat="juegos">   <i class="fas fa-chess"></i> Juegos</div>
-    <div class="pill" data-cat="geopolitica"><i class="fas fa-globe"></i> Geopolítica</div>
-    <div class="pill" data-cat="startup">  <i class="fas fa-rocket"></i> Startups</div>
+<!-- ════════════════════════════════════
+     TAB BAR ESTILO FLIPBOARD
+════════════════════════════════════ -->
+<div id="tab-bar">
+    <button class="tab active" data-cat="parati"><i class="fas fa-star"></i> Para Ti</button>
+    <button class="tab" data-cat="all">Todos</button>
+    <button class="tab" data-cat="tech-ia"><i class="fas fa-microchip"></i> Tech / IA</button>
+    <button class="tab" data-cat="educacion"><i class="fas fa-graduation-cap"></i> Educación</button>
+    <button class="tab" data-cat="coaching"><i class="fas fa-briefcase"></i> Coaching</button>
+    <button class="tab" data-cat="psicologia"><i class="fas fa-brain"></i> Psicología</button>
+    <button class="tab" data-cat="juegos"><i class="fas fa-chess"></i> Juegos</button>
+    <button class="tab" data-cat="geopolitica"><i class="fas fa-globe"></i> Geopolítica</button>
+    <button class="tab" data-cat="startup"><i class="fas fa-rocket"></i> Startups</button>
     <div id="search-wrap">
         <i class="fas fa-search"></i>
         <input type="text" id="search-input" placeholder="Buscar...">
     </div>
 </div>
 
-<!-- ════════════════════════════════════════════
-     MASONRY GRID
-════════════════════════════════════════════ -->
-<div id="main">
-    <div class="masonry" id="grid"></div>
+<!-- ════════════════════════════════════
+     MAGAZINE GRID
+════════════════════════════════════ -->
+<div id="main-wrap">
+    <div id="mag-grid"></div>
     <div id="empty">
         <i class="fas fa-inbox"></i>
         <p style="font-size:1.05rem;font-weight:700;margin-bottom:6px;">Sin resultados</p>
-        <p style="font-size:0.83rem;">Prueba con otro filtro o búsqueda.</p>
+        <p style="font-size:0.83rem;">Intenta con otro filtro o búsqueda.</p>
     </div>
 </div>
 
-<!-- ════════════════════════════════════════════
+<!-- ════════════════════════════════════
      READER MODAL
-════════════════════════════════════════════ -->
-<div id="modal" role="dialog" aria-modal="true" aria-label="Modo lectura">
+════════════════════════════════════ -->
+<div id="modal" role="dialog" aria-modal="true">
     <div id="reader">
-        <!-- Header fijo -->
         <div id="r-header">
             <span id="r-badge"></span>
             <span id="r-source"></span>
@@ -326,15 +453,11 @@
                 <i class="fas fa-times"></i>
             </button>
         </div>
-
-        <!-- Estado: cargando -->
         <div id="r-loading">
             <i class="fas fa-circle-notch"></i>
             <p style="font-weight:600;font-size:0.9rem;">Extrayendo contenido limpio...</p>
-            <p style="font-size:0.77rem;margin-top:5px;color:#d1d5db;">Eliminando anuncios y distractores</p>
+            <p style="font-size:0.77rem;margin-top:5px;color:#bbb;">Eliminando anuncios</p>
         </div>
-
-        <!-- Estado: error -->
         <div id="r-error">
             <i class="fas fa-exclamation-triangle"></i>
             <p style="font-weight:700;margin-bottom:6px;">El sitio bloqueó la extracción</p>
@@ -343,8 +466,6 @@
                 <i class="fas fa-external-link-alt"></i> Abrir en nueva pestaña
             </a>
         </div>
-
-        <!-- Estado: artículo listo -->
         <div id="r-article">
             <img id="r-hero" src="" alt="">
             <div id="r-body">
@@ -356,12 +477,7 @@
     </div>
 </div>
 
-<!-- FAB actualizar -->
-<button id="fab" onclick="refresh()" title="Actualizar feeds">
-    <i class="fas fa-sync-alt"></i>
-</button>
-
-<!-- Toast -->
+<button id="fab" onclick="refresh()" title="Actualizar"><i class="fas fa-sync-alt"></i></button>
 <div id="toast"></div>
 
 <script>
@@ -369,115 +485,197 @@
 // CONFIG
 // ════════════════════════════════════════════════
 const FEEDS_URL  = 'data/feeds.json';
-const CORS_PROXY = 'https://api.allorigins.win/get?url='; // proxy libre para modo lectura
+const CORS_PROXY = 'https://api.allorigins.win/get?url=';
 
 const CATS = {
-    all:          { label:'Todos',       color:'#111827', icon:'fa-border-all' },
-    'tech-ia':    { label:'Tech / IA',   color:'#C0392B', icon:'fa-microchip' },
-    educacion:    { label:'Educación',   color:'#1A7A4A', icon:'fa-graduation-cap' },
-    coaching:     { label:'Coaching',    color:'#E67E22', icon:'fa-briefcase' },
-    psicologia:   { label:'Psicología',  color:'#8E44AD', icon:'fa-brain' },
-    juegos:       { label:'Juegos',      color:'#B7950B', icon:'fa-chess' },
-    geopolitica:  { label:'Geopolítica', color:'#1A5276', icon:'fa-globe' },
-    startup:      { label:'Startups',    color:'#117A65', icon:'fa-rocket' },
+    all:          { label:'Todos',        color:'#333',    icon:'fa-border-all',    grad:'linear-gradient(135deg,#374151,#111827)' },
+    'tech-ia':    { label:'Tech / IA',    color:'#C0392B', icon:'fa-microchip',     grad:'linear-gradient(135deg,#B71C1C,#C0392B)' },
+    educacion:    { label:'Educación',    color:'#1A7A4A', icon:'fa-graduation-cap',grad:'linear-gradient(135deg,#1B5E20,#1A7A4A)' },
+    coaching:     { label:'Coaching',     color:'#E67E22', icon:'fa-briefcase',     grad:'linear-gradient(135deg,#E65100,#E67E22)' },
+    psicologia:   { label:'Psicología',   color:'#8E44AD', icon:'fa-brain',         grad:'linear-gradient(135deg,#4A148C,#8E44AD)' },
+    juegos:       { label:'Juegos',       color:'#B7950B', icon:'fa-chess',         grad:'linear-gradient(135deg,#827717,#B7950B)' },
+    geopolitica:  { label:'Geopolítica',  color:'#1A5276', icon:'fa-globe',         grad:'linear-gradient(135deg,#0D47A1,#1A5276)' },
+    startup:      { label:'Startups',     color:'#117A65', icon:'fa-rocket',        grad:'linear-gradient(135deg,#004D40,#117A65)' },
 };
 
 // ════════════════════════════════════════════════
 // STATE
 // ════════════════════════════════════════════════
-let items = [];
-let activeCat = 'all';
+let allItems = [];
+let activeCat = 'parati';
 let query = '';
 
 // ════════════════════════════════════════════════
-// CARGAR FEEDS
+// LOAD
 // ════════════════════════════════════════════════
 async function loadFeeds() {
-    showSkeletons(12);
+    showSkeleton();
     try {
         const r = await fetch(FEEDS_URL + '?t=' + Date.now());
-        if (!r.ok) throw new Error('no feeds.json');
+        if (!r.ok) throw new Error();
         const data = await r.json();
-        items = data.items || [];
-        if (!items.length) throw new Error('vacío');
-        toast(`${items.length} artículos cargados`);
+        allItems = (data.items || []);
+        // Mezclar con demos de fuentes en español
+        const ids = new Set(allItems.map(i => i.id));
+        demoItems().forEach(d => { if (!ids.has(d.id)) allItems.push(d); });
+        if (!allItems.length) throw new Error();
+        toast(`${allItems.length} artículos cargados`);
     } catch {
-        items = demoItems();
-        toast('Datos de demostración · Ejecuta fetch_feeds.py para datos reales');
+        allItems = demoItems();
+        toast('Mostrando fuentes curadas · Ejecuta fetch_feeds.py para noticias en vivo');
     }
-    render();
+    flipRender();
 }
 
 // ════════════════════════════════════════════════
-// RENDER MASONRY
+// FILTRADO
+// ════════════════════════════════════════════════
+function filtered() {
+    const q = query.toLowerCase();
+    let list = allItems;
+    if (activeCat === 'parati') list = forYou(allItems);
+    else if (activeCat !== 'all') list = allItems.filter(i => i.category === activeCat);
+    if (q) list = list.filter(i =>
+        i.title.toLowerCase().includes(q) ||
+        (i.summary||'').toLowerCase().includes(q) ||
+        i.source.toLowerCase().includes(q)
+    );
+    return list;
+}
+
+function forYou(items) {
+    // Top 2-3 de cada categoría, mezclados en orden de frescura
+    const bycat = {};
+    items.forEach(i => {
+        if (!bycat[i.category]) bycat[i.category] = [];
+        if (bycat[i.category].length < 3) bycat[i.category].push(i);
+    });
+    return Object.values(bycat).flat()
+        .sort((a,b) => new Date(b.published) - new Date(a.published));
+}
+
+// ════════════════════════════════════════════════
+// RENDER — diseño revista Flipboard
 // ════════════════════════════════════════════════
 function render() {
-    const grid  = document.getElementById('grid');
+    const grid  = document.getElementById('mag-grid');
     const empty = document.getElementById('empty');
-    const q     = query.toLowerCase();
-
-    const list = items.filter(it => {
-        const catOk = activeCat === 'all' || it.category === activeCat;
-        const qOk   = !q || it.title.toLowerCase().includes(q)
-                         || (it.summary||'').toLowerCase().includes(q)
-                         || it.source.toLowerCase().includes(q);
-        return catOk && qOk;
-    });
+    const list  = filtered();
 
     if (!list.length) { grid.innerHTML = ''; empty.style.display = 'block'; return; }
     empty.style.display = 'none';
 
-    grid.innerHTML = list.map(it => cardHTML(it)).join('');
+    if (activeCat === 'all' || activeCat === 'parati') {
+        // Modo "revista": 1 destacada + grilla secundaria
+        const [feat, ...rest] = list;
+        grid.innerHTML = featHTML(feat) + secGridHTML(rest);
+    } else {
+        // Modo categoría: destacada de esa categoría + grilla
+        const [feat, ...rest] = list;
+        grid.innerHTML = featHTML(feat) + secGridHTML(rest);
+    }
 }
 
-function cardHTML(it) {
+function flipRender() {
+    const grid = document.getElementById('mag-grid');
+    grid.classList.add('flip-out');
+    setTimeout(() => {
+        render();
+        grid.classList.remove('flip-out');
+    }, 200);
+}
+
+// ── TARJETA DESTACADA ──
+function featHTML(it) {
+    if (!it) return '';
     const cat  = CATS[it.category] || CATS['tech-ia'];
     const ago  = timeAgo(it.published);
-    const args = `'${esc(it.url)}','${esc(it.title)}','${esc(it.image||'')}','${it.category}','${esc(it.source)}'`;
+    const args = mkArgs(it);
 
-    const thumb = it.image
-        ? `<img class="card-thumb" src="${esc(it.image)}" alt="" loading="lazy"
-               onerror="this.parentElement.innerHTML='<div class=\\'card-placeholder\\' style=\\'background:${cat.color}18\\'><i class=\\'fas ${cat.icon}\\' style=\\'color:${cat.color}\\'></i></div>'">`
-        : `<div class="card-placeholder" style="background:${cat.color}18">
-               <i class="fas ${cat.icon}" style="color:${cat.color}"></i>
-           </div>`;
+    const bgImg = it.image
+        ? `<img class="feat-img" src="${eh(it.image)}" alt=""
+               onerror="this.style.display='none'">`
+        : '';
+    const bgDiv = `<div class="feat-bg" style="background:${cat.grad}">
+                       <i class="fas ${cat.icon}" style="color:white;"></i>
+                   </div>`;
 
-    return `
-    <div class="card" onclick="openReader(${args})">
-        ${thumb}
-        <div class="card-body">
-            <span class="cat-badge" style="background:${cat.color}">${cat.label}</span>
-            <h3 class="card-title">${escHtml(it.title)}</h3>
-            ${it.summary ? `<p class="card-summary">${escHtml(it.summary)}</p>` : ''}
-            <div class="card-meta">
-                <span class="card-source">${escHtml(it.source)}</span>
-                <span class="dot"></span>
+    return `<div class="feat" onclick="openReader(${args})" role="article" tabindex="0"
+                 aria-label="${eh(it.title)}">
+        ${bgDiv}${bgImg}
+        <div class="feat-overlay">
+            <span class="feat-badge" style="background:${cat.color}">${cat.label}</span>
+            <h2 class="feat-title">${eh(it.title)}</h2>
+            <div class="feat-meta">
+                <span>${eh(it.source)}</span>
+                <span class="feat-meta-dot"></span>
                 <span>${ago}</span>
-                ${it.score ? `<span class="dot"></span><i class="fas fa-arrow-up" style="color:#F59E0B;font-size:0.58rem;"></i><span>${it.score}</span>` : ''}
+                ${it.score ? `<span class="feat-meta-dot"></span>
+                              <i class="fas fa-arrow-up" style="color:#F59E0B;font-size:0.6rem;"></i>
+                              <span>${it.score}</span>` : ''}
+            </div>
+        </div>
+    </div>`;
+}
+
+// ── GRILLA SECUNDARIA ──
+function secGridHTML(items) {
+    if (!items.length) return '';
+    return `<div class="sec-grid">${items.map(it => secCardHTML(it)).join('')}</div>`;
+}
+
+function secCardHTML(it) {
+    const cat  = CATS[it.category] || CATS['tech-ia'];
+    const ago  = timeAgo(it.published);
+    const args = mkArgs(it);
+
+    const img = it.image
+        ? `<img class="sec-img" src="${eh(it.image)}" alt="" loading="lazy"
+               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+        : '';
+    const ph = `<div class="sec-img-placeholder" style="background:${cat.grad};${it.image ? 'display:none' : ''}">
+                    <i class="fas ${cat.icon}" style="color:white;"></i>
+                </div>`;
+
+    return `<div class="sec-card" onclick="openReader(${args})" role="article" tabindex="0">
+        <div class="sec-img-wrap">${img}${ph}</div>
+        <div class="sec-body">
+            <span class="sec-badge" style="background:${cat.color}">${cat.label}</span>
+            <h3 class="sec-title">${eh(it.title)}</h3>
+            <div class="sec-meta">
+                <span class="sec-source">${eh(it.source)}</span>
+                <span class="sec-dot"></span>
+                <span>${ago}</span>
+                ${it.score ? `<span class="sec-dot"></span>
+                              <i class="fas fa-arrow-up" style="color:#F59E0B;font-size:0.58rem;"></i>
+                              <span>${it.score}</span>` : ''}
             </div>
         </div>
     </div>`;
 }
 
 // ════════════════════════════════════════════════
-// SKELETON LOADING
+// SKELETON
 // ════════════════════════════════════════════════
-function showSkeletons(n) {
-    document.getElementById('grid').innerHTML = Array(n).fill(0).map(() => `
-        <div class="card" style="pointer-events:none;">
-            <div class="skel" style="width:100%;aspect-ratio:16/9;border-radius:0;"></div>
-            <div class="card-body">
-                <div class="skel" style="width:56px;height:17px;border-radius:5px;margin-bottom:9px;"></div>
-                <div class="skel" style="width:100%;height:13px;border-radius:4px;margin-bottom:5px;"></div>
-                <div class="skel" style="width:80%;height:13px;border-radius:4px;margin-bottom:5px;"></div>
-                <div class="skel" style="width:60%;height:13px;border-radius:4px;margin-bottom:11px;"></div>
-                <div class="skel" style="width:38%;height:10px;border-radius:4px;"></div>
-            </div>
-        </div>`).join('');
+function showSkeleton() {
+    document.getElementById('mag-grid').innerHTML =
+        `<div class="skel skel-feat"></div>
+         <div class="sec-grid">
+            ${Array(6).fill(`
+             <div class="skel-sec">
+                <div class="skel" style="width:100%;aspect-ratio:16/9;border-radius:0;"></div>
+                <div style="padding:14px 16px 16px">
+                    <div class="skel" style="width:50px;height:16px;margin-bottom:8px;"></div>
+                    <div class="skel" style="width:100%;height:13px;margin-bottom:5px;"></div>
+                    <div class="skel" style="width:75%;height:13px;margin-bottom:5px;"></div>
+                    <div class="skel" style="width:40%;height:10px;margin-top:8px;"></div>
+                </div>
+             </div>`).join('')}
+         </div>`;
 }
 
 // ════════════════════════════════════════════════
-// READER MODE (Readability.js + CORS proxy)
+// READER MODE
 // ════════════════════════════════════════════════
 async function openReader(url, title, image, category, source) {
     const modal   = document.getElementById('modal');
@@ -485,55 +683,45 @@ async function openReader(url, title, image, category, source) {
     const error   = document.getElementById('r-error');
     const article = document.getElementById('r-article');
 
-    // Reset
     loading.style.display = 'block';
     error.style.display   = 'none';
     article.style.display = 'none';
     modal.classList.add('open');
     document.body.style.overflow = 'hidden';
 
-    // Meta
     const cat = CATS[category] || CATS['tech-ia'];
-    document.getElementById('r-badge').textContent   = cat.label;
+    document.getElementById('r-badge').textContent      = cat.label;
     document.getElementById('r-badge').style.background = cat.color;
-    document.getElementById('r-source').textContent  = source;
-    document.getElementById('r-ext').href            = url;
-    document.getElementById('r-fallback').href       = url;
+    document.getElementById('r-source').textContent     = source;
+    document.getElementById('r-ext').href               = url;
+    document.getElementById('r-fallback').href          = url;
 
     try {
-        const html = await fetchProxy(url);
+        const html   = await fetchProxy(url);
         const parser = new DOMParser();
         const doc    = parser.parseFromString(html, 'text/html');
-
-        // Base URL para resolver links relativos dentro del artículo
-        const base = doc.createElement('base');
-        base.href  = url;
+        const base   = doc.createElement('base');
+        base.href    = url;
         doc.head.appendChild(base);
 
         const result = new Readability(doc, { charThreshold: 80 }).parse();
-        if (!result || !result.content) throw new Error('Sin contenido extraíble');
+        if (!result?.content) throw new Error('Sin contenido');
 
-        // Hero image
         const hero = document.getElementById('r-hero');
         if (image) { hero.src = image; hero.style.display = 'block'; }
         else        { hero.style.display = 'none'; }
 
         document.getElementById('r-title').textContent = result.title || title;
-
-        const words   = (result.textContent || '').split(/\s+/).length;
-        const minRead = Math.max(1, Math.ceil(words / 200));
+        const mins = Math.max(1, Math.ceil((result.textContent||'').split(/\s+/).length / 200));
         document.getElementById('r-meta').innerHTML =
-            `<span>${escHtml(source)}</span>
-             <span>·</span>
-             <span><i class="fas fa-clock" style="margin-right:3px;"></i>${minRead} min lectura</span>`;
-
+            `<span>${eh(source)}</span><span>·</span>
+             <span><i class="fas fa-clock" style="margin-right:3px;"></i>${mins} min lectura</span>`;
         document.getElementById('r-content').innerHTML = result.content;
 
         loading.style.display = 'none';
         article.style.display = 'block';
-
-    } catch (err) {
-        console.warn('Reader error:', err.message);
+    } catch (e) {
+        console.warn('Reader:', e.message);
         loading.style.display = 'none';
         error.style.display   = 'block';
     }
@@ -542,9 +730,9 @@ async function openReader(url, title, image, category, source) {
 async function fetchProxy(url) {
     const r = await fetch(CORS_PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(12000) });
     if (!r.ok) throw new Error('Proxy ' + r.status);
-    const data = await r.json();
-    if (!data.contents) throw new Error('Proxy vacío');
-    return data.contents;
+    const d = await r.json();
+    if (!d.contents) throw new Error('vacío');
+    return d.contents;
 }
 
 function closeReader() {
@@ -553,25 +741,25 @@ function closeReader() {
 }
 
 // ════════════════════════════════════════════════
-// FILTROS Y BÚSQUEDA
+// TABS + BÚSQUEDA
 // ════════════════════════════════════════════════
-document.querySelectorAll('.pill').forEach(p => {
-    p.addEventListener('click', () => {
-        document.querySelectorAll('.pill').forEach(x => x.classList.remove('active'));
-        p.classList.add('active');
-        activeCat = p.dataset.cat;
-        render();
+document.querySelectorAll('.tab').forEach(t => {
+    t.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+        t.classList.add('active');
+        activeCat = t.dataset.cat;
+        flipRender();
     });
 });
 
 let searchTimer;
 document.getElementById('search-input').addEventListener('input', e => {
     clearTimeout(searchTimer);
-    searchTimer = setTimeout(() => { query = e.target.value; render(); }, 280);
+    searchTimer = setTimeout(() => { query = e.target.value; flipRender(); }, 280);
 });
 
 // ════════════════════════════════════════════════
-// REFRESH
+// REFRESH + TECLADO
 // ════════════════════════════════════════════════
 async function refresh() {
     const fab = document.getElementById('fab');
@@ -580,9 +768,6 @@ async function refresh() {
     fab.classList.remove('spin');
 }
 
-// ════════════════════════════════════════════════
-// TECLADO Y CLICK FUERA DEL MODAL
-// ════════════════════════════════════════════════
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeReader(); });
 document.getElementById('modal').addEventListener('click', e => {
     if (e.target === document.getElementById('modal')) closeReader();
@@ -591,11 +776,14 @@ document.getElementById('modal').addEventListener('click', e => {
 // ════════════════════════════════════════════════
 // UTILIDADES
 // ════════════════════════════════════════════════
-function escHtml(s) {
+function eh(s) {
     return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
-function esc(s) {
+function es(s) {
     return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'\\"');
+}
+function mkArgs(it) {
+    return `'${es(it.url)}','${es(it.title)}','${es(it.image||'')}','${it.category}','${es(it.source)}'`;
 }
 function timeAgo(iso) {
     if (!iso) return '';
@@ -608,31 +796,64 @@ function timeAgo(iso) {
 function toast(msg) {
     const t = document.getElementById('toast');
     t.textContent = msg; t.classList.add('show');
-    setTimeout(() => t.classList.remove('show'), 3000);
+    setTimeout(() => t.classList.remove('show'), 3200);
 }
 
 // ════════════════════════════════════════════════
-// DATOS DE DEMOSTRACIÓN (fallback sin feeds.json)
+// DEMO ITEMS — Fuentes existentes + nuevas en español
 // ════════════════════════════════════════════════
 function demoItems() {
     const n = h => new Date(Date.now() - h * 3600000).toISOString();
     return [
-        { id:'d1',  title:'GPT-5 Turbo supera benchmarks de razonamiento en todas las categorías',                         url:'https://openai.com',                  source:'TechCrunch',          category:'tech-ia',    summary:'La capacidad multimodal y de razonamiento matemático del nuevo modelo marca un antes y después en la industria.',         image:null, published:n(1),  score:1840 },
-        { id:'d2',  title:'Psicología del alto rendimiento: Cómo los atletas olímpicos entrenan la mente bajo presión',    url:'https://psychologytoday.com',          source:'Psychology Today',    category:'psicologia', summary:'Técnicas de visualización y autorregulación emocional que usan medallistas y que puedes aplicar en el aula.',            image:null, published:n(2)         },
-        { id:'d3',  title:'MCCEMS 2025: Todo lo que los docentes de bachillerato necesitan saber este ciclo',              url:'https://sep.gob.mx',                  source:'SEP México',          category:'educacion',  summary:'El nuevo Marco Curricular integra ciudadanía digital y pensamiento computacional desde primer semestre.',                 image:null, published:n(3)         },
-        { id:'d4',  title:'Wingspan y los juegos cooperativos como herramienta de Team Building corporativo',              url:'https://boardgamegeek.com',           source:'BoardGameGeek',       category:'juegos',     summary:'40 estudios de caso muestran cómo los juegos de mesa cooperativos mejoran la comunicación y cohesión en equipos de trabajo.',image:null, published:n(4)         },
-        { id:'d5',  title:'China vs. EEUU en IA: El mapa geopolítico que redefinirá alianzas antes de 2030',              url:'https://reddit.com/r/geopolitics',    source:'r/geopolitics',       category:'geopolitica',summary:'Análisis profundo del ecosistema tecnológico que está reconfigurando las relaciones internacionales en tiempo real.',        image:null, published:n(5),  score:920  },
-        { id:'d6',  title:'Freddy Vega: "El futuro del aprendizaje en LATAM es hiper-personalizado e impulsado por IA"',  url:'https://platzi.com/blog',             source:'Platzi Blog',         category:'educacion',  summary:'El CEO de Platzi comparte cómo la IA generativa transformará la educación online en América Latina en los próximos 5 años.',image:null, published:n(6)         },
-        { id:'d7',  title:'LLaMA 3.2 open-source iguala a GPT-4 en benchmarks de código y matemáticas',                  url:'https://hnrss.org',                   source:'Hacker News',         category:'tech-ia',    summary:'Meta libera su modelo más potente con licencia comercial permisiva, sacudiendo el mercado de los LLMs propietarios.',      image:null, published:n(7),  score:2340 },
-        { id:'d8',  title:'El arte de dar retroalimentación difícil: Marco COIN para líderes empáticos',                  url:'https://hbr.org',                     source:'Harvard Business Review',category:'coaching',  summary:'Investigadores de Stanford presentan el marco que preserva motivación y relación sin sacrificar honestidad.',              image:null, published:n(8)         },
-        { id:'d9',  title:'Y Combinator W26: 12 startups de EdTech que cambiarán la educación en 2027',                  url:'https://techcrunch.com',              source:'TechCrunch',          category:'startup',    summary:'Desde tutores IA personalizados hasta plataformas de micro-credenciales para habilidades técnicas emergentes.',           image:null, published:n(9)         },
-        { id:'d10', title:'Pandemic Legacy S3: Análisis de mecánicas cooperativas y su transferencia al liderazgo real',  url:'https://boardgamegeek.com',           source:'BoardGameGeek',       category:'juegos',     summary:'Una revisión profunda de cómo este juego entrena decisión colaborativa, roles dinámicos y comunicación bajo crisis.',       image:null, published:n(10)        },
-        { id:'d11', title:'Flow State en el deporte escolar: Guía práctica para docentes de EF',                          url:'https://reddit.com/r/SportPsychology',source:'r/SportPsychology',  category:'psicologia', summary:'Csikszentmihalyi aplicado al aula: cómo diseñar actividades que generen estado de flujo en estudiantes de bachillerato.',  image:null, published:n(12)        },
-        { id:'d12', title:'Christian Van Der Henst: Construye una marca personal auténtica en LinkedIn sin teatro',        url:'https://cvander.com',                 source:'Blog CVander',        category:'coaching',   summary:'Estrategias concretas para posicionarte como referente sin caer en el perfil genérico de "Speaker | Mentor | CEO".',      image:null, published:n(14)        },
-        { id:'d13', title:'Geopolítica del litio: Por qué LATAM es la pieza clave de la transición energética global',   url:'https://reddit.com/r/Futurology',     source:'r/Futurology',        category:'geopolitica',summary:'Chile, Argentina y Bolivia concentran el 60% de reservas mundiales. Análisis de tensiones y oportunidades para la región.',  image:null, published:n(16), score:1450 },
-        { id:'d14', title:'Vibe Coding con Claude: Un docente construyó su sistema de gestión escolar sin experiencia',   url:'https://anthropic.com',               source:'Medium',              category:'tech-ia',    summary:'Cómo usar IA generativa para prototipar apps educativas reales en horas, no semanas. Caso de uso: IberoActivate.',         image:null, published:n(20)        },
-        { id:'d15', title:'r/MachineLearning: Los 5 papers más importantes de la semana en ArXiv',                        url:'https://reddit.com/r/MachineLearning',source:'r/MachineLearning',  category:'tech-ia',    summary:'La comunidad resume las publicaciones más relevantes: nuevas arquitecturas transformer, RAG eficiente y agentes multi-modal.',image:null, published:n(22), score:567  },
-        { id:'d16', title:'Startups de coaching digital: Cómo Pablo Lomelí está democratizando el alto rendimiento',      url:'https://linkedin.com',                source:'LinkedIn',            category:'startup',    summary:'El emprendedor mexicano explica cómo escalar metodologías de coaching ejecutivo a través de plataformas digitales accesibles.',image:null, published:n(24)        },
+        /* ── EXISTENTES ─────────────────────────── */
+        { id:'d1',  title:'GPT-5 Turbo supera benchmarks de razonamiento en todas las categorías',                          url:'https://openai.com',                  source:'TechCrunch',            category:'tech-ia',    summary:'La capacidad multimodal del nuevo modelo marca un antes y después.',     image:null, published:n(1),  score:1840 },
+        { id:'d2',  title:'Psicología del alto rendimiento: Cómo los atletas olímpicos entrenan la mente',                 url:'https://psychologytoday.com',          source:'Psychology Today',      category:'psicologia', summary:'Técnicas de visualización y autorregulación emocional aplicadas al aula.',image:null, published:n(2)         },
+        { id:'d3',  title:'MCCEMS 2025: Todo lo que los docentes de bachillerato deben saber este ciclo',                  url:'https://sep.gob.mx',                  source:'SEP México',            category:'educacion',  summary:'El nuevo Marco Curricular integra pensamiento computacional desde 1er semestre.', image:null, published:n(3) },
+        { id:'d4',  title:'Wingspan y los juegos cooperativos como herramienta de Team Building',                          url:'https://boardgamegeek.com',           source:'BoardGameGeek',         category:'juegos',     summary:'40 estudios muestran cómo los juegos de mesa mejoran la cohesión.',     image:null, published:n(4)         },
+        { id:'d5',  title:'China vs. EEUU en IA: El mapa geopolítico que redefinirá alianzas antes de 2030',              url:'https://reddit.com/r/geopolitics',    source:'r/geopolitics',         category:'geopolitica',summary:'Análisis del ecosistema tecnológico que reconfigura relaciones internacionales.', image:null, published:n(5), score:920 },
+        { id:'d6',  title:'Freddy Vega: "El futuro del aprendizaje en LATAM es hiper-personalizado e impulsado por IA"',  url:'https://platzi.com/blog',             source:'Platzi Blog',           category:'educacion',  summary:'El CEO de Platzi comparte su visión sobre IA y educación en Latinoamérica.',image:null, published:n(6) },
+        { id:'d7',  title:'LLaMA 3.2 open-source iguala a GPT-4 en benchmarks de código y matemáticas',                   url:'https://hnrss.org',                   source:'Hacker News',           category:'tech-ia',    summary:'Meta libera su modelo más potente con licencia comercial permisiva.',    image:null, published:n(7),  score:2340 },
+        { id:'d8',  title:'El arte de dar retroalimentación difícil: Marco COIN para líderes empáticos',                   url:'https://hbr.org',                     source:'Harvard Business Review',category:'coaching',  summary:'Investigadores de Stanford presentan el marco que preserva la motivación.',image:null, published:n(8) },
+        { id:'d9',  title:'Y Combinator W26: 12 startups de EdTech que cambiarán la educación en 2027',                   url:'https://techcrunch.com',              source:'TechCrunch',            category:'startup',    summary:'Tutores IA personalizados y plataformas de micro-credenciales emergentes.', image:null, published:n(9) },
+        { id:'d10', title:'Pandemic Legacy S3: Mecánicas cooperativas y su transferencia al liderazgo real',              url:'https://boardgamegeek.com',           source:'BoardGameGeek',         category:'juegos',     summary:'Cómo este juego entrena decisión colaborativa y comunicación bajo crisis.', image:null, published:n(10) },
+        { id:'d11', title:'Flow State en el deporte escolar: Guía práctica para docentes',                                url:'https://reddit.com/r/SportPsychology',source:'r/SportPsychology',    category:'psicologia', summary:'Csikszentmihalyi aplicado al aula para generar flujo en estudiantes.',    image:null, published:n(12) },
+        { id:'d12', title:'Christian Van Der Henst: Construye una marca personal auténtica en LinkedIn',                  url:'https://cvander.com',                 source:'Blog CVander',          category:'coaching',   summary:'Estrategias para posicionarte como referente sin el perfil genérico.',   image:null, published:n(14) },
+        { id:'d13', title:'Geopolítica del litio: Por qué LATAM es clave en la transición energética global',            url:'https://reddit.com/r/Futurology',     source:'r/Futurology',          category:'geopolitica',summary:'Chile, Argentina y Bolivia concentran el 60% de reservas mundiales.',     image:null, published:n(16), score:1450 },
+        { id:'d14', title:'Vibe Coding con Claude: Un docente construyó su sistema escolar sin experiencia previa',       url:'https://anthropic.com',               source:'Medium',                category:'tech-ia',    summary:'Prototipado de apps educativas reales con IA en horas, no semanas.',     image:null, published:n(20) },
+        { id:'d15', title:'r/MachineLearning: Los 5 papers más relevantes de la semana en ArXiv',                         url:'https://reddit.com/r/MachineLearning',source:'r/MachineLearning',    category:'tech-ia',    summary:'Nuevas arquitecturas transformer, RAG eficiente y agentes multimodal.',  image:null, published:n(22), score:567 },
+        { id:'d16', title:'Startups de coaching digital: Democratizando el alto rendimiento',                             url:'https://linkedin.com',                source:'LinkedIn',              category:'startup',    summary:'Cómo escalar metodologías de coaching ejecutivo a plataformas digitales.', image:null, published:n(24) },
+
+        /* ── NUEVAS — TECH / IA EN ESPAÑOL ─────── */
+        { id:'s1',  title:'Xataka: Las 10 herramientas de IA que están cambiando la productividad en 2026',              url:'https://www.xataka.com/',             source:'Xataka',                category:'tech-ia',    summary:'El referente en español analiza las plataformas de IA generativa con mayor impacto en flujos de trabajo profesionales.',  image:null, published:n(0.5) },
+        { id:'s2',  title:'Hipertextual: Cómo los modelos de lenguaje están redefiniendo la búsqueda en internet',       url:'https://hipertextual.com/',           source:'Hipertextual',          category:'tech-ia',    summary:'Análisis profundo de cómo GPT, Gemini y Claude están desplazando a los buscadores tradicionales.',                        image:null, published:n(1.5) },
+        { id:'s3',  title:'Platzi: Aprende a construir agentes de IA con Python desde cero — Guía 2026',                 url:'https://platzi.com/blog/',            source:'Platzi Blog',           category:'tech-ia',    summary:'El equipo de Platzi publica la ruta de aprendizaje más actualizada para construir agentes autónomos con LangChain y Python.', image:null, published:n(2.5) },
+        { id:'s4',  title:'Genbeta: Las mejores extensiones de IA para VS Code que debes instalar hoy',                  url:'https://www.genbeta.com/',            source:'Genbeta',               category:'tech-ia',    summary:'Copilot, Codeium, Tabnine y más: comparativa honesta de asistentes de código para desarrolladores hispanohablantes.',     image:null, published:n(3.5) },
+        { id:'s5',  title:'midu.dev: React 19 — Todo lo nuevo que necesitas saber en 15 minutos',                        url:'https://midu.dev/',                   source:'midu.dev',              category:'tech-ia',    summary:'Miguel Ángel Durán explica las Acciones, los hooks nuevos y el compilador de React 19 con ejemplos prácticos en español.', image:null, published:n(5)   },
+        { id:'s6',  title:'MoureDev: Python en 2026 — Las librerías que dominan el mercado laboral',                     url:'https://www.youtube.com/@mouredev',   source:'MoureDev (YouTube)',     category:'tech-ia',    summary:'Brais Moure analiza el ecosistema Python: FastAPI, Polars, uv y las herramientas que están pidiendo las empresas.',        image:null, published:n(6)   },
+        { id:'s7',  title:'Código Facilito: Curso completo de Docker y Kubernetes para principiantes — Gratis',          url:'https://codigofacilito.com/',         source:'Código Facilito',       category:'tech-ia',    summary:'La plataforma mexicana lanza su nuevo curso de contenedores con proyectos prácticos en español, completamente gratuito.',  image:null, published:n(8)   },
+        { id:'s8',  title:'MDN Web Docs: La guía completa de CSS Grid en español actualizada para 2026',                 url:'https://developer.mozilla.org/es/',   source:'MDN Web Docs',          category:'tech-ia',    summary:'Mozilla actualiza su documentación oficial de CSS Grid con nuevas subgrid, masonry y propiedades experimentales.',         image:null, published:n(10)  },
+        { id:'s9',  title:'Python Docs ES: Novedades de Python 3.13 — Lo que debes saber',                              url:'https://docs.python.org/es/3/',       source:'Python Docs (es)',      category:'tech-ia',    summary:'Documentación oficial en español sobre el nuevo compilador JIT, mejoras en el GIL y las funciones que llegan en 3.13.',   image:null, published:n(11)  },
+
+        /* ── NUEVAS — EDUCACIÓN ─────────────────── */
+        { id:'s10', title:'SEP: Nueva guía de planeación didáctica para Cultura Digital — Descarga oficial',             url:'https://www.gob.mx/sep',              source:'SEP México',            category:'educacion',  summary:'La Secretaría de Educación publica los lineamientos actualizados para la planeación por competencias en el MCCEMS 2025.',  image:null, published:n(4)   },
+        { id:'s11', title:'Educación 3.0: 7 estrategias con IA para el aula de bachillerato',                           url:'https://www.educaciontrespuntocero.com/', source:'Educación 3.0',      category:'educacion',  summary:'Propuestas prácticas respaldadas por evidencia para integrar herramientas de IA generativa en el aula sin perder el foco pedagógico.', image:null, published:n(7) },
+        { id:'s12', title:'Tiching: Recursos digitales gratuitos para Cultura Digital I, II y III — Colección curada',  url:'https://blog.tiching.com/',           source:'Tiching Blog',          category:'educacion',  summary:'Más de 40 recursos digitales clasificados por nivel y competencia, listos para usar en bachillerato.',                     image:null, published:n(9)   },
+        { id:'s13', title:'INTEF: Formación en Competencia Digital Docente — Itinerarios 2026',                         url:'https://intef.es/',                   source:'INTEF',                 category:'educacion',  summary:'El Instituto Nacional de Tecnologías Educativas lanza nuevos itinerarios formativos para el Marco DigCompEdu.',           image:null, published:n(13)  },
+        { id:'s14', title:'Fisioterapia-online: Biomecánica del movimiento deportivo — Guía para docentes de EF',       url:'https://www.fisioterapia-online.com/',source:'Fisioterapia-online',   category:'educacion',  summary:'Principios de biomecánica aplicados a la educación física escolar, con protocolos de prevención de lesiones para adolescentes.', image:null, published:n(15) },
+        { id:'s15', title:'World Archery: Reglas oficiales de tiro con arco para competencia escolar 2026',             url:'https://www.worldarchery.sport/es',   source:'World Archery (ES)',    category:'educacion',  summary:'La federación internacional actualiza el reglamento y los formatos de competencia adaptados para programas escolares.',    image:null, published:n(18)  },
+        { id:'s16', title:'CuriosaMente: ¿Cómo aprende el cerebro? — Neurociencia aplicada al aprendizaje',            url:'https://www.youtube.com/@curiosamente',source:'CuriosaMente (YouTube)',category:'educacion',  summary:'El canal de divulgación más visto en español explica cómo la memoria, la atención y el sueño afectan el aprendizaje escolar.', image:null, published:n(19) },
+
+        /* ── NUEVAS — COACHING ──────────────────── */
+        { id:'s17', title:'Xavier Pirla: Los 6 principios de influencia de Cialdini aplicados al liderazgo docente',    url:'https://www.youtube.com/@Xavier_Pirla',source:'Xavier Pirla (YouTube)',category:'coaching',   summary:'El experto en persuasión e influencia adapta los principios de Cialdini al contexto de la gestión de equipos educativos.',  image:null, published:n(6)   },
+        { id:'s18', title:'Eduardo Navas: Cómo construir un sistema de coaching para equipos de alto rendimiento',      url:'https://www.youtube.com/@Eduardonavascoach',source:'Eduardo Navas (YouTube)',category:'coaching',summary:'Metodología práctica para implementar sesiones de coaching individual y grupal en organizaciones educativas y empresariales.', image:null, published:n(11) },
+
+        /* ── NUEVAS — PSICOLOGÍA ────────────────── */
+        { id:'s19', title:'Farid Dieck: La trampa del perfeccionismo — Por qué te frena y cómo salir',                 url:'https://www.youtube.com/@FaridDieckOficial',source:'Farid Dieck (YouTube)',category:'psicologia',summary:'Análisis psicológico del perfeccionismo disfuncional y herramientas concretas para superarlo sin perder el estándar de calidad.', image:null, published:n(8) },
+        { id:'s20', title:'Psyciencia: Terapia de Aceptación y Compromiso (ACT) — Evidencia y aplicaciones',           url:'https://www.psyciencia.com/',         source:'Psyciencia',            category:'psicologia', summary:'Revisión de la evidencia científica detrás de ACT y cómo los docentes pueden aplicar sus principios en el bienestar estudiantil.', image:null, published:n(14) },
+
+        /* ── NUEVAS — STARTUPS ──────────────────── */
+        { id:'s21', title:'Moris Dieck: Cómo invertir en ETFs de IA desde México — Guía práctica 2026',               url:'https://www.youtube.com/@MorisDieck', source:'Moris Dieck (YouTube)', category:'startup',    summary:'El youtuber de finanzas personales explica paso a paso cómo diversificar hacia tecnología e IA con bajo capital inicial.',  image:null, published:n(5)   },
+        { id:'s22', title:'Juan Guáqueta: Tendencias de inversión en startups latinoamericanas para 2026-2027',        url:'https://www.youtube.com/@JGuaqueta',  source:'Juan Guáqueta (YouTube)',category:'startup',   summary:'Análisis del ecosistema emprendedor de LATAM: los sectores con más tracción, los fondos más activos y las oportunidades reales.', image:null, published:n(10) },
     ];
 }
 

@@ -249,20 +249,31 @@
         .sec-source { color: #555; font-weight: 700; }
         .sec-dot { width: 2px; height: 2px; border-radius: 50%; background: #ccc; }
 
-        /* ── LOGOS ── */
-        .logo-wrap {
+        /* ── SOURCE BADGE (logo pequeño sobre screenshot) ── */
+        .src-badge {
+            position: absolute;
+            bottom: 8px; right: 8px;
+            width: 30px; height: 30px;
+            border-radius: 7px;
             background: white;
-            border-bottom: 1px solid #f0f0f0;
-            display: flex; align-items: center; justify-content: center;
-            padding: 20px 28px;
-        }
-        .logo-wrap .sec-img {
-            max-width: 68%; max-height: 68px;
-            width: auto; height: auto;
+            padding: 4px;
             object-fit: contain;
-            transition: transform 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.28);
+            z-index: 2;
+            transition: transform 0.2s ease;
         }
-        .sec-card:hover .logo-wrap .sec-img { transform: scale(1.06); }
+        .sec-card:hover .src-badge { transform: scale(1.12); }
+        .feat-src-badge {
+            position: absolute;
+            top: 18px; right: 18px;
+            width: 42px; height: 42px;
+            border-radius: 10px;
+            background: white;
+            padding: 5px;
+            object-fit: contain;
+            box-shadow: 0 3px 14px rgba(0,0,0,0.35);
+            z-index: 3;
+        }
         .feat-logo {
             position: absolute;
             top: 50%; left: 50%;
@@ -608,15 +619,15 @@ function featHTML(it) {
     const args = mkArgs(it);
     const isDirect = !!it.direct;
 
-    const bgImg = it.image && !it.isLogo
-        ? `<img class="feat-img" src="${eh(it.image)}" alt="" onerror="this.style.display='none'">`
-        : '';
+    const bgImgSrc = (it.image && !it.isLogo)
+        ? it.image
+        : `https://image.thum.io/get/width/1280/crop/630/${encodeURIComponent(it.url)}`;
+    const bgImg = `<img class="feat-img" src="${eh(bgImgSrc)}" alt="" onerror="this.style.display='none'">`;
     const bgDiv = `<div class="feat-bg" style="background:${cat.grad}">
                        <i class="fas ${cat.icon}" style="color:white;"></i>
                    </div>`;
     const logoInset = it.isLogo && it.image
-        ? `<img class="feat-logo" src="${eh(it.image)}" alt="${eh(it.source)}"
-               onerror="this.style.display='none'">`
+        ? `<img class="feat-src-badge" src="${eh(it.image)}" alt="${eh(it.source)}" onerror="this.style.display='none'">`
         : '';
 
     const visitHint = isDirect
@@ -658,26 +669,20 @@ function secCardHTML(it) {
     const args    = mkArgs(it);
     const isDirect = !!it.direct;
 
-    let imgBlock;
-    if (it.isLogo && it.image) {
-        imgBlock = `<div class="sec-img-wrap logo-wrap">
-            <img class="sec-img" src="${eh(it.image)}" alt="${eh(it.source)}" loading="lazy"
-                 onerror="this.parentElement.classList.remove('logo-wrap');this.style.display='none';
-                          this.parentElement.querySelector('.sec-img-placeholder').style.display='flex'">
-            <div class="sec-img-placeholder" style="background:${cat.grad};display:none">
-                <i class="fas ${cat.icon}" style="color:white;"></i>
-            </div>
-        </div>`;
-    } else {
-        const imgTag = it.image
-            ? `<img class="sec-img" src="${eh(it.image)}" alt="" loading="lazy"
-                   onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
-            : '';
-        const ph = `<div class="sec-img-placeholder" style="background:${cat.grad};${it.image ? 'display:none' : ''}">
-                        <i class="fas ${cat.icon}" style="color:white;"></i>
-                    </div>`;
-        imgBlock = `<div class="sec-img-wrap">${imgTag}${ph}</div>`;
-    }
+    const dispImgSrc = (it.image && !it.isLogo)
+        ? it.image
+        : `https://image.thum.io/get/width/640/crop/360/${encodeURIComponent(it.url)}`;
+    const logoBadge = (it.isLogo && it.image)
+        ? `<img class="src-badge" src="${eh(it.image)}" alt="${eh(it.source)}" loading="lazy" onerror="this.style.display='none'">`
+        : '';
+    const imgBlock = `<div class="sec-img-wrap">
+        <img class="sec-img" src="${eh(dispImgSrc)}" alt="" loading="lazy"
+             onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="sec-img-placeholder" style="background:${cat.grad};display:none">
+            <i class="fas ${cat.icon}" style="color:white;"></i>
+        </div>
+        ${logoBadge}
+    </div>`;
 
     const summaryLine = (it.summary && (isDirect || it.category === 'academia'))
         ? `<p class="sec-summary-text">${eh(it.summary)}</p>` : '';

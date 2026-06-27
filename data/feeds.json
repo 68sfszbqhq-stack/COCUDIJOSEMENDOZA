@@ -1,9 +1,161 @@
 {
   "meta": {
-    "generated": "2026-06-27T03:31:04.384900+00:00",
-    "total": 75
+    "generated": "2026-06-27T08:37:06.720580+00:00",
+    "total": 90
   },
   "items": [
+    {
+      "id": "b2d1061fb03582",
+      "title": "Australian arrested after teenage girl's body found in Thailand",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugw8bl/australian_arrested_after_teenage_girls_body/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/Familiar-Ability6383 [link] [comments]",
+      "image": "https://external-preview.redd.it/lGnAQozQ_pEQFjRWD-m396vx9KXc14nA6S46CYy7fVo.jpeg?width=640&crop=smart&auto=webp&s=dde071bf701dde6a78b066f069b8ab7e105fd4f1",
+      "published": "2026-06-27T07:30:32+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48695694",
+      "title": "Is America Becoming a Gerontocracy?",
+      "url": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T06:22:45+00:00",
+      "score": 21,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "561a1d83dae595",
+      "title": "Defense plant in Volgograd hit by Flamingo missiles",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugu9ai/defense_plant_in_volgograd_hit_by_flamingo/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/modernbonaparte [link] [comments]",
+      "image": "https://external-preview.redd.it/Npsl6joQvrgo7I8Flx_IKz_FLdLqmZp8dBaRf0jGxwY.jpeg?width=640&crop=smart&auto=webp&s=12735773f7e84160d5fbd2a1e50072418e095613",
+      "published": "2026-06-27T05:40:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "88d82e7910a1b2",
+      "title": "Iranian army announces strikes against US forces in Middle East",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugu5oy/iranian_army_announces_strikes_against_us_forces/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/mark000 [link] [comments]",
+      "image": null,
+      "published": "2026-06-27T05:34:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48695363",
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T05:17:08+00:00",
+      "score": 19,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "hn-48695149",
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T04:31:06+00:00",
+      "score": 131,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "3faa3dfcabb6a0",
+      "title": "Scalpers are already selling the Steam Machine for over $3000 on eBay despite Valve's efforts",
+      "url": "https://www.reddit.com/r/technology/comments/1ugsote/scalpers_are_already_selling_the_steam_machine/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "image": null,
+      "published": "2026-06-27T04:18:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4a46f7b6e15d17",
+      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1584, Part 1 (Thread #1731)",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugse46/rworldnews_live_thread_russian_invasion_of/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/WorldNewsMods [link] [comments]",
+      "image": null,
+      "published": "2026-06-27T04:02:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "hn-48694853",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-27T03:30:01+00:00",
+      "score": 75,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "fcf33b3f93eff3",
+      "title": "US strikes Iran for first time since ceasefire agreement - and Tehran responds",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugqdjl/us_strikes_iran_for_first_time_since_ceasefire/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/Dexterestein [link] [comments]",
+      "image": "https://external-preview.redd.it/Zvtjv8VHSw1VA2obWcAYDyOtmarfIKzC3IPmJAdtFxY.jpeg?width=640&crop=smart&auto=webp&s=a71c1c28ed785cbd2d339cb7d5b10964ade65a6b",
+      "published": "2026-06-27T02:23:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d21786677b7248",
+      "title": "The KIDS Act Would Require Age Checks To Get Online",
+      "url": "https://www.reddit.com/r/technology/comments/1ugpf01/the_kids_act_would_require_age_checks_to_get/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Limp_Fig6236 [link] [comments]",
+      "image": "https://external-preview.redd.it/btKPTYaM99ZoIX6bzhPwD7yHlr3Dk0J21DhrFhfbLPo.png?width=640&crop=smart&auto=webp&s=8132c5f1d0a4bdadc3ebe60cd660b8f4a35d6a80",
+      "published": "2026-06-27T01:37:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7021c8f59ac71f",
+      "title": "Denmark plans nationwide ban on Islamic call to prayer, cites concerns over 'Islamisation'",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugowny/denmark_plans_nationwide_ban_on_islamic_call_to/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/Inevitable-Push-8061 [link] [comments]",
+      "image": "https://external-preview.redd.it/aTzwAmrTrMEyRghxgVsY4QvFbyN4Bkn4oykJTuUbCw4.jpeg?width=640&crop=smart&auto=webp&s=2ec79a7881011c81b28a20b04688be7578270fff",
+      "published": "2026-06-27T01:13:10+00:00",
+      "score": null,
+      "tags": []
+    },
     {
       "id": "b18057ca1428fe",
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
@@ -30,14 +182,14 @@
     },
     {
       "id": "hn-48693912",
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "title": "Show HN: Hacker News on a train station-style flip board",
       "url": "https://popflame.quickish.space/hn-flipboard/",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
       "published": "2026-06-27T00:43:39+00:00",
-      "score": 25,
+      "score": 66,
       "tags": [
         "hackernews"
       ]
@@ -55,6 +207,30 @@
       "tags": []
     },
     {
+      "id": "9e465872f44bc4",
+      "title": "Iran's IRGC says it targeted US positions after American strikes near Hormuz",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugo3np/irans_irgc_says_it_targeted_us_positions_after/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/aihumen [link] [comments]",
+      "image": "https://external-preview.redd.it/ii9WFoUBPBRBFWhhu-ALdBlkEazU6BAh6MYwiYvF4BI.png?width=320&crop=smart&auto=webp&s=84d04da3777e7c7931fde0d4435e484ef741e52a",
+      "published": "2026-06-27T00:35:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4f7138499b712c",
+      "title": "Epic’s Tim Sweeney Keeps Inventing Solutions To Problems That Are Already Solved",
+      "url": "https://www.reddit.com/r/technology/comments/1ugnuwq/epics_tim_sweeney_keeps_inventing_solutions_to/",
+      "source": "r/technology",
+      "category": "tech-ia",
+      "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "image": "https://external-preview.redd.it/ymzkxKAFI00nLXEB5TbWtuhbz6VkWuCCwwF4Uu2eyM0.jpeg?width=640&crop=smart&auto=webp&s=7847a6724bec7bc0c1de216c5a78111b4cb8c4a3",
+      "published": "2026-06-27T00:24:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "287e9179e398b2",
       "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
       "url": "https://www.reddit.com/r/technology/comments/1ugnt7x/oracle_stock_has_worst_week_since_2001_dotcom/",
@@ -67,20 +243,6 @@
       "tags": []
     },
     {
-      "id": "hn-48693391",
-      "title": "Om",
-      "url": "https://daringfireball.net/2026/06/om",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T23:33:46+00:00",
-      "score": 159,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "hn-48692995",
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
       "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
@@ -89,7 +251,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T22:48:28+00:00",
-      "score": 260,
+      "score": 413,
       "tags": [
         "hackernews"
       ]
@@ -103,7 +265,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T22:43:29+00:00",
-      "score": 126,
+      "score": 228,
       "tags": [
         "hackernews"
       ]
@@ -117,7 +279,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T22:36:51+00:00",
-      "score": 67,
+      "score": 114,
       "tags": [
         "hackernews"
       ]
@@ -183,46 +345,28 @@
       "tags": []
     },
     {
-      "id": "hn-48692090",
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T21:18:28+00:00",
-      "score": 71,
-      "tags": [
-        "hackernews"
-      ]
+      "id": "ae36644e5aaf0e",
+      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugjvjn/us_strikes_iran_after_trump_accuses_tehran_of/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/sapphirelike [link] [comments]",
+      "image": "https://external-preview.redd.it/v7EAM-epJO4Al8bbiKNr1czLvFQ4BgC0D8g6D8YJ_VA.png?width=640&crop=smart&auto=webp&s=1cace8352728d5686ba5073bc9027e2bec05d00d",
+      "published": "2026-06-26T21:38:21+00:00",
+      "score": null,
+      "tags": []
     },
     {
-      "id": "hn-48692058",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
+      "id": "f12862b50ea23a",
+      "title": "Supra Player",
+      "url": "https://www.producthunt.com/products/supra-player",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Compare & Sync Videos Fast Discussion | Link",
       "image": null,
-      "published": "2026-06-26T21:14:47+00:00",
-      "score": 136,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
-      "id": "hn-48692051",
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T21:13:50+00:00",
-      "score": 266,
-      "tags": [
-        "hackernews"
-      ]
+      "published": "2026-06-26T21:19:41+00:00",
+      "score": null,
+      "tags": []
     },
     {
       "id": "51805e0da53a28",
@@ -249,14 +393,26 @@
       "tags": []
     },
     {
-      "id": "ff03a9d9241f10",
-      "title": "Microsoft built supercomputer to help OpenAI infringe copyrights, NYT alleged",
-      "url": "https://www.reddit.com/r/technology/comments/1ughhaf/microsoft_built_supercomputer_to_help_openai/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-      "image": "https://external-preview.redd.it/KqteiOdNc07DupNyhHm9Q9TyJJdk8lm15ZVOH9fvtyc.jpeg?width=640&crop=smart&auto=webp&s=a00b23c8101880f1676760445a8d2a4f520b8a19",
-      "published": "2026-06-26T20:06:19+00:00",
+      "id": "bb087615a70ff2",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugij6f/us_conducts_strikes_on_iran_after_attack_on_cargo/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/Alarming-Safety3200 [link] [comments]",
+      "image": "https://external-preview.redd.it/TxmiDJuxnMHiA6O0oVptMeroUpsmG59h-haDXbDp2dw.png?width=640&crop=smart&auto=webp&s=96933db08674ae2a564240aa90abb97c9de620b0",
+      "published": "2026-06-26T20:46:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f3b38c65d0ed5d",
+      "title": "German lawyers: Ban on far-right AfD 'likely successful'",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugihx2/german_lawyers_ban_on_farright_afd_likely/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/Inevitable-Push-8061 [link] [comments]",
+      "image": "https://external-preview.redd.it/ufu0Mn5lmJmXXsaKKVU7vR_mebnAyjjpF9D-ccFrLOM.jpeg?width=640&crop=smart&auto=webp&s=5a3cef9a92374c70895b232c5734bfec091a981f",
+      "published": "2026-06-26T20:44:53+00:00",
       "score": null,
       "tags": []
     },
@@ -269,6 +425,18 @@
       "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-500x500-1782501951.jpg",
       "published": "2026-06-26T20:04:55+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ac7332c2a7a08e",
+      "title": "In Viral Post, Russian Veteran Warns Putin Of Mutiny, Then Walks Back Threat",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ugg5l7/in_viral_post_russian_veteran_warns_putin_of/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/Dramatic-Shake-8888 [link] [comments]",
+      "image": "https://external-preview.redd.it/24pZeG77B4NAI3t09wHAFrOOmjG6ms8nVq25NqXTi8E.jpeg?width=640&crop=smart&auto=webp&s=0bea0dbffd304380ce6c54926e26f1d439482d46",
+      "published": "2026-06-26T19:16:04+00:00",
       "score": null,
       "tags": []
     },
@@ -345,20 +513,6 @@
       "tags": []
     },
     {
-      "id": "hn-48690101",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-26T18:23:14+00:00",
-      "score": 876,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "4d06943a630493",
       "title": "Netflix now requires every user profile to be tied to unique email address",
       "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
@@ -427,7 +581,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-26T17:06:55+00:00",
-      "score": 881,
+      "score": 980,
       "tags": [
         "hackernews"
       ]
@@ -529,6 +683,18 @@
       "tags": []
     },
     {
+      "id": "e8c0e0014824e5",
+      "title": "Ukraine unleashes one of its heaviest drone bombardments of Russia",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ug886t/ukraine_unleashes_one_of_its_heaviest_drone/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/CTVNEWS [link] [comments]",
+      "image": "https://external-preview.redd.it/mIg9GtiWPEkhjhtWB0FR7X0CmCktnC50uMt74Y_SXgo.jpeg?width=640&crop=smart&auto=webp&s=8003e7333021923edbb8ee26e5014d82dd762cb7",
+      "published": "2026-06-26T14:21:42+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "932940c8b07427",
       "title": "‘No evidence’: Kevin O’Leary walks back claims that data center opposition is funded by China",
       "url": "https://www.reddit.com/r/technology/comments/1ug7skn/no_evidence_kevin_oleary_walks_back_claims_that/",
@@ -537,6 +703,18 @@
       "summary": "submitted by /u/Hrekires [link] [comments]",
       "image": "https://external-preview.redd.it/fnHcxK2BvxIMEsrzkslcGHXVlUWMbEIR_jst72Tiv8s.png?width=640&crop=smart&auto=webp&s=df4b117948cbad5bb8e4da4a44a9610b909063ca",
       "published": "2026-06-26T14:04:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3c534ed1748245",
+      "title": "Small aircraft crashes into Beijing’s tallest skyscraper",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ug6wzi/small_aircraft_crashes_into_beijings_tallest/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/cnn [link] [comments]",
+      "image": "https://external-preview.redd.it/C7UDoarJP0zyRzuOWmI52y0QnNSiRM3sPrbleVS-pRA.jpeg?width=640&crop=smart&auto=webp&s=b8c731ed46466f911930c093bb113b4fc78ab503",
+      "published": "2026-06-26T13:29:56+00:00",
       "score": null,
       "tags": []
     },
@@ -601,14 +779,14 @@
       "tags": []
     },
     {
-      "id": "5b8a3aa8785532",
-      "title": "Anthropic hires economist with interesting views on human survival — “It is optimal to take a 1 in 3 chance of ending human existence in exchange for a 2/3 chance of dramatically raising living standards by a factor of 55”: Chad Jones",
-      "url": "https://www.reddit.com/r/technology/comments/1ug543j/anthropic_hires_economist_with_interesting_views/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/marketrent [link] [comments]",
-      "image": "https://external-preview.redd.it/lGCCkl_iK4G8gM3Las2MnTPOHPx1KbBSLwT34o7Uny0.png?width=640&crop=smart&auto=webp&s=96ddb761300d16f21871fdac0793847b63c64a3a",
-      "published": "2026-06-26T12:13:45+00:00",
+      "id": "064fdb0622e3e1",
+      "title": "State of Emergency Declared in Occupied Crimea by Russian-Installed Authorities",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ug4ow2/state_of_emergency_declared_in_occupied_crimea_by/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "submitted by /u/UNITED24Media [link] [comments]",
+      "image": "https://external-preview.redd.it/QDITGDc50xBFq9eaTBoWMEdxzcwcdmKR8ajZWJ-DqRs.jpeg?width=640&crop=smart&auto=webp&s=da8a05b3506b757e0354a2ccaf68cce298675763",
+      "published": "2026-06-26T11:54:41+00:00",
       "score": null,
       "tags": []
     },
@@ -621,18 +799,6 @@
       "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
       "image": null,
       "published": "2026-06-26T11:50:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7c97309081312a",
-      "title": "Ocasio-Cortez and Sanders introduce AI Data Center Moratorium Act",
-      "url": "https://www.reddit.com/r/technology/comments/1ug47yl/ocasiocortez_and_sanders_introduce_ai_data_center/",
-      "source": "r/technology",
-      "category": "tech-ia",
-      "summary": "submitted by /u/Wagamaga [link] [comments]",
-      "image": "https://external-preview.redd.it/Ni-I356vEOKggpEt8rZmwueMax3JnWi6Xxc8A0JO07s.jpeg?width=640&crop=smart&auto=webp&s=63ac81a4fee53bd02948bdb014c5dd90e5c261a6",
-      "published": "2026-06-26T11:31:19+00:00",
       "score": null,
       "tags": []
     },
@@ -661,26 +827,14 @@
       "tags": []
     },
     {
-      "id": "edd0f2ce2f8a92",
-      "title": "Basedash for Excel",
-      "url": "https://www.producthunt.com/products/basedash",
+      "id": "cb2b01ea035784",
+      "title": "RetroMac",
+      "url": "https://www.producthunt.com/products/retromac",
       "source": "Product Hunt",
       "category": "startup",
-      "summary": "Turn any Excel file into a live dashboard Discussion | Link",
+      "summary": "Turn your Mac into a time machine. Discussion | Link",
       "image": null,
-      "published": "2026-06-26T04:15:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "10b93a23487760",
-      "title": "Group Subscriptions by beehiiv",
-      "url": "https://www.producthunt.com/products/beehiiv",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "Sell subscriptions to teams, companies, and organizations. Discussion | Link",
-      "image": null,
-      "published": "2026-06-26T01:59:59+00:00",
+      "published": "2026-06-26T04:24:48+00:00",
       "score": null,
       "tags": []
     },
@@ -721,6 +875,18 @@
       "tags": []
     },
     {
+      "id": "fc266d1a661855",
+      "title": "Folio AI",
+      "url": "https://www.producthunt.com/products/folio-ai",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Claude for PowerPoint, on steroids Discussion | Link",
+      "image": null,
+      "published": "2026-06-25T20:15:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "ebdefb1fdc36a3",
       "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
@@ -733,15 +899,15 @@
       "tags": []
     },
     {
-      "id": "hn-48673115",
-      "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+      "id": "hn-48677564",
+      "title": "Long Wave radio era set to end with switch-off",
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-25T13:32:12+00:00",
-      "score": 31,
+      "published": "2026-06-25T18:42:17+00:00",
+      "score": 11,
       "tags": [
         "hackernews"
       ]
@@ -771,16 +937,18 @@
       "tags": []
     },
     {
-      "id": "805f9a66250f17",
-      "title": "Gemini Spark",
-      "url": "https://www.producthunt.com/products/gemini-spark",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "Your 24/7 personal AI agent Discussion | Link",
+      "id": "hn-48668747",
+      "title": "Linux on Older Hardware: The Complete Revival Guide",
+      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
       "image": null,
-      "published": "2026-06-25T05:47:05+00:00",
-      "score": null,
-      "tags": []
+      "published": "2026-06-25T04:06:29+00:00",
+      "score": 15,
+      "tags": [
+        "hackernews"
+      ]
     },
     {
       "id": "6328955fca1da1",
@@ -795,18 +963,44 @@
       "tags": []
     },
     {
-      "id": "hn-48662988",
-      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-      "url": "https://github.com/dbos-inc/dbosify-py",
+      "id": "hn-48658148",
+      "title": "Fusion Programming Language",
+      "url": "https://fusion-lang.org/",
       "source": "Hacker News",
       "category": "tech-ia",
       "summary": "",
       "image": null,
-      "published": "2026-06-24T17:20:48+00:00",
-      "score": 32,
+      "published": "2026-06-24T11:27:07+00:00",
+      "score": 61,
       "tags": [
         "hackernews"
       ]
+    },
+    {
+      "id": "hn-48656982",
+      "title": "SCC Technical Assistance Program",
+      "url": "https://nerocam.com/scc_tap.asp",
+      "source": "Hacker News",
+      "category": "tech-ia",
+      "summary": "",
+      "image": null,
+      "published": "2026-06-24T08:46:04+00:00",
+      "score": 13,
+      "tags": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "beac9ebb46c00e",
+      "title": "Nada",
+      "url": "https://www.producthunt.com/products/nada-2",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Compose music with just your voice Discussion | Link",
+      "image": null,
+      "published": "2026-06-24T07:54:20+00:00",
+      "score": null,
+      "tags": []
     },
     {
       "id": "1c7252c2df24b7",
@@ -821,20 +1015,6 @@
       "tags": []
     },
     {
-      "id": "hn-48643661",
-      "title": "Making Sense of Proof by Contradiction [pdf]",
-      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-      "source": "Hacker News",
-      "category": "tech-ia",
-      "summary": "",
-      "image": null,
-      "published": "2026-06-23T12:00:13+00:00",
-      "score": 13,
-      "tags": [
-        "hackernews"
-      ]
-    },
-    {
       "id": "hn-48642510",
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
@@ -843,7 +1023,7 @@
       "summary": "",
       "image": null,
       "published": "2026-06-23T09:39:35+00:00",
-      "score": 279,
+      "score": 323,
       "tags": [
         "hackernews"
       ]
@@ -857,10 +1037,22 @@
       "summary": "",
       "image": null,
       "published": "2026-06-22T18:17:20+00:00",
-      "score": 9,
+      "score": 51,
       "tags": [
         "hackernews"
       ]
+    },
+    {
+      "id": "0f300b70d5d85a",
+      "title": "Cloud World Model",
+      "url": "https://www.producthunt.com/products/cloud-world-model",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "Simulate AWS, GCP & DigitalOcean without paying the bill Discussion | Link",
+      "image": null,
+      "published": "2026-06-21T13:48:25+00:00",
+      "score": null,
+      "tags": []
     },
     {
       "id": "5b027996de51ed",
@@ -875,50 +1067,14 @@
       "tags": []
     },
     {
-      "id": "68208110dfaea5",
-      "title": "Atlas",
-      "url": "https://www.producthunt.com/products/nanonets",
+      "id": "3ceef3c7d7b656",
+      "title": "QApilot's CoWork",
+      "url": "https://www.producthunt.com/products/qapilot",
       "source": "Product Hunt",
       "category": "startup",
-      "summary": "Every AI tool you use should know how your company works Discussion | Link",
+      "summary": "3x Mobile Automation. Same QE Team. Discussion | Link",
       "image": null,
-      "published": "2026-06-19T14:21:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1c55588f4b586c",
-      "title": "DMV by Agent Community",
-      "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "A community-governed namespace for AI agents Discussion | Link",
-      "image": null,
-      "published": "2026-06-18T19:14:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "60fbd805063969",
-      "title": "Agent Arena",
-      "url": "https://www.producthunt.com/products/agent-arena",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "The first public arena for AI agents Discussion | Link",
-      "image": null,
-      "published": "2026-06-16T16:16:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4488da4054e294",
-      "title": "SquidHub",
-      "url": "https://www.producthunt.com/products/squidhub",
-      "source": "Product Hunt",
-      "category": "startup",
-      "summary": "Multiplayer mode for humans and AI Discussion | Link",
-      "image": null,
-      "published": "2026-06-16T13:38:17+00:00",
+      "published": "2026-06-17T21:40:16+00:00",
       "score": null,
       "tags": []
     },
@@ -931,6 +1087,30 @@
       "summary": "AI workspace that’s already connected to everything Discussion | Link",
       "image": null,
       "published": "2026-06-14T12:41:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0ae50013420044",
+      "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #19)",
+      "url": "https://www.reddit.com/r/worldnews/comments/1u39jcq/rworldnews_discussion_thread_us_and_israel_launch/",
+      "source": "r/worldnews",
+      "category": "geopolitica",
+      "summary": "If you see any newsworthy information from a major news outlet or live broadcast, feel free to share a brief summary as a top-level comment in the discussion post. Other redditors will appreciate if you include the sourc…",
+      "image": null,
+      "published": "2026-06-11T19:52:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "48f40161af5c50",
+      "title": "Epilogue. Write novels, scripts & poetry",
+      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
+      "source": "Product Hunt",
+      "category": "startup",
+      "summary": "The professional book writing app built for serious authors Discussion | Link",
+      "image": null,
+      "published": "2026-05-26T12:25:59+00:00",
       "score": null,
       "tags": []
     }

@@ -450,8 +450,6 @@
     <button class="tab" data-cat="academia"><i class="fas fa-book-open"></i> Academia</button>
     <button class="tab" data-cat="coaching"><i class="fas fa-briefcase"></i> Coaching</button>
     <button class="tab" data-cat="psicologia"><i class="fas fa-brain"></i> Psicología</button>
-    <button class="tab" data-cat="juegos"><i class="fas fa-chess"></i> Juegos</button>
-    <button class="tab" data-cat="geopolitica"><i class="fas fa-globe"></i> Geopolítica</button>
     <button class="tab" data-cat="startup"><i class="fas fa-rocket"></i> Startups</button>
     <div id="search-wrap">
         <i class="fas fa-search"></i>
@@ -528,8 +526,6 @@ const CATS = {
     academia:     { label:'Academia',       color:'#5C3A6B', icon:'fa-book-open',     grad:'linear-gradient(135deg,#3B1F4C,#5C3A6B)' },
     coaching:     { label:'Coaching',       color:'#E67E22', icon:'fa-briefcase',     grad:'linear-gradient(135deg,#E65100,#E67E22)' },
     psicologia:   { label:'Psicología',     color:'#8E44AD', icon:'fa-brain',         grad:'linear-gradient(135deg,#4A148C,#8E44AD)' },
-    juegos:       { label:'Juegos',         color:'#B7950B', icon:'fa-chess',         grad:'linear-gradient(135deg,#827717,#B7950B)' },
-    geopolitica:  { label:'Geopolítica',    color:'#1A5276', icon:'fa-globe',         grad:'linear-gradient(135deg,#0D47A1,#1A5276)' },
     startup:      { label:'Startups',       color:'#117A65', icon:'fa-rocket',        grad:'linear-gradient(135deg,#004D40,#117A65)' },
     archivos:     { label:'Mis Archivos',   color:'#0078D4', icon:'fa-folder-open',   grad:'linear-gradient(135deg,#003F7F,#0078D4)' },
 };
@@ -1188,29 +1184,7 @@ function demoItems() {
           summary:'Revisión de la evidencia científica detrás de ACT y cómo los docentes pueden aplicarla.',
           image:cb('psyciencia.com') },
 
-        /* ══ JUEGOS ═════════════════════════════════════════════════════════ */
-        { id:'d4',  category:'juegos', isLogo:true,
-          title:'Wingspan y los juegos cooperativos como herramienta de Team Building',
-          url:'https://boardgamegeek.com', source:'BoardGameGeek', published:n(4),
-          summary:'40 estudios muestran cómo los juegos de mesa mejoran la cohesión de equipo.',
-          image:cb('boardgamegeek.com') },
-        { id:'d10', category:'juegos', isLogo:true,
-          title:'Pandemic Legacy S3: Mecánicas cooperativas y su transferencia al liderazgo real',
-          url:'https://boardgamegeek.com', source:'BoardGameGeek', published:n(10),
-          summary:'Cómo este juego entrena decisión colaborativa y comunicación bajo crisis.',
-          image:cb('boardgamegeek.com') },
-
         /* ══ GEOPOLÍTICA ════════════════════════════════════════════════════ */
-        { id:'d5',  category:'geopolitica', isLogo:true,
-          title:'China vs. EEUU en IA: El mapa geopolítico que redefinirá alianzas antes de 2030',
-          url:'https://reddit.com/r/geopolitics', source:'r/geopolitics', published:n(5), score:920,
-          summary:'Análisis del ecosistema tecnológico que reconfigura relaciones internacionales.',
-          image:cb('reddit.com') },
-        { id:'d13', category:'geopolitica', isLogo:true,
-          title:'Geopolítica del litio: Por qué LATAM es clave en la transición energética global',
-          url:'https://reddit.com/r/Futurology', source:'r/Futurology', published:n(16), score:1450,
-          summary:'Chile, Argentina y Bolivia concentran el 60% de las reservas mundiales.',
-          image:cb('reddit.com') },
 
         /* ══ STARTUPS ═══════════════════════════════════════════════════════ */
         { id:'d9',  category:'startup', isLogo:true,

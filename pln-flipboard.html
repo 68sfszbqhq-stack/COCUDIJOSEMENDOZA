@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js"></script>
+    <!-- Firebase compat (mismo proyecto que PLN Cultura Digital) -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
     <style>
         /* ── VARIABLES ── */
         :root {
@@ -419,6 +422,116 @@
             #r-body { padding: 20px 18px 36px; }
             #r-title { font-size: 1.3rem; }
         }
+
+        /* ══════════════════════════════════
+           ADMIN PANEL
+        ══════════════════════════════════ */
+        #admin-fab {
+            position: fixed; bottom: 24px; left: 20px; z-index: 400;
+            background: #1a1a2e; color: white; border: none;
+            width: 50px; height: 50px; border-radius: 50%; font-size: 1.1rem;
+            cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+            transition: all 0.2s; display: flex; align-items: center; justify-content: center;
+        }
+        #admin-fab:hover { transform: scale(1.1); background: #16213e; }
+        #admin-fab.active-admin { background: var(--red); }
+
+        #admin-overlay {
+            display: none; position: fixed; inset: 0; z-index: 800;
+            background: rgba(0,0,0,0.55);
+            backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
+        }
+        #admin-overlay.open { display: block; }
+
+        #admin-panel {
+            position: fixed; bottom: 0; left: 0; right: 0; z-index: 850;
+            max-height: 92vh; overflow-y: auto;
+            background: white; border-radius: 24px 24px 0 0;
+            box-shadow: 0 -8px 40px rgba(0,0,0,0.22);
+            transform: translateY(100%);
+            transition: transform 0.35s cubic-bezier(0.4,0,0.2,1);
+            padding: 0 0 40px;
+        }
+        #admin-panel.open { transform: translateY(0); }
+
+        .ap-handle {
+            width: 44px; height: 4px; background: #ddd; border-radius: 2px;
+            margin: 14px auto 0;
+        }
+        .ap-header {
+            padding: 18px 24px 16px;
+            border-bottom: 1.5px solid #f0f0f0;
+            display: flex; align-items: center; justify-content: space-between;
+        }
+        .ap-title {
+            font-size: 1.05rem; font-weight: 900; color: #111;
+            display: flex; align-items: center; gap: 8px;
+        }
+        .ap-close {
+            background: #f3f4f6; border: none; width: 34px; height: 34px;
+            border-radius: 50%; cursor: pointer; font-size: 0.9rem; color: #555;
+            display: flex; align-items: center; justify-content: center;
+            transition: background 0.18s;
+        }
+        .ap-close:hover { background: #e5e7eb; }
+
+        .ap-body { padding: 20px 24px; }
+
+        .ap-section-title {
+            font-size: 0.72rem; font-weight: 900; text-transform: uppercase;
+            letter-spacing: 0.08em; color: #888; margin: 0 0 12px;
+        }
+        .ap-field { margin-bottom: 14px; }
+        .ap-label {
+            display: block; font-size: 0.72rem; font-weight: 700;
+            color: #444; margin-bottom: 5px;
+        }
+        .ap-input {
+            width: 100%; padding: 10px 14px;
+            border: 1.5px solid #e5e7eb; border-radius: 10px;
+            font-size: 0.83rem; font-family: 'Inter', sans-serif;
+            outline: none; transition: border-color 0.2s; background: white;
+        }
+        .ap-input:focus { border-color: var(--red); }
+        .ap-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+        .ap-btn {
+            display: inline-flex; align-items: center; gap: 7px;
+            padding: 10px 20px; border-radius: 10px; border: none;
+            font-size: 0.82rem; font-weight: 800; cursor: pointer;
+            transition: all 0.18s; font-family: 'Inter', sans-serif;
+        }
+        .ap-btn-primary { background: var(--red); color: white; }
+        .ap-btn-primary:hover { background: var(--red-dark); transform: translateY(-1px); }
+        .ap-btn-ghost { background: #f3f4f6; color: #444; }
+        .ap-btn-ghost:hover { background: #e5e7eb; }
+
+        .ap-divider { height: 1px; background: #f0f0f0; margin: 24px 0; }
+
+        .ap-custom-item {
+            display: flex; align-items: flex-start; gap: 12px;
+            background: #fafafa; border: 1px solid #eee; border-radius: 12px;
+            padding: 12px 14px; margin-bottom: 8px;
+        }
+        .ap-custom-item-body { flex: 1; min-width: 0; }
+        .ap-custom-item-title {
+            font-size: 0.82rem; font-weight: 700; color: #111;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .ap-custom-item-meta { font-size: 0.7rem; color: #888; margin-top: 2px; }
+        .ap-del-btn {
+            background: #fee2e2; border: none; color: #dc2626;
+            padding: 5px 10px; border-radius: 8px; font-size: 0.7rem;
+            font-weight: 800; cursor: pointer; flex-shrink: 0;
+            transition: background 0.15s; font-family: 'Inter', sans-serif;
+        }
+        .ap-del-btn:hover { background: #dc2626; color: white; }
+        .ap-empty { font-size: 0.8rem; color: #bbb; text-align: center; padding: 20px 0; }
+
+        .ap-cat-badge {
+            display: inline-block; font-size: 0.58rem; font-weight: 900;
+            text-transform: uppercase; letter-spacing: 0.08em;
+            padding: 2px 7px; border-radius: 4px; color: white; margin-right: 4px;
+        }
     </style>
 </head>
 <body>
@@ -510,9 +623,107 @@
 </div>
 
 <button id="fab" onclick="refresh()" title="Actualizar"><i class="fas fa-sync-alt"></i></button>
+<button id="admin-fab" onclick="toggleAdmin()" title="Panel Docente — Agregar tarjeta">
+    <i class="fas fa-plus"></i>
+</button>
 <div id="toast"></div>
 
+<!-- ════════════════════════════════════
+     ADMIN PANEL — PANEL DOCENTE
+════════════════════════════════════ -->
+<div id="admin-overlay" onclick="closeAdmin()"></div>
+<div id="admin-panel" role="dialog" aria-modal="true" aria-label="Panel Docente">
+    <div class="ap-handle"></div>
+    <div class="ap-header">
+        <div class="ap-title">
+            <i class="fas fa-plus-circle" style="color:var(--red)"></i>
+            Panel Docente — Agregar Tarjeta
+        </div>
+        <button class="ap-close" onclick="closeAdmin()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="ap-body">
+
+        <!-- FORMULARIO AGREGAR -->
+        <p class="ap-section-title"><i class="fas fa-plus"></i> Nueva tarjeta</p>
+
+        <div class="ap-row">
+            <div class="ap-field">
+                <label class="ap-label">Categoría</label>
+                <select id="ap-cat" class="ap-input" onchange="refreshCustomList()">
+                    <option value="tech-ia">Tech / IA</option>
+                    <option value="educacion">Educación</option>
+                    <option value="academia">Academia</option>
+                    <option value="coaching">Coaching</option>
+                    <option value="psicologia">Psicología</option>
+                    <option value="startup">Startups</option>
+                    <option value="proyectos">Mis Proyectos</option>
+                    <option value="archivos">Mis Archivos</option>
+                </select>
+            </div>
+            <div class="ap-field">
+                <label class="ap-label">Fuente</label>
+                <input type="text" id="ap-source" class="ap-input" placeholder="ej. YouTube, Platzi, Blog">
+            </div>
+        </div>
+
+        <div class="ap-field">
+            <label class="ap-label">Título de la tarjeta</label>
+            <input type="text" id="ap-title" class="ap-input" placeholder="ej. midudev — React 19 desde cero">
+        </div>
+
+        <div class="ap-field">
+            <label class="ap-label">URL</label>
+            <input type="url" id="ap-url" class="ap-input" placeholder="https://...">
+        </div>
+
+        <div class="ap-field">
+            <label class="ap-label">Resumen breve (opcional)</label>
+            <textarea id="ap-summary" class="ap-input" rows="2"
+                placeholder="Una línea describiendo de qué trata el recurso."></textarea>
+        </div>
+
+        <div class="ap-field" style="display:flex;align-items:center;gap:10px;">
+            <input type="checkbox" id="ap-direct" style="width:16px;height:16px;accent-color:var(--red);">
+            <label for="ap-direct" class="ap-label" style="margin:0;cursor:pointer;">
+                Abrir directamente (sin lector — para carpetas OneDrive, apps, etc.)
+            </label>
+        </div>
+
+        <div style="display:flex;gap:10px;margin-top:4px;">
+            <button class="ap-btn ap-btn-primary" onclick="addCustomCard()">
+                <i class="fas fa-plus"></i> Agregar tarjeta
+            </button>
+            <button class="ap-btn ap-btn-ghost" onclick="clearAdminForm()">
+                <i class="fas fa-eraser"></i> Limpiar
+            </button>
+        </div>
+
+        <div class="ap-divider"></div>
+
+        <!-- TARJETAS PERSONALIZADAS EXISTENTES -->
+        <p class="ap-section-title"><i class="fas fa-list"></i> Tarjetas personalizadas en esta categoría</p>
+        <div id="ap-custom-list">
+            <p class="ap-empty">Cargando...</p>
+        </div>
+
+    </div>
+</div>
+
 <script>
+// ════════════════════════════════════════════════
+// FIREBASE — mismo proyecto que PLN Cultura Digital
+// ════════════════════════════════════════════════
+const _fbConfig = {
+    projectId:         'cocudijosemendoza',
+    appId:             '1:538290327743:web:bff2b69b020184a181360a',
+    storageBucket:     'cocudijosemendoza.firebasestorage.app',
+    apiKey:            'AIzaSyBOID4njPzWTq-32BBzhQVWM3RRQp7izbI',
+    authDomain:        'cocudijosemendoza.firebaseapp.com',
+    messagingSenderId: '538290327743'
+};
+firebase.initializeApp(_fbConfig);
+const db = firebase.firestore();
+
 // ════════════════════════════════════════════════
 // CONFIG
 // ════════════════════════════════════════════════
@@ -534,9 +745,30 @@ const CATS = {
 // ════════════════════════════════════════════════
 // STATE
 // ════════════════════════════════════════════════
-let allItems = [];
-let activeCat = 'parati';
-let query = '';
+let allItems    = [];
+let customItems = [];   // tarjetas agregadas por el docente (Firebase)
+let activeCat   = 'parati';
+let query       = '';
+
+// ════════════════════════════════════════════════
+// FIREBASE — cargar tarjetas personalizadas
+// ════════════════════════════════════════════════
+async function loadCustomItems() {
+    try {
+        const snap = await db.collection('feed_custom_items')
+                             .orderBy('published', 'desc')
+                             .get();
+        customItems = [];
+        snap.forEach(doc => {
+            const d = doc.data();
+            if (!d.deleted) customItems.push({ ...d, _docId: doc.id });
+        });
+    } catch(e) {
+        console.warn('Firebase feed_custom_items:', e.message);
+        customItems = [];
+    }
+    return customItems;
+}
 
 // ════════════════════════════════════════════════
 // LOAD
@@ -544,19 +776,24 @@ let query = '';
 async function loadFeeds() {
     showSkeleton();
     try {
-        const r = await fetch(FEEDS_URL + '?t=' + Date.now());
-        if (!r.ok) throw new Error();
-        const data = await r.json();
-        // Curado en español primero; noticias en vivo al final
-        const demo    = demoItems();
-        const demoIds = new Set(demo.map(d => d.id));
-        const live    = (data.items || []).filter(i => !demoIds.has(i.id));
-        allItems = [...demo, ...live];
+        const [feedResp] = await Promise.all([
+            fetch(FEEDS_URL + '?t=' + Date.now()),
+            loadCustomItems()
+        ]);
+        if (!feedResp.ok) throw new Error();
+        const data = await feedResp.json();
+
+        // Orden de prioridad: personalizadas > curadas > en vivo
+        const demo     = demoItems();
+        const knownIds = new Set([...customItems.map(i => i.id), ...demo.map(d => d.id)]);
+        const live     = (data.items || []).filter(i => !knownIds.has(i.id));
+        allItems = [...customItems, ...demo, ...live];
         if (!allItems.length) throw new Error();
         toast(`${allItems.length} tarjetas cargadas`);
     } catch {
-        allItems = demoItems();
-        toast('Mostrando fuentes curadas · Ejecuta fetch_feeds.py para noticias en vivo');
+        await loadCustomItems();
+        allItems = [...customItems, ...demoItems()];
+        toast('Fuentes curadas · Ejecuta fetch_feeds.py para noticias en vivo');
     }
     flipRender();
 }
@@ -808,6 +1045,12 @@ document.querySelectorAll('.tab').forEach(t => {
         t.classList.add('active');
         activeCat = t.dataset.cat;
         flipRender();
+        // Sincronizar categoría del panel admin con la pestaña activa
+        const apCat = document.getElementById('ap-cat');
+        if (apCat && activeCat !== 'parati' && activeCat !== 'all') {
+            apCat.value = activeCat;
+            refreshCustomList();
+        }
     });
 });
 
@@ -827,7 +1070,7 @@ async function refresh() {
     fab.classList.remove('spin');
 }
 
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeReader(); });
+// (Escape handler unificado más abajo junto con closeAdmin)
 document.getElementById('modal').addEventListener('click', e => {
     if (e.target === document.getElementById('modal')) closeReader();
 });
@@ -1274,6 +1517,155 @@ function demoItems() {
           image:cb('microsoft.com') },
     ];
 }
+
+// ════════════════════════════════════════════════
+// ADMIN PANEL
+// ════════════════════════════════════════════════
+const ADMIN_PASS = 'ClaveDocente2026';
+
+function toggleAdmin() {
+    const panel   = document.getElementById('admin-panel');
+    const overlay = document.getElementById('admin-overlay');
+    const fab     = document.getElementById('admin-fab');
+    const isOpen  = panel.classList.contains('open');
+    if (isOpen) {
+        closeAdmin();
+    } else {
+        // Sincronizar categoría con la pestaña activa
+        const apCat = document.getElementById('ap-cat');
+        if (apCat && activeCat !== 'parati' && activeCat !== 'all') {
+            apCat.value = activeCat;
+        }
+        panel.classList.add('open');
+        overlay.classList.add('open');
+        fab.classList.add('active-admin');
+        fab.innerHTML = '<i class="fas fa-times"></i>';
+        refreshCustomList();
+    }
+}
+
+function closeAdmin() {
+    document.getElementById('admin-panel').classList.remove('open');
+    document.getElementById('admin-overlay').classList.remove('open');
+    const fab = document.getElementById('admin-fab');
+    fab.classList.remove('active-admin');
+    fab.innerHTML = '<i class="fas fa-plus"></i>';
+}
+
+function clearAdminForm() {
+    ['ap-title','ap-url','ap-source','ap-summary'].forEach(id => {
+        document.getElementById(id).value = '';
+    });
+    document.getElementById('ap-direct').checked = false;
+}
+
+async function addCustomCard() {
+    const title   = document.getElementById('ap-title').value.trim();
+    const url     = document.getElementById('ap-url').value.trim();
+    const source  = document.getElementById('ap-source').value.trim();
+    const summary = document.getElementById('ap-summary').value.trim();
+    const cat     = document.getElementById('ap-cat').value;
+    const direct  = document.getElementById('ap-direct').checked;
+
+    if (!title || !url) {
+        alert('El título y la URL son obligatorios.');
+        return;
+    }
+
+    const pass = prompt('🔑 Introduce la Clave Docente para guardar:');
+    if (!pass) return;
+    if (pass !== ADMIN_PASS) {
+        alert('❌ Clave incorrecta. No se guardaron cambios.');
+        return;
+    }
+
+    const newItem = {
+        id:        'custom-' + Date.now(),
+        title,
+        url,
+        source:    source || 'Recurso docente',
+        category:  cat,
+        summary:   summary || '',
+        image:     null,
+        published: new Date().toISOString(),
+        direct:    direct,
+        isLogo:    false,
+        deleted:   false,
+        _custom:   true,
+    };
+
+    try {
+        const docRef = await db.collection('feed_custom_items').add(newItem);
+        newItem._docId = docRef.id;
+        customItems.unshift(newItem);
+        allItems.unshift(newItem);
+        clearAdminForm();
+        refreshCustomList();
+        flipRender();
+        toast(`✅ "${title}" agregada a ${CATS[cat]?.label || cat}`);
+    } catch(e) {
+        console.error(e);
+        alert('Error al guardar en Firebase: ' + e.message);
+    }
+}
+
+async function deleteCustomCard(docId, itemId) {
+    const item = customItems.find(i => i._docId === docId);
+    if (!confirm(`¿Eliminar "${item?.title || 'esta tarjeta'}"?`)) return;
+
+    const pass = prompt('🔑 Introduce la Clave Docente para confirmar:');
+    if (!pass) return;
+    if (pass !== ADMIN_PASS) {
+        alert('❌ Clave incorrecta.');
+        return;
+    }
+
+    try {
+        await db.collection('feed_custom_items').doc(docId).update({ deleted: true });
+        customItems = customItems.filter(i => i._docId !== docId);
+        allItems    = allItems.filter(i => i.id !== itemId);
+        refreshCustomList();
+        flipRender();
+        toast('🗑 Tarjeta eliminada');
+    } catch(e) {
+        console.error(e);
+        alert('Error al eliminar: ' + e.message);
+    }
+}
+
+function refreshCustomList() {
+    const cat       = document.getElementById('ap-cat')?.value;
+    const container = document.getElementById('ap-custom-list');
+    if (!container) return;
+
+    const filtered = customItems.filter(i => i.category === cat);
+    if (!filtered.length) {
+        container.innerHTML = '<p class="ap-empty">No hay tarjetas personalizadas en esta categoría aún.</p>';
+        return;
+    }
+
+    const catCfg = CATS[cat] || CATS['tech-ia'];
+    container.innerHTML = filtered.map(item => `
+        <div class="ap-custom-item">
+            <div class="ap-custom-item-body">
+                <span class="ap-cat-badge" style="background:${catCfg.color}">${catCfg.label}</span>
+                <div class="ap-custom-item-title">${eh(item.title)}</div>
+                <div class="ap-custom-item-meta">${eh(item.source)} · ${timeAgo(item.published)}</div>
+            </div>
+            <button class="ap-del-btn" onclick="deleteCustomCard('${item._docId}','${item.id}')">
+                ✕ Quitar
+            </button>
+        </div>
+    `).join('');
+}
+
+// Cerrar panel con Escape
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+        closeReader();
+        closeAdmin();
+    }
+});
 
 // ════════════════════════════════════════════════
 // INIT

@@ -451,6 +451,7 @@
     <button class="tab" data-cat="coaching"><i class="fas fa-briefcase"></i> Coaching</button>
     <button class="tab" data-cat="psicologia"><i class="fas fa-brain"></i> Psicología</button>
     <button class="tab" data-cat="startup"><i class="fas fa-rocket"></i> Startups</button>
+    <button class="tab" data-cat="archivos"><i class="fas fa-folder-open"></i> Mis Archivos</button>
     <div id="search-wrap">
         <i class="fas fa-search"></i>
         <input type="text" id="search-input" placeholder="Buscar...">
@@ -546,9 +547,11 @@ async function loadFeeds() {
         const r = await fetch(FEEDS_URL + '?t=' + Date.now());
         if (!r.ok) throw new Error();
         const data = await r.json();
-        allItems = (data.items || []);
-        const ids = new Set(allItems.map(i => i.id));
-        demoItems().forEach(d => { if (!ids.has(d.id)) allItems.push(d); });
+        // Curado en español primero; noticias en vivo al final
+        const demo    = demoItems();
+        const demoIds = new Set(demo.map(d => d.id));
+        const live    = (data.items || []).filter(i => !demoIds.has(i.id));
+        allItems = [...demo, ...live];
         if (!allItems.length) throw new Error();
         toast(`${allItems.length} tarjetas cargadas`);
     } catch {

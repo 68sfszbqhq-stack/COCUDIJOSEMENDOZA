@@ -31,59 +31,43 @@ from bs4 import BeautifulSoup
 # ════════════════════════════════════════════════════════════════
 SOURCES = {
 
+    # ── TECH / IA — medios y blogs 100% en español ──────────────────
     'tech-ia': [
-        # Hacker News via hnrss.org (más limpio que el API directa)
-        {'name': 'Hacker News',        'url': 'https://hnrss.org/frontpage?count=25&points=100'},
-        {'name': 'Ars Technica',       'url': 'https://feeds.arstechnica.com/arstechnica/index'},
-        {'name': 'TechCrunch',         'url': 'https://techcrunch.com/feed/'},
-        {'name': 'r/technology',       'url': 'https://www.reddit.com/r/technology/.rss'},
-        {'name': 'r/artificial',       'url': 'https://www.reddit.com/r/artificial/.rss'},
-        {'name': 'r/MachineLearning',  'url': 'https://www.reddit.com/r/MachineLearning/.rss'},
-        # Descomenta si quieres el blog de Platzi (verificar URL vigente)
-        # {'name': 'Platzi Blog', 'url': 'https://platzi.com/blog/feed/'},
+        {'name': 'Xataka',             'url': 'https://feeds.weblogssl.com/xataka2'},
+        {'name': 'Hipertextual',       'url': 'https://hipertextual.com/feed'},
+        {'name': 'Genbeta',            'url': 'https://feeds.weblogssl.com/genbeta'},
+        {'name': 'FayerWayer',         'url': 'https://www.fayerwayer.com/feed/'},
+        {'name': 'Muycomputer',        'url': 'https://www.muycomputer.com/feed/'},
+        {'name': 'Platzi Blog',        'url': 'https://platzi.com/blog/feed/'},
     ],
 
+    # ── EDUCACIÓN ────────────────────────────────────────────────────
     'educacion': [
-        {'name': 'r/edtech',           'url': 'https://www.reddit.com/r/edtech/.rss'},
-        {'name': 'r/Futurology',       'url': 'https://www.reddit.com/r/Futurology/.rss'},
-        # Medium — perfil Freddy Vega (si tiene publicaciones):
-        # {'name': 'Freddy Vega Medium', 'url': 'https://medium.com/feed/@freddyvega'},
-        # Substack — agrega newsletters que sigas:
-        # {'name': 'Newsletter X',      'url': 'https://nombre.substack.com/feed'},
+        {'name': 'Educación 3.0',      'url': 'https://www.educaciontrespuntocero.com/feed/'},
+        {'name': 'Observatorio Tec',   'url': 'https://observatorio.tec.mx/rss'},
+        {'name': 'INTEF',              'url': 'https://intef.es/feed/'},
+        {'name': 'Tiching Blog',       'url': 'https://blog.tiching.com/feed/'},
     ],
 
+    # ── COACHING / LIDERAZGO ─────────────────────────────────────────
     'coaching': [
-        {'name': 'Harvard Business Review', 'url': 'https://feeds.hbr.org/harvardbusiness'},
-        {'name': 'r/Leadership',            'url': 'https://www.reddit.com/r/Leadership/.rss'},
-        {'name': 'r/Entrepreneur',          'url': 'https://www.reddit.com/r/Entrepreneur/.rss'},
-        # Blog Christian Van Der Henst (verificar URL vigente):
-        # {'name': 'CVander Blog',     'url': 'https://cvander.com/feed/'},
-        # Pablo Lomelí (Substack u otro):
-        # {'name': 'Pablo Lomelí',     'url': 'https://pablolomeli.substack.com/feed'},
+        {'name': 'Forbes México',      'url': 'https://www.forbes.com.mx/feed/'},
+        {'name': 'Expansión',          'url': 'https://expansion.mx/rss'},
+        {'name': 'Alto Nivel',         'url': 'https://www.altonivel.com.mx/feed/'},
     ],
 
+    # ── PSICOLOGÍA DEPORTIVA ─────────────────────────────────────────
     'psicologia': [
-        {'name': 'r/SportPsychology',  'url': 'https://www.reddit.com/r/SportPsychology/.rss'},
-        {'name': 'r/psychology',       'url': 'https://www.reddit.com/r/psychology/.rss'},
-        # Psychology Today tiene múltiples feeds por tema; ajusta el slug:
-        {'name': 'Psychology Today',   'url': 'https://www.psychologytoday.com/intl/blog/the-psychology-entrepreneurs/feed'},
+        {'name': 'Psyciencia',         'url': 'https://www.psyciencia.com/feed/'},
+        {'name': 'Infocop',            'url': 'https://www.infocop.es/rss/'},
+        {'name': 'EFDeportes',         'url': 'https://www.efdeportes.com/rss.xml'},
     ],
 
-    'juegos': [
-        {'name': 'r/boardgames',       'url': 'https://www.reddit.com/r/boardgames/.rss'},
-        {'name': 'r/cooperativegames', 'url': 'https://www.reddit.com/r/cooperativegames/.rss'},
-        {'name': 'r/TeamBuilding',     'url': 'https://www.reddit.com/r/TeamBuilding/.rss'},
-        # BGG se obtiene via API XML (ver fetch_bgg_hotness más abajo)
-    ],
-
-    'geopolitica': [
-        {'name': 'r/geopolitics',      'url': 'https://www.reddit.com/r/geopolitics/.rss'},
-        {'name': 'r/worldnews',        'url': 'https://www.reddit.com/r/worldnews/.rss'},
-    ],
-
+    # ── STARTUPS / EMPRENDIMIENTO ────────────────────────────────────
     'startup': [
-        {'name': 'r/startups',         'url': 'https://www.reddit.com/r/startups/.rss'},
-        {'name': 'Product Hunt',       'url': 'https://www.producthunt.com/feed'},
+        {'name': 'Merca 2.0',          'url': 'https://www.merca20.com/feed/'},
+        {'name': 'Entrepreneur ES',    'url': 'https://www.entrepreneur.com/es/rss'},
+        {'name': 'iLifebelt',          'url': 'https://ilifebelt.com/feed/'},
     ],
 }
 
@@ -329,15 +313,7 @@ def main():
             add(fetch_rss(src['name'], src['url'], category))
             time.sleep(DELAY)
 
-    # 2. Hacker News API (más datos que su RSS)
-    log.info('\n── HACKER NEWS API ──')
-    add(fetch_hacker_news_api(limit=15))
-
-    # 3. BoardGameGeek Hotness
-    log.info('\n── BOARDGAMEGEEK ──')
-    add(fetch_bgg_hotness())
-
-    # 4. (Opcional) Perfiles RSSHub
+    # 2. (Opcional) Perfiles RSSHub — LinkedIn/Instagram
     # log.info('\n── RSSHUB PROFILES ──')
     # add(fetch_rsshub_profiles())
 

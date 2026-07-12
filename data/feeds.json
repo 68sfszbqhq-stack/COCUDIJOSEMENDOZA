@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-07-12T13:20:29.301260+00:00",
-    "total": 188
+    "generated": "2026-07-12T19:06:33.864352+00:00",
+    "total": 185
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial está transformando cada rincón de la educación superior, desde las admisiones hasta la asesoría académica, más rápido de lo que las universidades pueden escribir reglas para regularla. The post…",
       "image": null,
-      "published": "2026-07-12T13:20:27.957446+00:00",
+      "published": "2026-07-12T19:06:32.315602+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Ganar dinero con tu pasión suena como un sueño imposible. La mayoría de los emprendedores piensan con lógica y prefieren ideas “prometedoras” en lugar de seguir sus hobbies. Aun así, decidí arriesgarme. The post No solo …",
       "image": null,
-      "published": "2026-07-12T13:20:27.956969+00:00",
+      "published": "2026-07-12T19:06:32.315229+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Los mejores fundadores no necesariamente son mejores prediciendo el futuro; son mejores dándole sentido a la incertidumbre. The post A los fundadores los pintan como visionarios, pero eso no es lo que realmente impulsa e…",
       "image": null,
-      "published": "2026-07-12T13:20:27.956464+00:00",
+      "published": "2026-07-12T19:06:32.314856+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "¿Estás listo para poner en marcha tu próxima gran idea? Primero lee esto. The post Los emprendedores inteligentes no se lanzan al vacío sin antes mirar — Así es como debes abordar estratégicamente la creación de un negoc…",
       "image": null,
-      "published": "2026-07-12T13:20:27.955982+00:00",
+      "published": "2026-07-12T19:06:32.314444+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Un evento para emprendedores reunirá en San Francisco a fondos, aceleradoras y fundadores latinoamericanos, en un intento por abrir una vía directa hacia el capital de riesgo estadounidense en medio de la caída en las vi…",
       "image": null,
-      "published": "2026-07-12T13:20:27.955462+00:00",
+      "published": "2026-07-12T19:06:32.314049+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "De forma innata, sabemos que la felicidad es efímera y que la plenitud debería ser nuestro verdadero objetivo a largo plazo. Pero, ¿qué constituye exactamente la plenitud y de qué manera puede aplicarse en el entorno emp…",
       "image": null,
-      "published": "2026-07-12T13:20:27.953997+00:00",
+      "published": "2026-07-12T19:06:32.313522+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial ya está presente en la mayoría de las empresas, pero pocas logran convertirla en resultados reales. The post La verdadera razón por la que la IA sigue sin transformar a muchas empresas appeared…",
       "image": null,
-      "published": "2026-07-12T13:20:27.953476+00:00",
+      "published": "2026-07-12T19:06:32.312170+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "No hay un manual para emprender y el consejo de tu mamá, aunque bien intencionado, no contemplaba los retos reales de construir un negocio. The post 3 verdades que todo fundador aprende a la mala appeared first on Entrep…",
       "image": null,
-      "published": "2026-07-12T13:20:27.952972+00:00",
+      "published": "2026-07-12T19:06:32.311792+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El CEO de una compañía de activos digitales cuenta qué se necesita para emprender puertas adentro de un conglomerado con más de un siglo de historia. Incluidos los fracasos. The post ¿Cómo se lidera una fintech de cripto…",
       "image": null,
-      "published": "2026-07-12T13:20:27.952446+00:00",
+      "published": "2026-07-12T19:06:32.311382+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,367 @@
       "category": "startup",
       "summary": "Descubre cinco poderosas frases que inspiran a emprendedores en cada etapa del viaje de una startup, desde la idea hasta el crecimiento. Una lectura obligada para fundadores que buscan motivación y claridad. The post Est…",
       "image": null,
-      "published": "2026-07-12T13:20:27.951900+00:00",
+      "published": "2026-07-12T19:06:32.310964+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2bc3a5d3d24137",
+      "title": "Creíamos que para construir una GPU hacían falta laboratorios y millones. Un maker está montando una en casa",
+      "url": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Durante años hemos asumido que construir una GPU era un terreno reservado a empresas con fábricas avanzadas, equipos de ingeniería y presupuestos millonarios. No era una idea absurda: basta mirar la complejidad de cualqu…",
+      "image": "https://i.blogs.es/6b2a2a/gpu-5/1024_2000.jpeg",
+      "published": "2026-07-12T19:01:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c2e9dffa3ac25a",
+      "title": "Esta función superútil está desapareciendo de los móviles Samsung y nadie sabe por qué: la marca lo confirma y revela cuándo volverá",
+      "url": "https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-de-los-moviles-samsung-y-nadie-sabe-por-que-la-marca-lo-confirma-y-revela-cuando-volvera/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Samsung ha dado un paso gigante en la personalización de sus dispositivos, pero esas nuevas funciones y aplicaciones que la compañía está incluyendo en sus móviles están perjudicando a muchos usuarios. De hecho, la compa…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/Samsung-Galaxy-S25-Ultra-Analisis-12.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-07-12T19:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "15dcc92babf092",
+      "title": "T-Mobile Home Run Derby 2026: Cuándo y dónde verlo EN VIVO desde México",
+      "url": "https://www.merca20.com/t-mobile-home-run-derby-2026-cuando-y-donde-verlo-en-vivo-desde-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=t-mobile-home-run-derby-2026-cuando-y-donde-verlo-en-vivo-desde-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Los mejores bateadores de las Grandes Ligas buscarán demostrar su poder en el T-Mobile Home Run Derby 2026",
+      "image": "https://files.merca20.com/uploads/2026/07/T-Mobile-Home-Run-Derby.jpg",
+      "published": "2026-07-12T18:42:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4e2dacdcd9cacd",
+      "title": "El calor no solo te marea, \"secuestra\" tu sangre: la explicación científica detrás de la lipotimia veraniega",
+      "url": "https://www.xataka.com/medicina-y-salud/calor-no-solo-te-marea-secuestra-tu-sangre-explicacion-cientifica-detras-lipotimia-veraniega",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Con la llegada de las olas de calor, las calles, playas y transportes públicos se convierten en un caldo de cultivo perfecto para que se desencadene un horrible desmayo o golpe de calor. Algo que no es demasiado aislado,…",
+      "image": "https://i.blogs.es/2fb10b/calor/1024_2000.jpeg",
+      "published": "2026-07-12T18:31:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f45fcc2871bdf",
+      "title": "Sinaloa aprueba Ley de Filmaciones para atraer producciones y turismo",
+      "url": "https://altonivel.com.mx/ley-filmaciones-sinaloa-turismo-cinematografico-productoras/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Hoteles, restaurantes, transportistas y proveedores pueden beneficiarse si el gasto de los rodajes permanece en el estado. The post Sinaloa aprueba Ley de Filmaciones para atraer producciones y turismo appeared first on …",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/disney-papas.webp",
+      "published": "2026-07-12T18:28:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "299f290c2c0e6b",
+      "title": "ScummVM recupera la saga de Mortadelo y Filemón",
+      "url": "https://www.muycomputer.com/2026/07/12/scummvm-recupera-la-saga-de-mortadelo-y-filemon/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Las aventuras de Mortadelo y Filemón forman parte del recuerdo de no pocas generaciones. Durante los primeros años del siglo XXI, los célebres agentes de la T.I.A. creados por Francisco Ibáñez protagonizaron varias avent…",
+      "image": null,
+      "published": "2026-07-12T18:05:53+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "37ec984b29a271",
+      "title": "La primera \"red social\" de la historia tiene 57.000 años, la formaban cazadores y recolectores y sirvió para evitar la extinción",
+      "url": "https://www.xataka.com/magnet/primera-red-social-historia-tiene-57-000-anos-formaban-cazadores-recolectores-sirvio-para-evitar-extincion",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La supervivencia de los cazadores-recolectores de la prehistoria se ha explicado históricamente por dos cosas: el clima y los recursos naturales disponibles. Y aunque a grandes rasgos es cierto, un nuevo estudio propone …",
+      "image": "https://i.blogs.es/6d5498/gemini_generated_image_qjwn70qjwn70qjwn/1024_2000.jpeg",
+      "published": "2026-07-12T18:01:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d8f6f6be808b36",
+      "title": "He activado esta función y ahora nadie (ni la IA) puede utilizar mis fotos y vídeos de Instagram",
+      "url": "https://hipertextual.com/actualidad/he-activado-esta-funcion-y-ahora-nadie-ni-la-ia-puede-utilizar-mis-fotos-y-videos-de-instagram/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La mayoría de las personas no lo saben, pero Instagram hizo un cambio en su política hace unos días que te afecta directamente a ti y a tu contenido. Se trata de Muse Image, una nueva herramienta de Meta para crear conte…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/instagram.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
+      "published": "2026-07-12T18:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5351a076d3dce6",
+      "title": "SEP abre registro para la Universidad a Distancia de México 2026: Fechas, requisitos y cómo inscribirte",
+      "url": "https://www.merca20.com/sep-abre-registro-para-la-universidad-a-distancia-de-mexico-2026-fechas-requisitos-y-como-inscribirte/?utm_source=rss&utm_medium=rss&utm_campaign=sep-abre-registro-para-la-universidad-a-distancia-de-mexico-2026-fechas-requisitos-y-como-inscribirte",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La SEP abrió este nuevo proceso de admisión con más de 20 mil espacios disponibles en la Universidad a Distancia de México",
+      "image": "https://files.merca20.com/uploads/2026/07/estudiante-Gemini-AI.jpg",
+      "published": "2026-07-12T17:55:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "59fbb1b421a02f",
+      "title": "El sérum de vitamina C no sustituye a tu protector solar, pero la ciencia advierte: usar ambos es el verdadero \"escudo total\"",
+      "url": "https://www.xataka.com/medicina-y-salud/serum-vitamina-c-no-sustituye-a-tu-protector-solar-ciencia-advierte-usar-ambos-verdadero-escudo-total",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En los últimos años hemos visto cómo la cosmética activa ha puesto a la vitamina C en el centro de todas las rutinas matutinas. Su fama está justificada, pero ha traído consigo un mito peligroso al apuntar que puede ser …",
+      "image": "https://i.blogs.es/8baf42/serum-vitamina-c/1024_2000.jpeg",
+      "published": "2026-07-12T17:31:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f208dee722d3f3",
+      "title": "La Casa del Dragón: ¿Habrá una temporada 4? Esto reveló HBO",
+      "url": "https://www.merca20.com/la-casa-del-dragon-habra-una-temporada-4-esto-revelo-hbo/?utm_source=rss&utm_medium=rss&utm_campaign=la-casa-del-dragon-habra-una-temporada-4-esto-revelo-hbo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "HBO ha revelado más detalles sobre el futuro de La Casa del Dragón y ya confirmó si habrá o no una temporada 4 de la serie",
+      "image": "https://files.merca20.com/uploads/2026/07/House-of-the-Dragon-Season-3.jpg",
+      "published": "2026-07-12T17:16:42+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9885131ae5383e",
+      "title": "De qué va ‘El manuscrito de Dante’, la película de Netflix con Oscar Isaac y Gal Gadot de la que todo el mundo habla",
+      "url": "https://hipertextual.com/cine-television/de-que-va-el-manuscrito-de-dante-la-pelicula-de-netflix-con-oscar-isaac-y-gal-gadot-de-la-que-todo-el-mundo-habla/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El manuscrito de Dante (2026) es toda una rareza en el catálogo de Netflix. La cinta, protagonizada por Oscar Isaac y Gal Gadot, mezcla el thriller histórico con un drama existencialista. Todo, en el terreno de una explo…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/In-the-Hand-of-Dante.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-12T17:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ccf4f158f30303",
+      "title": "GP de Bélgica: ¿Cuándo es la próxima carrera de Checo Pérez?",
+      "url": "https://www.merca20.com/gp-de-belgica-cuando-es-la-proxima-carrera-de-checo-perez/?utm_source=rss&utm_medium=rss&utm_campaign=gp-de-belgica-cuando-es-la-proxima-carrera-de-checo-perez",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El GP de Bélgica reunirá a los mejores pilotos de la categoría de la Fórmula 1, incluido Sergio \"Checo\" Pérez",
+      "image": "https://files.merca20.com/uploads/2026/05/sprint-cadillac-miamo.jpg",
+      "published": "2026-07-12T16:41:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9b795e1dd3bbcc",
+      "title": "Los vecinos de este pueblo soriano van a alojar turistas en sus propias casas para el eclipse de agosto",
+      "url": "https://www.xataka.com/espacio/vecinos-este-pueblo-soriano-van-a-alojar-turistas-sus-propias-casas-para-eclipse-agosto",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La franja de totalidad del eclipse solar que se verá en España este 12 de agosto de 2026 ha ido a caer en una zona curiosa . Muchos de los pueblos mejor posicionados pertenecen a la España vaciada, una región a la que, p…",
+      "image": "https://i.blogs.es/c19ffd/borobia/1024_2000.jpeg",
+      "published": "2026-07-12T16:31:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6866bcd2abf56d",
+      "title": "ATLAS propone una forma distinta de navegar por Internet",
+      "url": "https://www.muycomputer.com/2026/07/12/atlas-propone-una-forma-distinta-de-navegar-por-internet/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Durante casi tres décadas, la evolución de los navegadores web ha seguido una línea bastante predecible. Más velocidad, menor consumo de memoria, mejor compatibilidad con los estándares y nuevas funciones de productivida…",
+      "image": null,
+      "published": "2026-07-12T16:31:21+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d5b13412970e4c",
+      "title": "A los usuarios de Netflix les encanta ver la primera temporada de una serie. Después, les encanta dejar de verla por completo",
+      "url": "https://www.xataka.com/streaming/a-usuarios-netflix-les-encanta-ver-primera-temporada-serie-despues-les-encanta-dejar-verla-completo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Qué tremendo hype cuando Netflix tiene nueva serie y la promociona hasta en la sopa: te tragas el tráiler, la premiere promete infinito y luego, por fin ves el primer episodio y devoras la temporada entera. ¿Y después? S…",
+      "image": "https://i.blogs.es/349dc6/gemini_generated_image_kjzlq9kjzlq9kjzl/1024_2000.jpeg",
+      "published": "2026-07-12T16:15:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "72266b0bb4aeeb",
+      "title": "Hay algo en lo que Uruguay es una auténtica y desbordante potencia mundial: generar futbolistas de élite",
+      "url": "https://www.xataka.com/magnet/hay-algo-que-uruguay-autentica-desbordante-potencia-mundial-generar-futbolistas-elite",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Salvo que seas una auténtica máquina de los datos y la estadística, a la pregunta de ¿qué país genera más futbolistas para la élite? seguramente la mayoría responderíamos que Brasil, un país que tiene cinco mundiales y a…",
+      "image": "https://i.blogs.es/889074/captura-de-pantalla-2026-07-10-a-las-7.58.11/1024_2000.jpeg",
+      "published": "2026-07-12T16:01:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "622074162f32aa",
+      "title": "¡Ya es oficial! El INAPAM dará aguinaldo en 2026: requisitos y quiénes pueden obtenerlo",
+      "url": "https://www.merca20.com/ya-es-oficial-el-inapam-dara-aguinaldo-en-2026-requisitos-y-quienes-pueden-obtenerlo/?utm_source=rss&utm_medium=rss&utm_campaign=ya-es-oficial-el-inapam-dara-aguinaldo-en-2026-requisitos-y-quienes-pueden-obtenerlo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El aguinaldo no está dirigido a todas las personas que tienen la credencial del INAPAM, sino solo a quienes cumplan con ciertos requisitos",
+      "image": "https://files.merca20.com/uploads/2025/10/Aguinaldo-Gemini-AI.jpg",
+      "published": "2026-07-12T15:39:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "49b0c3d677f9eb",
+      "title": "El plan para frenar el deshielo del Ártico es tan simple que suena a locura: congelarlo de nuevo",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/plan-para-frenar-deshielo-artico-simple-que-suena-a-locura-congelarlo-nuevo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El calentamiento global no afecta igual en todas partes. Sin ir más lejos, Europa es el continente que más se calienta según la Organización Meteorológica Mundial , pero hay otro lugar donde el calor ha puesto el turbo: …",
+      "image": "https://i.blogs.es/a3d38a/holiii/1024_2000.jpeg",
+      "published": "2026-07-12T15:31:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b3ab8323ef4300",
+      "title": "Hay miles de personas tirando cosas rarísimas a el WC para controlar su olor: el truco más efectivo no tiene nada que ver con eso",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/hay-miles-personas-tirando-cosas-rarisimas-a-wc-para-controlar-su-olor-truco-efectivo-no-tiene-nada-que-ver-eso",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Vuelves de vacaciones, abres la puerta y, de repente, te recibe un intenso olor a alcantarilla que, desde luego, no estaba ahí cuando te fuiste. Internet se ha llenado de consejos para evitar este problema: desde llevar …",
+      "image": "https://i.blogs.es/6f6101/amit-lahav-wnfim3cmhqk-unsplash/1024_2000.jpeg",
+      "published": "2026-07-12T15:01:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "33648fddbb26fa",
+      "title": "Esta fabulosa película está dirigida por Scarlett Johansson y ya está disponible en streaming",
+      "url": "https://hipertextual.com/cine-television/esta-fabulosa-pelicula-esta-dirigida-por-scarlett-johansson-y-ya-esta-disponible-en-streaming/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Scarlett Johansson acumula méritos en Movistar+ como actriz. No solo se ha convertido en una de las intérpretes más solicitadas de la actualidad, cuyo próximo prolas intérpretesye Batman II de Matt Reeves. A la vez, se l…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/scarlett-johansson-04-1200x675-1.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-12T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f0d66c18f1fbc5",
+      "title": "\"Es la esencia de Río de Janeiro\": El turismo masivo ha encontrado un nuevo filón en el lugar más insospechado, las favelas",
+      "url": "https://www.xataka.com/magnet/esencia-rio-janeiro-turismo-masivo-ha-encontrado-nuevo-filon-lugar-insospechado-favelas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cuando uno piensa en Río de Janeiro una de las primeras imágenes que se le vienen a la cabeza es el Cristo Redentor, la estatua de 30 metros de altura que se alza en la cima del cerro Corcovado. Desde hace un tiempo sin …",
+      "image": "https://i.blogs.es/37cdbb/desert-morocco-adventure-cxeqegc1k3c-unsplash/1024_2000.jpeg",
+      "published": "2026-07-12T14:31:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e96ddb834be52b",
+      "title": "SEP suspende días de vacaciones en nuevo calendario escolar 2026 a 2027 y ahora los niños regresarán antes a la escuela",
+      "url": "https://www.merca20.com/sep-suspende-dias-de-vacaciones-en-nuevo-calendario-escolar-2026-a-2027-y-ahora-los-ninos-regresaran-antes-a-la-escuela/?utm_source=rss&utm_medium=rss&utm_campaign=sep-suspende-dias-de-vacaciones-en-nuevo-calendario-escolar-2026-a-2027-y-ahora-los-ninos-regresaran-antes-a-la-escuela",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Secretaría de Educación Pública (SEP) publicó el nuevo calendario escolar 2026 a 2027 en la Plataforma Integral de Gobernanza Regulatoria",
+      "image": "https://files.merca20.com/uploads/2026/07/nuevo-calendario-escolar-sep.jpg",
+      "published": "2026-07-12T14:31:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30bed892971b67",
+      "title": "Muere Lindsey Graham, senador republicano y aliado clave de Trump",
+      "url": "https://altonivel.com.mx/muere-lindsey-graham-aliado-trump-senado-eeuu/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El fallecimiento llega en plena tensión por política exterior y antes de las elecciones de medio mandato. The post Muere Lindsey Graham, senador republicano y aliado clave de Trump appeared first on Alto Nivel .",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/muere-lindsey-graham.webp",
+      "published": "2026-07-12T14:24:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1e3ae2234430c9",
+      "title": "Fin del financiamiento solitario: Blue Origin busca USD $10.000 millones de capital externo para competir con Elon Musk",
+      "url": "https://www.fayerwayer.com/espacio/2026/07/12/fin-del-financiamiento-solitario-blue-origin-busca-usd-10000-millones-de-capital-externo-para-competir-con-elon-musk/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Por primera vez en su historia, Blue Origin acepta inversores externos con una valoración de USD $130.000 millones.",
+      "image": "https://www.fayerwayer.com/resizer/v2/SUJRWQAAUZBAHHBUWXU7LLDZVA.jpg?auth=9d3ef954d6af03fdd54efd7c39af79f25ca0f52dd87df180d547391bc436b05d&smart=true&width=7963&height=5309",
+      "published": "2026-07-12T14:21:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "02608621744ab4",
+      "title": "Microsoft confirma la existencia de un identificador oculto en Windows",
+      "url": "https://www.muycomputer.com/2026/07/12/microsoft-confirma-la-existencia-de-un-identificador-oculto-en-windows/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Un documento judicial relacionado con el grupo de ciberdelincuencia Scattered Spider ha sacado a la luz uno de los identificadores menos conocidos de Windows. En el marco de la investigación, Microsoft ha confirmado ofic…",
+      "image": null,
+      "published": "2026-07-12T14:02:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1996f374adb37e",
+      "title": "El Quijote que Orson Welles nunca terminó por fin tomará forma. Cuatro filmotecas se han tenido que poner de acuerdo para lograrlo",
+      "url": "https://www.xataka.com/cine-y-tv/quijote-que-orson-welles-nunca-termino-fin-tomara-forma-cuatro-filmotecas-se-han-tenido-que-poner-acuerdo-para-lograrlo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Welles tardó casi treinta años en no acabar su Quijote. Terry Gilliam tardó otros treinta y lo consiguió, pero el proceso fue una pesadilla que mereció su propio documental. Adaptar el Quijote nos ha dado varios clásico …",
+      "image": "https://i.blogs.es/9aec31/orson-welles-quijote/1024_2000.jpeg",
+      "published": "2026-07-12T14:01:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8a3ef8116bb95f",
+      "title": "6 cosas que van a pasar en ‘La casa del Dragón’ si se respeta la trama de los libros",
+      "url": "https://hipertextual.com/cine-television/6-cosas-que-van-a-pasar-en-la-casa-del-dragon-si-se-respeta-la-trama-de-los-libros/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con su tercer episodio, La casa del Dragón dejó algo claro. El segundo gran spin-off de la saga de Juego de Tronos hará hincapié en el intrincado mundo político de la trama. Pero mucho más, pretende sacar ventaja de expl…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/La-Casa-del-Dragon-trailer-temporada-3.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-12T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "11af02106c4765",
+      "title": "Pasaporte vigente ya no será suficiente: Gobierno prohíbe salir de México a quienes incumplan esta obligación",
+      "url": "https://www.merca20.com/pasaporte-vigente-ya-no-sera-suficiente-gobierno-prohibe-salir-de-mexico-a-quienes-incumplan-esta-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=pasaporte-vigente-ya-no-sera-suficiente-gobierno-prohibe-salir-de-mexico-a-quienes-incumplan-esta-obligacion",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Por lo tanto, contar con pasaporte y visa vigentes no necesariamente elimina la posibilidad de una restricción migratoria",
+      "image": "https://files.merca20.com/uploads/2026/07/pasaporte-mexico.jpg",
+      "published": "2026-07-12T13:43:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5bbe9aa9808f21",
+      "title": "No es solo cuestión de cumplir años: la mala salud metabólica envejece tu cerebro por una vía completamente independiente",
+      "url": "https://www.xataka.com/medicina-y-salud/no-solo-cuestion-cumplir-anos-mala-salud-metabolica-envejece-tu-cerebro-via-completamente-independiente",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Casi siempre hemos asumido que el declive de nuestras capacidades mentales es un peaje casi inevitable del paso del tiempo, puesto que cumplir años envejece el cerebro, y eso es un hecho. Sin embargo, la ciencia lleva añ…",
+      "image": "https://i.blogs.es/1b48e3/cerebro/1024_2000.jpeg",
+      "published": "2026-07-12T13:31:58+00:00",
       "score": null,
       "tags": []
     },
@@ -137,6 +497,18 @@
       "tags": []
     },
     {
+      "id": "74f82a851d3f3a",
+      "title": "Erling Haaland: children, net worth, height and weight of Norway’s star player",
+      "url": "https://www.merca20.com/erling-haaland-children-net-worth-height-and-weight-of-norways-star-player/?utm_source=rss&utm_medium=rss&utm_campaign=erling-haaland-children-net-worth-height-and-weight-of-norways-star-player",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "The life philosophy of Norway national soccer team star Erling Haaland has attracted widespread attention among fans",
+      "image": "https://files.merca20.com/uploads/2026/07/Erling-Haaland-2.jpg",
+      "published": "2026-07-12T13:00:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "9b26e88d36cacf",
       "title": "Esta serie de ciencia ficción es ideal para ti si amaste ‘Interstellar’ y ‘For all mankind’",
       "url": "https://hipertextual.com/cine-television/esta-serie-de-ciencia-ficcion-es-ideal-para-ti-si-amaste-interstellar-y-for-all-mankind/",
@@ -145,6 +517,18 @@
       "summary": "Interstellar y For All Mankind son, en sus respectivos estilos y formatos, dos de las mejores historias de la ciencia ficción reciente. Y lo son por una razón: su capacidad de mezclar lo humano con la tecnología de punta…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Ciencia-ficci%C2%B4pn-2332.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
       "published": "2026-07-12T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "761e12c3984f1e",
+      "title": "David Gross, Premio Nobel de Física: “Las probabilidades de que la humanidad viva más de 50 años son muy bajas”",
+      "url": "https://www.merca20.com/david-gross-premio-nobel-de-fisica-las-probabilidades-de-que-la-humanidad-viva-mas-de-50-anos-son-muy-bajas/?utm_source=rss&utm_medium=rss&utm_campaign=david-gross-premio-nobel-de-fisica-las-probabilidades-de-que-la-humanidad-viva-mas-de-50-anos-son-muy-bajas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Esta frase de David Gross refleja su preocupación por la forma en que factores globales pueden influir en el destino de nuestra especie",
+      "image": "https://files.merca20.com/uploads/2026/07/David-Gross-Gemini-AI.jpg",
+      "published": "2026-07-12T12:48:36+00:00",
       "score": null,
       "tags": []
     },
@@ -197,26 +581,26 @@
       "tags": []
     },
     {
-      "id": "2ad65e52bb785c",
-      "title": "Un youtuber brasileño replica Photoshop en GIMP: es gratis, open source y Adobe no puede hacer nada para evitarlo",
-      "url": "https://www.xataka.com/aplicaciones/youtuber-brasileno-replica-photoshop-gimp-gratis-open-source-adobe-no-puede-hacer-nada-para-evitarlo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay mil y un alternativas a Photoshop muy interesantes que te permiten contar con un potente editor fotográfico sin entrar en pagos abultados ni suscripciones de ningún tipo. GIMP se ha consolidado como una de las altern…",
-      "image": "https://i.blogs.es/89aeaf/photogimp/1024_2000.jpeg",
-      "published": "2026-07-12T11:31:57+00:00",
+      "id": "d00121dda6e844",
+      "title": "Gobierno tramita CURP certificada biométrica de manera automática a las personas que tienen licencia de conducir",
+      "url": "https://www.merca20.com/gobierno-tramita-curp-certificada-biometrica-automatica-a-las-personas-que-tienen-licencia-de-conducir/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-tramita-curp-certificada-biometrica-automatica-a-las-personas-que-tienen-licencia-de-conducir",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Secretaría de Gobernación (Segob) firmó un nuevo convenio a través del cual se permitirá el intercambio y validación de datos relacionados con la CURP",
+      "image": "https://files.merca20.com/uploads/2025/07/curp-biometrica.jpg",
+      "published": "2026-07-12T11:25:03+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "833f25d1e7b09c",
-      "title": "En 1971 un acuario de EEUU acogió una foca huérfana. Cinco años después empezó a hacer algo: hablar en inglés",
-      "url": "https://www.xataka.com/magnet/1971-acuario-eeuu-acogio-foca-huerfana-cinco-anos-despues-empezo-a-hacer-algo-hablar-ingles",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando uno acude a un acuario espera encontrarse con estanques llenos de peces pintorescos, caballitos de mar, medusas, delfines, tiburones… Quizás, con suerte y en función de dónde esté el recinto y lo grande que sea, a…",
-      "image": "https://i.blogs.es/85f863/steve-adams-iy7f3hufi4m-unsplash/1024_2000.jpeg",
-      "published": "2026-07-12T11:01:58+00:00",
+      "id": "7f614bbb1e9c67",
+      "title": "ADO y ETN ofrecen promoción a adultos mayores con credencial de INAPAM durante vacaciones",
+      "url": "https://www.merca20.com/ado-y-etn-ofrecen-promocion-a-adultos-mayores-con-credencial-de-inapam-durante-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=ado-y-etn-ofrecen-promocion-a-adultos-mayores-con-credencial-de-inapam-durante-vacaciones",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "En estas vacaciones, ADO y ETN ofrecen beneficios para adultos mayores, a través descuentos especiales a quienes cuentan con credencial del INAPAM",
+      "image": "https://files.merca20.com/uploads/2026/03/ado-etn_2026-5.jpg",
+      "published": "2026-07-12T11:02:15+00:00",
       "score": null,
       "tags": []
     },
@@ -233,30 +617,6 @@
       "tags": []
     },
     {
-      "id": "c730b63a7e4d2b",
-      "title": "Hemos subestimado el poder de la siesta: un nuevo estudio desvela su papel crucial en la consolidación de la memoria",
-      "url": "https://www.xataka.com/medicina-y-salud/hemos-subestimado-poder-siesta-nuevo-estudio-desvela-su-papel-crucial-consolidacion-memoria",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La siesta es una cita que muchas personas tienen durante el horario de tarde y que cuesta mucho dejar de lado. Durante décadas, esta práctica ha oscilado entre ser un rasgo cultural puramente mediterráneo y un \"hack\" de …",
-      "image": "https://i.blogs.es/c67c81/siesta/1024_2000.jpeg",
-      "published": "2026-07-12T10:31:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0866498e72b436",
-      "title": "La pizza frita parece una guarrada procedente de EEUU. En realidad se \"inventó\" para salvar Nápoles tras la Segunda Guerra Mundial",
-      "url": "https://www.xataka.com/magnet/pizza-frita-parece-guarrada-procedente-eeuu-realidad-se-invento-para-salvar-napoles-segunda-guerra-mundial",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Me encanta cocinar, pese a que alguno quiera desterrar las cocinas , y me encanta ver vídeos de cocina . Sin embargo, el algoritmo a veces se confunde y me pone vídeos de gente echando pasta cruda con salsa de tomate a u…",
-      "image": "https://i.blogs.es/b8a4ac/pizza_fritta_in_rome_-2-/1024_2000.jpeg",
-      "published": "2026-07-12T10:01:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "eeeeb36b36c630",
       "title": "Formatear tu PC no sirve de nada: si quieres borrar el disco de verdad, esta es la solución",
       "url": "https://hipertextual.com/software/shredos-y-nwipe-borra-tus-discos-de-forma-segura-e-irreversible/",
@@ -265,18 +625,6 @@
       "summary": "Al hablar de borrar de forma permanente (y segura) los datos almacenados en un ordenador, muchos creen que es suficiente con formatear el disco o SSD. Pero esto no es así. El formateo de la unidad de almacenamiento no si…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/disco.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-12T10:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f720e8399cd2d8",
-      "title": "En Chernóbil ocurrió algo insólito cuando llegaron los soldados rusos. Las cámaras que vigilaban a los animales nunca han dejado de grabar",
-      "url": "https://www.xataka.com/magnet/chernobil-ocurrio-algo-insolito-cuando-llegaron-soldados-rusos-camaras-que-vigilaban-a-animales-nunca-dejaron-grabar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En abril de 1986, apenas unos días después del accidente de Chernóbil , los científicos soviéticos temían que la radiación hubiera convertido la zona en un desierto biológico durante generaciones. Ocurrió exactamente lo …",
-      "image": "https://i.blogs.es/5a7d7a/cleaning_in_nbs_suits_at_lebyazhye/1024_2000.jpeg",
-      "published": "2026-07-12T09:31:57+00:00",
       "score": null,
       "tags": []
     },
@@ -305,18 +653,6 @@
       "tags": []
     },
     {
-      "id": "6ec61a0ccf5959",
-      "title": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
-      "url": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Asha Sharma, flamante CEO de Xbox, anunció esta semana el despido de 1.600 personas de su división . Es el primer tramo de un plan que prevé más recortes, hasta 3.200, este año. Tres días después, la Reserva Federal esta…",
-      "image": "https://i.blogs.es/f90252/destacada/1024_2000.jpeg",
-      "published": "2026-07-12T09:01:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a480d013f97072",
       "title": "La detención de un hacker acaba de revelar cómo Microsoft te espía en Windows",
       "url": "https://hipertextual.com/seguridad/windows-11-gdid-identificador-espia/",
@@ -325,42 +661,6 @@
       "summary": "Desde el lanzamiento de Windows 11, Microsoft ha hecho hasta lo imposible por espiar a los usuarios a través de sus sistemas de telemetría. Aunque muchos han encontrado la forma de desinstalar todos los programas y servi…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/windows-11.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
       "published": "2026-07-12T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1cddaffade0dd3",
-      "title": "El Corte Inglés contra el calor: cinco ofertas de los Súper Tecnoprecios para no derretirse en verano",
-      "url": "https://www.xataka.com/seleccion/corte-ingles-calor-cinco-ofertas-super-tecnoprecios-para-no-derretirse-verano",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Estamos atravesando una época en la que está haciendo mucho calor, y todavía queda mucho tiempo hasta que llegue el fresquito. Por ello viene bien tener a mano algún dispositivo que evite que nos \"derritamos\" durante el …",
-      "image": "https://i.blogs.es/31916e/el-corte-ingles/1024_2000.jpeg",
-      "published": "2026-07-12T08:31:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b013a9f978baf9",
-      "title": "En 2021, Cataluña consiguió librarse de los peajes de la AP-7. Cinco años después tiene una idea: recuperarlos",
-      "url": "https://www.xataka.com/movilidad/2021-cataluna-consiguio-librarse-peajes-ap-7-cinco-anos-despues-tiene-idea-volver-a-ponerlos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El seis de octubre de 1998, 16 ayuntamientos, cuatro consejos comarcales, las dos asociaciones municipalistas de Catalunya, tres cámaras de comercio y otras entidades de diferentes ámbitos formaron un frente común para r…",
-      "image": "https://i.blogs.es/5ed824/peajes-cataluna-ap-7/1024_2000.jpeg",
-      "published": "2026-07-12T08:31:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "98a55a67688453",
-      "title": "Las ventas de coches eléctricos en Europa, en un revelador mapa con una península que arrasa. Spoiler: no es la Ibérica",
-      "url": "https://www.xataka.com/movilidad/ventas-coches-electricos-europa-revelador-mapa-peninsula-que-arrasa-spoiler-no-iberica",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si mañana se estropease tu coche y tuvieras que comprarte uno nuevo, la pregunta del millón es: ¿sería un coche de combustión, un híbrido o un eléctrico? Obviamente, también hay otra alternativa respetable y con mucho se…",
-      "image": "https://i.blogs.es/eb83b0/cohes-ele/1024_2000.jpeg",
-      "published": "2026-07-12T08:01:57+00:00",
       "score": null,
       "tags": []
     },
@@ -377,18 +677,6 @@
       "tags": []
     },
     {
-      "id": "3922c20291dded",
-      "title": "Hemos construido tantas presas en los últimos 190 años que no solo hemos cambiado la duración del día: también hemos cambiado el eje de rotación",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/hemos-construido-tantas-presas-ultimos-190-anos-que-no-solo-hemos-cambiado-duracion-dia-tambien-hemos-cambiado-eje-rotacion-1",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hace un par de décadas, científicos del Jet Propulsion Lab de la NASA estimaron que el llenado de la presa de las Tres Gargantas, el descomunal proyecto hidroeléctrico de China, implicaba el movimiento de una masa de agu…",
-      "image": "https://i.blogs.es/8dcccf/presa-pakistan/1024_2000.jpeg",
-      "published": "2026-07-12T07:31:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "58c543d5984ac6",
       "title": "Este truco reduce hasta un 70% el gasto al usar inteligencia artificial para programar",
       "url": "https://hipertextual.com/inteligencia-artificial/pxpipe-reduce-tokens-claude-code/",
@@ -401,18 +689,6 @@
       "tags": []
     },
     {
-      "id": "a773fce572ffc1",
-      "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
-      "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de …",
-      "image": "https://i.blogs.es/f0cd18/juicio/1024_2000.jpeg",
-      "published": "2026-07-12T06:40:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "021e04811c9b12",
       "title": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
       "url": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
@@ -421,6 +697,18 @@
       "summary": "Detrás del componente más importante de un vehículo eléctrico hay materiales estratégicos, procesos industriales complejos y costos que, en algunos casos, superan el valor del Olinia.",
       "image": "https://cdn-3.expansion.mx/dims4/default/25c5523/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd8%2Fab%2Fea21d5f7485d9b3c90fe432b891b%2Fcuanto-cuesta-la-bateria-de-un-carro-electrico.png",
       "published": "2026-07-12T06:30:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "167513298a67f0",
+      "title": "Imágenes y frases Día del Abogado en México: ¿por qué se celebra el 12 de julio?",
+      "url": "https://www.merca20.com/imagenes-y-frases-dia-del-abogado-en-mexico-por-que-se-celebra-el-12-de-julio/?utm_source=rss&utm_medium=rss&utm_campaign=imagenes-y-frases-dia-del-abogado-en-mexico-por-que-se-celebra-el-12-de-julio",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Para celebrar a los profesionales del Derecho, te compartimos las siguientes frases e imágenes para desear un Feliz Día del Abogado",
+      "image": "https://files.merca20.com/uploads/2026/07/dia-del-abogado_.jpg",
+      "published": "2026-07-12T06:22:03+00:00",
       "score": null,
       "tags": []
     },
@@ -533,18 +821,6 @@
       "tags": []
     },
     {
-      "id": "37fe4798d31fa5",
-      "title": "Argentina vs. Suiza: ¿Se transmitirá por televisión abierta? Aquí puedes ver el partido EN VIVO",
-      "url": "https://www.merca20.com/argentina-vs-suiza-se-transmitira-por-television-abierta-aqui-puedes-ver-el-partido-en-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=argentina-vs-suiza-se-transmitira-por-television-abierta-aqui-puedes-ver-el-partido-en-vivo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Suiza no ha recibido goles en sus dos partidos de eliminación directa, mientras que Argentina ha tenido más dificultades",
-      "image": "https://files.merca20.com/uploads/2026/07/Argentina-vs.-Suiza-Gemini-AI.jpg",
-      "published": "2026-07-11T22:00:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "7c9d5fb4f9755d",
       "title": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
       "url": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
@@ -605,18 +881,6 @@
       "tags": []
     },
     {
-      "id": "fccd91d46ddb9b",
-      "title": "Moana 3: Is Disney Already Working on the Next Movie? Dwayne Johnson Reveals",
-      "url": "https://www.merca20.com/moana-3-is-disney-already-working-on-the-next-movie-dwayne-johnson-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=moana-3-is-disney-already-working-on-the-next-movie-dwayne-johnson-reveals",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Dwayne Johnson, the actor who brings the brave Maui to life, recently spoke about the possibility of Moana 3 being made",
-      "image": "https://files.merca20.com/uploads/2025/02/Moana-2-release-date-confirmed-on-Disney-Plus-This-day-it-will-arrive-on-the-streaming-platform-.jpg",
-      "published": "2026-07-11T20:30:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2a287cf75a054e",
       "title": "Argentina niega favoritismo arbitral en el Mundial 2026: \"Con el VAR es muy difícil\"",
       "url": "https://expansion.mx/tendencias/2026/07/11/argentina-niega-favoritismo-arbitral-en-el-mundial-2026",
@@ -629,18 +893,6 @@
       "tags": []
     },
     {
-      "id": "50df3df622bbc5",
-      "title": "Moana 3: ¿Disney ya prepara la próxima película? Esto reveló Dwayne Johnson",
-      "url": "https://www.merca20.com/moana-3-disney-ya-prepara-la-proxima-pelicula-esto-revelo-dwayne-johnson/?utm_source=rss&utm_medium=rss&utm_campaign=moana-3-disney-ya-prepara-la-proxima-pelicula-esto-revelo-dwayne-johnson",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Dwayne Johnson, actor que da vida al valiente Maui, recientemente habló sobre la posibilidad de que se realice Moana 3",
-      "image": "https://files.merca20.com/uploads/2025/02/¿Que-significa-Moana-en-espanol-y-por-que-Disney-le-puso-ese-nombre-a-su-personaje-.jpg",
-      "published": "2026-07-11T19:50:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "3dacdb763ca234",
       "title": "¿El fin del cirujano en el quirófano? Crean robots humanoides capaces de operar en equipo y realizar cirugías complejas",
       "url": "https://www.fayerwayer.com/ciencia/2026/07/11/el-fin-del-cirujano-en-el-quirofano-crean-robots-humanoides-capaces-de-operar-en-equipo-y-realizar-cirugias-complejas/",
@@ -649,30 +901,6 @@
       "summary": "Un equipo interdisciplinario de la UC San Diego completó con éxito cirugías laparoscópicas en vivo usando robots humanoides teleoperados de bajo costo.",
       "image": "https://www.fayerwayer.com/resizer/v2/6IEWYRN3SFHRNME7NHQPDAUVZU.jpeg?auth=34b426f4a643e676c62aee003f2a6451132a1d36816d77fb1771b4d1e4958db8&smart=true&width=2752&height=1536",
       "published": "2026-07-11T19:11:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "93ded35d1dbedb",
-      "title": "Lovecraft lo creó como una broma, pero el Necronomicon ha existido en muchas formas y, de hecho, ha vuelto a las librerías",
-      "url": "https://www.xataka.com/literatura-comics-y-juegos/lovecraft-creo-como-broma-necronomicon-ha-existido-muchas-formas-hecho-ha-vuelto-a-librerias",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En 1922, un joven escritor de Providence introdujo en un cuento un libro maldito que no existía en ninguna biblioteca del mundo. Un siglo después, esa broma privada ha generado sectas reales, denuncias de plagio entre oc…",
-      "image": "https://i.blogs.es/01b7d2/duomo_coberta_lovecraft2-scaled/1024_2000.jpeg",
-      "published": "2026-07-11T19:01:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "dca81e811ed6c1",
-      "title": "Medio Maratón 2026: Metro CDMX abrirá más temprano y habrá servicio GRATIS",
-      "url": "https://www.merca20.com/medio-maraton-2026-metro-cdmx-abrira-mas-temprano-y-habra-servicio-gratis/?utm_source=rss&utm_medium=rss&utm_campaign=medio-maraton-2026-metro-cdmx-abrira-mas-temprano-y-habra-servicio-gratis",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Para apoyar la movilidad durante el evento, el STC Metro modificará el horario de apertura en una parte de la red",
-      "image": "https://files.merca20.com/uploads/2026/04/metro-cdmx_2026-1.jpg",
-      "published": "2026-07-11T18:44:50+00:00",
       "score": null,
       "tags": []
     },
@@ -701,18 +929,6 @@
       "tags": []
     },
     {
-      "id": "18b16b14a1d832",
-      "title": "Cómo tramitar tu credencial del Servicio Universal de Salud 2026: PASO A PASO y cuáles son los requisitos",
-      "url": "https://www.merca20.com/como-tramitar-tu-credencial-del-servicio-universal-de-salud-2026-paso-a-paso-y-cuales-son-los-requisitos/?utm_source=rss&utm_medium=rss&utm_campaign=como-tramitar-tu-credencial-del-servicio-universal-de-salud-2026-paso-a-paso-y-cuales-son-los-requisitos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La credencial del Servicio Universal de Salud te permitirá recibir atención en diferentes instituciones médicas, sin importar tu afiliación",
-      "image": "https://files.merca20.com/uploads/2026/04/Servicio-Universal-de-Salud.jpg",
-      "published": "2026-07-11T17:56:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fc46cb67942aac",
       "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
       "url": "https://expansion.mx/tecnologia/2026/07/11/apple-presenta-demanda-contra-openai-secretos-empresariales",
@@ -721,18 +937,6 @@
       "summary": "La demanda llega después de meses de tensión entre ambos gigantes tecnológicos.",
       "image": "https://cdn-3.expansion.mx/dims4/default/2ea2a30/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fac%2F0e%2F5dbf5c414fdd97ceccd26dec022d%2F5-gettyimages-2273930330.jpg",
       "published": "2026-07-11T17:07:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "16ddae51c2591f",
-      "title": "South Africa World Cup 2026 Player Jayden Adams Dies: Cause of Death and Net Worth",
-      "url": "https://www.merca20.com/south-africa-world-cup-2026-player-jayden-adams-dies-cause-of-death-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=south-africa-world-cup-2026-player-jayden-adams-dies-cause-of-death-and-net-worth",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The news of South African midfielder Jayden Adams' death has shocked fans and fellow players around the world",
-      "image": "https://files.merca20.com/uploads/2026/07/Jayden-Adams.jpg",
-      "published": "2026-07-11T17:04:38+00:00",
       "score": null,
       "tags": []
     },
@@ -761,42 +965,6 @@
       "tags": []
     },
     {
-      "id": "2180e179c09fd7",
-      "title": "Estrategia de marca LEGO: 10 campañas que explican por qué domina la creatividad mundial",
-      "url": "https://www.merca20.com/estrategia-de-marca-lego-cannes-lions-2026/?utm_source=rss&utm_medium=rss&utm_campaign=estrategia-de-marca-lego-cannes-lions-2026",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "LEGO presentó en Cannes Lions 2026 campañas desarrolladas en distintos países que revelan una estrategia basada en el juego, la participación y las experiencias compartidas. Analizamos una por una cada idea.",
-      "image": "https://files.merca20.com/uploads/2026/07/estrategia-de-marca-lego.jpg",
-      "published": "2026-07-11T16:51:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "68a9cdd7523ba8",
-      "title": "Quiebra de Flybondi: la crisis que puso contra las cuerdas a la mayor low cost de Argentina",
-      "url": "https://www.merca20.com/quiebra-de-flybondi-crisis-aerolinea/?utm_source=rss&utm_medium=rss&utm_campaign=quiebra-de-flybondi-crisis-aerolinea",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Flybondi enfrenta la mayor crisis de su historia. Estas son las causas, los errores que llevaron a la compañía a esta situación y los escenarios que definirán su futuro.",
-      "image": "https://files.merca20.com/uploads/2026/07/quiebra-de-flubondi.jpg",
-      "published": "2026-07-11T16:32:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8e63019e9f6291",
-      "title": "Luto en el futbol: Muere famoso jugador a los 25 años; enfrentó a México en el Mundial 2026",
-      "url": "https://www.merca20.com/luto-en-el-futbol-muere-famoso-jugador-a-los-25-anos-enfrento-a-mexico-en-el-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=luto-en-el-futbol-muere-famoso-jugador-a-los-25-anos-enfrento-a-mexico-en-el-mundial-2026",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La noticia del fallecimiento del mediocampista ha causado consternación entre fans y colegas de todo el mundo",
-      "image": "https://files.merca20.com/uploads/2026/06/luto-Gemini-AI.jpg",
-      "published": "2026-07-11T16:22:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "94cf03bb401a91",
       "title": "¿Van a pasar el partido de Argentina vs. Suiza en TV abierta y a qué hora es el juego en México?",
       "url": "https://expansion.mx/tendencias/2026/07/11/se-podra-ver-argentina-vs-suiza-tv-abierta",
@@ -805,18 +973,6 @@
       "summary": "El tercer duelo de cuartos de final pone en juego un boleto a semifinales; te decimos a qué hora se juega, en qué sede y cómo seguir la transmisión en vivo desde México.",
       "image": "https://cdn-3.expansion.mx/dims4/default/109448d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F85%2F12%2F340cfbd648369ce54a1162069900%2Fse-podra-ver-argentina-vs-suiza-tv-abierta.jpg",
       "published": "2026-07-11T16:00:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "090b9652045bdf",
-      "title": "Estos son los 3 trucos de HyperOS 3.1 que debes conocer para tu móvil Xiaomi",
-      "url": "https://hipertextual.com/tecnologia/estos-son-los-3-trucos-de-hyperos-3-1-que-debes-conocer-para-tu-movil-xiaomi/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "En estos momentos es bastante probable que tu móvil Xiaomi ya haya actualizado a HyperOS 3.1. Es la última versión del sistema de la compañía, y una verdadera maravilla en cuanto a rendimiento, estética y funciones. De h…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Xiaomi-.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T16:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -833,30 +989,6 @@
       "tags": []
     },
     {
-      "id": "0d7573104ffa30",
-      "title": "Noruega vs. Inglaterra: Dónde y a qué hora ver el partido en vivo y GRATIS desde México",
-      "url": "https://www.merca20.com/noruega-vs-inglaterra-donde-y-a-que-hora-ver-el-partido-en-vivo-y-gratis-desde-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=noruega-vs-inglaterra-donde-y-a-que-hora-ver-el-partido-en-vivo-y-gratis-desde-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El partido Noruega vs. Inglaterra será este sábado en Miami, donde ambas selecciones buscarán el boleto a las semifinales del Mundial 2026",
-      "image": "https://files.merca20.com/uploads/2026/07/Noruega-vs.-Inglaterra-Gemini-AI.jpg",
-      "published": "2026-07-11T15:37:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5db7a2044459dd",
-      "title": "¿Tiene ‘Moana’ (Vaiana) escena poscréditos?",
-      "url": "https://hipertextual.com/cine-television/tiene-moana-vaiana-escena-poscreditos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El live-action de Moana (Vaiana) tiene el controvertido mérito de debutar en crítica con más reseñas negativas que positivas. Algo que el agregador Rotten Tomatoes dejó claro al otorgarle un bajísimo 36 % de reseñas favo…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Moana-Vaiana-remake.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T15:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8834d6972b4a08",
       "title": "¿Van a pasar el partido de Inglaterra vs. Noruega en TV abierta y a qué hora es el juego en México?",
       "url": "https://expansion.mx/tendencias/2026/07/11/inglaterra-vs-noruega-tv-abierta-a-que-hora-es",
@@ -865,66 +997,6 @@
       "summary": "El tercer duelo de cuartos de final pone en juego un boleto a semifinales; te decimos a qué hora se juega, en qué sede y cómo seguir la transmisión en vivo desde México.",
       "image": "https://cdn-3.expansion.mx/dims4/default/695b15a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F17%2F70%2F944e187742d8bdec6930469e5f9d%2Finglaterra-vs-noruega-tv-abierta-a-que-hora-es.jpg",
       "published": "2026-07-11T14:30:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8a1eff2849e3a3",
-      "title": "7 razones por las que los ‘live-action’ sí valen la pena (aunque no lo creas)",
-      "url": "https://hipertextual.com/cine-television/7-razones-por-las-que-los-live-action-si-valen-la-pena-aunque-no-lo-creas/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Moana (Vaiana) es el live-action número 25 de Disney. Uno, además, que deja claro que la tendencia de brindar una segunda mirada a las grandes historias de la cultura pop es incombustible. Más interesada en copiar la mag…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Live-action.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T14:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7a27cc290cdc22",
-      "title": "Avatar: The Last Airbender Season 3: Netflix Confirms New Cast Members",
-      "url": "https://www.merca20.com/avatar-the-last-airbender-season-3-netflix-confirms-new-cast-members/?utm_source=rss&utm_medium=rss&utm_campaign=avatar-the-last-airbender-season-3-netflix-confirms-new-cast-members",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Avatar: The Last Airbender Season 3 has wrapped filming, and Netflix is revealing more details about the continuation of the story",
-      "image": "https://files.merca20.com/uploads/2026/05/Avatar-The-Last-Airbender-Season-2.jpg",
-      "published": "2026-07-11T13:16:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "74f82a851d3f3a",
-      "title": "Erling Haaland: children, net worth, height and weight of Norway’s star player",
-      "url": "https://www.merca20.com/erling-haaland-children-net-worth-height-and-weight-of-norways-star-player/?utm_source=rss&utm_medium=rss&utm_campaign=erling-haaland-children-net-worth-height-and-weight-of-norways-star-player",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The life philosophy of Norway national soccer team star Erling Haaland has attracted widespread attention among fans",
-      "image": "https://files.merca20.com/uploads/2026/07/Erling-Haaland-2.jpg",
-      "published": "2026-07-11T13:00:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d06fb53da47032",
-      "title": "Esta película protagonizada por Alexander Skarsgård escandalizó a todo el mundo y ya se puede ver en streaming",
-      "url": "https://hipertextual.com/cine-television/esta-pelicula-protagonizada-por-alexander-skarsgard-escandalizo-a-todo-el-mundo-y-ya-se-puede-ver-en-streaming/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Pasajero, que ya se encuentra en Movistar+, se estrenó hace pocos meses y causó sensación (y también controversia) ahí en donde se estrenó. En particular, porque esta película protagonizada por Alexander Skarsgård desafí…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Phillion.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9dc88073cf9823",
-      "title": "Las 5 grandes series que debes ver si quieres sacarle el jugo a Apple TV",
-      "url": "https://hipertextual.com/cine-television/las-5-grandes-series-que-debes-ver-si-quieres-sacarle-el-jugo-a-apple-tv/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "A menos que vivas bajo una piedra, ya lo sabes. Apple TV se ha convertido en la plataforma ideal para los amantes de las series. Y eso se debe a un motivo muy específico. Su éxito no se mide por la cantidad masiva de su …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Apple-TV.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T12:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1121,18 +1193,6 @@
       "tags": []
     },
     {
-      "id": "e99868fd0e6275",
-      "title": "Alerta de ciberseguridad: ESET revela cómo Cuevana 3 y Magis TV usan permisos ocultos para robar tus datos",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/10/alerta-de-ciberseguridad-eset-revela-como-cuevana-3-y-magis-tv-usan-permisos-ocultos-para-robar-tus-datos/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La promesa de series y anime gratis en Cuevana 3 o Magis TV esconde un negocio de malware. ESET advierte sobre el robo de contraseñas de Gmail y bancos.",
-      "image": "https://www.fayerwayer.com/resizer/v2/3WXDB7C7V5DALBD5RCMLHK6DI4.jpg?auth=5469aad274383096ebbf51be712763999871148b93804ca6fdc547209d61f744&smart=true&width=6547&height=4365",
-      "published": "2026-07-10T18:31:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ff27651af4db3e",
       "title": "OpenAI cerrará ChatGPT Atlas y trasladará sus funciones a ChatGPT",
       "url": "https://www.muycomputer.com/2026/07/10/openai-cerrara-chatgpt-atlas-y-trasladara-sus-funciones-a-chatgpt/",
@@ -1193,18 +1253,6 @@
       "tags": []
     },
     {
-      "id": "859b7d43624cbd",
-      "title": "¿Magis TV o Pelota Libre? Así puedes ver España vs. Bélgica EN VIVO por el Mundial 2026",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/10/magis-tv-o-pelota-libre-asi-puedes-ver-espana-vs-belgica-en-vivo-por-el-mundial-2026/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Revisa los horarios para México, Argentina, Chile y Perú, y cómo ahorrar usando Lank.",
-      "image": "https://www.fayerwayer.com/resizer/v2/3QX5ELQYTRF2LAL6DOV3R6KZLQ.png?auth=8611c068282b27efe02cfdf69c0bab1cac128a44cfe00ccbbfc8fb7773a09bf1&smart=true&width=1200&height=800",
-      "published": "2026-07-10T17:05:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f6b86304d8a1e2",
       "title": "El fenómeno de Erling Haaland: dominador en la cancha y en los negocios",
       "url": "https://altonivel.com.mx/el-fenomeno-de-erling-haaland-dominador-en-la-cancha-y-en-los-negocios/",
@@ -1213,18 +1261,6 @@
       "summary": "Con una fortuna de 100 MDD, Erling Haaland brilla en el fútbol, domina los negocios y conquista las redes sociales. The post El fenómeno de Erling Haaland: dominador en la cancha y en los negocios appeared first on Alto …",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/erling-haaland.webp",
       "published": "2026-07-10T17:02:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "116be23e59cfcf",
-      "title": "Una potente llamarada solar X1.3 impacta la Tierra y enciende alarmas por fallas en GPS y redes eléctricas",
-      "url": "https://www.fayerwayer.com/internet/2026/07/10/una-potente-llamarada-solar-x13-impacta-la-tierra-y-enciende-alarmas-por-fallas-en-gps-y-redes-electricas/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El fenómeno arriesga apagones de radio, fallos en sistemas de navegación y sobrecargas eléctricas.",
-      "image": "https://www.fayerwayer.com/resizer/v2/CQXEPW4BJRDOZDXMYFGCKCQ2K4.jpeg?auth=d5f2065861364a162b6538e3a95433b7bd03425ac05cd71a7be1facefc3cec4b&smart=true&width=1920&height=1080",
-      "published": "2026-07-10T16:51:57+00:00",
       "score": null,
       "tags": []
     },
@@ -1249,30 +1285,6 @@
       "summary": "Circle recibió una licencia bancaria en Estados Unidos que le permitirá administrar las reservas de USDC bajo supervisión federal, un paso clave para la adopción de las stablecoins. The post ¿Qué significa que Circle, el…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2025/06/circle.webp",
       "published": "2026-07-10T15:17:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "82b659df249beb",
-      "title": "La adicción a Facebook e Instagram es comparada con casinos: Así es la denuncia ante la Unión Europea",
-      "url": "https://www.fayerwayer.com/internet/2026/07/10/la-adiccion-a-facebook-e-instagram-es-comparada-con-casinos-asi-es-la-denuncia-ante-la-union-europea/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Funciones como el scroll infinito y la reproducción automática arriesgan una multa histórica del 6% de sus ingresos globales.",
-      "image": "https://www.fayerwayer.com/resizer/v2/HJG3366R6BDC3HYABKNQZE7YAA.jpg?auth=acd84e681e31ca1cd6a9ff14633a555aec9e7a5d324a433c6a0220f5e4f28cdf&smart=true&width=509&height=339",
-      "published": "2026-07-10T15:07:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "86732c08a1f3ee",
-      "title": "México creó 262,628 empleos en el primer semestre del 2026: IMSS",
-      "url": "https://altonivel.com.mx/mexico-creo-262628-empleos-en-el-primer-semestre-del-2026-imss/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El IMSS reportó la creación de 61,023 empleos formales en junio, con lo que el país acumuló 262,628 nuevas plazas en el primer semestre de 2026 y recuperó el crecimiento tras la caída de mayo. The post México creó 262,62…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2024/12/salario-afecta-empleo-formal-jpg.webp",
-      "published": "2026-07-10T15:02:59+00:00",
       "score": null,
       "tags": []
     },
@@ -1361,30 +1373,6 @@
       "tags": []
     },
     {
-      "id": "b2d7ddda439dd2",
-      "title": "Xbox ha diezmado id Software, despreciando el id Tech 8 a favor del Unreal Engine 5",
-      "url": "https://www.muycomputer.com/2026/07/10/xbox-ha-diezmado-id-software-despreciando-el-id-tech-8-a-favor-del-unreal-engine-5/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "La información de que Xbox, en su intento de reinicio completo de la división, había reducido drásticamente la estructura de id Software apareció ayer, pero he querido esperar a tener una fuente de confianza, y detalles …",
-      "image": null,
-      "published": "2026-07-10T07:30:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c7537940ed34cb",
-      "title": "GPT-5.6 ya está disponible y llega acompañado de ChatGPT Work",
-      "url": "https://www.muycomputer.com/2026/07/10/gpt-5-6-ya-esta-disponible-y-llega-acompanado-de-chatgpt-work/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Hace apenas dos semanas, OpenAI sorprendía al anunciar GPT-5.6, pero también por una decisión poco habitual: limitar inicialmente su acceso a un reducido grupo de organizaciones autorizadas por el Gobierno de Estados Uni…",
-      "image": null,
-      "published": "2026-07-10T06:03:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0740c7d95e22f1",
       "title": "El primer año en Psicología: una etapa clave para adaptarse y prevenir el abandono",
       "url": "https://www.infocop.es/el-primer-ano-en-psicologia-una-etapa-clave-para-adaptarse-y-prevenir-el-abandono/",
@@ -1445,18 +1433,6 @@
       "tags": []
     },
     {
-      "id": "1386c368c8947c",
-      "title": "Banxico enfrenta un dilema: la economía se enfría, pero la inflación aún no cede del todo",
-      "url": "https://altonivel.com.mx/banxico-enfrenta-un-dilema-la-economia-se-enfria-pero-la-inflacion-aun-no-cede-del-todo/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Las minutas del banco central sugieren que la debilidad de la economía aún no es suficiente para garantizar un descenso sostenido de la inflación. The post Banxico enfrenta un dilema: la economía se enfría, pero la infla…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2024/11/banxico-wmc-jpg.webp",
-      "published": "2026-07-09T22:46:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "71f88487604d37",
       "title": "Cuando lo que parece psicosis tiene una causa parasitaria: el caso de Lowri Denman",
       "url": "https://www.psyciencia.com/cuando-lo-que-parece-psicosis-tiene-una-causa-parasitaria-el-caso-de-lowri-denman/",
@@ -1465,18 +1441,6 @@
       "summary": "Un reportaje reciente de BBC News Mundo narra el caso de Lowri Denman, una mujer galesa de 42 años a quien se le diagnosticaron 38 quistes cerebrales causados por Taenia…",
       "image": null,
       "published": "2026-07-09T21:43:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "464b15a2117516",
-      "title": "WhatsApp quiere que no vuelvas a olvidar ningún cumpleaños",
-      "url": "https://www.muycomputer.com/2026/07/09/whatsapp-quiere-que-no-vuelvas-a-olvidar-ningun-cumpleanos/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Seguro que alguna vez te has acordado del cumpleaños de un amigo cuando ya era demasiado tarde o, peor aún, después de ver cómo otras personas ya le habían felicitado. Es una situación mucho más habitual de lo que parece…",
-      "image": null,
-      "published": "2026-07-09T18:17:37+00:00",
       "score": null,
       "tags": []
     },

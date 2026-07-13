@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-13T02:49:41.060802+00:00",
+    "generated": "2026-07-13T09:28:20.803369+00:00",
     "total": 183
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Ganar dinero con tu pasión suena como un sueño imposible. La mayoría de los emprendedores piensan con lógica y prefieren ideas “prometedoras” en lugar de seguir sus hobbies. Aun así, decidí arriesgarme. The post No solo …",
       "image": null,
-      "published": "2026-07-13T02:49:39.720539+00:00",
+      "published": "2026-07-13T09:28:19.451805+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Los mejores fundadores no necesariamente son mejores prediciendo el futuro; son mejores dándole sentido a la incertidumbre. The post A los fundadores los pintan como visionarios, pero eso no es lo que realmente impulsa e…",
       "image": null,
-      "published": "2026-07-13T02:49:39.720019+00:00",
+      "published": "2026-07-13T09:28:19.451504+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "¿Estás listo para poner en marcha tu próxima gran idea? Primero lee esto. The post Los emprendedores inteligentes no se lanzan al vacío sin antes mirar — Así es como debes abordar estratégicamente la creación de un negoc…",
       "image": null,
-      "published": "2026-07-13T02:49:39.719482+00:00",
+      "published": "2026-07-13T09:28:19.451215+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Un evento para emprendedores reunirá en San Francisco a fondos, aceleradoras y fundadores latinoamericanos, en un intento por abrir una vía directa hacia el capital de riesgo estadounidense en medio de la caída en las vi…",
       "image": null,
-      "published": "2026-07-13T02:49:39.719006+00:00",
+      "published": "2026-07-13T09:28:19.450913+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "De forma innata, sabemos que la felicidad es efímera y que la plenitud debería ser nuestro verdadero objetivo a largo plazo. Pero, ¿qué constituye exactamente la plenitud y de qué manera puede aplicarse en el entorno emp…",
       "image": null,
-      "published": "2026-07-13T02:49:39.718492+00:00",
+      "published": "2026-07-13T09:28:19.450598+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial ya está presente en la mayoría de las empresas, pero pocas logran convertirla en resultados reales. The post La verdadera razón por la que la IA sigue sin transformar a muchas empresas appeared…",
       "image": null,
-      "published": "2026-07-13T02:49:39.717816+00:00",
+      "published": "2026-07-13T09:28:19.450256+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "No hay un manual para emprender y el consejo de tu mamá, aunque bien intencionado, no contemplaba los retos reales de construir un negocio. The post 3 verdades que todo fundador aprende a la mala appeared first on Entrep…",
       "image": null,
-      "published": "2026-07-13T02:49:39.716609+00:00",
+      "published": "2026-07-13T09:28:19.449152+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "El CEO de una compañía de activos digitales cuenta qué se necesita para emprender puertas adentro de un conglomerado con más de un siglo de historia. Incluidos los fracasos. The post ¿Cómo se lidera una fintech de cripto…",
       "image": null,
-      "published": "2026-07-13T02:49:39.716090+00:00",
+      "published": "2026-07-13T09:28:19.448831+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Descubre cinco poderosas frases que inspiran a emprendedores en cada etapa del viaje de una startup, desde la idea hasta el crecimiento. Una lectura obligada para fundadores que buscan motivación y claridad. The post Est…",
       "image": null,
-      "published": "2026-07-13T02:49:39.715590+00:00",
+      "published": "2026-07-13T09:28:19.448518+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,343 @@
       "category": "startup",
       "summary": "No hay mejor momento que el presente para pensar más en los demás que en uno mismo. Da generosamente en todo lo que hagas: tiempo, energía, entusiasmo, atención y apoyo financiero. Tu empresa, clientes, comunidad y equip…",
       "image": null,
-      "published": "2026-07-13T02:49:39.715036+00:00",
+      "published": "2026-07-13T09:28:19.448182+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d462ddec1688b0",
+      "title": "A Meta le pareció buena idea que su IA generara imágenes a partir de tus fotos de Instagram. Días después ya ha dado marcha atrás",
+      "url": "https://www.xataka.com/privacidad/a-meta-le-parecio-buena-idea-que-su-ia-generara-imagenes-a-partir-tus-fotos-instagram-dias-despues-ha-dado-marcha-atras",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La semana pasada Meta lanzó Muse Image y Muse Video, sus nuevos modelos de IA integrados en la app de Meta AI. Sin embargo, el lanzamiento fue rápidamente eclipsado por las críticas que recibió una de las funciones del g…",
+      "image": "https://i.blogs.es/edf101/instagram-meta-ai/1024_2000.jpeg",
+      "published": "2026-07-13T09:16:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1be121a6b36d74",
+      "title": "Huawei está levantando un imperio de semiconductores. Y en mitad de la crisis, ahora va a por su propia fábrica de DRAM",
+      "url": "https://www.xataka.com/empresas-y-economia/huawei-esta-levantando-imperio-semiconductores-mitad-crisis-ahora-va-a-su-propia-fabrica-dram",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si Huawei tiene un mensaje para la Estados Unidos que intentó condenarla al ostracismo con el veto de hace un lustro , ese mensaje es \"gracias\". Fue el mismo presidente de la compañía china el que comentó hace unos días …",
+      "image": "https://i.blogs.es/e9c1d9/original/1024_2000.jpeg",
+      "published": "2026-07-13T09:00:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f5202fb43cdbaa",
+      "title": "5 películas fundamentales para entender la carrera de Sam Neill: mucho más que ‘Jurassic Park’",
+      "url": "https://hipertextual.com/cine-television/5-peliculas-fundamentales-para-entender-la-carrera-de-sam-neill/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El actor Sam Neill ha fallecido este lunes 13 de julio a los 78 años de manera \"repentina e inesperada\", según ha confirmado su familia. Con su muerte, deja consigo un legado a la altura de muy pocos. Y es que cualquier …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Sam-Neill-carrera.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-13T08:58:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bc4591e7e0747d",
+      "title": "Buena, bonita y barata: así es la nueva impresora de fotos de Xiaomi que te ahorra un dineral en revelado",
+      "url": "https://hipertextual.com/tecnologia/buena-bonita-y-barata-asi-es-la-nueva-impresora-de-fotos-de-xiaomi-que-te-ahorra-un-dineral-en-revelado/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Xiaomi acaba de hacer que ir a revelar fotografías sea algo del pasado. Ha anunciado una nueva impresora de fotos que soluciona el mayor problema de sus anteriores versiones y que da un golpe en la mesa para que nadie se…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Xiaomi-1-2.jpg?fit=1024%2C679&quality=70&strip=all&ssl=1",
+      "published": "2026-07-13T08:56:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "03100f93da62a8",
+      "title": "Valve cambiará el aviso de temperatura de la Steam Machine a 100º C",
+      "url": "https://www.muycomputer.com/2026/07/13/valve-cambiara-el-aviso-de-temperatura-de-la-steam-machine-a-100o-c/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "La Steam Machine tiene una barra de luz LED justo en la parte inferior del chasis que puede adoptar varios colores. El color azul indica que todo va bien, y el color rojo se utiliza para indicar que se ha producido algún…",
+      "image": null,
+      "published": "2026-07-13T08:37:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b8f36b14a102a2",
+      "title": "Un Garmin por 150 euros, el POCO X8 Pro, Nintendo Switch 2 y más: las mejores ofertas de la nueva promo de AliExpress",
+      "url": "https://www.xataka.com/seleccion/garmin-150-euros-poco-x8-pro-nintendo-switch-2-mejores-ofertas-nueva-promo-aliexpress",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "A punto de llegar al ecuador de julio, AliExpress ha arrancado una nueva promo: Venta de vacaciones . Durante unos días (concretamente, hasta que termine el próximo 19 de julio ), tenemos a nuestra disposición un montón …",
+      "image": "https://i.blogs.es/f07c2f/nothing-phone-3a-pro-garmin-forerunner-255/1024_2000.jpeg",
+      "published": "2026-07-13T08:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "97e33fc45c1071",
+      "title": "En Alicante son expertos haciendo obras con arte antiguo. Hasta que han encontrado una esfinge romana incrustada en una escalera",
+      "url": "https://www.xataka.com/magnet/alicante-expertos-haciendo-obras-arte-antiguo-que-han-encontrado-esfinge-romana-incrustada-escalera",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El reciclaje en la arquitectura de la Antigüedad (o la Edad Media) no era ni una sensibilidad ecológica ni una corriente estética. Más bien era supervivencia económica pura y dura. Si disponías de piedra cuadrada de buen…",
+      "image": "https://i.blogs.es/cdc063/plantilla/1024_2000.jpeg",
+      "published": "2026-07-13T08:30:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "99994e8930dd51",
+      "title": "Marketing: Solo 27% del contenido de influencers ayuda realmente a las marcas, revela estudio de Kantar",
+      "url": "https://www.merca20.com/marketing-solo-27-del-contenido-de-influencers-ayuda-realmente-a-las-marcas-revela-estudio-de-kantar/?utm_source=rss&utm_medium=rss&utm_campaign=marketing-solo-27-del-contenido-de-influencers-ayuda-realmente-a-las-marcas-revela-estudio-de-kantar",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Pese a las dudas sobre efectividad, el marketing de influencers continúa expandiéndose a nivel global. El informe calcula que la creator economy podría superar los 350 mil millones de dólares hacia 2030, impulsada por re…",
+      "image": "https://files.merca20.com/uploads/2026/01/MARKETING_IA_2026.jpg",
+      "published": "2026-07-13T08:00:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "46c9733f90f97f",
+      "title": "Gráfica del día: ¿Cuántos asistieron al Ángel de la Independencia en los partidos de México?",
+      "url": "https://www.merca20.com/grafica-del-dia-cuantos-asistieron-al-angel-de-la-independencia-en-los-partidos-de-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-cuantos-asistieron-al-angel-de-la-independencia-en-los-partidos-de-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Las celebraciones posteriores a los partidos de la Selección Mexicana reunieron a miles de aficionados",
+      "image": "https://files.merca20.com/uploads/2026/07/Grafica-del-dia-¿Cuantas-personas-asistieron-al-Angel-de-la-Independencia-durante-los-partidos-de-Mexico.jpeg",
+      "published": "2026-07-13T07:50:59+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3bf259f9d828db",
+      "title": "Ni la IA preocupa tanto: La fragmentación de plataformas encabeza los desafíos del marketing",
+      "url": "https://www.merca20.com/ni-la-ia-preocupa-tanto-la-fragmentacion-de-plataformas-encabeza-los-desafios-del-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=ni-la-ia-preocupa-tanto-la-fragmentacion-de-plataformas-encabeza-los-desafios-del-marketing",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Las marcas nunca habían tenido tantas opciones para llegar a los consumidores, pero tampoco tantos obstáculos para medir si sus campañas realmente funcionan",
+      "image": "https://files.merca20.com/uploads/2026/07/ia-marketing-especial.jpg",
+      "published": "2026-07-13T07:40:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c1412f4ba24420",
+      "title": "No es que el turismo de masas se haya instalado en Madrid, Barcelona o Roma, es que ha llegado hasta las islas Galápagos",
+      "url": "https://www.xataka.com/magnet/no-que-turismo-masas-se-haya-instalado-madrid-barcelona-roma-que-ha-llegado-islas-galapagos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El pasado verano, y mientras España le declaraba la guerra al sector, el alquiler vacacional alcanzaba cotas que hasta hace poco habrían parecido más propias de una distopía. De hecho, las plataformas comenzaban a hacer …",
+      "image": "https://i.blogs.es/b20b34/ps---plantilla-portadas-xtk-498/1024_2000.jpeg",
+      "published": "2026-07-13T07:31:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5e7ab6ab2d1fc7",
+      "title": "Regreso a clases 2026: lo que el retail mexicano está aprendiendo de sus propios clientes",
+      "url": "https://www.merca20.com/regreso-a-clases-2026-lo-que-el-retail-mexicano-esta-aprendiendo-de-sus-propios-clientes/?utm_source=rss&utm_medium=rss&utm_campaign=regreso-a-clases-2026-lo-que-el-retail-mexicano-esta-aprendiendo-de-sus-propios-clientes",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Dentro del regreso a clases, pocas categorías muestran una evolución tan marcada como la de cómputo.",
+      "image": "https://files.merca20.com/uploads/2026/07/regreso-clases-2026.jpg",
+      "published": "2026-07-13T07:30:14+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "46cdbd4c32886d",
+      "title": "Cambio de planes en Samsung: retrasa su móvil más esperado del año y a cambio va a presentar un modelo completamente nuevo y nunca visto",
+      "url": "https://hipertextual.com/mobile/cambio-de-planes-en-samsung-retrasa-su-movil-mas-esperado-del-ano-y-a-cambio-va-a-presentar-un-modelo-completamente-nuevo-y-nunca-visto/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Samsung está a punto de lanzar su nueva familia de plegables, los Galaxy Z Fold 8 y Z Flip 8, que competirá con el primer iPhone de este tipo. El 22 de junio, la compañía confirmará tanto su diseño, como sus principales …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/galaxy-z-trifold-retrasado.jpg?fit=1024%2C621&quality=70&strip=all&ssl=1",
+      "published": "2026-07-13T07:28:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d4cc26a16eb18a",
+      "title": "Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)",
+      "url": "https://hipertextual.com/apple/olvidate-de-un-iphone-18-sin-subida-de-precio-el-plan-de-apple-ha-fallado-puedes-ir-ahorrando-mas/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM, compañías como Apple tenían un as guardado en la manga para paliar las subidas drásticas en sus productos. Pues bien, hoy no solo hemos cono…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/IPHONE-18-.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-07-13T07:28:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "744d658304f956",
+      "title": "Ampliar la RAM de PS1 de 2 MB a 16 MB tiene pequeñas ventajas… y muchas desventajas",
+      "url": "https://www.muycomputer.com/2026/07/13/ampliar-la-ram-de-ps1-de-2-mb-a-16-mb-tiene-pequenas-ventajas-y-muchas-desventajas/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "La consola PS1 tiene una configuración de 2 MB de memoria, y además integra 1 MB de VRAM (memoria para gráficos) y 512 KB para sonido. Esa configuración tan modesta le permitió mover auténticas obras de arte, ¿pero qué p…",
+      "image": null,
+      "published": "2026-07-13T07:18:32+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "01f64d2c1a2bb0",
+      "title": "¿Por qué los CMO necesitan vender el valor del marketing dentro de la empresa?",
+      "url": "https://www.merca20.com/por-que-los-cmo-necesitan-vender-el-valor-del-marketing-dentro-de-la-empresa/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-los-cmo-necesitan-vender-el-valor-del-marketing-dentro-de-la-empresa",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Cuando las empresas enfrentan incertidumbre económica, el presupuesto de marketing suele ser uno de los primeros en sufrir ajustes.",
+      "image": "https://files.merca20.com/uploads/2025/10/bigstock-CMO-Chief-Marketing-Officer-105682511.jpg",
+      "published": "2026-07-13T07:00:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "93ab6596cb5278",
+      "title": "Muere Sam Neill, estrella de ‘Jurassic Park’, a los 78 años",
+      "url": "https://hipertextual.com/cine-television/muere-sam-neill-estrella-de-jurassic-park-a-los-78-anos/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El actor Sam Neill, protagonista de Parque Jurásico (Jurassic Park), ha muerto a los 78 años. En un comunicado emitido por su familia, se confirma el fallecimiento del intérprete, que ha sido \"repentino e inesperado\". Po…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Muere-Sam-Neill.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-13T06:57:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a35fe65a2478ec",
+      "title": "El futbol es lo más importante de lo menos importante",
+      "url": "https://www.merca20.com/el-futbol-es-lo-mas-importante-de-lo-menos-importante/?utm_source=rss&utm_medium=rss&utm_campaign=el-futbol-es-lo-mas-importante-de-lo-menos-importante",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El verdadero valor del futbol radica en su capacidad para fomentar la cohesión social. Promueve de manera natural valores como el trabajo en equipo, la resiliencia, el respeto al adversario y la celebración compartida",
+      "image": "https://files.merca20.com/uploads/2024/02/paco-santamaria-2024.jpg",
+      "published": "2026-07-13T06:50:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "be2b390b1d0491",
+      "title": "El Mundial de los 20 mil millones: ¿Más ojos o más corazones?",
+      "url": "https://www.merca20.com/el-mundial-de-los-20-mil-millones-mas-ojos-o-mas-corazones/?utm_source=rss&utm_medium=rss&utm_campaign=el-mundial-de-los-20-mil-millones-mas-ojos-o-mas-corazones",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Con ese tamaño de audiencia, cualquier historia que el Mundial decida contar llega a todos lados. Y este Mundial decidió contar, sobre todo, la del relevo generacional.",
+      "image": "https://files.merca20.com/uploads/2024/04/columnista-Felix-Ramirez.jpg",
+      "published": "2026-07-13T06:40:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c9b8ecc5aa63cc",
+      "title": "El Mundial seguirá pero el marketing ya tiene que avanzar",
+      "url": "https://www.merca20.com/el-mundial-seguira-pero-el-marketing-ya-tiene-que-avanzar/?utm_source=rss&utm_medium=rss&utm_campaign=el-mundial-seguira-pero-el-marketing-ya-tiene-que-avanzar",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Las marcas deben preguntarse cómo trasladarán la emoción del Mundial hacia las siguientes necesidades del consumidor.",
+      "image": "https://files.merca20.com/uploads/2025/05/diego-luna-mayyo.jpg",
+      "published": "2026-07-13T06:30:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "31dee851671148",
+      "title": "El diseño de tiers no es un asunto de marca. Es un asunto de calibración",
+      "url": "https://www.merca20.com/el-diseno-de-tiers-no-es-un-asunto-de-marca-es-un-asunto-de-calibracion/?utm_source=rss&utm_medium=rss&utm_campaign=el-diseno-de-tiers-no-es-un-asunto-de-marca-es-un-asunto-de-calibracion",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Es una conversación de marca. Y el diseño de niveles no es un problema de marca: es un problema de calibración",
+      "image": "https://files.merca20.com/uploads/2025/10/alejandro-gonzalez-octubre.jpg",
+      "published": "2026-07-13T06:20:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cc548f5f0a3464",
+      "title": "Moana y el problema de los live action de Disney",
+      "url": "https://www.merca20.com/moana-y-el-problema-de-los-live-action-de-disney/?utm_source=rss&utm_medium=rss&utm_campaign=moana-y-el-problema-de-los-live-action-de-disney",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "“Moana” es el más reciente fracaso en la taquilla de un live action de Disney, sumándose a “Blanca Nieves” y “Dumbo”",
+      "image": "https://files.merca20.com/uploads/2024/02/columna-carlos-mendiola-2024.jpg",
+      "published": "2026-07-13T06:10:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "444eb458c1c173",
+      "title": "AMD prepara FSR Multi Frame Generation x8: siete fotogramas generados en por cada fotograma renderizado",
+      "url": "https://www.muycomputer.com/2026/07/13/amd-prepara-fsr-multi-frame-generation-x8-siete-fotogramas-generados-en-por-cada-fotograma-renderizado/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Los últimos drivers que ha lanzado AMD esconden un importante secreto que ha sido descubierto gracias a RadeonTuner: FSR Multi Frame Generation x8, un modo que cuya activación se podrá forzar en un futuro a través de los…",
+      "image": null,
+      "published": "2026-07-13T06:01:14+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d99c4ae86852f4",
+      "title": "La APA recomienda abordar el uso de la inteligencia artificial en la evaluación psicológica",
+      "url": "https://www.infocop.es/la-apa-recomienda-abordar-el-uso-de-la-inteligencia-artificial-en-la-evaluacion-psicologica/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Cada vez más personas recurren a chatbots de inteligencia artificial para obtener apoyo psicológico o emocional. Ante esta realidad, la Asociación Americana de Psicología (APA) considera que los psicólogos y psicólogas d…",
+      "image": null,
+      "published": "2026-07-13T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b0f58244acae3b",
+      "title": "Los accidentes de tráfico conllevan consecuencias psicológicas persistentes que siguen siendo invisibilizadas, según un estudio",
+      "url": "https://www.infocop.es/los-accidentes-de-trafico-conllevan-consecuencias-psicologicas-persistentes-que-siguen-siendo-invisibilizadas-segun-un-estudio/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Las lesiones por accidentes de tráfico no solo provocan más de un millón de muertes al año, sino que dejan a millones de personas con secuelas permanentes que transforman radicalmente sus vidas (...) La entrada Los accid…",
+      "image": null,
+      "published": "2026-07-13T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0fd0b46aea5651",
+      "title": "Entrenamiento en gestión de las emociones dirigido a padres. Guía para el clínico",
+      "url": "https://www.infocop.es/entrenamiento-en-gestion-de-las-emociones-dirigido-a-padres-guia-para-el-clinico/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Entrenamiento en gestión de las emociones dirigido a padres es una guía práctica para psicoterapeutas que desean integrar la Terapia Focalizada en las Emociones en su trabajo clínico y convertir la relación familiar en e…",
+      "image": null,
+      "published": "2026-07-13T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f484e1fe67fc26",
+      "title": "No todos los problemas de atención son TDAH: claves para una detección eficaz en la infancia y la adolescencia",
+      "url": "https://www.infocop.es/no-todos-los-problemas-de-atencion-son-tdah-claves-para-una-deteccion-eficaz-en-la-infancia-y-la-adolescencia/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "El Instituto de la Mente Infantil pone de relieve que los problemas de atención pueden tener múltiples causas, recogiendo una serie de pautas para diferenciarlas (...) La entrada No todos los problemas de atención son TD…",
+      "image": null,
+      "published": "2026-07-13T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b590feb57eb457",
+      "title": "Familiares de desaparecidos: entre la búsqueda de respuestas y la necesidad de aferrarse a lo que ya saben",
+      "url": "https://www.infocop.es/familiares-de-desaparecidos-entre-la-busqueda-de-respuestas-y-la-necesidad-de-aferrarse-a-lo-que-ya-saben/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "La incertidumbre prolongada que atraviesan los familiares de personas desaparecidas, no se traduce necesariamente en una necesidad extrema de respuestas inmediatas (...) La entrada Familiares de desaparecidos: entre la b…",
+      "image": null,
+      "published": "2026-07-13T03:57:00+00:00",
       "score": null,
       "tags": []
     },
@@ -161,6 +497,18 @@
       "tags": []
     },
     {
+      "id": "9cfb4201060ef9",
+      "title": "El número de muertos por los sismos en Venezuela sube a casi 4,500 personas",
+      "url": "https://expansion.mx/mundo/2026/07/12/el-numero-de-muertos-por-los-sismos-en-venezuela-sube-a-casi-4-500-personas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Gran parte de la población damnificada aún duerme en tiendas de campaña en parques, estadios o plazas en La Guaira y en Caracas, las regiones más afectadas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a58bd53/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F96%2Fd6%2Fc420ae61474d9befba30308fba63%2Fvenezuela-sismos-damnificados.jpg",
+      "published": "2026-07-12T21:34:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "252a889f638bba",
       "title": "Wai Ching Ho, Iconic Marvel and Disney Actress, Dies: Cause of Death and Net Worth",
       "url": "https://www.merca20.com/wai-ching-ho-iconic-marvel-and-disney-actress-dies-cause-of-death-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=wai-ching-ho-iconic-marvel-and-disney-actress-dies-cause-of-death-and-net-worth",
@@ -169,6 +517,18 @@
       "summary": "Wai Ching Ho's death prompted an outpouring of condolences from fans and fellow actors who worked with her",
       "image": "https://files.merca20.com/uploads/2026/07/Wai-Ching-Ho-Gemini-AI.jpg",
       "published": "2026-07-12T21:20:46+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7baf444d60906b",
+      "title": "Irán anuncia cierre del estrecho de Ormuz y bombardea el Golfo en respuesta a ataques de EU",
+      "url": "https://expansion.mx/mundo/2026/07/12/iran-anuncia-cierre-del-estrecho-de-ormuz-y-bombardea-el-golfo-en-respuesta-a-ataques-de-eu",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los Guardianes de la Revolución anuncian que el paso marítimo seguirá cerrado hasta nuevo aviso, pero Washington afirma que la circulación continua.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/0e54164/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F03%2F7a%2F3b13377745f2a2a296b2ad733a9a%2Firan-cierra-estrecho-de-ormuz.jpg",
+      "published": "2026-07-12T20:37:12+00:00",
       "score": null,
       "tags": []
     },
@@ -209,18 +569,6 @@
       "tags": []
     },
     {
-      "id": "8daaebc91a3232",
-      "title": "Mundial 2026: ¡FIFA vende pedazos del césped donde se jugará la final! Cuánto cuestan y cómo comprarlos",
-      "url": "https://www.merca20.com/mundial-2026-fifa-vende-pedazos-del-cesped-donde-se-jugara-la-final-cuanto-cuestan-y-como-comprarlos/?utm_source=rss&utm_medium=rss&utm_campaign=mundial-2026-fifa-vende-pedazos-del-cesped-donde-se-jugara-la-final-cuanto-cuestan-y-como-comprarlos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La colección incluye partes reales de la superficie del MetLife Stadium de Nueva Jersey, donde se disputará la final del Mundial 2026",
-      "image": "https://files.merca20.com/uploads/2026/06/mundial-2026-uberr.jpg",
-      "published": "2026-07-12T19:30:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2bc3a5d3d24137",
       "title": "Creíamos que para construir una GPU hacían falta laboratorios y millones. Un maker está montando una en casa",
       "url": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa",
@@ -241,18 +589,6 @@
       "summary": "Samsung ha dado un paso gigante en la personalización de sus dispositivos, pero esas nuevas funciones y aplicaciones que la compañía está incluyendo en sus móviles están perjudicando a muchos usuarios. De hecho, la compa…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/Samsung-Galaxy-S25-Ultra-Analisis-12.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
       "published": "2026-07-12T19:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "15dcc92babf092",
-      "title": "T-Mobile Home Run Derby 2026: Cuándo y dónde verlo EN VIVO desde México",
-      "url": "https://www.merca20.com/t-mobile-home-run-derby-2026-cuando-y-donde-verlo-en-vivo-desde-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=t-mobile-home-run-derby-2026-cuando-y-donde-verlo-en-vivo-desde-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los mejores bateadores de las Grandes Ligas buscarán demostrar su poder en el T-Mobile Home Run Derby 2026",
-      "image": "https://files.merca20.com/uploads/2026/07/T-Mobile-Home-Run-Derby.jpg",
-      "published": "2026-07-12T18:42:38+00:00",
       "score": null,
       "tags": []
     },
@@ -329,18 +665,6 @@
       "tags": []
     },
     {
-      "id": "5351a076d3dce6",
-      "title": "SEP abre registro para la Universidad a Distancia de México 2026: Fechas, requisitos y cómo inscribirte",
-      "url": "https://www.merca20.com/sep-abre-registro-para-la-universidad-a-distancia-de-mexico-2026-fechas-requisitos-y-como-inscribirte/?utm_source=rss&utm_medium=rss&utm_campaign=sep-abre-registro-para-la-universidad-a-distancia-de-mexico-2026-fechas-requisitos-y-como-inscribirte",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La SEP abrió este nuevo proceso de admisión con más de 20 mil espacios disponibles en la Universidad a Distancia de México",
-      "image": "https://files.merca20.com/uploads/2026/07/estudiante-Gemini-AI.jpg",
-      "published": "2026-07-12T17:55:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "59fbb1b421a02f",
       "title": "El sérum de vitamina C no sustituye a tu protector solar, pero la ciencia advierte: usar ambos es el verdadero \"escudo total\"",
       "url": "https://www.xataka.com/medicina-y-salud/serum-vitamina-c-no-sustituye-a-tu-protector-solar-ciencia-advierte-usar-ambos-verdadero-escudo-total",
@@ -353,18 +677,6 @@
       "tags": []
     },
     {
-      "id": "f208dee722d3f3",
-      "title": "La Casa del Dragón: ¿Habrá una temporada 4? Esto reveló HBO",
-      "url": "https://www.merca20.com/la-casa-del-dragon-habra-una-temporada-4-esto-revelo-hbo/?utm_source=rss&utm_medium=rss&utm_campaign=la-casa-del-dragon-habra-una-temporada-4-esto-revelo-hbo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "HBO ha revelado más detalles sobre el futuro de La Casa del Dragón y ya confirmó si habrá o no una temporada 4 de la serie",
-      "image": "https://files.merca20.com/uploads/2026/07/House-of-the-Dragon-Season-3.jpg",
-      "published": "2026-07-12T17:16:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9885131ae5383e",
       "title": "De qué va ‘El manuscrito de Dante’, la película de Netflix con Oscar Isaac y Gal Gadot de la que todo el mundo habla",
       "url": "https://hipertextual.com/cine-television/de-que-va-el-manuscrito-de-dante-la-pelicula-de-netflix-con-oscar-isaac-y-gal-gadot-de-la-que-todo-el-mundo-habla/",
@@ -373,18 +685,6 @@
       "summary": "El manuscrito de Dante (2026) es toda una rareza en el catálogo de Netflix. La cinta, protagonizada por Oscar Isaac y Gal Gadot, mezcla el thriller histórico con un drama existencialista. Todo, en el terreno de una explo…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/In-the-Hand-of-Dante.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-12T17:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ccf4f158f30303",
-      "title": "GP de Bélgica: ¿Cuándo es la próxima carrera de Checo Pérez?",
-      "url": "https://www.merca20.com/gp-de-belgica-cuando-es-la-proxima-carrera-de-checo-perez/?utm_source=rss&utm_medium=rss&utm_campaign=gp-de-belgica-cuando-es-la-proxima-carrera-de-checo-perez",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El GP de Bélgica reunirá a los mejores pilotos de la categoría de la Fórmula 1, incluido Sergio \"Checo\" Pérez",
-      "image": "https://files.merca20.com/uploads/2026/05/sprint-cadillac-miamo.jpg",
-      "published": "2026-07-12T16:41:17+00:00",
       "score": null,
       "tags": []
     },
@@ -437,18 +737,6 @@
       "tags": []
     },
     {
-      "id": "622074162f32aa",
-      "title": "¡Ya es oficial! El INAPAM dará aguinaldo en 2026: requisitos y quiénes pueden obtenerlo",
-      "url": "https://www.merca20.com/ya-es-oficial-el-inapam-dara-aguinaldo-en-2026-requisitos-y-quienes-pueden-obtenerlo/?utm_source=rss&utm_medium=rss&utm_campaign=ya-es-oficial-el-inapam-dara-aguinaldo-en-2026-requisitos-y-quienes-pueden-obtenerlo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El aguinaldo no está dirigido a todas las personas que tienen la credencial del INAPAM, sino solo a quienes cumplan con ciertos requisitos",
-      "image": "https://files.merca20.com/uploads/2025/10/Aguinaldo-Gemini-AI.jpg",
-      "published": "2026-07-12T15:39:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "49b0c3d677f9eb",
       "title": "El plan para frenar el deshielo del Ártico es tan simple que suena a locura: congelarlo de nuevo",
       "url": "https://www.xataka.com/ecologia-y-naturaleza/plan-para-frenar-deshielo-artico-simple-que-suena-a-locura-congelarlo-nuevo",
@@ -497,18 +785,6 @@
       "tags": []
     },
     {
-      "id": "e96ddb834be52b",
-      "title": "SEP suspende días de vacaciones en nuevo calendario escolar 2026 a 2027 y ahora los niños regresarán antes a la escuela",
-      "url": "https://www.merca20.com/sep-suspende-dias-de-vacaciones-en-nuevo-calendario-escolar-2026-a-2027-y-ahora-los-ninos-regresaran-antes-a-la-escuela/?utm_source=rss&utm_medium=rss&utm_campaign=sep-suspende-dias-de-vacaciones-en-nuevo-calendario-escolar-2026-a-2027-y-ahora-los-ninos-regresaran-antes-a-la-escuela",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La Secretaría de Educación Pública (SEP) publicó el nuevo calendario escolar 2026 a 2027 en la Plataforma Integral de Gobernanza Regulatoria",
-      "image": "https://files.merca20.com/uploads/2026/07/nuevo-calendario-escolar-sep.jpg",
-      "published": "2026-07-12T14:31:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "30bed892971b67",
       "title": "Muere Lindsey Graham, senador republicano y aliado clave de Trump",
       "url": "https://altonivel.com.mx/muere-lindsey-graham-aliado-trump-senado-eeuu/",
@@ -545,18 +821,6 @@
       "tags": []
     },
     {
-      "id": "1996f374adb37e",
-      "title": "El Quijote que Orson Welles nunca terminó por fin tomará forma. Cuatro filmotecas se han tenido que poner de acuerdo para lograrlo",
-      "url": "https://www.xataka.com/cine-y-tv/quijote-que-orson-welles-nunca-termino-fin-tomara-forma-cuatro-filmotecas-se-han-tenido-que-poner-acuerdo-para-lograrlo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Welles tardó casi treinta años en no acabar su Quijote. Terry Gilliam tardó otros treinta y lo consiguió, pero el proceso fue una pesadilla que mereció su propio documental. Adaptar el Quijote nos ha dado varios clásico …",
-      "image": "https://i.blogs.es/9aec31/orson-welles-quijote/1024_2000.jpeg",
-      "published": "2026-07-12T14:01:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8a3ef8116bb95f",
       "title": "6 cosas que van a pasar en ‘La casa del Dragón’ si se respeta la trama de los libros",
       "url": "https://hipertextual.com/cine-television/6-cosas-que-van-a-pasar-en-la-casa-del-dragon-si-se-respeta-la-trama-de-los-libros/",
@@ -581,54 +845,6 @@
       "tags": []
     },
     {
-      "id": "11af02106c4765",
-      "title": "Pasaporte vigente ya no será suficiente: Gobierno prohíbe salir de México a quienes incumplan esta obligación",
-      "url": "https://www.merca20.com/pasaporte-vigente-ya-no-sera-suficiente-gobierno-prohibe-salir-de-mexico-a-quienes-incumplan-esta-obligacion/?utm_source=rss&utm_medium=rss&utm_campaign=pasaporte-vigente-ya-no-sera-suficiente-gobierno-prohibe-salir-de-mexico-a-quienes-incumplan-esta-obligacion",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Por lo tanto, contar con pasaporte y visa vigentes no necesariamente elimina la posibilidad de una restricción migratoria",
-      "image": "https://files.merca20.com/uploads/2026/07/pasaporte-mexico.jpg",
-      "published": "2026-07-12T13:43:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5bbe9aa9808f21",
-      "title": "No es solo cuestión de cumplir años: la mala salud metabólica envejece tu cerebro por una vía completamente independiente",
-      "url": "https://www.xataka.com/medicina-y-salud/no-solo-cuestion-cumplir-anos-mala-salud-metabolica-envejece-tu-cerebro-via-completamente-independiente",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Casi siempre hemos asumido que el declive de nuestras capacidades mentales es un peaje casi inevitable del paso del tiempo, puesto que cumplir años envejece el cerebro, y eso es un hecho. Sin embargo, la ciencia lleva añ…",
-      "image": "https://i.blogs.es/1b48e3/cerebro/1024_2000.jpeg",
-      "published": "2026-07-12T13:31:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5b0cc19815e505",
-      "title": "No eres tú, es el termómetro: no tomes decisiones importantes en ola de calor",
-      "url": "https://www.xataka.com/medicina-y-salud/no-eres-tu-termometro-no-tomes-decisiones-importantes-ola-calor",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Decía Ted Mosby de 'How I met your mother' que nada bueno pasa después de las 2 de la mañana y tiene sentido porque el cansancio y el sueño no son buenos consejeros. Y si estás fuera y te has tomado alguna compita, con m…",
-      "image": "https://i.blogs.es/cc17c1/calol/1024_2000.jpeg",
-      "published": "2026-07-12T13:01:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "74f82a851d3f3a",
-      "title": "Erling Haaland: children, net worth, height and weight of Norway’s star player",
-      "url": "https://www.merca20.com/erling-haaland-children-net-worth-height-and-weight-of-norways-star-player/?utm_source=rss&utm_medium=rss&utm_campaign=erling-haaland-children-net-worth-height-and-weight-of-norways-star-player",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The life philosophy of Norway national soccer team star Erling Haaland has attracted widespread attention among fans",
-      "image": "https://files.merca20.com/uploads/2026/07/Erling-Haaland-2.jpg",
-      "published": "2026-07-12T13:00:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9b26e88d36cacf",
       "title": "Esta serie de ciencia ficción es ideal para ti si amaste ‘Interstellar’ y ‘For all mankind’",
       "url": "https://hipertextual.com/cine-television/esta-serie-de-ciencia-ficcion-es-ideal-para-ti-si-amaste-interstellar-y-for-all-mankind/",
@@ -637,42 +853,6 @@
       "summary": "Interstellar y For All Mankind son, en sus respectivos estilos y formatos, dos de las mejores historias de la ciencia ficción reciente. Y lo son por una razón: su capacidad de mezclar lo humano con la tecnología de punta…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Ciencia-ficci%C2%B4pn-2332.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
       "published": "2026-07-12T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "761e12c3984f1e",
-      "title": "David Gross, Premio Nobel de Física: “Las probabilidades de que la humanidad viva más de 50 años son muy bajas”",
-      "url": "https://www.merca20.com/david-gross-premio-nobel-de-fisica-las-probabilidades-de-que-la-humanidad-viva-mas-de-50-anos-son-muy-bajas/?utm_source=rss&utm_medium=rss&utm_campaign=david-gross-premio-nobel-de-fisica-las-probabilidades-de-que-la-humanidad-viva-mas-de-50-anos-son-muy-bajas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Esta frase de David Gross refleja su preocupación por la forma en que factores globales pueden influir en el destino de nuestra especie",
-      "image": "https://files.merca20.com/uploads/2026/07/David-Gross-Gemini-AI.jpg",
-      "published": "2026-07-12T12:48:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f1c4077f2adb81",
-      "title": "Dos científicas se subirán a un vuelo suborbital en 2027 para hacer el primer estudio real de la menstruación en microgravedad",
-      "url": "https://www.xataka.com/espacio/virgin-galactic-lanzara-2027-primera-mision-dedicada-a-estudiar-menstruacion-espacio",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si todo va bien, en 2027 Virgin Galactic lanzará Operation Period-01, una misión suborbital dirigida a estudiar algo que no se ha hecho jamás: los efectos de la microgravedad sobre la menstruación. La primera mujer que v…",
-      "image": "https://i.blogs.es/251a46/menstruacion-en-el-espacio/1024_2000.jpeg",
-      "published": "2026-07-12T12:31:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5e38b7030290da",
-      "title": "Las mejores plataformas para compartir gastos en suscripciones de forma legal en España",
-      "url": "https://www.xataka.com/basics/mejores-plataformas-para-compartir-gastos-suscripciones-forma-legal-espana",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Vamos a decirte las mejores plataformas para compartir gastos en suscripciones de forma completamente legal. Todas son plataformas que funcionan en España, y sirve para pagar planes familiares entre todos y que, así, la …",
-      "image": "https://i.blogs.es/55de04/calculos/1024_2000.jpeg",
-      "published": "2026-07-12T12:01:57+00:00",
       "score": null,
       "tags": []
     },
@@ -745,42 +925,6 @@
       "summary": "El ASUS ROG Zephyrus G16 2026 es una puesta al día del modelo de 2025 que viene con cambios notables a nivel de hardware, pero que mantiene las mismas premisas de aquel. Esto significa que combina potencia y rendimiento …",
       "image": null,
       "published": "2026-07-12T09:11:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a480d013f97072",
-      "title": "La detención de un hacker acaba de revelar cómo Microsoft te espía en Windows",
-      "url": "https://hipertextual.com/seguridad/windows-11-gdid-identificador-espia/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Desde el lanzamiento de Windows 11, Microsoft ha hecho hasta lo imposible por espiar a los usuarios a través de sus sistemas de telemetría. Aunque muchos han encontrado la forma de desinstalar todos los programas y servi…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/windows-11.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
-      "published": "2026-07-12T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ec8c5401ed8fb7",
-      "title": "Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido",
-      "url": "https://hipertextual.com/software/blip-app-transferir-archivos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Desde que se abrió la interoperabilidad entre Quick Share y AirDrop, muchos han celebrado disponer de una mayor versatilidad al momento de transferir archivos entre distintos dispositivos sin importar la marca o el siste…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Blip-portada.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-12T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "58c543d5984ac6",
-      "title": "Este truco reduce hasta un 70% el gasto al usar inteligencia artificial para programar",
-      "url": "https://hipertextual.com/inteligencia-artificial/pxpipe-reduce-tokens-claude-code/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Reducir la factura de tokens en Claude Code puede sonar a algo reservado solo para expertos o ingenieros de software. Un proyecto de código abierto llamado pxpipe demuestra que no es así, ya que cualquiera puede gastar m…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-code-app-portada.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-12T07:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -965,18 +1109,6 @@
       "tags": []
     },
     {
-      "id": "51f7abffa8477e",
-      "title": "Hacen lo mismo y cuestan mucho menos: las 3 mejores alternativas al AirTag de Apple",
-      "url": "https://hipertextual.com/tecnologia/hacen-lo-mismo-y-cuestan-mucho-menos-las-3-mejores-alternativas-al-airtag-de-apple/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El AirTag es uno de los mejores productos de Apple. Es relativamente económico, muy útil (especialmente si tienes un iPhone) y, además, hace tan solo unos meses mejoraba con una segunda generación mucho más precisa y con…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/xiaomi-tag-001.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fc46cb67942aac",
       "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
       "url": "https://expansion.mx/tecnologia/2026/07/11/apple-presenta-demanda-contra-openai-secretos-empresariales",
@@ -997,18 +1129,6 @@
       "summary": "El futbolista de 25 años había participado con los Bafana Bafana en la Copa del Mundo de Norteamérica. Las autoridades investigan las causas de su fallecimiento.",
       "image": "https://cdn-3.expansion.mx/dims4/default/552ebef/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F90%2F69%2F9263c61e4460b30b3456785b660b%2Fjayden-adams-muere-sudafrica.jpg",
       "published": "2026-07-11T17:04:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6e8f6220c18b23",
-      "title": "¿En qué se diferencia el live action del animado original de ‘Moana (Vaiana)’?",
-      "url": "https://hipertextual.com/cine-television/en-que-se-diferencia-el-live-action-del-animado-original-de-moana-vaiana/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Moana (Vaiana) se estrenó y deja a su paso algunas preguntas sobre la validez de los live-action. En especial, porque el que se ha convertido en el género favorito del Hollywood contemporáneo (y de estudio Disney en part…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Moana-Vaiana-remake-live-action.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-07-11T17:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1081,30 +1201,6 @@
       "summary": "El Mundial 2026 dejó una derrama económica de entre 45,000 y 50,000 millones de pesos en México, con el turismo como el principal beneficiado. The post México sumó hasta 50,000 mdp en derrama económica por el mundial, pe…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/derrama-ecomonica.webp",
       "published": "2026-07-11T01:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e98144040e5e21",
-      "title": "La mujer más poderosa del mercado de fichajes: representa a Haaland y a Gilberto Mora",
-      "url": "https://expansion.mx/tendencias/2026/07/10/quien-es-rafaela-pimenta-representa-haaland-mora",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Considerada una de las personas más influyentes del futbol mundial, la abogada brasileña lidera una cartera de jugadores valuada en cientos de millones de euros.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c06799c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F52%2Fec%2Fbf3a47614bfeadb767a8b261f438%2F1-rafaela-pimenta.jpeg",
-      "published": "2026-07-11T00:27:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5119d4be4e8fd4",
-      "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
-      "url": "https://expansion.mx/finanzas-personales/2026/07/10/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-las-cajitas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Nu se une a la lista de bancos y los productos como las Cajitas, que ofrecen distintos rendimientos de acuerdo con el plazo; se mantienen operando en esta migración.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/143f704/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff1%2F8a%2Fca6771764a62b546fbd0fdcb2496%2F2-nu.jpeg",
-      "published": "2026-07-11T00:21:24+00:00",
       "score": null,
       "tags": []
     },
@@ -1301,18 +1397,6 @@
       "tags": []
     },
     {
-      "id": "81006d092a4155",
-      "title": "Suciedad y refrigeración: cómo afecta el polvo a tu PC",
-      "url": "https://www.muycomputer.com/2026/07/10/suciedad-y-refrigeracion-como-afecta-el-polvo-a-tu-pc/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Un PC bien refrigerado debe ser capaz de mantener sin problemas unas temperaturas de trabajo totalmente seguras, incluso con el calor veraniego que está azotando a Europa desde hace semanas. Sin embargo, la situación pue…",
-      "image": null,
-      "published": "2026-07-10T12:01:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0781f6967c175c",
       "title": "¿Cómo asegurar la integridad académica en tiempos de IA?",
       "url": "https://observatorio.tec.mx/como-asegurar-la-integridad-academica-en-tiempos-de-ia/",
@@ -1321,66 +1405,6 @@
       "summary": "En un mundo académico con más estuidantes que profesores haciendo uso de sistemas de inteligencia artificial, resulta más difícil garantizar la calidad y la integridad académicas. Por esa razón, es fundamental comprender…",
       "image": null,
       "published": "2026-07-10T11:35:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d1eb8e3cb3eaf6",
-      "title": "Las mejores ofertas de la semana: ¡Especial PcDays de PcComponentes! (actualizada)",
-      "url": "https://www.muycomputer.com/2026/07/10/las-mejores-ofertas-de-la-semana-hoy-especial-pcdays-de-pccomponentes/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Nos vamos de compras como cada viernes con nuestro especial de ofertas. Una selección variada de tecnología y electrónica donde te ofrecemos los mejores descuentos disponibles y que hoy pone el foco en los PcDays de PcCo…",
-      "image": null,
-      "published": "2026-07-10T11:03:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "742505a9f3cbbb",
-      "title": "SEGA hizo una inversión en NVIDIA que hoy valdría 2 billones de dólares",
-      "url": "https://www.muycomputer.com/2026/07/10/sega-hizo-una-inversion-en-nvidia-que-hoy-valdria-2-billones-de-dolares/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "SEGA salvó a NVIDIA de una situación de quiebra en la era de la Dreamcast, una historia muy curiosa que ya os contamos en su momento en este artículo, y que dejó patente la relación de profunda amistad que tenían en aque…",
-      "image": null,
-      "published": "2026-07-10T09:17:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0740c7d95e22f1",
-      "title": "El primer año en Psicología: una etapa clave para adaptarse y prevenir el abandono",
-      "url": "https://www.infocop.es/el-primer-ano-en-psicologia-una-etapa-clave-para-adaptarse-y-prevenir-el-abandono/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "Una vez superado el acceso a la universidad, comienza una fase decisiva: la adaptación al primer curso. En Psicología, los datos disponibles muestran que este periodo requiere atención tanto por parte del alumnado, como …",
-      "image": null,
-      "published": "2026-07-10T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "34ab13b6098537",
-      "title": "Invertir en salud mental es rentable: la OCDE defiende reforzar las intervenciones psicológicas basadas en la evidencia",
-      "url": "https://www.infocop.es/invertir-en-salud-mental-es-rentable-la-ocde-defiende-reforzar-las-intervenciones-psicologicas-basadas-en-la-evidencia/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La salud mental se ha convertido en uno de los mayores desafíos sanitarios, sociales y económicos de los países desarrollados. Así lo afirma la OECD en su último informe donde analiza la coste-eficacia (...) La entrada I…",
-      "image": null,
-      "published": "2026-07-10T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b0f58244acae3b",
-      "title": "Los accidentes de tráfico conllevan consecuencias psicológicas persistentes que siguen siendo invisibilizadas, según un estudio",
-      "url": "https://www.infocop.es/los-accidentes-de-trafico-conllevan-consecuencias-psicologicas-persistentes-que-siguen-siendo-invisibilizadas-segun-un-estudio/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "Las lesiones por accidentes de tráfico no solo provocan más de un millón de muertes al año, sino que dejan a millones de personas con secuelas permanentes que transforman radicalmente sus vidas (...) La entrada Los accid…",
-      "image": null,
-      "published": "2026-07-10T04:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1505,6 +1529,18 @@
       "tags": []
     },
     {
+      "id": "0740c7d95e22f1",
+      "title": "El primer año en Psicología: una etapa clave para adaptarse y prevenir el abandono",
+      "url": "https://www.infocop.es/el-primer-ano-en-psicologia-una-etapa-clave-para-adaptarse-y-prevenir-el-abandono/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Una vez superado el acceso a la universidad, comienza una fase decisiva: la adaptación al primer curso. En Psicología, los datos disponibles muestran que este periodo requiere atención tanto por parte del alumnado, como …",
+      "image": null,
+      "published": "2026-07-09T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "0470e8261e5b57",
       "title": "Branddu y Reno se fusionan para crear Branddu AI, el primer MerchTech de Latinoamérica, y cierran una ronda pre-seed de US$300,000",
       "url": "https://ilifebelt.com/branddu-y-reno-se-fusionan-para-crear-branddu-ai-el-primer-merchtech-de-latinoamerica-y-cierran-una-ronda-pre-seed-de-us300000/2026/07/",
@@ -1597,42 +1633,6 @@
       "summary": "Ensayos, novelas y literatura infantil y juvenil conforman la selección de novedades editoriales para el séptimo mes del año.",
       "image": null,
       "published": "2026-07-08T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2c2395a9895f80",
-      "title": "La salud mental en el trabajo se consolida como un eje estratégico de la prevención laboral-Nuevo número del Boletín de la División PTORH del COP",
-      "url": "https://www.infocop.es/la-salud-mental-en-el-trabajo-se-consolida-como-un-eje-estrategico-de-la-prevencion-laboral-nuevo-numero-del-boletin-de-la-division-ptorh-del-cop/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La División de Psicología del Trabajo, Organizaciones y Recursos Humanos (PTORH) del COP ha publicado la decimoséptima edición de su boletín (...) La entrada La salud mental en el trabajo se consolida como un eje estraté…",
-      "image": null,
-      "published": "2026-07-08T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7b5251bb95b1be",
-      "title": "Cada vez más estudiantes llegan a la universidad sin las competencias básicas de lectura y matemáticas, según un análisis de The Economist",
-      "url": "https://www.infocop.es/cada-vez-mas-estudiantes-llegan-a-la-universidad-sin-las-competencias-basicas-de-lectura-y-matematicas-segun-un-analisis-de-the-economist/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "Un número creciente de estudiantes accede a la educación superior sin dominar competencias básicas de comprensión lectora y matemáticas que deberían haberse adquirido años antes (...) La entrada Cada vez más estudiantes …",
-      "image": null,
-      "published": "2026-07-08T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "44f35e6aafea75",
-      "title": "La EAWOP crea una comunidad europea para estudiantes de doctorado y jóvenes investigadores en psicología del trabajo y las organizaciones",
-      "url": "https://www.infocop.es/la-eawop-crea-una-comunidad-europea-para-estudiantes-de-doctorado-y-jovenes-investigadores-en-psicologia-del-trabajo-y-las-organizaciones/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La European Association of Work and Organizational Psychology (EAWOP) ha anunciado la creación de la EAWOP Students & Early-career Scholars Community, una comunidad dirigida a reforzar la conexión, el desarrollo y la par…",
-      "image": null,
-      "published": "2026-07-08T04:00:00+00:00",
       "score": null,
       "tags": []
     },

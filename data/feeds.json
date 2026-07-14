@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-14T08:05:46.384785+00:00",
+    "generated": "2026-07-14T13:44:25.268876+00:00",
     "total": 183
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "De forma innata, sabemos que la felicidad es efímera y que la plenitud debería ser nuestro verdadero objetivo a largo plazo. Pero, ¿qué constituye exactamente la plenitud y de qué manera puede aplicarse en el entorno emp…",
       "image": null,
-      "published": "2026-07-14T08:05:44.920868+00:00",
+      "published": "2026-07-14T13:44:23.917771+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial ya está presente en la mayoría de las empresas, pero pocas logran convertirla en resultados reales. The post La verdadera razón por la que la IA sigue sin transformar a muchas empresas appeared…",
       "image": null,
-      "published": "2026-07-14T08:05:44.920503+00:00",
+      "published": "2026-07-14T13:44:23.917301+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "No hay un manual para emprender y el consejo de tu mamá, aunque bien intencionado, no contemplaba los retos reales de construir un negocio. The post 3 verdades que todo fundador aprende a la mala appeared first on Entrep…",
       "image": null,
-      "published": "2026-07-14T08:05:44.920131+00:00",
+      "published": "2026-07-14T13:44:23.916807+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "El CEO de una compañía de activos digitales cuenta qué se necesita para emprender puertas adentro de un conglomerado con más de un siglo de historia. Incluidos los fracasos. The post ¿Cómo se lidera una fintech de cripto…",
       "image": null,
-      "published": "2026-07-14T08:05:44.919738+00:00",
+      "published": "2026-07-14T13:44:23.916337+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Descubre cinco poderosas frases que inspiran a emprendedores en cada etapa del viaje de una startup, desde la idea hasta el crecimiento. Una lectura obligada para fundadores que buscan motivación y claridad. The post Est…",
       "image": null,
-      "published": "2026-07-14T08:05:44.919345+00:00",
+      "published": "2026-07-14T13:44:23.915828+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "No hay mejor momento que el presente para pensar más en los demás que en uno mismo. Da generosamente en todo lo que hagas: tiempo, energía, entusiasmo, atención y apoyo financiero. Tu empresa, clientes, comunidad y equip…",
       "image": null,
-      "published": "2026-07-14T08:05:44.917871+00:00",
+      "published": "2026-07-14T13:44:23.914416+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "A los empleados les importan las oportunidades de crecimiento, pero a veces son difíciles de conseguir. The post Esta señal de alerta revela si estás estancado en un trabajo que no te llevará a ningún lado appeared first…",
       "image": null,
-      "published": "2026-07-14T08:05:44.917497+00:00",
+      "published": "2026-07-14T13:44:23.913917+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "No es la juventud, la audacia ni la velocidad: los datos muestran que hay un rasgo específico que separa a las startups que escalan de las que se estancan. The post El rasgo que predice el éxito de una startup (una pista…",
       "image": null,
-      "published": "2026-07-14T08:05:44.917088+00:00",
+      "published": "2026-07-14T13:44:23.913437+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "En un entorno saturado de contenido generado por IA, las marcas que perduran no son las que más aparecen, sino las que logran activar los sentidos y construir memoria. The post Sentir: la ventaja que la IA todavía no pue…",
       "image": null,
-      "published": "2026-07-14T08:05:44.916660+00:00",
+      "published": "2026-07-14T13:44:23.912921+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,475 @@
       "category": "startup",
       "summary": "Aunque no es necesario que tengas un título en ciencias de la computación para poner en marcha tu proyecto, sigo pensando que vale la pena aprender lo básico. The post No dejes que la IA te engañe: por qué todo fundador …",
       "image": null,
-      "published": "2026-07-14T08:05:44.916212+00:00",
+      "published": "2026-07-14T13:44:23.912408+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "79918215dcb3e7",
+      "title": "Nintendo ya piensa en una Switch 2 OLED, pero hay un gran problema (es lo que imaginas)",
+      "url": "https://hipertextual.com/videojuegos/nintendo-switch-2-oled/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 millones de unidades en todo el mundo. La consola de la firma japonesa se impuso a la incertidumbre de los aranceles de Trump, la escasez de co…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/Switch-2-13-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T13:39:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a7ec33c2a0dc98",
+      "title": "Los niños no dejan de ver 'Vaiana' en Disney+ y los expertos saben por qué: \"Cada repetición es un experimento para el cerebro\"",
+      "url": "https://www.xataka.com/cine-y-tv/ninos-no-dejan-ver-vaiana-disney-expertos-saben-que-cada-repeticion-experimento-para-cerebro",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El estreno del remake de imagen real de 'Vaiana' no parece haber arrancado demasiado bien, y ya se prevén pérdidas considerables en este intento de volver a capturar el éxito de la película original y su secuela, solo un…",
+      "image": "https://i.blogs.es/fdb869/captura-de-pantalla-2026-07-14-a-las-8.23.51/1024_2000.jpeg",
+      "published": "2026-07-14T13:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "73cdb5a013dd4e",
+      "title": "Anthropic asegura haber encontrado la \"consciencia\" de Claude, aunque los datos cuentan otra historia",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial (IA), como os explicamos la semana pasada. Esta compañía asegura haber…",
+      "image": "https://i.blogs.es/cbc261/consciencia-ia/1024_2000.jpeg",
+      "published": "2026-07-14T13:16:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "849b89134a3450",
+      "title": "Cinco teles que puedes comprar hoy en Carrefour a precio de outlet y ahorrándote el IVA",
+      "url": "https://www.xataka.com/seleccion/cinco-teles-que-puedes-comprar-hoy-carrefour-a-precio-outlet-ahorrandote-iva",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si estabas esperando el momento idóneo para jubilar tu vieja televisión del salón, renovar la televisión del salón, Carrefour acaba de ponértelo fácil. Su popular campaña \" Ahórrate el IVA \" ya está activa (para televiso…",
+      "image": "https://i.blogs.es/233819/carrefour-ahorrate-el-iva-televisores/1024_2000.jpeg",
+      "published": "2026-07-14T13:16:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "67005ad0b20ab7",
+      "title": "Así es el lanzamiento de “Cowards Don’t Go To Heaven”, el libro de creatividad que literalmente abofetea a sus lectores",
+      "url": "https://www.merca20.com/lanzamiento-cowards-dont-go-to-heaven-libro-creatividad/?utm_source=rss&utm_medium=rss&utm_campaign=lanzamiento-cowards-dont-go-to-heaven-libro-creatividad",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Eugene Cheong presentó \"Cowards Don't Go To Heaven\" con una campaña donde el libro literalmente golpea a los creativos para combatir la mediocridad y convertir el lanzamiento en una experiencia de marca.",
+      "image": "https://files.merca20.com/uploads/2026/07/CowardsDon_tGotoHeaven_2-scaled.jpg",
+      "published": "2026-07-14T13:10:46+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c7779b4a43f7fd",
+      "title": "Nadie apostaría hoy por Meta en la carrera de la superinteligencia, pero juega con más ventaja de la que pensamos para ganarla",
+      "url": "https://www.xataka.com/robotica-e-ia/nadie-apostaria-hoy-meta-carrera-superinteligencia-juega-ventaja-que-pensamos-para-ganarla",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hace un año, Zuckerberg estaba contratando talento IA como si se fuera a acabar el mundo, ofreciendo sueldos millonarios y hasta comprando empresas enteras para poder fichar a Alexandr Wang . Un año después, han despedid…",
+      "image": "https://i.blogs.es/c518fb/magnific_pon-el-logo-de-meta-en-la_bmmtf85oqr/1024_2000.jpeg",
+      "published": "2026-07-14T13:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c6b7fe92adc3c6",
+      "title": "KIOXIA EXCERIA PRO G2 de 2 TB análisis completo",
+      "url": "https://www.muycomputer.com/2026/07/14/kioxia-exceria-pro-g2-de-2-tb-analisis-completo/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "El mercado SSD atraviesa un momento complicado por el encarecimiento de la memoria NAND Flash, un panorama nada alentado en el que, sin embargo, algunas marcas siguen intentando ofrecer productos interesantes a precios «…",
+      "image": null,
+      "published": "2026-07-14T12:51:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e7a1c8f86f6f2",
+      "title": "Una pareja de jubilados han hackeado las vacaciones: se alojan gratis en casas de lujo y castillos de toda Francia",
+      "url": "https://www.xataka.com/magnet/pareja-jubilados-han-hackeado-vacaciones-se-alojan-gratis-casas-lujo-castillos-toda-francia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cada pocos meses, Claudine y Jean-Louis, una pareja de jubilados que vive en Aveyron, en el sur de Francia, hacen la maleta para iniciar unas vacaciones un tanto peculiares . A veces su destino es un castillo en la regió…",
+      "image": "https://i.blogs.es/61b0cf/jubilados-con-vacaciones-de-lujo/1024_2000.jpeg",
+      "published": "2026-07-14T12:47:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0aae9d1d176269",
+      "title": "Mezcal en lata: la estrategia con la que las marcas quieren conquistar el mercado RTD",
+      "url": "https://www.merca20.com/mezcal-en-lata-estrategia-mercado-rtd/?utm_source=rss&utm_medium=rss&utm_campaign=mezcal-en-lata-estrategia-mercado-rtd",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El mezcal en lata refleja una nueva etapa del mercado RTD: menos ritual, más conveniencia y una estrategia de branding enfocada en ampliar la base de consumidores sin perder el posicionamiento premium.",
+      "image": "https://files.merca20.com/uploads/2026/07/ZACALITA_CAN.jpg",
+      "published": "2026-07-14T12:45:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4cc7bb1c42f6d2",
+      "title": "Todo lo que sabemos hasta ahora del Congreso Nacional de Marketing Digital 2026",
+      "url": "https://www.merca20.com/todo-lo-que-sabemos-hasta-ahora-del-congreso-nacional-de-marketing-digital-2026/?utm_source=rss&utm_medium=rss&utm_campaign=todo-lo-que-sabemos-hasta-ahora-del-congreso-nacional-de-marketing-digital-2026",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El Congreso Nacional de Marketing Digital 2026 ofrece una lectura anticipada de las estrategias que marcarán 2027. Sus conferencias, tres escenarios y espacios de networking permitirán abordar los cambios desde perspecti…",
+      "image": "https://files.merca20.com/uploads/2026/07/congreso-nacional-marketing-digital-2026-cnmd.jpg",
+      "published": "2026-07-14T12:31:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "830b60652e59f8",
+      "title": "España renovó sus estadios con la excusa del Mundial 2030: ahora el Mundial parece más lejos que nunca",
+      "url": "https://www.xataka.com/magnet/espana-renovo-sus-estadios-excusa-mundial-ahora-mundial-parece-lejos-que-nunca",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La promesa: la candidatura conjunta España‑Portugal‑Marruecos para el Mundial 2030 se presentó sobre un dosier que incluía entre 14 y 18 estadios en total, con 11 sedes españolas, 3 portuguesas y 6 marroquíes. Sobre el p…",
+      "image": "https://i.blogs.es/7f3c06/promesas/1024_2000.jpeg",
+      "published": "2026-07-14T12:30:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "eb86f5c6577b36",
+      "title": "Inesperado crossover entre Transformers y Scooby-Doo: Hasbro apuesta por la colaboración de marcas",
+      "url": "https://www.merca20.com/hasbro-colaboracion-marcas-transformers-scooby-doo/?utm_source=rss&utm_medium=rss&utm_campaign=hasbro-colaboracion-marcas-transformers-scooby-doo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Hasbro unió Transformers y Scooby-Doo en un nuevo set de colección que refleja cómo las colaboraciones entre propiedades intelectuales fortalecen el negocio del licensing y el mercado de coleccionistas.",
+      "image": "https://files.merca20.com/uploads/2026/07/Scooby_Doo_Transformers.jpg",
+      "published": "2026-07-14T12:15:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4d9cc7245ed746",
+      "title": "FRITZ! cumple 40 años: un repaso a la historia de la marca alemana",
+      "url": "https://www.muycomputer.com/2026/07/14/fritz-cumple-40-anos-un-repaso-a-la-historia-de-la-marca-alemana/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "La compañía alemana FRITZ!, conocida internacionalmente por sus soluciones de red, telefonía doméstica y domótica, cumple hoy 40 años. Que una tecnológica cumpla cuatro décadas es decir mucho, ya sabéis cómo son las cosa…",
+      "image": null,
+      "published": "2026-07-14T12:12:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e20ebf2b581afa",
+      "title": "Estos son los indispensables en oferta para teletrabajar este verano fuera de casa",
+      "url": "https://hipertextual.com/ofertas-descuentos/indispensables-teletrabajar/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El periodo de disfrute en verano ha dejado de durar únicamente lo que duran las vacaciones. Con la posibilidad de teletrabajar que ofrecen muchas empresas, cada vez hay más personas que prefieren llevar su oficina hasta …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/kristin-wilson-z3htkdHUh5w-unsplash-scaled.jpg?fit=1024%2C618&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T12:05:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e94c86ba71f20c",
+      "title": "¿Cuánto cuesta decir adiós? Servicios funerarios para mascotas crecen hasta 30% anual en México",
+      "url": "https://www.merca20.com/cuanto-cuesta-decir-adios-servicios-funerarios-para-mascotas-crecen-hasta-30-anual-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=cuanto-cuesta-decir-adios-servicios-funerarios-para-mascotas-crecen-hasta-30-anual-en-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La transformación de las mascotas en integrantes de la familia impulsa la demanda de cremaciones, urnas y homenajes personalizados",
+      "image": "https://files.merca20.com/uploads/2025/08/cat-dog-pets-mascotas-gatos-perros-canva-_2025-1.jpg",
+      "published": "2026-07-14T12:01:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1b3dfed255f209",
+      "title": "Del running al hiking: los deportes que más crecieron en el mundo y lo que esto revela al marketing",
+      "url": "https://www.merca20.com/del-running-al-hiking-los-deportes-que-mas-crecieron-en-el-mundo-y-lo-que-esto-revela-al-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=del-running-al-hiking-los-deportes-que-mas-crecieron-en-el-mundo-y-lo-que-esto-revela-al-marketing",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El auge del running social, el crecimiento explosivo del hiking y la consolidación del fitness como herramienta de bienestar reflejan una nueva mentalidad global.",
+      "image": "https://files.merca20.com/uploads/2026/04/RUNNING.jpg",
+      "published": "2026-07-14T12:00:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b705f16cffcc7d",
+      "title": "En Japón las empresas han olido un negocio millonario: dejar de fabricar carritos y pañales para bebés y hacerlo para mascotas",
+      "url": "https://www.xataka.com/magnet/japon-empresas-han-olido-negocio-millonario-dejar-fabricar-carritos-panales-para-bebes-hacerlo-para-mascotas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El año pasado nacieron en Japón unos 671.200 bebés . Es un dato malo, pésimo. No solo son 15.000 menos que en 2024, también afianza la natalidad nipona por debajo de la barrera de los 700.000 nacimientos anuales y repres…",
+      "image": "https://i.blogs.es/ddc8a6/mascotasjapon/1024_2000.jpeg",
+      "published": "2026-07-14T12:00:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4de4f67577243a",
+      "title": "Volantes para sim racing: por qué Nissan lleva su marca del automóvil al gaming",
+      "url": "https://www.merca20.com/volantes-para-sim-racing-nissan-fanatec-gaming/?utm_source=rss&utm_medium=rss&utm_campaign=volantes-para-sim-racing-nissan-fanatec-gaming",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Nissan y Fanatec desarrollan volantes para sim racing con licencia oficial en una alianza que refleja cómo el gaming y el licensing se consolidan como herramientas de branding para la industria automotriz.",
+      "image": "https://files.merca20.com/uploads/2026/07/Nissan_x_Fanatec_.jpg",
+      "published": "2026-07-14T11:47:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5bcce6597e4bb7",
+      "title": "Hace años que un chef catalán acabó con el debate de la tortilla de patatas de forma radical: inventando una sin patatas y sin huevo",
+      "url": "https://www.xataka.com/investigacion/hace-anos-que-chef-catalan-acabo-debate-tortilla-patatas-forma-radical-inventando-patatas-huevo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Desde hace semanas, decenas de titulares pasean al famoso chef Jose Andrés por Internet defendiendo (o recordando) que la \"tortilla de su infancia\" no llevaba huevo . En un país profundamente dividido por la presencia de…",
+      "image": "https://i.blogs.es/4bf922/plantilla-xtk/1024_2000.png",
+      "published": "2026-07-14T11:46:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3ce7e282508806",
+      "title": "Helado de Ted Lasso: reviven un sabor inspirado en la serie para la temporada 4",
+      "url": "https://www.merca20.com/helado-ted-lasso-jenis-temporada-4/?utm_source=rss&utm_medium=rss&utm_campaign=helado-ted-lasso-jenis-temporada-4",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Jeni's Ice Creams recupera su helado inspirado en Ted Lasso para acompañar la cuarta temporada de la serie. El caso refleja cómo el marketing de entretenimiento convierte momentos memorables en productos de consumo.",
+      "image": "https://files.merca20.com/uploads/2026/07/Jenis_Splendid_Biscuits_with_the_Boss_Ice_Cream.jpg",
+      "published": "2026-07-14T11:39:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f849c2957198e1",
+      "title": "El CEO de Volkswagen admite su principal problema: fabricar le cuesta un 20% más que a sus competidores y le sobran trabajadores",
+      "url": "https://www.xataka.com/movilidad/derivacion-teorica-cambio-costes-laborales-daria-ajuste-50-000-empleos-volkswagen-no-ve-solucion-facil",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hay empresas que anuncian sus crisis con un comunicado solemne. Volkswagen ha elegido un camino diferente: una entrevista interna a su CEO colgada en su intranet, que termina siendo filtrada al diario alemán Der Spiegel …",
+      "image": "https://i.blogs.es/a7fcb9/volkswagen/1024_2000.jpeg",
+      "published": "2026-07-14T11:38:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "40b45de8857026",
+      "title": "Russell Belk, profesor de marketing: “Desprenderse de ciertos objetos puede sentirse como perder una parte de uno mismo”",
+      "url": "https://www.merca20.com/russell-belk-profesor-de-marketing-desprenderse-de-ciertos-objetos-puede-sentirse-como-perder-una-parte-de-uno-mismo/?utm_source=rss&utm_medium=rss&utm_campaign=russell-belk-profesor-de-marketing-desprenderse-de-ciertos-objetos-puede-sentirse-como-perder-una-parte-de-uno-mismo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Russell Belk desarrolló el concepto del \"yo extendido\" (Extended Self), una teoría que sostiene que las personas incorporan determinadas posesiones a la forma en que se perciben a sí mismas",
+      "image": "https://files.merca20.com/uploads/2026/07/Russell-Belk-2026.jpg",
+      "published": "2026-07-14T11:37:51+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6c362421317687",
+      "title": "El buscador de Windows 11 recibe su mayor cambio en años: Microsoft por fin añade lo que todo el mundo pedía",
+      "url": "https://hipertextual.com/tecnologia/el-buscador-de-windows-11-recibe-su-mayor-cambio-en-anos-microsoft-por-fin-anade-lo-que-todo-el-mundo-pedia/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Microsoft está haciendo grandes cambios en Windows 11, y prueba de ello es la nueva IA que la compañía está probando y que es capaz de identificar por qué tu sistema va lento, o la recién mejora que ha incluido en el sis…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/windows-11-start-menu.jpg?fit=1024%2C608&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T11:34:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "37c3c2cd9d9695",
+      "title": "SEP suspende clases 17 días en el calendario escolar 2026 a 2027: fechas de TODOS los puentes y feriados",
+      "url": "https://www.merca20.com/sep-suspende-clases-17-dias-en-el-calendario-escolar-2026-a-2027-fechas-de-todos-los-puentes-y-feriados/?utm_source=rss&utm_medium=rss&utm_campaign=sep-suspende-clases-17-dias-en-el-calendario-escolar-2026-a-2027-fechas-de-todos-los-puentes-y-feriados",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Secretaría de Educación Pública (SEP) publicó el nuevo calendario escolar 2026 a 2027 en la Plataforma Integral de Gobernanza Regulatoria",
+      "image": "https://files.merca20.com/uploads/2026/07/calendario-escolar-sep-2026-a-2027.jpg",
+      "published": "2026-07-14T11:33:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9326e22c092b64",
+      "title": "Un modder trabaja en Demon’s Souls Remaster para PC",
+      "url": "https://www.muycomputer.com/2026/07/14/un-modder-trabaja-en-demons-souls-remaster-para-pc/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Demon’s Souls Remaster es un proyecto no oficial que está siendo desarrollado por un modder y que, por lo que he podido ver en las primeras imágenes, tiene muy buena pinta. El autor de este mod es «fromsoftserve», un nom…",
+      "image": null,
+      "published": "2026-07-14T11:31:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "428bcbb5bc5b99",
+      "title": "Ella sola mató a 309 enemigos. Luego Stalin la envió a Washington",
+      "url": "https://www.xataka.com/magnet/ella-sola-mato-a-309-enemigos-luego-stalin-envio-a-washington",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Mató a 309 soldados enemigos en apenas diez meses. Entonces Stalin tomó una decisión que parecía incomprensible: retirarla del frente y enviarla a Washington. La Unión Soviética había descubierto que su mejor francotirad…",
+      "image": "https://i.blogs.es/32552a/lyudmila-pavlichenko/1024_2000.jpeg",
+      "published": "2026-07-14T11:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "724b77ec890cb2",
+      "title": "Who remembers ads more? Advertising works differently for Millennials and Generation Z",
+      "url": "https://www.merca20.com/who-remembers-ads-more-advertising-works-differently-for-millennials-and-generation-z/?utm_source=rss&utm_medium=rss&utm_campaign=who-remembers-ads-more-advertising-works-differently-for-millennials-and-generation-z",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Statista Consumer Insights reports show there is a significant change in the way advertising impacts Generation Z and Millennials.",
+      "image": "https://files.merca20.com/uploads/2026/01/marketing_2026-1.jpg",
+      "published": "2026-07-14T11:00:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "db87198d02720b",
+      "title": "Los niveles de testosterona se han desplomado a la mitad en los últimos 50 años. El misterio es por qué está pasando",
+      "url": "https://www.xataka.com/medicina-y-salud/niveles-testosterona-se-han-desplomado-a-mitad-ultimos-50-anos-misterio-que-esta-pasando",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si analizamos la sangre de un hombre promedio de hoy y la comparamos con la de su abuelo a la misma edad, los resultados revelan que los niveles de testosterona se han reducido a la mitad. Esto es algo que durante años h…",
+      "image": "https://i.blogs.es/919cff/testos/1024_2000.jpeg",
+      "published": "2026-07-14T11:00:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6a216bda284687",
+      "title": "Why climate change has become a threat to Starbucks",
+      "url": "https://www.merca20.com/why-climate-change-has-become-a-threat-to-starbucks/?utm_source=rss&utm_medium=rss&utm_campaign=why-climate-change-has-become-a-threat-to-starbucks",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Starbucks also acknowledges that it is reassessing its goal of reducing its total greenhouse gas emissions by 50% by 2030, due to regulatory changes, new international standards, and other factors.",
+      "image": "https://files.merca20.com/uploads/2025/04/starbucks-promociones-2025.jpg",
+      "published": "2026-07-14T10:49:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cfb13312d6ebf1",
+      "title": "Españoles, OnePlus ha muerto. Adiós a la marca que iba a cambiar (y cambió) la industria del smartphone",
+      "url": "https://hipertextual.com/tecnologia/espanoles-oneplus-ha-muerto-adios-a-la-marca-que-iba-a-cambiar-y-cambio-la-industria-del-smartphone/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Todavía recuerdo la guerra por conseguir una invitación para comprar el OnePlus One, cómo aluciné cuando toqué por primera vez su parte trasera o las horas que pasé instalando versiones de CyanogenMod en ese primer móvil…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/oneplus-1.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T10:31:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1a661f61dec5ec",
+      "title": "La información es poder y Microsoft ha llegado a una conclusión: se ha cansado de regalarla a las Big Tech de la IA",
+      "url": "https://www.xataka.com/empresas-y-economia/informacion-poder-microsoft-ha-llegado-a-conclusion-se-ha-cansado-regalarla-a-big-tech-ia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Satya Nadella, el CEO de Microsoft, se ha puesto creativo en Twitter. A través de un mensaje casi tan largo como el que su colega Asha Sharma, CEO de Xbox, aprovechó para comunicar el despido de 3.200 personas hace apena…",
+      "image": "https://i.blogs.es/7bd424/nadella/1024_2000.jpeg",
+      "published": "2026-07-14T10:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "193fd97977ea1e",
+      "title": "Hoy en Lidl (y a mitad de precio) unos auriculares inalámbricos sencillos que son ideales para este verano",
+      "url": "https://www.xataka.com/seleccion/hoy-lidl-a-mitad-precio-unos-auriculares-inalambricos-sencillos-que-ideales-para-este-verano",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Entrar en Lidl es, la mayoría de los días, encontrar una buena oferta en algún tipo de dispositivo. La de hoy es ideal para esas personas que buscan unos auriculares inalámbricos buenos, bonitos y baratos , ya sea como u…",
+      "image": "https://i.blogs.es/9de361/auriculares-anker-lidl/1024_2000.jpeg",
+      "published": "2026-07-14T10:16:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "14d2afd59a7fc7",
+      "title": "Qué iPhone serán compatibles con iOS 27 de forma limitada y de forma completa",
+      "url": "https://www.muycomputer.com/2026/07/14/que-iphone-seran-compatibles-con-ios-27-de-forma-limitada-y-de-forma-completa/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "El lanzamiento de iOS 27 está previsto para el mes de septiembre. Apple lanzará este nuevo sistema operativo para acompañar a los nuevos iPhone 18 Pro y iPhone 18 Pro Max, y gracias a las betas que ha ido lanzando la com…",
+      "image": null,
+      "published": "2026-07-14T10:13:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "666b3f7531189f",
+      "title": "En su asalto por conquistar las vías francesas de alta velocidad, Renfe ya conoce cuál es su verdadero futuro: Portugal",
+      "url": "https://www.xataka.com/movilidad/renfe-pensaba-francia-como-su-gran-negocio-futuro-mira-a-portugal-gracias-a-decision-siglo-xix",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "\"Portugal es una gran oportunidad para Renfe\". Son las palabras que resumen las intenciones de la compañía para el futuro a medio plazo, según Expansión . El diario asegura que desde el Ministerio de Transportes aspiran …",
+      "image": "https://i.blogs.es/ae4304/renfe-portugal-francia-siglo-xix/1024_2000.jpeg",
+      "published": "2026-07-14T10:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fdac1475e0adfb",
+      "title": "\"Máximas de +45 ºC e incluso otros valores que no me atrevo a mencionar\": los expertos ya temen una ola de calor extraordinaria la semana que viene",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/maximas-45-oc-e-incluso-otros-valores-que-no-me-atrevo-a-mencionar-expertos-temen-ola-calor-extraordinaria-semana-que-viene",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "\"Esto es brutal. Los principales modelos estarían insinuando una posible Ola de Calor extraordinaria la semana que viene con máximas de +45ºC e incluso otros valores que no me atrevo a mencionar\", las palabras de MeteoBa…",
+      "image": "https://i.blogs.es/245e3f/captura-de-pantalla-2026-07-14-a-las-11.13.46/1024_2000.png",
+      "published": "2026-07-14T09:46:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1421dac0045f41",
+      "title": "He probado y usado infinidad de mandos «pro» para PS5 y PC. El nuevo SCUF Omega es el mejor que existe en el mercado",
+      "url": "https://hipertextual.com/analisis/he-probado-y-usado-infinidad-de-mandos-pro-para-ps5-y-pc-el-nuevo-scuf-omega-es-el-mejor-que-existe-en-el-mercado/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Desde su lanzamiento en 2020, siempre hemos calificado al DualSense como el mejor mando de todos los que hemos usado en las diferentes generaciones de consola. Es el mando básico y por defecto de PlayStation, y de un tie…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/SCUF-Omega-2-scaled.jpeg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T09:41:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d99885265d772f",
+      "title": "Assassin’s Creed Hexe en 2027 y anuncio «muy pronto», esto es todo lo que sabemos",
+      "url": "https://www.muycomputer.com/2026/07/14/assassins-creed-hexe-en-2027-y-anuncio-muy-pronto-esto-es-todo-lo-que-sabemos/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "El próximo juego dentro de la conocida franquicia de Ubisoft será Assassin’s Creed Hexe, un título que ha generado mucha expectación, y que según las últimas informaciones podría ser presentado «muy pronto». No tenemos u…",
+      "image": null,
+      "published": "2026-07-14T08:55:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bb581a831b5977",
+      "title": "Confirmada la duración de ‘Avengers: Doomsday’, que será más larga que ‘Infinity War’",
+      "url": "https://hipertextual.com/cine-television/confirmada-la-duracion-de-avengers-doomsday-que-sera-mas-larga-que-infinity-war/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Aunque aún faltan meses para el estreno de Avengers: Doomsday, pero acaba de ver la luz su duración oficial. La película del Universo Cinematográfico de Marvel reunirá a los héroes del presente y del pasado de la compañí…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Avengers-Doomsday-duracion.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T08:51:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "efd92ea0dd2bef",
+      "title": "Android Auto POR FIN va a cambiar la app más utilizada por todos los usuarios en el coche",
+      "url": "https://hipertextual.com/tecnologia/android-auto-por-fin-va-a-cambiar-la-app-mas-utilizada-por-todos-los-usuarios-en-el-coche/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Todavía no la puedes probar, pero la próxima novedad de Android Auto va a merecer mucho la pena. Está relacionada con una de las aplicaciones más utilizadas cuando vas en el coche: la música. Google se ha dado cuenta de …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/Android-Auto.jpg?fit=1024%2C611&quality=70&strip=all&ssl=1",
+      "published": "2026-07-14T08:47:25+00:00",
       "score": null,
       "tags": []
     },
@@ -161,6 +629,18 @@
       "tags": []
     },
     {
+      "id": "35671fb770f19b",
+      "title": "Gráfica del día: Las películas de fútbol más taquilleras de la historia",
+      "url": "https://www.merca20.com/grafica-del-dia-las-peliculas-de-futbol-mas-taquilleras-de-la-historia/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-las-peliculas-de-futbol-mas-taquilleras-de-la-historia",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Estas cintas de comedia o historias sobre el deporte han logrado conectar con el público",
+      "image": "https://files.merca20.com/uploads/2026/07/Grafica-del-dia-Las-peliculas-de-futbol-mas-taquilleras-de-la-historia.jpeg",
+      "published": "2026-07-14T07:50:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "d438c934798184",
       "title": "La Generación Z impulsa el negocio del anime y las marcas ya quieren participar",
       "url": "https://www.merca20.com/la-generacion-z-impulsa-el-negocio-del-anime-y-las-marcas-ya-quieren-participar/?utm_source=rss&utm_medium=rss&utm_campaign=la-generacion-z-impulsa-el-negocio-del-anime-y-las-marcas-ya-quieren-participar",
@@ -181,78 +661,6 @@
       "summary": "A pesar de que Apple está totalmente centrada en las mejoras de iOS 27 que llegarán en septiembre, sigue incluyendo novedades en iOS 26. Hoy lo ha hecho en la última beta de iOS 26.6 que ya puedes probar en tu iPhone, y …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/iphone-sin-espacio.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
       "published": "2026-07-14T07:35:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "05e9f7392c10b7",
-      "title": "Ante la falta de acero, los barcos de la Segunda Guerra Mundial empezaron a construirse con un material inusual: hormigón",
-      "url": "https://www.xataka.com/transporte/falta-acero-barcos-segunda-guerra-mundial-empezaron-a-construirse-material-inusual-hormigon-1",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cierra los ojos y piensa en el material principal de un barco. Muy posiblemente la madera sea el primero que te venga a la mente, y es normal: llevamos milenios navegando en barcos de madera, y seguimos haciéndolo. Pero …",
-      "image": "https://i.blogs.es/df55f3/barcos-de-hormigon/1024_2000.jpeg",
-      "published": "2026-07-14T07:30:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "169f89c83c60e6",
-      "title": "El nuevo tablero tecnológico: por qué América Latina se volvió una prioridad para las Big Tech",
-      "url": "https://www.merca20.com/el-nuevo-tablero-tecnologico-por-que-america-latina-se-volvio-una-prioridad-para-las-big-tech/?utm_source=rss&utm_medium=rss&utm_campaign=el-nuevo-tablero-tecnologico-por-que-america-latina-se-volvio-una-prioridad-para-las-big-tech",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La expansión acelerada obliga a modernizar redes eléctricas, desarrollar energías limpias y establecer regulaciones ambientales que permitan equilibrar crecimiento económico con sostenibilidad.",
-      "image": "https://files.merca20.com/uploads/2026/03/GRANDES.-TECNOLOGIAS-2026.jpg",
-      "published": "2026-07-14T07:00:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "acf1626617e7ab",
-      "title": "SK Hynix está apostando a que el ciclo de la memoria ha muerto. Lo demuestra haciendo justo lo que siempre lo mató",
-      "url": "https://www.xataka.com/componentes/sk-hynix-esta-apostando-a-que-ciclo-memoria-ha-muerto-demuestra-haciendo-justo-que-siempre-mato",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "SK Hynix debutó en el Nasdaq con una subida del 13% el viernes pasado, tras colocar 26.500 millones de dólares en la mayor salida a bolsa de una empresa extranjera en la historia de Estados Unidos. Y ese dinero no va a d…",
-      "image": "https://i.blogs.es/d49401/sk-hynixparne/1024_2000.jpeg",
-      "published": "2026-07-14T07:00:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ab95c7d6fd9684",
-      "title": "La guerra entre Estados Unidos e Irán: lo que significa para México",
-      "url": "https://www.merca20.com/la-guerra-entre-estados-unidos-e-iran-lo-que-significa-para-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=la-guerra-entre-estados-unidos-e-iran-lo-que-significa-para-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los medios deben reportar lo que dicen los líderes, pero no convertir sus declaraciones en la estructura automática de la cobertura",
-      "image": "https://files.merca20.com/uploads/2025/03/Maria-Fernanda-Ramirez-2025.jpg",
-      "published": "2026-07-14T06:35:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b92d3f22777669",
-      "title": "En el principio era la narración: El futbol en español",
-      "url": "https://www.merca20.com/en-el-principio-era-la-narracion-el-futbol-en-espanol/?utm_source=rss&utm_medium=rss&utm_campaign=en-el-principio-era-la-narracion-el-futbol-en-espanol",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La guerra de los ratings entre las televisoras o los servicios de video, en cualquier lugar del mundo, tiene como armamento a la narración",
-      "image": "https://files.merca20.com/uploads/2025/06/mauricio-carrandi.jpg",
-      "published": "2026-07-14T06:30:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2feb6e7cfa3eb8",
-      "title": "Para nosotros, se acabó el “Mundial de Pantalla”",
-      "url": "https://www.merca20.com/para-nosotros-se-acabo-el-mundial-de-pantalla/?utm_source=rss&utm_medium=rss&utm_campaign=para-nosotros-se-acabo-el-mundial-de-pantalla",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las inversiones que se hicieron para el Mundial corresponden más a los mandatos de un monopolio global, la FIFA, que a necesidades urgentes de la población",
-      "image": "https://files.merca20.com/uploads/2021/06/350x260-Carlos-bonilla-SQ.jpg",
-      "published": "2026-07-14T06:10:04+00:00",
       "score": null,
       "tags": []
     },
@@ -401,18 +809,6 @@
       "tags": []
     },
     {
-      "id": "7a87cf8bf028ff",
-      "title": "Timberland remata tenis casuales amarillos con 54% de descuento; ideales para el regreso a clases 2026-2027",
-      "url": "https://www.merca20.com/timberland-remata-tenis-casuales-amarillos-con-54-de-descuento-ideales-para-el-regreso-a-clases-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=timberland-remata-tenis-casuales-amarillos-con-54-de-descuento-ideales-para-el-regreso-a-clases-2026-2027",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Uno de los descuentos más atractivos que tiene Mercado Libre en su sitio oficial es el de los tenis casuales amarillos de Timberland",
-      "image": "https://files.merca20.com/uploads/2026/07/timberland-mercado-libre.jpg",
-      "published": "2026-07-14T00:05:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b6a73a1593e43c",
       "title": "No solo Nu: estas apps financieras también quieren convertirse en banco y operar en México",
       "url": "https://expansion.mx/empresas/2026/07/13/no-solo-nu-apps-financieras-quieren-convertirse-banco",
@@ -433,42 +829,6 @@
       "summary": "No es meme, ni el “Día de los Santos Inocentes”. Tecnología que te lleva al cielo.",
       "image": "https://www.fayerwayer.com/resizer/v2/RFPOHULTBFHVVDCUF5R5UITFNI.png?auth=d6101176bc3e42ca301d97719e61c334b14b2c5775c0a00b0d88f0dd60bb7b9c&smart=true&width=1544&height=1006",
       "published": "2026-07-13T23:52:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3eae43d4c0bf30",
-      "title": "Así es el Suzuki Swift BoosterGreen 2027; precio, ficha tecnica y puedes apartarlo hasta el 27 de julio",
-      "url": "https://www.merca20.com/asi-es-el-suzuki-swift-boostergreen-2027-precio-ficha-tecnica-y-puedes-apartarlo-hasta-el-27-de-julio/?utm_source=rss&utm_medium=rss&utm_campaign=asi-es-el-suzuki-swift-boostergreen-2027-precio-ficha-tecnica-y-puedes-apartarlo-hasta-el-27-de-julio",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Suzuki abrió en México el apartado del Swift BoosterGreen 2027, un hatchback de cinco puertas que mantiene su sistema híbrido ligero e incorpora asistencias de seguridad para los recorridos diarios",
-      "image": "https://files.merca20.com/uploads/2026/07/suzuki-adas-boots.jpg",
-      "published": "2026-07-13T23:51:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2c9e8f2df74ced",
-      "title": "ony cambia al formato digital, pero God of War: Laufey sí saldrá en disco para PS5",
-      "url": "https://www.merca20.com/ony-cambia-al-formato-digital-pero-god-of-war-laufey-si-saldra-en-disco-para-ps5/?utm_source=rss&utm_medium=rss&utm_campaign=ony-cambia-al-formato-digital-pero-god-of-war-laufey-si-saldra-en-disco-para-ps5",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Santa Monica Studio confirmó que la nueva entrega protagonizada por Faye llegará en formato físico, pese a que Sony dejará de lanzar nuevos juegos en disco a partir de 2028.",
-      "image": "https://files.merca20.com/uploads/2026/07/God-of-war1.jpg",
-      "published": "2026-07-13T23:45:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6b1c7c6aa36c60",
-      "title": "Chipotle abrirá su primera sucursal en México esta semana: todo lo que se sabe",
-      "url": "https://www.merca20.com/chipotle-abrira-su-primera-sucursal-en-mexico-esta-semana-todo-lo-que-se-sabe/?utm_source=rss&utm_medium=rss&utm_campaign=chipotle-abrira-su-primera-sucursal-en-mexico-esta-semana-todo-lo-que-se-sabe",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La marca estadounidense llega respaldado por uno de los operadores más experimentados del mercado mexicano.",
-      "image": "https://files.merca20.com/uploads/2025/12/bigstock-Toronto-Canada-November-303808783.jpg",
-      "published": "2026-07-13T23:45:06+00:00",
       "score": null,
       "tags": []
     },
@@ -497,18 +857,6 @@
       "tags": []
     },
     {
-      "id": "7f67979b0fc0fb",
-      "title": "El cambio silencioso en el martech que está separando a las marcas ganadoras del resto",
-      "url": "https://www.merca20.com/el-cambio-silencioso-en-el-martech-que-esta-separando-a-las-marcas-ganadoras-del-resto/?utm_source=rss&utm_medium=rss&utm_campaign=el-cambio-silencioso-en-el-martech-que-esta-separando-a-las-marcas-ganadoras-del-resto",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La inteligencia deja de vivir dentro de una herramienta específica y empieza a distribuirse por toda la organización.",
-      "image": "https://files.merca20.com/uploads/2023/11/bigstock-Cyber-Security-And-Data-Protec-473719265.jpg",
-      "published": "2026-07-13T23:05:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "242d6b9127eb92",
       "title": "El oro baja de los 4,000 dólares y cae 29% desde máximos tras nuevos ataques a Irán",
       "url": "https://altonivel.com.mx/el-oro-baja-de-los-4000-dolares-y-cae-29-desde-maximos-tras-nuevos-ataques-a-iran/",
@@ -529,18 +877,6 @@
       "summary": "Félix Plasencia, jefe de misión en Washington, será el nuevo ministro de Relaciones Exteriores en reemplazo de Yván Gil.",
       "image": "https://cdn-3.expansion.mx/dims4/default/098d486/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6b%2Ff3%2F1efd4eed49f18cc77a40224252a5%2Fvenezuela-nombra-nuevo-canciller-crisis.jpg",
       "published": "2026-07-13T22:57:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7f4543bb4c0dc4",
-      "title": "Nike revive un clásico: Air Jordan 3 True Blue regresan a México; precio y fecha de lanzamiento",
-      "url": "https://www.merca20.com/nike-revive-un-clasico-air-jordan-3-true-blue-regresan-a-mexico-precio-y-fecha-de-lanzamiento/?utm_source=rss&utm_medium=rss&utm_campaign=nike-revive-un-clasico-air-jordan-3-true-blue-regresan-a-mexico-precio-y-fecha-de-lanzamiento",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Uno de los colorways más icónicos de la historia de Jordan Brand vuelve después de una década. Te contamos cuánto costarán y a qué hora estarán disponibles en México.",
-      "image": "https://files.merca20.com/uploads/2026/07/Jordan.jpg",
-      "published": "2026-07-13T22:45:00+00:00",
       "score": null,
       "tags": []
     },
@@ -593,18 +929,6 @@
       "tags": []
     },
     {
-      "id": "185874d5430c19",
-      "title": "¿Y si la nostalgia estuviera frenando la innovación de las marcas?",
-      "url": "https://www.merca20.com/y-si-la-nostalgia-estuviera-frenando-la-innovacion-de-las-marcas/?utm_source=rss&utm_medium=rss&utm_campaign=y-si-la-nostalgia-estuviera-frenando-la-innovacion-de-las-marcas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los datos y casos están demostrando que las empresas que únicamente reciclan éxitos del pasado corren el riesgo de quedar atrapadas en una versión idealizada de sí mismas.",
-      "image": "https://files.merca20.com/uploads/2026/03/marketing-nostalgia_2026-5.jpg",
-      "published": "2026-07-13T22:03:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "38361e57af5476",
       "title": "Los envíos de smartphones caen 11% por el auge de la inteligencia artificial",
       "url": "https://expansion.mx/tecnologia/2026/07/13/envios-smartphones-caen-11-auge-inteligencia-artificial",
@@ -617,18 +941,6 @@
       "tags": []
     },
     {
-      "id": "6fd6ee51ac71e3",
-      "title": "New Era sorprende con colección de Batman y Sultanes de Monterrey; dónde comprarla",
-      "url": "https://www.merca20.com/new-era-sorprende-con-coleccion-de-batman-y-sultanes-de-monterrey-donde-comprarla/?utm_source=rss&utm_medium=rss&utm_campaign=new-era-sorprende-con-coleccion-de-batman-y-sultanes-de-monterrey-donde-comprarla",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La nueva colaboración entre New Era y Batman fusiona el universo de DC con uno de los equipos más históricos de la Liga Mexicana de Beisbol mediante gorras, uniformes y prendas de edición especial.",
-      "image": "https://files.merca20.com/uploads/2026/07/New-Era.jpg",
-      "published": "2026-07-13T21:56:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ea51172125cdd4",
       "title": "Estados Unidos sanciona al Ministerio de Turismo y a otras entidades cubanas",
       "url": "https://expansion.mx/mundo/2026/07/13/estados-unidos-sanciona-al-ministerio-de-turismo-y-a-otras-entidades-cubanas",
@@ -637,18 +949,6 @@
       "summary": "Las acciones estadounidenses apuntan a sectores clave para los ingresos del país, así como a grupos civiles que Washington considera “instrumentos de la represión”.",
       "image": "https://cdn-3.expansion.mx/dims4/default/399532a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc4%2Fde%2F7782534c4ef1a17eda7e934bfadf%2Festados-unidos-sanciona-al-ministerio-turismo-cuba.jpg",
       "published": "2026-07-13T21:54:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3ee32b6ac47913",
-      "title": "Carlos Slim Helú, empresario mexicano: “No hay reto que no podamos alcanzar trabajando unidos con claridad de los objetivos”",
-      "url": "https://www.merca20.com/carlos-slim-helu-empresario-mexicano-no-hay-reto-que-no-podamos-alcanzar-trabajando-unidos-con-claridad-de-los-objetivos/?utm_source=rss&utm_medium=rss&utm_campaign=carlos-slim-helu-empresario-mexicano-no-hay-reto-que-no-podamos-alcanzar-trabajando-unidos-con-claridad-de-los-objetivos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Carlos Slim Helú inició sus negocios con una inversión de 500 dólares. En 1965, el grupo comenzó a expandirse con la compra de Jarritos",
-      "image": "https://files.merca20.com/uploads/2025/03/EMPRESAS-FAMILIARES-MEXICO-CARLOS-SLIM-TELCEL-2025.jpg",
-      "published": "2026-07-13T21:49:49+00:00",
       "score": null,
       "tags": []
     },
@@ -773,18 +1073,6 @@
       "tags": []
     },
     {
-      "id": "750fd437efff9e",
-      "title": "China acaba de lograr algo que solo sabían hacer SpaceX y Blue Origin: recuperar la primera etapa de un cohete, y lo ha hecho a su manera",
-      "url": "https://www.xataka.com/espacio/china-acaba-lograr-algo-que-solo-sabian-hacer-spacex-blue-origin-recuperar-primera-etapa-cohete-ha-hecho-a-su-manera",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "China se parece ahora un poquito más a SpaceX, pues por primera vez ha logrado reciclar la primera etapa de un cohete después de separarse de la segunda, que pudo colocar sin problema su carga útil en órbita terrestre ba…",
-      "image": "https://i.blogs.es/e6c6d3/cohete-chino3/1024_2000.png",
-      "published": "2026-07-13T18:30:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6a5f4028b79141",
       "title": "Samsung borrará tus datos de salud si no dejas que entrenen su IA con ellos",
       "url": "https://hipertextual.com/mobile/samsung-health-datos-salud-ia-entrenamiento/",
@@ -793,18 +1081,6 @@
       "summary": "Samsung acaba de aplicar una medida que va a causar dolores de cabeza a muchos usuarios de Galaxy. La compañía anunció que Samsung Health ahora vincula la sincronización de tu información con el entrenamiento de sus mode…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/samsung-health.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-13T18:14:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0cbb74bcef8bde",
-      "title": "11 años después de su final, llega a 'streaming' y completamente gratis esta obra maestra del suspense británico",
-      "url": "https://www.xataka.com/streaming/11-anos-despues-su-final-llega-a-streaming-completamente-gratis-esta-obra-maestra-suspense-britanico",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El día que emitió su último capítulo y con ello cerraba definitivamente su apasionante historia, la mitad de la audiencia televisiva británica de esa noche estaba enganchada al final. Han pasado tres años de aquello (y o…",
-      "image": "https://i.blogs.es/9f6c90/captura-de-pantalla-2026-07-13-a-las-12.42.21/1024_2000.jpeg",
-      "published": "2026-07-13T18:00:07+00:00",
       "score": null,
       "tags": []
     },
@@ -833,18 +1109,6 @@
       "tags": []
     },
     {
-      "id": "7068159539f8b6",
-      "title": "Un pasajero de Ryanair ya sabe para qué sirve el cinturón de seguridad. Y lo ha descubierto con medio cuerpo fuera del avión",
-      "url": "https://www.xataka.com/movilidad/pasajero-ryanair-sabe-sirve-cinturon-seguridad-ha-descubierto-medio-cuerpo-fuera-avion",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Memmingen es una ciudad alemana a una hora y media en coche de Munich. Al sur de Alemania y al norte del Lago Constanza, la ciudad se encuentra en un enclave perfecto para recibir los vuelos de quienes viajan a la ciudad…",
-      "image": "https://i.blogs.es/2ad35d/ryanair-pasajero-cinturon-de-seguridad/1024_2000.jpeg",
-      "published": "2026-07-13T17:30:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9eee34fdf1ffcd",
       "title": "¿Cómo es el día a día al estudiar la carrera de Arquitectura?",
       "url": "https://altonivel.com.mx/como-es-el-dia-a-dia-al-estudiar-la-carrera-de-arquitectura/",
@@ -857,42 +1121,6 @@
       "tags": []
     },
     {
-      "id": "557c96541d4454",
-      "title": "China conquistó el mercado europeo del neumático barato. La UE acaba de ponerle freno",
-      "url": "https://www.xataka.com/movilidad/china-conquisto-mercado-europeo-neumatico-barato-ue-acaba-ponerle-freno",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La Comisión Europea ha aprobado aranceles antidumping definitivos sobre los neumáticos para turismos y furgonetas ligeras procedentes de China, que oscilan entre el 4,3% y el 45,3% según el fabricante. La medida llega tr…",
-      "image": "https://i.blogs.es/6f66c9/neumaticos/1024_2000.jpeg",
-      "published": "2026-07-13T17:16:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8ace16d51d552b",
-      "title": "La Unión Europea advierte: no puede impedir que PlayStation mate los juegos en disco",
-      "url": "https://hipertextual.com/videojuegos/europa-advierte-no-puede-impedir-playstation-mate-juegos-disco/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Las repercusiones de que PlayStation deje de lanzar juegos en disco a partir de 2028 siguen a la orden del día. Más allá de las quejas y los petitorios para evitar que Sony siga con este plan, no parece haber mucho más q…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/juegos-PS5-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T17:15:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "08050cf5dbc285",
-      "title": "Un conductor ha cruzado uno de los túneles más largos de Europa a más de 170 km/h. Ahora tiene prohibido conducir en toda Suiza",
-      "url": "https://www.xataka.com/movilidad/conductor-ha-cruzado-uno-tuneles-largos-europa-triplicando-velocidad-permitida-ahora-tiene-prohibido-conducir-toda-suiza",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Un joven alemán de 22 años ha protagonizado una de las persecuciones más comentadas de las últimas semanas en Suiza. Y es que su recorrido por el túnel de San Gotardo , una de las arterias más transitadas de Europa camin…",
-      "image": "https://i.blogs.es/b41d18/tunel/1024_2000.png",
-      "published": "2026-07-13T17:00:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6a15ba79636d91",
       "title": "Lentes prohibidos: Nueva York da el primer golpe contra los Ray-Ban Meta y los veta por completo de la justicia",
       "url": "https://www.fayerwayer.com/internet/2026/07/13/lentes-prohibidos-nueva-york-da-el-primer-golpe-contra-los-ray-ban-meta-y-los-veta-por-completo-de-la-justicia/",
@@ -901,18 +1129,6 @@
       "summary": "En una decisión inédita en EE.UU., Nueva York veta el ingreso de lentes inteligentes a los juzgados, incluidos los modelos ópticos con receta médica.",
       "image": "https://www.fayerwayer.com/resizer/v2/BLQ3NNYKNNBK3FDIQEQIN7V5WE.png?auth=d4b9e2cf51ff900d935a3a24ba033f7ee81a1f8784b1f5c7ba31ec6eca9d488c&smart=true&width=1766&height=990",
       "published": "2026-07-13T16:57:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5127d2f6106297",
-      "title": "\"Si te esfuerzas al 95%, equivale al 0%\", un CEO de 22 años defiende la jornada 996 como un \"producto\" voluntario",
-      "url": "https://www.xataka.com/empresas-y-economia/te-esfuerzas-al-95-equivale-al-0-ceo-22-anos-defiende-jornada-996-como-producto-voluntario",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "A finales de 2024, Daksh Gupta, fundador y CEO de una pequeña startup de IA de Silicon Valley, escribió un tuit que encendió las redes en su contra. Contaba que su startup no ofrecía conciliación laboral y buscaba a empl…",
-      "image": "https://i.blogs.es/2161bc/996-en-silicon-valley/1024_2000.jpeg",
-      "published": "2026-07-13T16:46:05+00:00",
       "score": null,
       "tags": []
     },
@@ -941,30 +1157,6 @@
       "tags": []
     },
     {
-      "id": "da980d8f4d3173",
-      "title": "\"¿Merece la pena el esfuerzo de comprar un MacBook Air M5 con más RAM?\" - Esto es lo que recomendamos",
-      "url": "https://www.xataka.com/xataka-xtra/merece-pena-esfuerzo-comprar-macbook-air-m5-ram-esto-que-recomendamos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "A la hora de comprar un nuevo ordenador, la memoria RAM es una de las características más importantes que debes mirar. Pero claro, comprar un modelo de un ordenador con más RAM también significa gastar un poco más, y no …",
-      "image": "https://i.blogs.es/c6a413/macbook-air/1024_2000.jpeg",
-      "published": "2026-07-13T16:30:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "79d1a178cbca58",
-      "title": "Ya es oficial: llegan los nuevos auriculares Razer dedicados a PlayStation y Xbox que prometen latencia ultrabaja y sonido envolvente",
-      "url": "https://www.xataka.com/seleccion/oficial-llegan-nuevos-auriculares-razer-dedicados-a-playstation-xbox-que-prometen-latencia-ultrabaja-sonido-envolvente",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "¿Qué auriculares utilizas para jugar a la consola? Si hasta ahora no estabas utilizando ningún modelo o si, simplemente, llevas un tiempo queriendo renovar los que ya tienes, atento porque Razer ha lanzado sus Razer Hamm…",
-      "image": "https://i.blogs.es/ae43b6/razer-hammerhead-v3-x-hyperspeed/1024_2000.jpeg",
-      "published": "2026-07-13T16:16:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "3327476644ed09",
       "title": "Opinión | Elogio de mi cama (sobre la posibilidad de una vida virtual)",
       "url": "https://observatorio.tec.mx/opinion-elogio-de-mi-cama-sobre-la-posibilidad-de-una-vida-virtual/",
@@ -977,18 +1169,6 @@
       "tags": []
     },
     {
-      "id": "30eeee57f0082d",
-      "title": "Italia lleva años privatizando sus playas. Ahora la gran batalla se libra por algo mucho más simple: traer el bocadillo de casa",
-      "url": "https://www.xataka.com/magnet/italia-lleva-anos-privatizando-sus-playas-ahora-gran-batalla-se-libra-algo-mucho-simple-traer-bocadillo-casa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Una madre escondió unos bocadillos en el fondo de su mochila para que sus hijos pudieran comer en la playa sin tener que pasar por el restaurante del establecimiento. Cuando llegó la hora de la comida, les pidió que se a…",
-      "image": "https://i.blogs.es/803caa/tramezzino_-5268587628-/1024_2000.jpeg",
-      "published": "2026-07-13T16:00:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "06c05e2e7d1296",
       "title": "SpaceX ya vale menos que el día de su salida a bolsa: ¿Musk aún es billonario?",
       "url": "https://altonivel.com.mx/spacex-ya-vale-menos-que-el-dia-de-su-salida-a-bolsa-musk-aun-es-billonario/",
@@ -997,42 +1177,6 @@
       "summary": "Las acciones de SpaceX ya cotizan por debajo de su precio de debut en bolsa de 150 dólares, relegando a la empresa al octavo lugar global por valor de mercado. The post SpaceX ya vale menos que el día de su salida a bols…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/05/spacex.webp",
       "published": "2026-07-13T15:54:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "35209dd09e35f9",
-      "title": "Zara se las prometía felices con sus pantalones para el verano. Hasta que acabaron con la etiqueta de \"pantalones asesinos\"",
-      "url": "https://www.xataka.com/magnet/se-merecen-documental-netflix-que-tiktok-se-esta-hablando-unos-pantalones-mortales-zara",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El catálogo de verano de Zara es noticia . Y por una razón que probablemente no guste demasiado en las oficinas centrales de Inditex. A lo largo de los últimos días varias usuarias de TikTok han publicado vídeos en los q…",
-      "image": "https://i.blogs.es/8db25f/tiktokpantalones/1024_2000.jpeg",
-      "published": "2026-07-13T15:46:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f259b53e44f0e1",
-      "title": "Si el precio de la memoria en 2026 es alto, en 2027 será apocalíptico. Y lo dice una de las tres que fabrica esa memoria",
-      "url": "https://www.xataka.com/componentes/precio-memoria-2026-alto-2027-sera-apocaliptico-dice-tres-que-fabrica-esa-memoria",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando hablamos de que los móviles son más caros , las consolas no dejan de subir de precio o de que para comprar memoria RAM casi hay que pedir una hipoteca, tenemos que saber que tres empresas (Samsung, SK Hynix y Micr…",
-      "image": "https://i.blogs.es/f0fbbb/original/1024_2000.jpeg",
-      "published": "2026-07-13T15:30:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "17639dffda1b27",
-      "title": "Steven Spielberg honra la memoria de Sam Neill: «Nunca será olvidado»",
-      "url": "https://hipertextual.com/cine-television/steven-spielberg-recuerda-sam-neill-jurassic-park/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La muerte de Sam Neill ha tomado al mundo por sorpresa. El actor neozelandés, quien logró estrellato mundial por su rol como el Dr. Alan Grant en Jurassic Park, falleció este lunes a los 78 años. Su deceso se produjo de …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Sam-Neill.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T15:29:25+00:00",
       "score": null,
       "tags": []
     },
@@ -1057,30 +1201,6 @@
       "summary": "El director Destin Daniel Cretton oficializó en Instagram la búsqueda internacional de los actores que encarnarán a Naruto, Sasuke y Sakura para la...",
       "image": "https://www.fayerwayer.com/resizer/v2/5T4IK5XASNBQJCJ63K2WLITCTA.jpg?auth=e0f4787fa42d846089270e59f7b4faac07582923a64c37e18ef136578a5f1e7f&smart=true&width=1192&height=662",
       "published": "2026-07-13T15:05:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a3ec42a3b8dce3",
-      "title": "Madrid se prepara para tener robotaxis este otoño. El problema es que casi nadie tiene claro cómo va a funcionar",
-      "url": "https://www.xataka.com/movilidad/madrid-se-prepara-para-tener-robotaxis-este-otono-problema-que-casi-nadie-tiene-claro-como-va-a-funcionar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Madrid está a punto de convertirse en la primera capital de la Unión Europea con coches sin conductor circulando por sus calles. Uber, Waymo, Cabify y varias tecnológicas chinas se disputan ya un negocio millonario que, …",
-      "image": "https://i.blogs.es/71c4b7/hoseung-han-nymmmryxisy-unsplash/1024_2000.jpeg",
-      "published": "2026-07-13T15:00:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7fde62d0da9feb",
-      "title": "Cómo usar ChatGPT en WhatsApp ahora que vuelve a estar disponible en la Unión Europea",
-      "url": "https://www.xataka.com/basics/como-usar-chatgpt-whatsapp-vuelve-a-estar-disponible-union-europea",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Vamos a explicarte cómo usar ChatGPT en WhatsApp , usando la inteligencia artificial creada por OpenAI. Se trata del ChatGPT oficial, el real, y no ningún otro bot que usa su tecnología. Tras llegar a WhatsApp en 2025 se…",
-      "image": "https://i.blogs.es/dd36ca/chatgpt-whatsapp/1024_2000.jpeg",
-      "published": "2026-07-13T14:59:01+00:00",
       "score": null,
       "tags": []
     },
@@ -1121,18 +1241,6 @@
       "tags": []
     },
     {
-      "id": "0eea5821d0acc7",
-      "title": "Instagram da marcha atrás con la polémica función que permitía a cualquiera modificar tus fotos con IA",
-      "url": "https://hipertextual.com/inteligencia-artificial/instagram-elimina-funcion-modificar-fotos-publicas-ia-muse-image/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El reciente debut de Muse Image, la nueva IA de Meta para generar y editar imágenes, se vio manchado por una polémica función que permitía modificar cualquier foto de un perfil público de Instagram. Si bien era posible d…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Meta-Instagram.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T14:13:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "622ec1fa0c9b77",
       "title": "Windows 11 tiene un problema que hace que consuma hasta 30 GB de RAM",
       "url": "https://www.muycomputer.com/2026/07/13/windows-11-tiene-un-problema-que-hace-que-consuma-hasta-30-gb-de-ram/",
@@ -1157,18 +1265,6 @@
       "tags": []
     },
     {
-      "id": "fd27806bd89042",
-      "title": "Tom Cruise, más Tom Cruise que nunca en el primer tráiler de ‘Digger’, lo nuevo de Alejandro González Iñárritu",
-      "url": "https://hipertextual.com/cine-television/tom-cruise-es-mas-tom-cruise-que-nunca-en-el-primer-trailer-de-digger-lo-nuevo-de-alejandro-gonzalez-inarritu/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Digger, la nueva comedia absurda de Alejandro González Iñárritu, acaba de lanzar su esperado primer tráiler, con Tom Cruise en uno de los roles más excéntricos de su carrera. En el film, la estrella de Top Gun y Misión I…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Digger-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T13:23:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0cf86eef925dee",
       "title": "No, no es el final de DOOM ni de id Software: el problema del sensacionalismo",
       "url": "https://www.muycomputer.com/2026/07/13/no-no-es-el-final-de-doom-ni-de-id-software-el-problema-del-sensacionalismo/",
@@ -1181,30 +1277,6 @@
       "tags": []
     },
     {
-      "id": "87b53babd24c2f",
-      "title": "La Unión Europea quiere regular el acceso a las redes sociales y propondrá una edad mínima para poder usarlas",
-      "url": "https://hipertextual.com/tecnologia/union-europea-redes-sociales/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Primero fue Australia, y luego varios países en cascada: regular el acceso a las redes sociales para los menores parece central en el debate político en torno a Internet. España ya ha dejado clara su postura, y otros paí…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/Bandera-Europa-Candado-Seguridad.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T11:51:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "70affa75784b2b",
-      "title": "Netflix recula y hace un cambio histórico: vuelve el plan GRATIS que perdimos hace 6 años",
-      "url": "https://hipertextual.com/actualidad/netflix-recula-y-hace-un-cambio-historico-vuelve-el-plan-gratis-que-perdimos-hace-6-anos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Que Netflix no está en un buen momento no es ninguna sorpresa. Las subidas drásticas de precios en medio mundo, una oleada de series y películas mediocres y una competencia cada vez más feroz están haciendo que la compañ…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/netflix-gratis.jpg?fit=1024%2C624&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T11:30:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2c66d422739274",
       "title": "Tiny11 25H2 reduce Windows 11 a solo 8 GB de espacio y 2 GB de RAM manteniendo la interfaz intacta",
       "url": "https://www.muycomputer.com/2026/07/13/tiny11-25h2-reduce-windows-11-a-solo-8-gb-de-espacio-y-2-gb-de-ram-manteniendo-la-interfaz-intacta/",
@@ -1213,18 +1285,6 @@
       "summary": "Windows 11 es un sistema operativo más exigente que Windows 10, y menos amigable que este último con PCs que estén limitados a nivel de hardware. Por suerte tenemos versiones personalizadas como Tiny11, que reducen el bl…",
       "image": null,
       "published": "2026-07-13T11:17:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e25421e762c9c9",
-      "title": "Vas a activar las nuevas funciones de IA de Waze de inmediato. Son una pasada",
-      "url": "https://hipertextual.com/movilidad/vas-a-activar-las-nuevas-funciones-de-ia-de-waze-de-inmediato-son-una-pasada/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Waze es una de las aplicaciones más usadas en la conducción. Y es de Google. Aunque esto no es ningún secreto, la compañía siempre ha tenido un tira y afloja con su app: es mejor en muchos aspectos que Google Maps, pero …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/12/waze.jpg?fit=1024%2C681&quality=70&strip=all&ssl=1",
-      "published": "2026-07-13T10:58:39+00:00",
       "score": null,
       "tags": []
     },
@@ -1277,36 +1337,12 @@
       "tags": []
     },
     {
-      "id": "444eb458c1c173",
-      "title": "AMD prepara FSR Multi Frame Generation x8: siete fotogramas generados en por cada fotograma renderizado",
-      "url": "https://www.muycomputer.com/2026/07/13/amd-prepara-fsr-multi-frame-generation-x8-siete-fotogramas-generados-en-por-cada-fotograma-renderizado/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Los últimos drivers que ha lanzado AMD esconden un importante secreto que ha sido descubierto gracias a RadeonTuner: FSR Multi Frame Generation x8, un modo que cuya activación se podrá forzar en un futuro a través de los…",
-      "image": null,
-      "published": "2026-07-13T06:01:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d99c4ae86852f4",
       "title": "La APA recomienda abordar el uso de la inteligencia artificial en la evaluación psicológica",
       "url": "https://www.infocop.es/la-apa-recomienda-abordar-el-uso-de-la-inteligencia-artificial-en-la-evaluacion-psicologica/",
       "source": "Infocop",
       "category": "psicologia",
       "summary": "Cada vez más personas recurren a chatbots de inteligencia artificial para obtener apoyo psicológico o emocional. Ante esta realidad, la Asociación Americana de Psicología (APA) considera que los psicólogos y psicólogas d…",
-      "image": null,
-      "published": "2026-07-13T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b0f58244acae3b",
-      "title": "Los accidentes de tráfico conllevan consecuencias psicológicas persistentes que siguen siendo invisibilizadas, según un estudio",
-      "url": "https://www.infocop.es/los-accidentes-de-trafico-conllevan-consecuencias-psicologicas-persistentes-que-siguen-siendo-invisibilizadas-segun-un-estudio/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "Las lesiones por accidentes de tráfico no solo provocan más de un millón de muertes al año, sino que dejan a millones de personas con secuelas permanentes que transforman radicalmente sus vidas (...) La entrada Los accid…",
       "image": null,
       "published": "2026-07-13T04:00:00+00:00",
       "score": null,
@@ -1361,18 +1397,6 @@
       "tags": []
     },
     {
-      "id": "3d464094870eac",
-      "title": "Los mejores contenidos de la semana en MuyComputer (DXXXII)",
-      "url": "https://www.muycomputer.com/2026/07/12/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxii/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: De Windows 1 a Windows 11: hist…",
-      "image": null,
-      "published": "2026-07-12T19:35:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "1f45fcc2871bdf",
       "title": "Sinaloa aprueba Ley de Filmaciones para atraer producciones y turismo",
       "url": "https://altonivel.com.mx/ley-filmaciones-sinaloa-turismo-cinematografico-productoras/",
@@ -1381,30 +1405,6 @@
       "summary": "Hoteles, restaurantes, transportistas y proveedores pueden beneficiarse si el gasto de los rodajes permanece en el estado. The post Sinaloa aprueba Ley de Filmaciones para atraer producciones y turismo appeared first on …",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/disney-papas.webp",
       "published": "2026-07-12T18:28:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "299f290c2c0e6b",
-      "title": "ScummVM recupera la saga de Mortadelo y Filemón",
-      "url": "https://www.muycomputer.com/2026/07/12/scummvm-recupera-la-saga-de-mortadelo-y-filemon/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Las aventuras de Mortadelo y Filemón forman parte del recuerdo de no pocas generaciones. Durante los primeros años del siglo XXI, los célebres agentes de la T.I.A. creados por Francisco Ibáñez protagonizaron varias avent…",
-      "image": null,
-      "published": "2026-07-12T18:05:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6866bcd2abf56d",
-      "title": "ATLAS propone una forma distinta de navegar por Internet",
-      "url": "https://www.muycomputer.com/2026/07/12/atlas-propone-una-forma-distinta-de-navegar-por-internet/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Durante casi tres décadas, la evolución de los navegadores web ha seguido una línea bastante predecible. Más velocidad, menor consumo de memoria, mejor compatibilidad con los estándares y nuevas funciones de productivida…",
-      "image": null,
-      "published": "2026-07-12T16:31:21+00:00",
       "score": null,
       "tags": []
     },
@@ -1429,18 +1429,6 @@
       "summary": "Por primera vez en su historia, Blue Origin acepta inversores externos con una valoración de USD $130.000 millones.",
       "image": "https://www.fayerwayer.com/resizer/v2/SUJRWQAAUZBAHHBUWXU7LLDZVA.jpg?auth=9d3ef954d6af03fdd54efd7c39af79f25ca0f52dd87df180d547391bc436b05d&smart=true&width=7963&height=5309",
       "published": "2026-07-12T14:21:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "02608621744ab4",
-      "title": "Microsoft confirma la existencia de un identificador oculto en Windows",
-      "url": "https://www.muycomputer.com/2026/07/12/microsoft-confirma-la-existencia-de-un-identificador-oculto-en-windows/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Un documento judicial relacionado con el grupo de ciberdelincuencia Scattered Spider ha sacado a la luz uno de los identificadores menos conocidos de Windows. En el marco de la investigación, Microsoft ha confirmado ofic…",
-      "image": null,
-      "published": "2026-07-12T14:02:10+00:00",
       "score": null,
       "tags": []
     },
@@ -1501,6 +1489,18 @@
       "summary": "En un mundo académico con más estudiantes que profesores haciendo uso de sistemas de inteligencia artificial, resulta más difícil garantizar la calidad y la integridad académicas. Por esa razón, es fundamental comprender…",
       "image": null,
       "published": "2026-07-10T11:35:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b0f58244acae3b",
+      "title": "Los accidentes de tráfico conllevan consecuencias psicológicas persistentes que siguen siendo invisibilizadas, según un estudio",
+      "url": "https://www.infocop.es/los-accidentes-de-trafico-conllevan-consecuencias-psicologicas-persistentes-que-siguen-siendo-invisibilizadas-segun-un-estudio/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Las lesiones por accidentes de tráfico no solo provocan más de un millón de muertes al año, sino que dejan a millones de personas con secuelas permanentes que transforman radicalmente sus vidas (...) La entrada Los accid…",
+      "image": null,
+      "published": "2026-07-10T04:00:00+00:00",
       "score": null,
       "tags": []
     },

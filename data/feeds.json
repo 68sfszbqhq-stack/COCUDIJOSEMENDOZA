@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-07-18T07:50:49.599167+00:00",
-    "total": 188
+    "generated": "2026-07-18T13:15:49.800604+00:00",
+    "total": 198
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "El verdadero valor de un consejero está en las preguntas incómodas que se atreve a formular y en su capacidad de construir una organización que trascienda a su fundador. The post Estar en un consejo no es solo un logro, …",
       "image": null,
-      "published": "2026-07-18T07:50:48.081182+00:00",
+      "published": "2026-07-18T13:15:48.243745+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Ser rechazado duele. Pero aprender a manejarlo marca la diferencia entre abandonar y seguir creciendo como emprendedor. The post Cómo manejar el rechazo como un emprendedor exitoso: esto es lo que necesitas hacer de mane…",
       "image": null,
-      "published": "2026-07-18T07:50:48.080810+00:00",
+      "published": "2026-07-18T13:15:48.243386+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Es más rápido generar riqueza emprendiendo que ahorrando — si dominas los hábitos correctos. The post Estudié a 233 millonarios — estos son los 6 hábitos que los hicieron ricos appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-07-18T07:50:48.080457+00:00",
+      "published": "2026-07-18T13:15:48.242997+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Las marcas que hoy generan más conversación no son necesariamente las que llegan a más gente. Son las que construyen comunidades a las que la gente realmente quiere pertenecer. The post Deja de perseguir el alcance: por …",
       "image": null,
-      "published": "2026-07-18T07:50:48.080092+00:00",
+      "published": "2026-07-18T13:15:48.242625+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La abogada y presentadora colombiana Gabriela Tafur levantó $5 millones de dólares para Idilio TV, su plataforma de micronovelas verticales. Su tesis: que el melodrama latinoamericano puede enfrentar a los gigantes chino…",
       "image": null,
-      "published": "2026-07-18T07:50:48.079701+00:00",
+      "published": "2026-07-18T13:15:48.242217+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "La cartera vencida del crédito al consumo en México alcanzó cifras récord en 2026. La verdadera solución está en repensar cómo se originan los créditos desde el inicio. The post El verdadero problema no es cobrar tarde. …",
       "image": null,
-      "published": "2026-07-18T07:50:48.079241+00:00",
+      "published": "2026-07-18T13:15:48.240651+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "No tienes un problema de ejecución. Tienes un problema de claridad. The post ¿Por qué la ejecución se siente más difícil de lo que debería? La fricción invisible que está frenando a tu equipo appeared first on Entreprene…",
       "image": null,
-      "published": "2026-07-18T07:50:48.077852+00:00",
+      "published": "2026-07-18T13:15:48.240250+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial está en todos lados, y si has dedicado algo de tiempo a evaluar herramientas para tu negocio, ya sabes que la distancia entre la promesa y el resultado real es considerable. The post 15 herrami…",
       "image": null,
-      "published": "2026-07-18T07:50:48.077461+00:00",
+      "published": "2026-07-18T13:15:48.239827+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "A medida que la IA se vuelve impulsada por la voz, tu capacidad para comunicarte con claridad y autenticidad —no qué tan bien escribes— se convierte en tu mayor activo como líder. The post La buena escritura ha muerto. A…",
       "image": null,
-      "published": "2026-07-18T07:50:48.077000+00:00",
+      "published": "2026-07-18T13:15:48.239407+00:00",
       "score": null,
       "tags": []
     },
@@ -120,13 +120,241 @@
       "category": "startup",
       "summary": "El oráculo de Delfos y la IA tienen algo en común: ambos prometen revelar lo que aún no es visible. David Mahbub, cofundador de MACH9, lo llama \"IA como revelación\": una forma de detectar tendencias antes de que exploten…",
       "image": null,
-      "published": "2026-07-18T07:50:48.076553+00:00",
+      "published": "2026-07-18T13:15:48.238899+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9ab0ccdc300f63",
+      "title": "China está investigando cómo tener bebés en el espacio. Y tiene malas noticias",
+      "url": "https://www.xataka.com/espacio/china-esta-investigando-como-tener-bebes-espacio-tienen-malas-noticias",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "China lleva años con las pilas puestas en la nueva carrera espacial . Aparte de probar sus cohetes de ida y vuelta como elemento clave para abaratar misiones y para llenar la órbita baja de satélites de todo tipo ( tanto…",
+      "image": "https://i.blogs.es/95d5e6/upscalemedia-transformed/1024_2000.jpeg",
+      "published": "2026-07-18T13:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "694e4d46947b7f",
+      "title": "Uso un raton Logitech y desde que instalé esta app de código abierto puedo configurarlo sin la app oficial",
+      "url": "https://hipertextual.com/tecnologia/openlogi-alternativa-logitech-options/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Logitech vende algunos de los ratones más populares del mundo. Aunque existen cientos de fabricantes y modelos, el MX Master 4 y el G502 se han posicionado como las opciones casi por defecto. El único defecto es que para…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/09/Logitech-MX-Master-3S-MX-Mechanical-2-scaled.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-07-18T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b59b7b24b70ef2",
+      "title": "Cómo ver el España - Argentina: fecha y hora de la final del Mundial 2026, y dónde puedes verlo en cualquier dispositivo",
+      "url": "https://www.xataka.com/basics/como-ver-espana-argentina-fecha-hora-final-mundial-2026-donde-puedes-verlo-cualquier-dispositivo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Vamos a explicarte cómo y dónde puedes ver el partido de España contra Argentina . Se trata de la gran final del Mundial de Fútbol 2026, en el que nuestra selección tiene la opción de conseguir la segunda estrella, el se…",
+      "image": "https://i.blogs.es/c1f1cb/espana-argentina/1024_2000.jpeg",
+      "published": "2026-07-18T12:46:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "91095d1cae656b",
+      "title": "La película de superhéroes más taquillera de la historia vuelve a los cines para repetir el éxito con una versión más larga",
+      "url": "https://www.xataka.com/cine-y-tv/pelicula-superheroes-querida-todos-tiempos-vuelve-a-cines-para-repetir-exito-version-larga",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 2019, Marvel reestrenó 'Vengadores: Endgame' con metraje inédito para arrebatarle a 'Avatar' el título de película más taquillera de la historia. La corona le duró año y medio. En 2026 la maniobra vuelve a activarse, …",
+      "image": "https://i.blogs.es/c7aa13/captura-de-pantalla-2026-07-17-a-las-13.08.57/1024_2000.jpeg",
+      "published": "2026-07-18T12:30:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d051b86e556366",
+      "title": "Llevamos toda la vida bebiendo cerveza en la playa para refrescarnos. La ciencia avisa del gran peligro para nuestro cuerpo",
+      "url": "https://www.xataka.com/medicina-y-salud/llevamos-toda-vida-bebiendo-cerveza-playa-para-refrescarnos-ciencia-avisa-gran-peligro-para-nuestro-cuerpo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cualquier tarde de verano, las playas y terrazas se llenan de personas buscando refugio contra las altas temperaturas, y el instinto de la gran mayoría es pedir una cerveza fría. Esta bebida tan clásica en España da una …",
+      "image": "https://i.blogs.es/064ad5/cerveza/1024_2000.jpeg",
+      "published": "2026-07-18T12:00:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8b53f44d3e2fbe",
+      "title": "Los 7 cines de España en los que puedes ver ‘La Odisea’ tal y como Christopher Nolan quiere que lo hagas",
+      "url": "https://hipertextual.com/cine-television/los-7-cines-de-espana-en-los-que-puedes-ver-la-odisea-tal-y-como-christopher-nolan-quiere-que-lo-hagas/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con el estreno en cines de La Odisea de Christopher Nolan, los cines de todo el mundo, España incluida, ya tiene programadas cientos y cientos de sesiones para las próximas semanas. Sin embargo, no todas las salas de cin…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Chistopher-Nolan-La-Odisea-1.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-18T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5e5d1a294b5b90",
+      "title": "A Google, Amazon y Microsoft les ha salido un rival inesperado: el hombre más rico de Alemania y dueño de Lidl",
+      "url": "https://www.xataka.com/empresas-y-economia/a-google-amazon-microsoft-les-ha-salido-rival-inesperado-hombre-rico-alemania",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Puede que el nombre de \"Dieter Schwarz\" no te suene de buenas a primeras, pero si hablamos de Lidl, la cosa cambia. Pues bien, Dieter Schwarz es la cabeza del emporio familiar de Lidl y Kaufland. Y es normal que no te su…",
+      "image": "https://i.blogs.es/ccaccd/magnific_quiero-que-cambies-un-poc_soxduomub8/1024_2000.jpeg",
+      "published": "2026-07-18T11:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "31fa544e50f775",
+      "title": "César Franco, ingeniero: \"Si nos gastamos cientos de millones para que circulen tres AVE al día, estamos cometiendo un error\"",
+      "url": "https://www.xataka.com/movilidad/cesar-franco-ingeniero-nos-vamos-a-gastar-cientos-millones-circulen-tres-ave-al-dia-estamos-cometiendo-error-economico",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hace unos días, César Franco nos explicaba cuál era el estado de las carreteras españolas y su visión sobre las mismas. Franco es ingeniero industrial y dirige el Máster de Universitario en Ingeniería Industrial en la Un…",
+      "image": "https://i.blogs.es/ea8c49/cesar-franco-gastar-millones-trenes-error/1024_2000.jpeg",
+      "published": "2026-07-18T11:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3deb35e4ad7040",
+      "title": "Open Notebook: la alternativa libre a NotebookLM que puedes instalar tú mismo en tu PC",
+      "url": "https://hipertextual.com/guias/open-notebook-alternativa-gratis-ia-local-privada-notebooklm/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "NotebookLM es, en palabras de la IA de Google, Gemini, “un asistente virtual de investigación y redacción desarrollado por Google, diseñado para ayudarte a interactuar de forma inteligente con tus propios documentos y fu…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/NotebookLM-Open-Notebook.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-07-18T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e740f62c9f01ae",
+      "title": "Hay gente que piensa que Europa debe recuperar la mili. Lo sucedido en Alemania les ofrece una desagradable sorpresa",
+      "url": "https://www.xataka.com/magnet/alemania-quiso-blindar-su-ejercito-mili-voluntaria-momento-se-ha-encontrado-boom-objetores-conciencia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Aún es pronto para saber si Alemania tendrá o no éxito con su nueva 'mili' voluntaria , pero algo está claro: las autoridades germanas han reavivado una figura que estuvo de capa caída durante años, el objetor de concien…",
+      "image": "https://i.blogs.es/cd0913/simon-infanger--_02voyclsy-unsplash/1024_2000.jpeg",
+      "published": "2026-07-18T10:16:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9d148d4b581c1c",
+      "title": "Las mejores aplicaciones para móvil recomendadas por los editores de Xataka en 2026",
+      "url": "https://www.xataka.com/basics/mejores-aplicaciones-para-movil-recomendadas-editores-xataka",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Te traemos una colección de las mejores aplicaciones para móvil que recomendamos varios de los editores de Xataka y otros medios tecnológicos de Webedia. Son las aplicaciones que más utilizamos en nuestro día a día, esas…",
+      "image": "https://i.blogs.es/2c1170/apps/1024_2000.jpeg",
+      "published": "2026-07-18T10:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fdf62ae5f8aaa5",
+      "title": "Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic",
+      "url": "https://hipertextual.com/mobile/repostore-tienda-apps-github-android/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Cada vez son más los usuarios de Android que buscan alternativas a la Play Store para instalar aplicaciones. Con la puesta en marcha de la Ley de Mercados Digitales, Google y Apple tuvieron que abrir sus ecosistemas para…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/repostore-android.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-18T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8d836e98ec0fa8",
+      "title": "\"Elegimos la tecnología equivocada\": Jensen Huang vuelve a Japón para reconocer su deuda con Sega 30 años después",
+      "url": "https://www.xataka.com/empresas-y-economia/elegimos-tecnologia-equivocada-jensen-huang-vuelve-a-japon-para-reconocer-su-deuda-sega-30-anos-despues",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Con una capitalización de mercado superior a 5 billones de dólares , hoy Nvidia es la empresa más valiosa del mundo, pero huelga decir que no siempre fue así. De hecho y como pasa en las mejores casas, los inicios son di…",
+      "image": "https://i.blogs.es/9edaf0/segaaa/1024_2000.jpeg",
+      "published": "2026-07-18T09:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d0942e42d01c4a",
+      "title": "Galaxy Z Fold 8 queda casi totalmente al descubierto",
+      "url": "https://www.muycomputer.com/2026/07/18/galaxy-z-fold-8-queda-casi-totalmente-al-descubierto/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "El Galaxy Z Fold 8 ha quedado prácticamente al descubierto a pocos días de su presentación. Una amplia colección de imágenes promocionales filtradas por Evan Blass muestra el diseño del próximo plegable de Samsung y adel…",
+      "image": null,
+      "published": "2026-07-18T09:05:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "12e48a1e5aad21",
+      "title": "Cuando Irán cerró el estrecho de Ormuz, nadie se atrevió a cruzarlo. Nadie excepto un superyate ruso de 300 millones",
+      "url": "https://www.xataka.com/transporte/nadie-se-atrevio-a-romper-bloqueo-estrecho-ormuz-nadie-excepto-superyate-ruso-300-millones-dolares",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Desde hace meses, el estrecho de Ormuz ha sido uno de los lugares más peligrosos del mundo para navegar. Petroleros anclados durante semanas enteras, cargueros dando media vuelta con sus bodegas vacías y seguros marítimo…",
+      "image": "https://i.blogs.es/56f437/yatch-a_4/1024_2000.jpeg",
+      "published": "2026-07-18T09:00:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "de74e266177f83",
+      "title": "El Corte Inglés liquida en su outlet online todas estas teles Sony, LG y Samsung, hoy 18 de julio",
+      "url": "https://www.xataka.com/seleccion/corte-ingles-liquida-su-outlet-online-todas-estas-teles-sony-lg-samsung-hoy-18-julio",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Corte Inglés tiene muchísimos dispositivos reacondicionados en su tienda online. Hay de todo, aunque lo habitual es que encontremos sobre todo televisores de años anteriores con precios bastante ajustados. Por este mo…",
+      "image": "https://i.blogs.es/7028dc/tienda-el-corte-ingles/1024_2000.jpeg",
+      "published": "2026-07-18T08:30:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4befce3daa366f",
+      "title": "El repliegue de Ryanair en España se ha saldado con un escenario antaño inimaginable: Vueling y WizzAir le comen terreno",
+      "url": "https://www.xataka.com/movilidad/ryanair-ha-eliminado-millon-asientos-espana-hay-dos-claros-ganadores-vueling-wizz-air-le-comen-terreno",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Febrero de 2025, el CEO de Ryanair protagoniza una campaña de descuentos en el que anima a comprar \"antes de que un payaso suba los precios\" . Michael O'Leary, que no es nuevo en lo de insultar a figuras políticas, prese…",
+      "image": "https://i.blogs.es/20db0b/fotis-ybf3rzhhpvm-unsplash/1024_2000.jpeg",
+      "published": "2026-07-18T08:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "98f900b83b4b6e",
+      "title": "Este gráfico muestra las olas de calor de la Península ibérica a modo de olas y deja algo claro: el tsunami está al caer",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/este-grafico-muestra-olas-calor-peninsula-iberica-como-fueran-olas-deja-claro-tsunami-esta-al-caer",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Lo que ves sobre estas líneas es un gráfico climático peculiar y bastante menos intuitivo que el típico mapa colorido como este o como este otro . Pero los tres vienen a decir lo mismo: cómo ha cambiado el clima a través…",
+      "image": "https://i.blogs.es/c265e8/mapa/1024_2000.jpeg",
+      "published": "2026-07-18T08:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b96272024572fe",
+      "title": "El final de ‘La Odisea’ de Christopher Nola, explicado: ¿cómo cambia la obra de Homero?",
+      "url": "https://hipertextual.com/cine-television/la-odisea-de-christopher-nola-final-explicado-como-cambia-la-obra-de-homero/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "ATENCIÓN: El artículo contiene SPOILERS de La Odisea de Christopher Nolan. Por fin acaba de llegar a los cines La Odisea de Christopher Nolan y, por supuesto, la taquilla ya se prepara para vivir la locura que supone un …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Christopher-Nolan-La-Odisea-trailer.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-18T08:00:00+00:00",
       "score": null,
       "tags": []
     },
     {
       "id": "1ee92e91520f0f",
-      "title": "Apple desbanca a Nvidia y se convierte en la empresa más valiosa del mundo por unas horas. El secreto está en el gasto de la IA",
+      "title": "Apple supera a Nvidia y se convierte en la empresa más valiosa del mundo por unas horas. El secreto está en el gasto de la IA",
       "url": "https://www.xataka.com/empresas-y-economia/apple-desbanca-a-nvidia-se-convierte-empresa-valiosa-mundo-unas-horas-secreto-esta-gasto-ia",
       "source": "Xataka",
       "category": "tech-ia",
@@ -174,7 +402,7 @@
     },
     {
       "id": "e22b6295547b3f",
-      "title": "Claudia Sheinbaum confirma asistencia a la Final del Mundial 2026 en NY invitada por el Presidente Donald Trump",
+      "title": "Mundial 2026: ¿Por qué Sheinbaum si va a la final y no asistió a la inauguración?",
       "url": "https://www.merca20.com/claudia-sheinbaum-confirma-asistencia-a-la-final-del-mundial-2026-en-ny-invitada-por-el-presidente-donald-trump/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-sheinbaum-confirma-asistencia-a-la-final-del-mundial-2026-en-ny-invitada-por-el-presidente-donald-trump",
       "source": "Merca 2.0",
       "category": "startup",
@@ -217,18 +445,6 @@
       "summary": "El episodio 5 de La Casa del Dragón temporada 3 se estrena este domingo 12 de julio a las 20:00 horas en México a través de Max y HBO.",
       "image": "https://files.merca20.com/uploads/2026/04/The-House-of-Dragon.jpg",
       "published": "2026-07-18T04:02:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8130f1fdf411a2",
-      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 18 de julio",
-      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-18-julio",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Efectivamente, es muy probable que ya lo hayas adivinado, este fin de semana se reactiva el esquema del Hoy No Circula sabatino. Y es que la estrategia de control de la circulación con la que la Secretaría de Medio Ambie…",
-      "image": "https://i.blogs.es/53a794/silas-lundquist-dibo63k4k1g-unsplash/1024_2000.jpeg",
-      "published": "2026-07-18T03:00:07+00:00",
       "score": null,
       "tags": []
     },
@@ -445,18 +661,6 @@
       "summary": "Una investigación en la cueva de Üçağızlı II (Turquía) revoluciona la arqueología al hallar conchas decorativas idénticas que demuestran una transmisión...",
       "image": "https://www.fayerwayer.com/resizer/v2/N2J57JRKNZGUHGZI5MFC3KXCYU.png?auth=c61dc1b0bc0d8e03135466d76ebf64d640bc8a4a7ee2fd2c08cd2e18bff8f67a&smart=true&width=1458&height=962",
       "published": "2026-07-17T22:00:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2046c415f519bf",
-      "title": "La preservación de videojuegos ya ha sido herida de muerte con Sony. El siguiente golpe viene de todo un país: Alemania",
-      "url": "https://www.xataka.com/videojuegos/preservacion-videojuegos-ha-sido-herida-muerte-sony-siguiente-golpe-viene-todo-pais-alemania",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Muchas veces hemos tratado los videojuegos como si su disponibilidad estuviera garantizada, incluso cuando dependían de discos, tiendas digitales y servidores que podían desaparecer. Lo que hemos visto esta semana recuer…",
-      "image": "https://i.blogs.es/122554/juegos2/1024_2000.jpeg",
-      "published": "2026-07-17T21:51:56+00:00",
       "score": null,
       "tags": []
     },
@@ -725,30 +929,6 @@
       "tags": []
     },
     {
-      "id": "9d7e124afdeca9",
-      "title": "El nuevo modelo chino Kimi K3 ya es número uno en Frontend Code Arena. Y está desatando una locura en Internet",
-      "url": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Parece que fue ayer cuando DeepSeek R1 puso en cuestión una idea que muchos daban por sentada: que la carrera por la inteligencia artificial avanzada seguía teniendo un dueño claro en Silicon Valley. La irrupción del mod…",
-      "image": "https://i.blogs.es/0d5ef6/kimi-k3/1024_2000.jpeg",
-      "published": "2026-07-17T18:58:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ba5ab53743936e",
-      "title": "Unos científicos españoles quieren salvar al planeta con un plan alocado: rellenar de agua el mar de Aral para capturar CO2",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/unos-cientificos-espanoles-quieren-salvar-al-planeta-plan-alocado-rellenar-agua-mar-aral-para-capturar-co2",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La desaparición del mar de Aral, situado entre Kazajistán y Uzbekistán, es ampliamente conocida como uno de los mayores desastres ecológicos provocados por la mano humana. A partir de la década de 1960, el desvío de los …",
-      "image": "https://i.blogs.es/d02b64/mar-de-aral/1024_2000.jpeg",
-      "published": "2026-07-17T18:30:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b8dbcf6c6c220e",
       "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
       "url": "https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/",
@@ -797,18 +977,6 @@
       "tags": []
     },
     {
-      "id": "fe1925344fa601",
-      "title": "Es una de las series de televisión más queridas de todos los tiempos, ideal para un maratón, y acaba de llegar a Netflix",
-      "url": "https://www.xataka.com/streaming/series-television-queridas-todos-tiempos-ideal-para-maraton-acaba-llegar-a-netflix",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Sin previo aviso, ' Friends ' ha aparecido en el catálogo de Netflix . Y sin abandonar HBO Max, su casa de siempre. Hace siete años, tener las diez temporadas en exclusiva valía 85 millones de dólares al año. Pero los ti…",
-      "image": "https://i.blogs.es/a23500/49342-10/1024_2000.jpeg",
-      "published": "2026-07-17T18:16:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cc821b954f7e0c",
       "title": "IFE Accelerator 2026: la aceleradora Edtech del Tec de Monterrey abre convocatoria para 10 startups de LATAM",
       "url": "https://ilifebelt.com/ife-accelerator-2026-la-aceleradora-edtech-del-tec-de-monterrey-abre-convocatoria-para-10-startups-de-latam/2026/07/",
@@ -817,18 +985,6 @@
       "summary": "El Instituto para el Futuro de la Educación (IFE) del Tecnológico de Monterrey abrió la convocatoria para la quinta edición de IFE Accelerator 2026, el programa de aceleración Edtech más consolidado de América Latina. La…",
       "image": null,
       "published": "2026-07-17T18:14:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a0bfda1c2a3af0",
-      "title": "Duermes ocho horas y te levantas completamente agotado: qué le pasa a tu cuerpo durante el verano por culpa del calor",
-      "url": "https://www.xataka.com/medicina-y-salud/duermes-ocho-horas-te-levantas-completamente-agotado-que-le-pasa-a-tu-cuerpo-durante-verano-culpa-calor",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hace un par de noches tuvimos un reventón térmico en la ciudad en la que vivo. Muchas personas a mi alrededor lo notaron. Escucharon los golpes del viento en las ventanas y sintieron el aumento de la temperatura. Yo les …",
-      "image": "https://i.blogs.es/19618f/despertar-cansado/1024_2000.jpeg",
-      "published": "2026-07-17T18:00:08+00:00",
       "score": null,
       "tags": []
     },
@@ -857,18 +1013,6 @@
       "tags": []
     },
     {
-      "id": "044b6b0c8279f1",
-      "title": "Europa quiere acabar con la particular excepción ibérica del tren español. Y España tiene clara su respuesta: no",
-      "url": "https://www.xataka.com/movilidad/europa-quiere-acabar-particular-excepcion-iberica-tren-espanol-espana-tiene-clara-su-respuesta-no",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay inversiones e inversiones. Más o menos necesarias. Más o menos cuantiosas. Pero también las hay más o menos viables. Y, desde luego, el Ministerio de Transportes considera que la propuesta de la Comisión Europea para…",
-      "image": "https://i.blogs.es/e97bc0/j28_694_bf_madrid_atocha-_7_112_xxx-2/1024_2000.jpeg",
-      "published": "2026-07-17T17:30:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9a2a144f517cff",
       "title": "Europa se encamina a aprobar la venta de Electronic Arts a un fondo saudí",
       "url": "https://hipertextual.com/videojuegos/europa-aprobaria-venta-electronic-arts-fondo-saudi/",
@@ -877,30 +1021,6 @@
       "summary": "La venta de Electronic Arts a un consorcio liderado por el fondo saudí PIF estaría a punto de recibir aprobación por parte de la Comisión Europea. Según reporta Reuters, las autoridades del bloque darían el visto bueno a…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/EA-FC26.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-17T17:26:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "049a417ae49f8a",
-      "title": "No todos los almacenamientos en la nube destacan por lo mismo: estos son los que usaría si buscara privacidad, mucho almacenamiento y más",
-      "url": "https://www.xataka.com/seleccion/no-todos-almacenamientos-nube-destacan-estos-que-usaria-buscara-privacidad-mucho-almacenamiento",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "¿Cómo decidirse por un almacenamiento en la nube? La lógica se nos puede ir a lo más básico: la que ofrezca una mejor relación entre cantidad de GB y precio. Esto es un factor obviamente importante (faltaría más), pero n…",
-      "image": "https://i.blogs.es/5d01f9/freestocks-mw6onwg4fry-unsplash/1024_2000.jpeg",
-      "published": "2026-07-17T17:16:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "33183002f4624e",
-      "title": "El calentamiento global tiene un efecto secundario que no esperábamos: nos está dejando sin sueño",
-      "url": "https://www.xataka.com/medicina-y-salud/calentamiento-global-tiene-efecto-secundario-que-no-esperabamos-nos-esta-dejando-sueno",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Con el aumento de las temperaturas, es normal comenzar a dar vueltas en la cama, buscar desesperadamente el lado frío de la almohada o rendirnos al aire acondicionado a las tres de la madrugada porque por la ventana no e…",
-      "image": "https://i.blogs.es/0e0171/dormir/1024_2000.jpeg",
-      "published": "2026-07-17T17:00:08+00:00",
       "score": null,
       "tags": []
     },
@@ -925,30 +1045,6 @@
       "summary": "La fidelidad al iPhone volvió a crecer durante el primer trimestre de 2026, mientras que se redujo ligeramente el número de compradores que llegaron desde Android. Según los últimos datos de Consumer Intelligence Researc…",
       "image": null,
       "published": "2026-07-17T16:57:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1fc588eee44b48",
-      "title": "Una teoría dice que Ulises estuvo retenido en Perejil. Y que debemos el nombre de España a ello",
-      "url": "https://www.xataka.com/magnet/desentranando-teoria-extrana-odisea-que-coloca-a-ulises-islote-perejil-durante-siete-anos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "¿Y si Ulises estuvo atrapado en un islote español? Sí, ese Ulises, el homérico, el mismo que logró detener al ejército griego, que venció a Polifemo con embustes y esquivó la mala fortuna de morir ahogado por cantos de s…",
-      "image": "https://i.blogs.es/7c4d78/perejil/1024_2000.jpeg",
-      "published": "2026-07-17T16:30:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bf3b7f636e9ed9",
-      "title": "La ciencia creía que las tormentas geomagnéticas tenían un límite. Un error de cálculo llevaba décadas ocultando la verdad",
-      "url": "https://www.xataka.com/espacio/ciencia-creia-que-tormentas-geomagneticas-tenian-limite-error-calculo-llevaba-decadas-ocultando-verdad",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Es bien sabido que las tormentas geomagnéticas y los vientos solares pueden afectar notablemente a los dispositivos de telecomunicaciones en la Tierra. Sin embargo, siempre hemos tenido un dato que nos tranquilizaba bast…",
-      "image": "https://i.blogs.es/0e8afe/tormenta-solar2/1024_2000.jpeg",
-      "published": "2026-07-17T16:00:09+00:00",
       "score": null,
       "tags": []
     },
@@ -997,30 +1093,6 @@
       "summary": "Apenas días después de los brutales despidos que golpearon a Xbox, Bethesda ha compartido una actualización de varios de sus proyectos en marcha y a futuro. Entre tantos, ha sorprendido la aparición de Fallout 5, un jueg…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/Fallout-76-nuclear-scaled.jpg?fit=1024%2C575&quality=70&strip=all&ssl=1",
       "published": "2026-07-17T15:30:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "57075ccea05921",
-      "title": "Un hombre ganó 100.000 dólares apostando qué palabras diría Trump. El truco: él mismo se las ponía en el teleprompter",
-      "url": "https://www.xataka.com/empresas-y-economia/hombre-gano-100-000-dolares-apostando-que-palabras-diria-trump-truco-se-ponia-teleprompter",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Que en Polymarket y Kalshi sólo ganan los grandes brokers y personas con información privilegiada es algo que ya sabíamos. Si quedaba alguien con alguna duda, lo que ha sucedido con el operador de teleprompter de la Casa…",
-      "image": "https://i.blogs.es/8e1395/trump-teleprompter/1024_2000.jpeg",
-      "published": "2026-07-17T15:30:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4a6bc94a1e91ee",
-      "title": "Potencia y navegación inteligente a un precio imbatible: este robot aspirador Lefant con apellido Pro tiene descuentazo",
-      "url": "https://www.xataka.com/seleccion/potencia-navegacion-inteligente-a-precio-imbatible-este-robot-aspirador-lefant-apellido-pro-tiene-descuentazo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Limpiar nuestro hogar es algo necesario, pero no siempre tenemos el tiempo necesario para ello. Cualquier dispositivo que nos pueda echar un cable para ello es siempre bien recibido y, si encima lo hace sin que tengamos …",
-      "image": "https://i.blogs.es/8ce6a8/lefant-m5-pro-portada/1024_2000.jpeg",
-      "published": "2026-07-17T15:16:06+00:00",
       "score": null,
       "tags": []
     },
@@ -1397,18 +1469,6 @@
       "tags": []
     },
     {
-      "id": "f24cb0846ab104",
-      "title": "Kimi K3: así es la nueva IA china que pone en apuros a Claude Opus 4.8 y GPT-5.5",
-      "url": "https://hipertextual.com/inteligencia-artificial/kimi-k3-nueva-ia-moonshot/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Moonshot acaba de lanzar una nueva versión de Kimi, la IA china que pone en apuros a varios de los modelos occidentales más importantes. En este caso, se trata de Kimi K3, un modelo de frontera con 2,8 billones de paráme…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/KIMI-K3-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-16T20:32:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "bb91fc79f86a8b",
       "title": "¿Quién ganará el Mundial este domingo? Este es el resultado de goles según la IA",
       "url": "https://www.fayerwayer.com/internet/2026/07/16/quien-ganara-el-mundial-este-domingo-este-es-el-resultado-de-goles-segun-la-ia/",
@@ -1433,18 +1493,6 @@
       "tags": []
     },
     {
-      "id": "cf476aefd54d01",
-      "title": "Esta nueva app para iPhone convierte tu carrete de fotos en vídeos para TikTok",
-      "url": "https://hipertextual.com/mobile/reelful-app-ios-videos-ia-tiktok-instagram/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Editar vÍdeos cortos para publicarlos en redes sociales puede volverse en una tarea tediosa. No solo es grabar el contenido, sino organizarlo y editarlo hasta que quede como deseas. Si no quieres perder demasiado tiempo …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/reelful-00.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-16T19:10:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "00d3ae386b1f8b",
       "title": "Comer con plástico en la boca: la última tendencia de las redes que fomenta los TCA",
       "url": "https://www.psyciencia.com/comer-con-plastico-en-la-boca-la-ultima-tendencia-de-las-redes-que-fomenta-los-tca/",
@@ -1453,18 +1501,6 @@
       "summary": "En El País alertan de una nueva tendencia de las redes sociales que incrementa los problemas de conducta alimentaria: La última propuesta ―al menos la más reciente, porque mientras escribo…",
       "image": null,
       "published": "2026-07-16T18:00:40+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a63beafa3143a9",
-      "title": "Adiós NotebookLM: Google cambia el nombre de una sus herramientas de IA más populares",
-      "url": "https://hipertextual.com/inteligencia-artificial/notebooklm-cambio-nombre-gemini-notebook/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "NotebookLM es, sin lugar a discusión, una de las herramientas de inteligencia artificial más útiles y populares de Google. La plataforma nació como un experimento dedicado inicialmente a estudiantes, pues permitía genera…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/NotebookLM-1-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-16T17:58:23+00:00",
       "score": null,
       "tags": []
     },
@@ -1529,18 +1565,6 @@
       "tags": []
     },
     {
-      "id": "44b42e46b47f72",
-      "title": "Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año",
-      "url": "https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Apple prepara una importante renovación para el catálogo de iPad, comenzando con el modelo mini, que por fin introducirá una pantalla OLED. Según reporta Mark Gurman, de Bloomberg, los de Cupertino están pisando el acele…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/DSC09871-scaled.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
-      "published": "2026-07-16T16:35:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "72ed75bf985fd4",
       "title": "10 estrategias dialécticas de DBT (Recurso)",
       "url": "https://www.psyciencia.com/10-estrategias-dialecticas-de-dbt-recurso/",
@@ -1565,18 +1589,6 @@
       "tags": []
     },
     {
-      "id": "406a26e2f71e34",
-      "title": "¿Tiene ‘La Odisea’ de Christopher Nolan escena post-créditos?",
-      "url": "https://hipertextual.com/cine-television/tiene-la-odisea-de-christopher-nolan-escena-post-creditos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Después de mucha espera, La Odisea de Christopher Nolan llega por fin a los cines de todo el mundo. Lo hace con una valoración exquisita por parte de los profesionales y unas expectativas de taquilla grandiosas. Puedes l…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/La-Odisea-de-Christopher-Nolan.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-07-16T16:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "47b4fab3547eaa",
       "title": "Precio de PS6 y PS6 portátil: Sony va a intentar ser razonable",
       "url": "https://www.muycomputer.com/2026/07/16/precio-de-ps6-y-ps6-portatil-sony-va-a-intentar-ser-razonable/",
@@ -1585,18 +1597,6 @@
       "summary": "Poco a poco se va cerrando el cerco del posible precio que podrían tener PS6 y PS6 portátil, dos consolas de nueva generación que Sony podría lanzar en 2027, según las fuentes más fiables y las informaciones más reciente…",
       "image": null,
       "published": "2026-07-16T14:01:48+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a2dbbd44a995f4",
-      "title": "Onimusha: Way of the Sword llega a GeForce Now en su lanzamiento: nuevos juegos de la semana",
-      "url": "https://www.muycomputer.com/2026/07/16/onimusha-way-of-the-sword-llega-a-geforce-now-en-su-lanzamiento-nuevos-juegos-de-la-semana/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "NVIDIA ha confirmado que Onimusha: Way of the Sword, el próximo gran lanzamiento de Capcom, llegará a GeForce Now el mismo día de su lanzamiento, es decir, el 4 de septiembre. Esto es muy importante para la plataforma de…",
-      "image": null,
-      "published": "2026-07-16T13:00:31+00:00",
       "score": null,
       "tags": []
     },
@@ -2249,6 +2249,102 @@
       "tags": []
     },
     {
+      "id": "375543f10dadb8",
+      "title": "La importancia de los vínculos afectivos en el aula",
+      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
+      "image": null,
+      "published": "2021-06-03T14:00:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30827e2938db33",
+      "title": "Click to English: un recurso visual para el inglés",
+      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
+      "image": null,
+      "published": "2021-05-20T14:00:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f4ddc6170c5ca",
+      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
+      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
+      "image": null,
+      "published": "2021-05-06T14:00:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "39f21b0066f705",
+      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
+      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
+      "image": null,
+      "published": "2021-04-29T14:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c25c9b27d8e08",
+      "title": "El papel del juego en el aprendizaje",
+      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
+      "image": null,
+      "published": "2021-04-15T14:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a27c862780854e",
+      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
+      "url": "http://blog.tiching.com/teuvo-sankila/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
+      "image": null,
+      "published": "2021-04-11T08:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e31f7e480ae193",
+      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
+      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
+      "image": null,
+      "published": "2021-04-07T14:00:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea1bfdcc24e134",
+      "title": "Evaluar para aprender: herramientas para la autoevaluación",
+      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
+      "image": null,
+      "published": "2021-03-17T15:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2257,6 +2353,30 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e8a4e92c6ff20",
+      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
+      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
+      "image": null,
+      "published": "2021-02-25T17:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f160c4352a3034",
+      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
+      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
+      "image": null,
+      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

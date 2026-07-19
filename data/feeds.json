@@ -1,9 +1,21 @@
 {
   "meta": {
-    "generated": "2026-07-19T02:44:50.240647+00:00",
-    "total": 183
+    "generated": "2026-07-19T08:19:43.601188+00:00",
+    "total": 187
   },
   "items": [
+    {
+      "id": "69b1e4233cd12f",
+      "title": "Nunca antes me habían felicitado por manejar un coche chino",
+      "url": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b2a1ad1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F6c%2F145dce804b709e53960ebb603426%2Fimg-4641.jpeg",
+      "published": "2026-07-20T05:59:52+00:00",
+      "score": null,
+      "tags": []
+    },
     {
       "id": "67a2d729dde074",
       "title": "Estar en un consejo no es solo un logro, es aceptar el peso estratégico del voto",
@@ -12,7 +24,7 @@
       "category": "startup",
       "summary": "El verdadero valor de un consejero está en las preguntas incómodas que se atreve a formular y en su capacidad de construir una organización que trascienda a su fundador. The post Estar en un consejo no es solo un logro, …",
       "image": null,
-      "published": "2026-07-19T02:44:48.868994+00:00",
+      "published": "2026-07-19T08:19:42.102855+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +36,7 @@
       "category": "startup",
       "summary": "Ser rechazado duele. Pero aprender a manejarlo marca la diferencia entre abandonar y seguir creciendo como emprendedor. The post Cómo manejar el rechazo como un emprendedor exitoso: esto es lo que necesitas hacer de mane…",
       "image": null,
-      "published": "2026-07-19T02:44:48.868514+00:00",
+      "published": "2026-07-19T08:19:42.102380+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +48,7 @@
       "category": "startup",
       "summary": "Es más rápido generar riqueza emprendiendo que ahorrando — si dominas los hábitos correctos. The post Estudié a 233 millonarios — estos son los 6 hábitos que los hicieron ricos appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-07-19T02:44:48.868018+00:00",
+      "published": "2026-07-19T08:19:42.101995+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +60,7 @@
       "category": "startup",
       "summary": "Las marcas que hoy generan más conversación no son necesariamente las que llegan a más gente. Son las que construyen comunidades a las que la gente realmente quiere pertenecer. The post Deja de perseguir el alcance: por …",
       "image": null,
-      "published": "2026-07-19T02:44:48.867541+00:00",
+      "published": "2026-07-19T08:19:42.101595+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +72,7 @@
       "category": "startup",
       "summary": "La abogada y presentadora colombiana Gabriela Tafur levantó $5 millones de dólares para Idilio TV, su plataforma de micronovelas verticales. Su tesis: que el melodrama latinoamericano puede enfrentar a los gigantes chino…",
       "image": null,
-      "published": "2026-07-19T02:44:48.867021+00:00",
+      "published": "2026-07-19T08:19:42.101162+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +84,7 @@
       "category": "startup",
       "summary": "La cartera vencida del crédito al consumo en México alcanzó cifras récord en 2026. La verdadera solución está en repensar cómo se originan los créditos desde el inicio. The post El verdadero problema no es cobrar tarde. …",
       "image": null,
-      "published": "2026-07-19T02:44:48.865526+00:00",
+      "published": "2026-07-19T08:19:42.092911+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +96,7 @@
       "category": "startup",
       "summary": "No tienes un problema de ejecución. Tienes un problema de claridad. The post ¿Por qué la ejecución se siente más difícil de lo que debería? La fricción invisible que está frenando a tu equipo appeared first on Entreprene…",
       "image": null,
-      "published": "2026-07-19T02:44:48.865023+00:00",
+      "published": "2026-07-19T08:19:42.092526+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +108,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial está en todos lados, y si has dedicado algo de tiempo a evaluar herramientas para tu negocio, ya sabes que la distancia entre la promesa y el resultado real es considerable. The post 15 herrami…",
       "image": null,
-      "published": "2026-07-19T02:44:48.864524+00:00",
+      "published": "2026-07-19T08:19:42.092120+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +120,7 @@
       "category": "startup",
       "summary": "A medida que la IA se vuelve impulsada por la voz, tu capacidad para comunicarte con claridad y autenticidad —no qué tan bien escribes— se convierte en tu mayor activo como líder. The post La buena escritura ha muerto. A…",
       "image": null,
-      "published": "2026-07-19T02:44:48.863991+00:00",
+      "published": "2026-07-19T08:19:42.091703+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +132,127 @@
       "category": "startup",
       "summary": "El oráculo de Delfos y la IA tienen algo en común: ambos prometen revelar lo que aún no es visible. David Mahbub, cofundador de MACH9, lo llama \"IA como revelación\": una forma de detectar tendencias antes de que exploten…",
       "image": null,
-      "published": "2026-07-19T02:44:48.863408+00:00",
+      "published": "2026-07-19T08:19:42.091253+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6ee49b9e77d032",
+      "title": "Los países con más multimillonarios del mundo, reunidos en un gráfico con un sorprendente ganador",
+      "url": "https://www.xataka.com/empresas-y-economia/pregunta-donde-hay-millonarios-mundo-esta-lista-china-destapa-sorpasso-a-estados-unidos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Adivina, adivinanza: ¿dónde viven hoy la mayoría de multimillonarios del mundo? Responde lo primero que se te pase por la cabeza y sin hacer trampa. Probablemente la mayoría diríamos que Estados Unidos y la realidad es q…",
+      "image": "https://i.blogs.es/618fb0/millonarios/1024_2000.jpeg",
+      "published": "2026-07-19T08:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ed0427359bc72e",
+      "title": "Cuidado: esa VPN gratuita de Android está filtrando tus datos sin que te des cuenta",
+      "url": "https://hipertextual.com/mobile/vpn-gratuitas-android-estudio-riesgos/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Si eres de los que piensan que una VPN gratuita es mejor que nada cuando se trata de proteger tu información, tenemos malas noticias. Un estudio reciente ha puesto bajo la lupa a algunas de las aplicaciones más populares…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/vpn-gratis-android.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-19T08:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d535f4fd7075fb",
+      "title": "Japón lleva medio siglo cobrando un arancel 0% a los coches extranjeros. Será muy difícil que encuentres uno por la calle",
+      "url": "https://www.xataka.com/movilidad/japon-lleva-medio-siglo-cobrando-arancel-0-a-coches-extranjeros-sera-muy-dificil-que-encuentres-uno-calle",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Japón es un país fascinante, de esos que cuesta comprender desde el punto de vista de un occidental. Quizás porque nosotros mismos hemos dado la espalda a la cultura asiática durante nuestros años de enseñanza o porque, …",
+      "image": "https://i.blogs.es/76bdbc/testdriver_012_11/1024_2000.jpeg",
+      "published": "2026-07-19T07:30:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0c192f65cec25d",
+      "title": "De los 10 hasta 40 kilos: Renfe cambia sus normas para viajar con perros grandes en el tren",
+      "url": "https://www.xataka.com/movilidad/10-40-kilos-renfe-cambia-sus-normas-para-viajar-perros-grandes-tren",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cuando hace 13 años me encontré a mi querida Lola, una braca francesa de 18 kg, acabé comprándome un coche de segunda mano porque viajar con ella en tren o autobús era sencillamente una misión imposible. Han pasado mucho…",
+      "image": "https://i.blogs.es/f9a44c/perritos-ave/1024_2000.jpeg",
+      "published": "2026-07-19T07:16:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "56429493aac4ea",
+      "title": "Qué PC necesitarás para jugar a Control Resonant: NVIDIA será la opción ganadora",
+      "url": "https://www.muycomputer.com/2026/07/19/que-pc-necesitaras-para-jugar-a-control-resonant-nvidia-sera-la-opcion-ganadora/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Control Resonant llegará al mercado el 24 de septiembre, y estará disponible en PC, Xbox Series S-Series X y PS5. Podemos esperar que este juego esté optimizado para aprovechar el mayor potencial de PS5 Pro, pero sin dud…",
+      "image": null,
+      "published": "2026-07-19T07:02:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "25fb2a9a552700",
+      "title": "Argentina 6 - Perú 0: la historia del supuesto mayor amaño de los Mundiales entre dictaduras y desaparecidos",
+      "url": "https://www.xataka.com/magnet/argentina-6-peru-0-historia-supuesto-mayor-amano-mundiales-dictaduras-secuestrados",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En el contexto de una dictadura que hacía desaparecer opositores diariamente, se disputó en Argentina el Mundial de 1978, un capítulo bochornoso en el libro de historia del fútbol. \"Sabía lo que pasaba con los que gobern…",
+      "image": "https://i.blogs.es/8784d2/argentina-peru-amano/1024_2000.jpeg",
+      "published": "2026-07-19T07:00:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ba615e3242b7be",
+      "title": "3 razones por las que tienes que ver este terrorífico true crime de Netflix",
+      "url": "https://hipertextual.com/cine-television/3-razones-por-las-que-tienes-que-ver-este-terrorifico-true-crime-de-netflix/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La segunda temporada de El peor vecino imaginable, el conocido true crime de Netflix, deja algo claro desde su primer capítulo. Esta vez, ya no se trata de rencillas entre los que comparten calle o incluso propiedades, s…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/El-peor-vecino-imaginable.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-19T07:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5efcc574c9d706",
+      "title": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
+      "url": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La crisis financiera y la consolidación mundial terminaron por cambiar el mapa de la automoción británica. Hoy, algunas de sus marcas más icónicas viven una segunda etapa bajo nuevos propietarios extranjeros.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/aedcb24/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa2%2Ff9%2F7daa182149e6b3e8e025036a20d8%2Fimg-8148.jpeg",
+      "published": "2026-07-19T01:19:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "471c2eb6d9b467",
+      "title": "Mbappé rebasa a Messi como máximo goleador histórico de los Mundiales, pero la final aún puede cambiar el récord",
+      "url": "https://expansion.mx/tendencias/2026/07/18/mbappe-supera-messi-maximo-goleador-historico-mundiales",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El delantero francés llegó a 22 goles en Copas del Mundo tras marcar un doblete frente a Inglaterra en el partido por el tercer lugar del Mundial 2026. Sin embargo, Lionel Messi todavía disputará la final ante España.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/767ac18/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F19%2Fc245d0cb4c8fb79e00493795f378%2Fafp-20260718-c2jx6u2-v1-midres-fblwc2026match103fraeng.jpg",
+      "published": "2026-07-18T23:46:21+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a319e6e48d378c",
+      "title": "Inglaterra derrota 6-4 a Francia y se queda con el tercer lugar del Mundial 2026",
+      "url": "https://expansion.mx/tendencias/2026/07/18/inglaterra-francia-6-4-tercer-lugar-mundial-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Inglaterra dominó el primer tiempo con una ventaja de 4-0, resistió la reacción francesa encabezada por Kylian Mbappé y selló un triunfo de 6-4 para quedarse con el tercer lugar del Mundial 2026.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/cdc5fc5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F22%2F04%2F5239ac26474fb933408e54ddb287%2Fafp-20260718-c2jx6n3-v1-midres-fblwc2026match103fraeng.jpg",
+      "published": "2026-07-18T23:14:11+00:00",
       "score": null,
       "tags": []
     },
@@ -133,6 +265,18 @@
       "summary": "El partido por el tercer lugar de la Copa del Mundo 2026 tuvo un protagonista inesperado fuera del terreno de juego",
       "image": "https://files.merca20.com/uploads/2026/07/nike-mundial-2026.jpg",
       "published": "2026-07-18T23:02:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "df9404c251e042",
+      "title": "Dos militares estadounidenses mueren durante un ataque de Irán a infraestructura civil en Kuwait",
+      "url": "https://expansion.mx/mundo/2026/07/18/dos-militares-estadounidenses-muertos-iran",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Se trata de los primeros soldados estadounidenses muertos desde que retomaron las hostilidades el 7 de julio. El número de militares estadounidenses muertos desde el inicio de la guerra, en febrero, asciende ahora a 16.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3a8bd5d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F32%2F24%2Ff87164e249d486c3e908ae825e44%2Fafp-20260718-c2jr9fh-v1-highres-usiranisraelwarblockade.jpg",
+      "published": "2026-07-18T21:29:54+00:00",
       "score": null,
       "tags": []
     },
@@ -181,6 +325,18 @@
       "summary": "La Odisea de Christopher Nolan acaba de llegar a los cines y, con ella, el mundo cuenta con una nueva adaptación de la legendaria historia escrita por Homero hace 2.700 años. El director británico parecía predestinado a …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/La-Odisea-Adaptaciones.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
       "published": "2026-07-18T20:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9536968df238a0",
+      "title": "\"Deberíamos haberte dado un mejor final\", le dice Mbappé a Deschamps en redes sociales",
+      "url": "https://expansion.mx/tendencias/2026/07/18/mbappe-reconoce-deschamps-merecia-mejor-desenlace-francia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Francia, derrotada 2-0 por España en las semifinales, se enfrentará este sábado a Inglaterra, que cayó 2-1 ante Argentina, en el partido por el tercer puesto del Mundial 2026, en Miami.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3f4b3d2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb8%2F0e%2Faa4015e945ee910835af49eba57d%2Fafp-20260718-c2jw9tp-v1-midres-fblwc2026match103fraeng.jpg",
+      "published": "2026-07-18T19:46:37+00:00",
       "score": null,
       "tags": []
     },
@@ -253,18 +409,6 @@
       "summary": "Windows 11 llegó a nosotros a finales de 2021. Desde entonces, Microsoft lo ha ido actualizando y ha incorporado toda clase de novedades que no siempre han gustado al usuario. Cambios constantes que, en ocasiones, afecta…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/pexels-sharad-7199194.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
       "published": "2026-07-18T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "69b1e4233cd12f",
-      "title": "Nunca antes me habían felicitado por manejar un coche chino",
-      "url": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b2a1ad1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F6c%2F145dce804b709e53960ebb603426%2Fimg-4641.jpeg",
-      "published": "2026-07-18T17:58:52+00:00",
       "score": null,
       "tags": []
     },
@@ -354,7 +498,7 @@
     },
     {
       "id": "876cc2c481fd38",
-      "title": "Los gases venenosos parecen un arma de lo más moderna, pero no: hace más de 2.000 años ya los usaban en Grecia",
+      "title": "Cuando los romanos asediaron la ciudad griega de Ambracia, no esperaban el arma letal que se encontraron: gases tóxicos",
       "url": "https://www.xataka.com/magnet/gases-venenosos-parecen-arma-moderna-no-hace-2-000-anos-usaban-grecia",
       "source": "Xataka",
       "category": "tech-ia",
@@ -437,6 +581,18 @@
       "tags": []
     },
     {
+      "id": "7a4826fe5c8ea9",
+      "title": "La IA no viene a cazarnos; el riesgo es que dejemos de ver personas",
+      "url": "https://altonivel.com.mx/integridad-desesperacion-laboral-inteligencia-artificial-talento/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La automatización puede mejorar procesos, pero también profundizar sesgos si se usa sin criterio humano. The post La IA no viene a cazarnos; el riesgo es que dejemos de ver personas appeared first on Alto Nivel .",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/ia-cover.webp",
+      "published": "2026-07-18T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "4df5a006e82d25",
       "title": "Resolviendo la duda que muchos hombres aún tienen cuando van a la playa: bañarse con calzoncillos o sin ellos",
       "url": "https://www.xataka.com/medicina-y-salud/banador-calzoncillos-calzoncillos-que-parece-comodo-te-puede-jugar-cuando-te-esperes",
@@ -449,30 +605,6 @@
       "tags": []
     },
     {
-      "id": "7152d7d0a94ef9",
-      "title": "Unos pescadores de Benicarló creyeron pescar chatarra romana: era el mayor lote de cascos medievales hallado en España",
-      "url": "https://www.xataka.com/magnet/unos-pescadores-benicarlo-creyeron-pescar-chatarra-romana-era-mayor-lote-cascos-medievales-hallado-espana",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Corría el año 1990 cuando las redes de unos pescadores locales \"pescaron\" dos grandes bloques metálicos frente a la costa de Benicarló (Castellón), como cuenta la Universidad de Alicante . En su interior había decenas de…",
-      "image": "https://i.blogs.es/73e602/mapi/1024_2000.jpeg",
-      "published": "2026-07-18T14:16:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e53d06b2b7ebf5",
-      "title": "Motorola Razr Fold, análisis: vine porque me encantan los móviles plegables, me quedé por la cámara a la altura de un Ultra",
-      "url": "https://www.xataka.com/analisis/motorola-razr-fold-analisis-caracteristicas-precio-especificaciones",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Una parte importante de mi trabajo es analizar móviles. Estos últimos años he probado algunos de los mejores como el iPhone 17 Pro Max , el Pixel 10 Pro o el Xiaomi 17 Ultra , están genial, pero lo que me hace siempre fe…",
-      "image": "https://i.blogs.es/b435a0/analisis-motorola-razr-fold-24/1024_2000.jpeg",
-      "published": "2026-07-18T14:00:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6519408a422c23",
       "title": "Malas noticias si tienes uno de estos 10 móviles Xiaomi: dejan de recibir actualizaciones de HyperOS a partir de este mes",
       "url": "https://hipertextual.com/mobile/malas-noticias-si-tienes-uno-de-estos-10-moviles-xiaomi-dejan-de-recibir-actualizaciones-de-hyperos-a-partir-de-este-mes/",
@@ -481,30 +613,6 @@
       "summary": "Xiaomi es uno de los fabricantes que más hincapié hace en las actualizaciones de software. La compañía, de hecho, ya está actualizando a Android 17 algunos de sus modelos más recientes y todo apunta a que esta nueva vers…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Xiaomi-Redmi.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
       "published": "2026-07-18T14:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7bf2210a4ea35c",
-      "title": "Dinamarca está preparando una colosal isla artificial donde quiere enchufarse media Europa para recibir energía",
-      "url": "https://www.xataka.com/energia/dinamarca-esta-preparando-colosal-isla-artificial-donde-quiere-enchufarse-media-europa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Europa depende de terceros para recursos estratégicos tan valiosos como el gas o el petróleo, así que la transición energética es una prioridad absoluta. Entre las renovables esenciales para esa transición está la energí…",
-      "image": "https://i.blogs.es/4329fb/captura-de-pantalla-2026-07-14-a-las-14.44.31/1024_2000.jpeg",
-      "published": "2026-07-18T13:30:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "50c1217ba2d5f6",
-      "title": "Mejores procesadores gaming 2026. Cuál comprar y 8 modelos recomendados",
-      "url": "https://www.xataka.com/seleccion/mejores-procesadores-gaming",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando montamos un PC Gaming, lo primero en lo que pensamos es en comprar la mejor tarjeta gráfica posible. No obstante, hay otros componentes que son igual de importantes para conseguir una buena experiencia jugando. El…",
-      "image": "https://i.blogs.es/303931/procesador-de-ordenador-en-placa-base/1024_2000.jpeg",
-      "published": "2026-07-18T13:16:06+00:00",
       "score": null,
       "tags": []
     },
@@ -528,6 +636,18 @@
       "category": "tech-ia",
       "summary": "Con el estreno en cines de La Odisea de Christopher Nolan, los cines de todo el mundo, España incluida, ya tiene programadas cientos y cientos de sesiones para las próximas semanas. Sin embargo, no todas las salas de cin…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Chistopher-Nolan-La-Odisea-1.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-18T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9f266f03a48f8d",
+      "title": "Cómo poner a dieta un negocio sin dejarlo sin fuerza para crecer",
+      "url": "https://altonivel.com.mx/navegando-negocios-flacos-liquidez-costos-empresa/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Los “negocios flacos” exigen cuidar la liquidez sin sacrificar los recursos que sostienen el futuro de la empresa. The post Cómo poner a dieta un negocio sin dejarlo sin fuerza para crecer appeared first on Alto Nivel .",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/Imagenes-EMP-AN-2000-x-1350-px-2.webp",
       "published": "2026-07-18T12:00:00+00:00",
       "score": null,
       "tags": []
@@ -797,6 +917,18 @@
       "tags": []
     },
     {
+      "id": "4eb5167210a88a",
+      "title": "FIFA presenta el balón oficial de la final del Mundial 2026; así es el TRIONDA FINAL",
+      "url": "https://altonivel.com.mx/fifa-presenta-el-balon-oficial-de-la-final-del-mundial-2026-asi-es-el-trionda-final/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La FIFA y Adidas revelaron el TRIONDA FINAL, un balón diseñado exclusivamente para los últimos cuatro partidos del Mundial 2026. Es la primera vez que la Copa del Mundo utiliza un modelo específico para su fase decisiva.…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/balon-final-mundial-2026.webp",
+      "published": "2026-07-17T22:14:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "3940a4e0c6016f",
       "title": "Empresas impulsan corredor para camiones eléctricos de Ciudad de México a Nuevo Laredo rumbo a 2030",
       "url": "https://expansion.mx/empresas/2026/07/17/corredor-camiones-electricos-cdmx-nuevo-laredo-2030",
@@ -821,14 +953,14 @@
       "tags": []
     },
     {
-      "id": "8c82a56a27c313",
-      "title": "Playas MX, la app que te dice dónde puedes nadar estas vacaciones de verano",
-      "url": "https://expansion.mx/tendencias/2026/07/17/playas-mx-app-que-dice-donde-nadar-vacaciones-verano",
-      "source": "Expansión",
+      "id": "9a2a24b0d05c82",
+      "title": "Subastan la icónica chamarra de cuero del CEO de Nvidia por 1 millón de dólares; financiará proyectos de innovación",
+      "url": "https://altonivel.com.mx/subastan-la-iconica-chamarra-de-cuero-del-ceo-de-nvidia-por-1-millon-de-dolares-financiara-proyectos-de-innovacion/",
+      "source": "Alto Nivel",
       "category": "coaching",
-      "summary": "Esta aplicación te ayuda a encontrar las playas donde es apto nadar, en los 17 estados costeros del país.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6e71fd9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7a%2F91%2F1f9dc74e46a0b773176cf704803b%2F3-000-34r63m7.jpeg",
-      "published": "2026-07-17T21:19:59+00:00",
+      "summary": "La chamarra de cuero que Jensen Huang utilizó en algunos de los momentos más importantes de Nvidia fue subastada muy por encima de su precio estimado. Los recursos financiarán proyectos de ciencia e innovación. The post …",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/06/Jensen-Huang-nvidia.webp",
+      "published": "2026-07-17T21:43:38+00:00",
       "score": null,
       "tags": []
     },
@@ -857,38 +989,14 @@
       "tags": []
     },
     {
-      "id": "b95eef96368743",
-      "title": "La SEP destaca avances clave en educación e inclusión en el ciclo 2025-2026",
-      "url": "https://expansion.mx/tendencias/2026/07/17/sep-destaca-avances-educacion-inclusion-2025-2026",
-      "source": "Expansión",
+      "id": "df3eec2c8b45ef",
+      "title": "Nasdaq cae 2.9% en la semana y el Dow Jones retrocede 0.9% ante nueva escalada en Irán",
+      "url": "https://altonivel.com.mx/nasdaq-cae-2-9-en-la-semana-y-el-dow-jones-retrocede-0-9-ante-nueva-escalada-en-iran/",
+      "source": "Alto Nivel",
       "category": "coaching",
-      "summary": "El titular de la Secretaría de Educación Pública dio a conocer que México alcanzó logros como 22 millones de estudiantes becados, la integración de expedientes médicos para primaria y más infraestructura escolar.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/57efbdc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc0%2Fdc%2F6506a2524402b40b5e90ff7cf913%2Fwhatsapp-image-2026-07-16-at-9.36.47%20AM%20%281%29.jpeg",
-      "published": "2026-07-17T20:16:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "af12bb320dc5b3",
-      "title": "PlayStation finalmente cobrará en pesos mexicanos tras polémica con Profeco",
-      "url": "https://expansion.mx/tecnologia/2026/07/17/playstation-finalmente-cobrara-en-pesos-mexicanos-tras-polemica-con-profeco",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Después de meses de operar con precios en dólares y advertencias de posibles sanciones por parte de la Profeco, Sony notificó a sus usuarios mexicanos que realizará una actualización para cobrar en pesos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/bfcdb91/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F32%2F93%2F9db9889f4653894b49a1291e7fdc%2Fistock-1287493837-1.jpg",
-      "published": "2026-07-17T20:15:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e997c59a9bd7cd",
-      "title": "Apple Music sube de precio: esto pagarás a partir de hoy",
-      "url": "https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Malas noticias para los usuarios de Apple Music: desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el pri…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/brett-jordan-IHecRXio89c-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-17T20:00:44+00:00",
+      "summary": "El Dow Jones y el Nasdaq cerraron la semana con pérdidas por la debilidad de las tecnológicas y el repunte del petróleo tras la escalada del conflicto en Medio Oriente. The post Nasdaq cae 2.9% en la semana y el Dow Jone…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2025/11/nasdaq-today.webp",
+      "published": "2026-07-17T20:18:48+00:00",
       "score": null,
       "tags": []
     },
@@ -905,38 +1013,14 @@
       "tags": []
     },
     {
-      "id": "a642d76a47ebf3",
-      "title": "¿Dónde será la final del Mundial 2026? El estadio de la NFL donde jugarán España y Argentina",
-      "url": "https://expansion.mx/tendencias/2026/07/17/final-mundial-2026-historia-estadio-espana-vs-argentina",
-      "source": "Expansión",
+      "id": "2e59101808a12c",
+      "title": "Estados Unidos completa una semana de ataques contra Irán; el petróleo supera un alza de 20% en dos semanas",
+      "url": "https://altonivel.com.mx/trump-analiza-intensificar-ataques-contra-iran-el-petroleo-supera-un-alza-de-20-en-dos-semanas/",
+      "source": "Alto Nivel",
       "category": "coaching",
-      "summary": "La zona metropolitana de Nueva York será sede de la final, donde se definirá a un nuevo Campeón del Mundo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/42ea401/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F59%2Fa7%2F51bf86e044bc890faf4503850799%2F1-fifa-gettyimages-2284793476.jpeg",
-      "published": "2026-07-17T19:53:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5f09d3713ad7fb",
-      "title": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
-      "url": "https://expansion.mx/empresas/2026/07/17/las-32-plazas-hermanas-mitikah-cdmx-edomex",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e479e0d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc7%2F2b%2F36698a2045c88683952ccce92b72%2Fmitikah-centro-comercial.png",
-      "published": "2026-07-17T19:52:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bfce7095a430da",
-      "title": "El FBI detiene a un hacker que usaba juegos de Steam para robar criptomonedas",
-      "url": "https://hipertextual.com/seguridad/fbi-arresta-hombre-malware-steam-robo-criptomonedas/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El FBI ha detenido a un joven acusado de robar cientos de miles de dólares en criptomonedas a través de juegos de Steam. Luego de varios meses de investigación, la agencia arrestó a Zyaire Wilkins, un estudiante de Flori…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/steam-hack.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-17T19:30:00+00:00",
+      "summary": "Estados Unidos completó siete días consecutivos de ataques contra Irán, mientras el petróleo WTI cerró la semana con un alza de 14.7%. The post Estados Unidos completa una semana de ataques contra Irán; el petróleo super…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/03/trump-guerra-con-iran.webp",
+      "published": "2026-07-17T19:56:45+00:00",
       "score": null,
       "tags": []
     },
@@ -977,6 +1061,18 @@
       "tags": []
     },
     {
+      "id": "4f2ef08173ec07",
+      "title": "10 curiosidades de las finales de los Mundiales que marcaron la historia del fútbol",
+      "url": "https://altonivel.com.mx/10-curiosidades-de-las-finales-de-los-mundiales-que-marcaron-la-historia-del-futbol/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Las finales de la Copa del Mundo han dejado mucho más que campeones. Desde partidos jugados con dos balones hasta maldiciones, polémicas y protocolos únicos, estas son 10 historias que marcaron la historia del fútbol. Th…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/curiosidades-de-los-mundiales.webp",
+      "published": "2026-07-17T18:22:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "cc821b954f7e0c",
       "title": "IFE Accelerator 2026: la aceleradora Edtech del Tec de Monterrey abre convocatoria para 10 startups de LATAM",
       "url": "https://ilifebelt.com/ife-accelerator-2026-la-aceleradora-edtech-del-tec-de-monterrey-abre-convocatoria-para-10-startups-de-latam/2026/07/",
@@ -997,6 +1093,18 @@
       "summary": "¿Te quedaste sin memoria en el teléfono? Te explicamos cómo encontrar los archivos ocultos de WhatsApp y usar su administrador para limpiar tu dispositivo.",
       "image": "https://www.fayerwayer.com/resizer/v2/6NPTVTQEPNDQNPPTY3L5CQUAOQ.jpg?auth=069590857e2392aeeae9e1b259d2ad584f830f0200be6aa6c241157d24a4a374&smart=true&width=800&height=533",
       "published": "2026-07-17T18:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1328f6aa6585b7",
+      "title": "Estados Unidos ganó 20,000 mdd con el Mundial, casi 10 veces más que México: Bank of America",
+      "url": "https://altonivel.com.mx/estados-unidos-gano-20000-mdd-con-el-mundial-casi-10-veces-mas-que-mexico-bank-of-america/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El Mundial de 2026 se quedó corto contra la proyección de la FIFA de más de 30,000 mdd. Aun así, el beneficio fue casi diez veces mayor al estimado para México. The post Estados Unidos ganó 20,000 mdd con el Mundial, cas…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/estados-unidos-gano-con-el-mundial.webp",
+      "published": "2026-07-17T17:31:27+00:00",
       "score": null,
       "tags": []
     },
@@ -1037,6 +1145,18 @@
       "tags": []
     },
     {
+      "id": "8e82cf4c6f21e8",
+      "title": "Taco Bell elimina lechuga mexicana de sus restaurantes por brote de diarrea explosiva",
+      "url": "https://altonivel.com.mx/taco-bell-elimina-lechuga-mexicana-de-sus-restaurantes-por-brote-de-diarrea-explosiva/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Más de 1,600 personas enfermaron por un brote de ciclosporiasis vinculado con lechuga servida en Taco Bell. Las autoridades rastrean la cadena de suministro y la empresa sustituyó al proveedor. The post Taco Bell elimina…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/lechuga-causa-diarrea-explosiva.webp",
+      "published": "2026-07-17T15:55:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "a6ee85ff254858",
       "title": "Por qué aparece un triángulo amarillo en mi SSD en Windows y cómo eliminarlo",
       "url": "https://www.muycomputer.com/2026/07/17/por-que-aparece-un-triangulo-amarillo-en-mi-ssd-en-windows-y-como-eliminarlo/",
@@ -1049,6 +1169,18 @@
       "tags": []
     },
     {
+      "id": "7a8f46fce7f890",
+      "title": "Trump vuelve a cuestionar las elecciones de Estados Unidos y acusa a China de interferencia",
+      "url": "https://altonivel.com.mx/trump-vuelve-a-cuestionar-las-elecciones-de-estados-unidos-y-acusa-a-china-de-interferencia/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Pekín calificó de falsas las afirmaciones de Donald Trump sobre una supuesta injerencia en las elecciones de 2020, mientras el mandatario insiste en reformar el sistema electoral. The post Trump vuelve a cuestionar las e…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/elecciones-estados-unidos.webp",
+      "published": "2026-07-17T15:14:14+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "b1dd8296e752a3",
       "title": "Opinión | Recibir y ser bien recibido: ¿Qué de lo humano se juega en la vida virtual?",
       "url": "https://observatorio.tec.mx/opinion-recibir-y-ser-bien-recibido-que-de-lo-humano-se-juega-en-la-vida-virtual/",
@@ -1057,6 +1189,30 @@
       "summary": "¿Es posible mirarse el uno al otro en el mundo virtual? En las conferencias a distancia, ciertamente, vemos los ojos del otro. Pero ¿es eso una mirada? ¿Los ojos, en pantalla, se cruzan, se envuelven, se dan y reciben? T…",
       "image": null,
       "published": "2026-07-17T15:11:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "70f3f0ab954993",
+      "title": "SpaceX aborta lanzamiento de Starship antes del despegue; Musk prevé nuevo intento",
+      "url": "https://altonivel.com.mx/spacex-starship-aborta-lanzamiento-musk-proxima-semana/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El vuelo 13 de Starship fue abortado menos de un segundo antes del despegue desde Starbase, Texas. The post SpaceX aborta lanzamiento de Starship antes del despegue; Musk prevé nuevo intento appeared first on Alto Nivel …",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/spacex-starship-aborta-lanzamiento.webp",
+      "published": "2026-07-17T15:08:21+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "03a75142a01977",
+      "title": "Un rival inesperado llega para la final Argentina vs. España tiene",
+      "url": "https://altonivel.com.mx/humo-incendios-canada-final-mundial-2026-nueva-jersey/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La lluvia podría limpiar el aire antes del domingo, pero el episodio exhibe un nuevo riesgo para los megaeventos deportivos: la calidad del aire. The post Un rival inesperado llega para la final Argentina vs. España tien…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/incendios-canada.webp",
+      "published": "2026-07-17T14:52:16+00:00",
       "score": null,
       "tags": []
     },
@@ -1229,6 +1385,18 @@
       "tags": []
     },
     {
+      "id": "6a13b39ca9b70d",
+      "title": "Yesenia Iacona explica las opciones para migrar a Estados Unidos por talento",
+      "url": "https://altonivel.com.mx/migrar-estados-unidos-sin-oferta-laboral-iacona-law/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Algunos emprendedores pueden migrar a Estados Unidos sin oferta laboral mediante las categorías EB-1A y EB-2 NIW. Estos son los requisitos. The post Yesenia Iacona explica las opciones para migrar a Estados Unidos por ta…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/migrar-estados-unidos.webp",
+      "published": "2026-07-17T06:32:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "6ac67969cfa721",
       "title": "El Congreso aprueba el Proyecto de Ley que modifica las leyes de Discapacidad y Dependencia, en cuyo texto se prevé impulsar una futura Ley de Profesiones de la Intervención Social",
       "url": "https://www.infocop.es/el-congreso-aprueba-el-proyecto-de-ley-que-modifica-las-leyes-de-discapacidad-y-dependencia-en-cuyo-texto-se-preve-impulsar-una-futura-ley-de-profesiones-de-la-intervencion-social/",
@@ -1301,6 +1469,30 @@
       "tags": []
     },
     {
+      "id": "10e6167407de6b",
+      "title": "Bonos de SpaceX ya operan como deuda basura; la acción pierde 44% desde su máximo",
+      "url": "https://altonivel.com.mx/bonos-de-spacex-ya-operan-como-deuda-basura-la-accion-pierde-44-desde-su-maximo/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Menos de un mes después de su histórica emisión de deuda, el mercado exige una mayor prima de riesgo a SpaceX y castiga tanto sus bonos como sus acciones. The post Bonos de SpaceX ya operan como deuda basura; la acción p…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/spacex-bono-basura.webp",
+      "published": "2026-07-16T23:13:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b9e13d5ca95f23",
+      "title": "Italia devuelve a México 27 piezas arqueológicas y paleontológicas recuperadas del tráfico ilegal",
+      "url": "https://altonivel.com.mx/italia-devuelve-a-mexico-27-piezas-arqueologicas-y-paleontologicas-recuperadas-del-trafico-ilegal/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Tres cabezas teotihuacanas, estatuillas mayas y fósiles regresarán a México tras ser restituidos por Italia. The post Italia devuelve a México 27 piezas arqueológicas y paleontológicas recuperadas del tráfico ilegal appe…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/mexico-recupera-piezas-arqueologicas.webp",
+      "published": "2026-07-16T23:05:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "90a561e828245f",
       "title": "¿Quieres una buena vida? Date tiempo para aburrirte",
       "url": "https://www.psyciencia.com/quieres-una-buena-vida-date-tiempo-para-aburrirte/",
@@ -1309,18 +1501,6 @@
       "summary": "Kike Esnaloa en El País: La cuestión es que este proceso tiende a retroalimentarse: la mayor sensibilidad al aburrimiento termina disminuyendo la tolerancia a sentirlo, lo que provoca que la…",
       "image": null,
       "published": "2026-07-16T22:10:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bb91fc79f86a8b",
-      "title": "¿Quién ganará el Mundial este domingo? Este es el resultado de goles según la IA",
-      "url": "https://www.fayerwayer.com/internet/2026/07/16/quien-ganara-el-mundial-este-domingo-este-es-el-resultado-de-goles-segun-la-ia/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El partido de España contra Argentina se juega este 19 de julio.",
-      "image": "https://www.fayerwayer.com/resizer/v2/F3S3MWUM5JH7TO7H3KIG566JPI.png?auth=3784d86cf6621b9a75424c41754f853919794748bd866487825ad5bc55ed5955&smart=true&width=1536&height=1024",
-      "published": "2026-07-16T20:28:41+00:00",
       "score": null,
       "tags": []
     },
@@ -1405,18 +1585,6 @@
       "summary": "Si alguna vez notaste que los datos de tu herramienta SEO no coinciden con los de Search Console, ahora existe una explicación oficial. Google lo dijo sin rodeos: ninguna herramienta SEO de terceros tiene acceso a sus mé…",
       "image": null,
       "published": "2026-07-16T16:24:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "47b4fab3547eaa",
-      "title": "Precio de PS6 y PS6 portátil: Sony va a intentar ser razonable",
-      "url": "https://www.muycomputer.com/2026/07/16/precio-de-ps6-y-ps6-portatil-sony-va-a-intentar-ser-razonable/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Poco a poco se va cerrando el cerco del posible precio que podrían tener PS6 y PS6 portátil, dos consolas de nueva generación que Sony podría lanzar en 2027, según las fuentes más fiables y las informaciones más reciente…",
-      "image": null,
-      "published": "2026-07-16T14:01:48+00:00",
       "score": null,
       "tags": []
     },
@@ -2069,102 +2237,6 @@
       "tags": []
     },
     {
-      "id": "375543f10dadb8",
-      "title": "La importancia de los vínculos afectivos en el aula",
-      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
-      "image": null,
-      "published": "2021-06-03T14:00:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "30827e2938db33",
-      "title": "Click to English: un recurso visual para el inglés",
-      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
-      "image": null,
-      "published": "2021-05-20T14:00:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1f4ddc6170c5ca",
-      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
-      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
-      "image": null,
-      "published": "2021-05-06T14:00:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "39f21b0066f705",
-      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
-      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
-      "image": null,
-      "published": "2021-04-29T14:00:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7c25c9b27d8e08",
-      "title": "El papel del juego en el aprendizaje",
-      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
-      "image": null,
-      "published": "2021-04-15T14:00:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a27c862780854e",
-      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
-      "url": "http://blog.tiching.com/teuvo-sankila/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
-      "image": null,
-      "published": "2021-04-11T08:00:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e31f7e480ae193",
-      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
-      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
-      "image": null,
-      "published": "2021-04-07T14:00:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ea1bfdcc24e134",
-      "title": "Evaluar para aprender: herramientas para la autoevaluación",
-      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
-      "image": null,
-      "published": "2021-03-17T15:00:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2173,30 +2245,6 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3e8a4e92c6ff20",
-      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
-      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
-      "image": null,
-      "published": "2021-02-25T17:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f160c4352a3034",
-      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
-      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
-      "image": null,
-      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

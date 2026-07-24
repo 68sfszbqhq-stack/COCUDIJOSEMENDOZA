@@ -1,45 +1,9 @@
 {
   "meta": {
-    "generated": "2026-07-23T19:18:13.362301+00:00",
-    "total": 188
+    "generated": "2026-07-24T02:42:05.393323+00:00",
+    "total": 198
   },
   "items": [
-    {
-      "id": "2e8ec72eb822bf",
-      "title": "La clave de una cultura que perdura: lo que aprendí de una empresa donde nadie renuncia",
-      "url": "https://spanish.entrepreneur.com/iniciar-un-negocio/recursos-humanos/la-clave-de-una-cultura-que-perdura-lo-que-aprendi-de-una-empresa-donde-nadie-renuncia",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Los mejores líderes saben que el servicio al cliente no es un departamento: es una cultura. Una empresa me lo demostró, y eso reafirmó todas mis creencias sobre liderazgo auténtico. The post La clave de una cultura que p…",
-      "image": null,
-      "published": "2026-07-23T19:18:11.825587+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "06d2a7b09b3dec",
-      "title": "Cómo los verdaderos líderes crean más líderes, no seguidores",
-      "url": "https://spanish.entrepreneur.com/consultoria/como-los-verdaderos-lideres-crean-mas-lideres-no/465526",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Los grandes líderes entienden que una función clave del buen liderazgo es desarrollar a los miembros del equipo para convertirlos en la mejor versión de sí mismos y en líderes por derecho propio. The post Cómo los verdad…",
-      "image": null,
-      "published": "2026-07-23T19:18:11.825223+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d6904e34d7541e",
-      "title": "La elección universitaria de esta adolescente me enseñó una poderosa lección sobre el riesgo",
-      "url": "https://spanish.entrepreneur.com/emprendedores/la-eleccion-universitaria-de-esta-adolescente-me-enseno-una-poderosa-leccion-sobre-el-riesgo",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "¿La decisión correcta es aquella que puedes imaginarte con claridad? The post La elección universitaria de esta adolescente me enseñó una poderosa lección sobre el riesgo appeared first on Entrepreneur en Espanol .",
-      "image": null,
-      "published": "2026-07-23T19:18:11.824836+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "dfa5bd62e7e501",
       "title": "La startup que convierte caminatas en alimento para refugios de animales prepara su expansión a Latinoamérica",
@@ -48,7 +12,7 @@
       "category": "startup",
       "summary": "Esta iniciativa abre la puerta para que cualquier persona ponga su granito de arena con tan solo salir a caminar. The post La startup que convierte caminatas en alimento para refugios de animales prepara su expansión a L…",
       "image": null,
-      "published": "2026-07-23T19:18:11.824471+00:00",
+      "published": "2026-07-24T02:42:01.928364+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +24,7 @@
       "category": "startup",
       "summary": "La vida útil promedio de las empresas ha disminuido drásticamente a lo largo de las décadas, planteando preguntas urgentes sobre lo que se necesita para construir un negocio que perdure. Esto es lo que he aprendido de mi…",
       "image": null,
-      "published": "2026-07-23T19:18:11.824067+00:00",
+      "published": "2026-07-24T02:42:01.928083+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +36,7 @@
       "category": "startup",
       "summary": "El cambio de contexto puede resultar agotador, pero si se realiza con intención, tiene el potencial de impulsar el crecimiento del negocio. The post 3 maneras en que alternar roles puede aumentar la productividad de tu e…",
       "image": null,
-      "published": "2026-07-23T19:18:11.822548+00:00",
+      "published": "2026-07-24T02:42:01.927802+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +48,7 @@
       "category": "startup",
       "summary": "Un desarrollador planea renunciar a su trabajo en JPMorgan Chase el próximo mes para dedicarse de tiempo completo a crear aplicaciones. The post “Es una locura la cantidad de dinero que están ganando”: Los emprendedores …",
       "image": null,
-      "published": "2026-07-23T19:18:11.822156+00:00",
+      "published": "2026-07-24T02:42:01.927509+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +60,7 @@
       "category": "startup",
       "summary": "Ocho tendencias marcan el rumbo del marketing en la era de la inteligencia artificial: de la automatización a la autenticidad pasando por la comunidad y el nuevo SEO generativo. Esto es lo que tienes que saber para no pe…",
       "image": null,
-      "published": "2026-07-23T19:18:11.821733+00:00",
+      "published": "2026-07-24T02:42:01.927208+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +72,7 @@
       "category": "startup",
       "summary": "Estas ocho reglas prácticas muestran cómo acelerar la confianza en el equipo para tomar mejores decisiones, reducir la dependencia del líder y operar con mayor autonomía. The post Construí una empresa sólida que funciona…",
       "image": null,
-      "published": "2026-07-23T19:18:11.821315+00:00",
+      "published": "2026-07-24T02:42:01.926054+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +84,391 @@
       "category": "startup",
       "summary": "Por qué el ensayo mental y emocional, y no solo la estrategia, determina cómo se desempeñan los fundadores cuando están bajo presión. The post La mayoría de los emprendedores nunca practican esta habilidad — y por eso en…",
       "image": null,
-      "published": "2026-07-23T19:18:11.820847+00:00",
+      "published": "2026-07-24T02:42:01.925757+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b6f43fb1c7136b",
+      "title": "Si te siguen despidiendo de tu puesto directivo, es momento de hacerte estas 5 preguntas",
+      "url": "https://spanish.entrepreneur.com/iniciar-un-negocio/recursos-humanos/si-te-siguen-despidiendo-de-tu-puesto-directivo-es-momento-de-hacerte-estas-5-preguntas",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Si te corrieron otra vez, vale la pena reflexionar antes de buscar tu próximo empleo. Aquí hay cinco preguntas honestas que debes hacerte. The post Si te siguen despidiendo de tu puesto directivo, es momento de hacerte e…",
+      "image": null,
+      "published": "2026-07-24T02:42:01.925440+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ffcc3e45f1e686",
+      "title": "El “Phishing como Servicio” democratiza el fraude y obliga a la banca latinoamericana a redefinir su defensa",
+      "url": "https://spanish.entrepreneur.com/tecnologia/el-phishing-como-servicio-democratiza-el-fraude-y-obliga-a-la-banca-latinoamericana-a-redefinir-su-defensa",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "La irrupción de plataformas capaces de eludir la autenticación multifactorial, convierte la suplantación de identidad en un negocio masivo al alcance de cualquiera por solo $120 dólares. The post El “Phishing como Servic…",
+      "image": null,
+      "published": "2026-07-24T02:42:01.925134+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f21468cb31aaa",
+      "title": "Nadie va a aplaudir tu agotamiento. Por qué aprender a “ser hogar” es una estrategia vital en un mundo sobreestimulado",
+      "url": "https://spanish.entrepreneur.com/emprendedores/nadie-va-a-aplaudir-tu-agotamiento-por-que-aprender-a-ser-hogar-es-una-estrategia-vital-en-un-mundo-sobreestimulado",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "En una cultura que premia el agotamiento como si fuera compromiso, el verdadero desgaste no siempre viene del exceso de trabajo, sino de vivir desconectados de quienes somos. The post Nadie va a aplaudir tu agotamiento. …",
+      "image": null,
+      "published": "2026-07-24T02:42:01.924792+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0f5f19105c772a",
+      "title": "Como en Blackmirror: ¿Qué opinas de hacer seguimiento a la ubicación de tus hijos con GPS?",
+      "url": "https://www.fayerwayer.com/internet/2026/07/24/como-en-blackmirror-que-opinas-de-hacer-seguimiento-a-la-ubicacion-de-tus-hijos-con-gps/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Organismos internacionales y psicólogos advierten que la práctica favorece dinámicas de vigilancia, fomenta la ansiedad y expone datos altamente sensibles.",
+      "image": "https://www.fayerwayer.com/resizer/v2/3XUEBIFFJFFI7PFX5EX2BTLFNU.jpg?auth=8a16fa6dd9f2f0050f1b67fadd0998a2e690edec9828192bf5d26377864db02b&smart=true&width=640&height=427",
+      "published": "2026-07-24T00:35:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d3a40ae7e5c56e",
+      "title": "EA Sports FC 27 ya tiene precio en México: cuánto cuesta cada edición y todas las novedades",
+      "url": "https://www.merca20.com/ea-sports-fc-27-ya-tiene-precio-en-mexico-cuanto-cuesta-cada-edicion-y-todas-las-novedades/?utm_source=rss&utm_medium=rss&utm_campaign=ea-sports-fc-27-ya-tiene-precio-en-mexico-cuanto-cuesta-cada-edicion-y-todas-las-novedades",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "EA Sports FC 27 ya abrió su preventa con tres ediciones, acceso anticipado, un nuevo modo de juego y cambios importantes en el Modo Carrera. Te contamos cuánto costará en México, cuándo sale y qué incluye cada versión",
+      "image": "https://files.merca20.com/uploads/2026/07/FC-271.jpg",
+      "published": "2026-07-23T23:45:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "72c4cb95d2105f",
+      "title": "Trump imposes new tariffs on 60 trading partners: Will prices rise and how will they affect Americans?",
+      "url": "https://www.merca20.com/trump-imposes-new-tariffs-on-60-trading-partners-will-prices-rise-and-how-will-they-affect-americans/?utm_source=rss&utm_medium=rss&utm_campaign=trump-imposes-new-tariffs-on-60-trading-partners-will-prices-rise-and-how-will-they-affect-americans",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Trump's new tariffs target governments that have failed to implement adequate controls to prevent the trade of goods made with forced labor",
+      "image": "https://files.merca20.com/uploads/2026/07/Trump.jpg",
+      "published": "2026-07-23T23:42:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "69fe87d95f2864",
+      "title": "Se cayó IZZI este 23 de julio: Lo que sabemos hasta el momento",
+      "url": "https://www.merca20.com/se-cayo-izzi-este-23-de-julio-lo-que-sabemos-hasta-el-momento/?utm_source=rss&utm_medium=rss&utm_campaign=se-cayo-izzi-este-23-de-julio-lo-que-sabemos-hasta-el-momento",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Usuarios de IZZI reportaron una falla masiva en el servicio de internet y televisión la tarde de este jueves 23 de julio",
+      "image": "https://files.merca20.com/uploads/2026/07/falla-izzi.jpg",
+      "published": "2026-07-23T23:25:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1cb1e88f159514",
+      "title": "Walmart vendió más televisores y artículos de futbol, aunque el Mundial no logró acelerar todas sus ventas",
+      "url": "https://www.merca20.com/walmart-vendio-mas-televisores-y-articulos-de-futbol-aunque-el-mundial-no-logro-acelerar-todas-sus-ventas/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-vendio-mas-televisores-y-articulos-de-futbol-aunque-el-mundial-no-logro-acelerar-todas-sus-ventas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Walmart de México y Centroamérica (Walmex) registró un aumento en la venta de televisores, ropa, mercancía licenciada y productos relacionados con el futbol durante el segundo trimestre de 2026",
+      "image": "https://files.merca20.com/uploads/2026/05/walmart-mundial.jpg",
+      "published": "2026-07-23T23:11:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4f8bdb3e9e49a4",
+      "title": "Cómo Apple planea construir un nuevo imperio publicitario fuera de la App Store",
+      "url": "https://www.merca20.com/como-apple-planea-construir-un-nuevo-imperio-publicitario-fuera-de-la-app-store/?utm_source=rss&utm_medium=rss&utm_campaign=como-apple-planea-construir-un-nuevo-imperio-publicitario-fuera-de-la-app-store",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La marca ya comenzó a desplegar nuevas herramientas de automatización que utilizan inteligencia artificial para administrar las pujas publicitarias y optimizar campañas de forma automática.",
+      "image": "https://files.merca20.com/uploads/2026/06/bigstock-TOKYO-JAPAN-JUNE-T-145380476-scaled.jpg",
+      "published": "2026-07-23T23:09:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5459f788aa61ab",
+      "title": "¡Adiós Samsung y iPhone! Huawei lanza el Pura 90s con IA, Kunlun Glass y potente cámara",
+      "url": "https://www.merca20.com/adios-samsung-y-iphone-huawei-lanza-el-pura-90s-con-ia-kunlun-glass-y-potente-camara/?utm_source=rss&utm_medium=rss&utm_campaign=adios-samsung-y-iphone-huawei-lanza-el-pura-90s-con-ia-kunlun-glass-y-potente-camara",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La marca presentó en México la nueva serie HUAWEI Pura 90, por lo que aquí te decimos cuánto costarán los smartphones y cuándo saldrán a la venta",
+      "image": "https://files.merca20.com/uploads/2026/07/huawei-lanzamiento-pura90.jpg",
+      "published": "2026-07-23T23:05:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0c8435af76cbcd",
+      "title": "Trump impone nuevos aranceles de hasta 12.5% a 60 países por no prevenir trabajo forzoso; México pagará 10%",
+      "url": "https://altonivel.com.mx/trump-impone-nuevos-aranceles-de-hasta-12-5-a-60-paises-por-no-prevenir-trabajo-forzoso-mexico-pagara-10/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Estados Unidos impondrá aranceles de hasta 12.5% a importaciones de 60 países, incluida una tasa de 10% para México, bajo la Sección 301. The post Trump impone nuevos aranceles de hasta 12.5% a 60 países por no prevenir …",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/aranceles-trabajos-forzados.webp",
+      "published": "2026-07-23T22:56:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "418ee62b09df32",
+      "title": "¿Irías a vivir a Marte? La NASA busca voluntarios para vivir en una simulación (y pagan)",
+      "url": "https://www.fayerwayer.com/espacio/2026/07/23/irias-a-vivir-a-marte-la-nasa-busca-voluntarios-para-vivir-en-una-simulacion-y-pagan/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "La agencia espacial norteamericana abrió una convocatoria para seleccionar a cuatro personas que vivirán confinados durante 14 meses en el Centro Espacial.",
+      "image": "https://www.fayerwayer.com/resizer/v2/I2QZOJ3ZU5COFGHQZF7ZMODBAQ.jpg?auth=cda1035a87746884cb2dab276c99c081eb6c03b832cf1929aed806e69cf5919a&smart=true&width=3000&height=1967",
+      "published": "2026-07-23T22:41:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "225c60a1fd78d7",
+      "title": "CFE: cómo y cuándo cambiar el nombre de titular en tu recibo de luz",
+      "url": "https://www.merca20.com/cfe-como-y-cuando-cambiar-el-nombre-de-titular-en-tu-recibo-de-luz/?utm_source=rss&utm_medium=rss&utm_campaign=cfe-como-y-cuando-cambiar-el-nombre-de-titular-en-tu-recibo-de-luz",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Si compraste una casa, rentas un inmueble o hubo un cambio de propietario, la CFE permite actualizar el nombre del titular del contrato sin costo. Estos son los requisitos y el paso a paso para realizar el trámite en 202…",
+      "image": "https://files.merca20.com/uploads/2024/05/cfe-apagones-luz-.jpg",
+      "published": "2026-07-23T22:40:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b5194ae23594c5",
+      "title": "Ekco remata juego de sartenes Hippie Chic de aluminio 3 piezas en solo 329 pesos: antiadherente de uso diario",
+      "url": "https://www.merca20.com/ekco-remata-juego-de-sartenes-hippie-chic-de-aluminio-3-piezas-en-solo-329-pesos-antiadherente-de-uso-diario/?utm_source=rss&utm_medium=rss&utm_campaign=ekco-remata-juego-de-sartenes-hippie-chic-de-aluminio-3-piezas-en-solo-329-pesos-antiadherente-de-uso-diario",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Los sartenes Ekco Hippie Chic de aluminio tienen tecnología antiadherente, que ayuda a evitar que los alimentos se peguen mientras cocinas",
+      "image": "https://files.merca20.com/uploads/2026/07/juego-de-sartenes-Ekco-Mercado-Libre-1.jpg",
+      "published": "2026-07-23T22:33:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f80331ba838135",
+      "title": "Coppel tiene a precio de remate los tenis NIKE Initiator; cuenta con suela de goma y sus materiales son sintéticos",
+      "url": "https://www.merca20.com/coppel-tiene-a-precio-de-remate-los-tenis-nike-initiator-cuenta-con-suela-de-goma-y-sus-materiales-son-sinteticos/?utm_source=rss&utm_medium=rss&utm_campaign=coppel-tiene-a-precio-de-remate-los-tenis-nike-initiator-cuenta-con-suela-de-goma-y-sus-materiales-son-sinteticos",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Este modelo de Nike que ofrece Coppel están pensados para quienes buscan comodidad tanto en actividades cotidianas como en caminatas o entrenamientos ligeros",
+      "image": "https://files.merca20.com/uploads/2026/07/coppel-descuento-nike.jpg",
+      "published": "2026-07-23T22:28:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "af2e0ea7fc0141",
+      "title": "Guerra contra Hollywood: Elon Musk anuncia que producirá “La Odisea” completa usando solo Inteligencia Artificial",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/23/guerra-contra-hollywood-elon-musk-anuncia-que-producira-la-odisea-completa-usando-solo-inteligencia-artificial/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Elon Musk criticó el elenco de \"La Odisea\" de Christopher Nolan y anunció que su IA Grok Imagine creará una película adaptada de Homero.",
+      "image": "https://www.fayerwayer.com/resizer/v2/Y7YZD4ZOHVBDXM3L62LZWQ2EUA.jpeg?auth=24b2da72015bb73867e298fcb7326fdc1db390d8a22d0c44a1d87869563f81c2&smart=true&width=2752&height=1536",
+      "published": "2026-07-23T22:28:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c876af7af01d17",
+      "title": "Why does ChatGPT recommend some brands and Google others? Semrush explains the differences between the AI ??platforms",
+      "url": "https://www.merca20.com/why-does-chatgpt-recommend-some-brands-and-google-others-semrush-explains-the-differences-between-the-ai-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=why-does-chatgpt-recommend-some-brands-and-google-others-semrush-explains-the-differences-between-the-ai-platforms",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "According to the Semrush report, one of the biggest differences lies in the sources that each platform uses to build its answers.",
+      "image": "https://files.merca20.com/uploads/2026/06/marketing_arr.jpg",
+      "published": "2026-07-23T22:20:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d91979219e6f04",
+      "title": "Hallazgo casual en la red: Un usuario encuentra un mapa circular en Google Maps y científicos confirman que es un cráter milenario",
+      "url": "https://www.fayerwayer.com/ciencia/2026/07/23/hallazgo-casual-en-la-red-un-usuario-encuentra-un-mapa-circular-en-google-maps-y-cientificos-confirman-que-es-un-crater-milenario/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Expediciones de campo confirmaron el descubrimiento.",
+      "image": "https://www.fayerwayer.com/resizer/v2/DULOH26V7RDITAS5PO37XOB3LU.png?auth=5c9290d77e60792b91bc0b59394d0135500e6c39ceff76659a140bd260088390&smart=true&width=2202&height=1460",
+      "published": "2026-07-23T22:14:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "10c8b200f9968c",
+      "title": "¿Por qué Wall Street comenzó a preocuparse por el gasto en IA de las grandes tecnológicas?",
+      "url": "https://www.merca20.com/por-que-wall-street-comenzo-a-preocuparse-por-el-gasto-en-ia-de-las-grandes-tecnologicas/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-wall-street-comenzo-a-preocuparse-por-el-gasto-en-ia-de-las-grandes-tecnologicas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Los inversionistas buscan respuestas concretas sobre cuándo comenzarán a recuperarse esas inversiones y qué porcentaje del crecimiento proviene realmente de productos impulsados por inteligencia artificial.",
+      "image": "https://files.merca20.com/uploads/2017/03/SNAP_2.jpg",
+      "published": "2026-07-23T22:08:53+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a4c21e113f55ac",
+      "title": "Uruguayan Soccer Player Bruno Betancor Dies: Cause of Death, Age, and Net Worth",
+      "url": "https://www.merca20.com/uruguayan-soccer-player-bruno-betancor-dies-cause-of-death-age-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=uruguayan-soccer-player-bruno-betancor-dies-cause-of-death-age-and-net-worth",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Bruno Betancor’s death shocked fans, clubs, and teammates after his team announced what happened through its social media channels",
+      "image": "https://files.merca20.com/uploads/2026/07/Bruno-Betancor-Gemini-AI.jpg",
+      "published": "2026-07-23T21:57:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ddc9790f3eb302",
+      "title": "Bosch remata rotomartillo inalámbrico con 2 baterías; incluye maletín y es ligero",
+      "url": "https://www.merca20.com/bosch-remata-rotomartillo-inalambrico-con-2-baterias-incluye-maletin-y-es-ligero/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-remata-rotomartillo-inalambrico-con-2-baterias-incluye-maletin-y-es-ligero",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Otro de los productos que se encuentran en descuento en Amazon es el rotomartillo inalámbrico Bosch, el cual actualmente tiene un 33%",
+      "image": "https://files.merca20.com/uploads/2026/07/amazon-taladro-bosch-2026.jpg",
+      "published": "2026-07-23T21:53:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "28d981211a5dd5",
+      "title": "Netflix confirma todos los estrenos de agosto 2026: regresa Outer Banks, llega Cien años de soledad 2 y vuelve Shrek",
+      "url": "https://www.merca20.com/netflix-confirma-todos-los-estrenos-de-agosto-2026-regresa-outer-banks-llega-cien-anos-de-soledad-2-y-vuelve-shrek/?utm_source=rss&utm_medium=rss&utm_campaign=netflix-confirma-todos-los-estrenos-de-agosto-2026-regresa-outer-banks-llega-cien-anos-de-soledad-2-y-vuelve-shrek",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La segunda parte de Cien años de soledad, la temporada final de Outer Banks, nuevas películas originales y el regreso de la saga de Shrek encabezan los estrenos de Netflix para agosto de 2026.",
+      "image": "https://files.merca20.com/uploads/2026/07/Cien-Anos-de-Soledad-Parte-21.jpg",
+      "published": "2026-07-23T21:45:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d32123040ce31a",
+      "title": "Credijal abre camino para las empresas medianas al debutar en la BMV",
+      "url": "https://altonivel.com.mx/credijal-abre-camino-para-las-empresas-medianas-al-debutar-en-la-bmv/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Con una emisión por 250 mdp, Credijal se convirtió en la primera empresa que llega al mercado bursátil tras participar en \"De Cero a Bolsa\", el programa de la BMV para impulsar nuevas emisoras. The post Credijal abre cam…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/credijal-1.webp",
+      "published": "2026-07-23T21:26:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6e0eda2037ccaa",
+      "title": "Estados Unidos propone un botón para apagar la IA antes de que se descontrole",
+      "url": "https://hipertextual.com/inteligencia-artificial/boton-apagado-ia-estados-unidos/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Estados Unidos podría tener una forma de apagar la inteligencia artificial que se salga de control. Un proyecto de ley busca dar al gobierno la capacidad de intervenir directamente sobre los modelos más potentes del merc…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/terminator-skynet-inteligencia-artificial.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-07-23T21:25:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "069fe2591ef072",
+      "title": "‘Avatar: La Leyenda de Aang’ se expande con una nueva serie, ‘Avatar: Seven Havens’, que ya tiene tráiler y fecha de estreno",
+      "url": "https://hipertextual.com/cine-television/avatar-la-leyenda-de-aang-nueva-serie-avatar-seven-havens-trailer-fecha-de-estreno/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La franquicia de Avatar: La Leyenda de Aang estrenará este mismo 2026 una nueva serie, Avatar: Seven Havens. Será el tercer proyecto televisivo de la saga (el cuarto si sumamos el remake live-action de Netflix). Y durant…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Avatar-Seven-Heavens.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-23T21:21:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "76292c1a86fb20",
+      "title": "Mattel y WWE lanzan figuras de la Lucha Libre AAA: fecha de venta, personajes y estrategia internacional",
+      "url": "https://www.merca20.com/mattel-y-wwe-lanza-figuras-de-la-lucha-libre-aaa-fecha-de-venta-personajes-y-estrategia-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=mattel-y-wwe-lanza-figuras-de-la-lucha-libre-aaa-fecha-de-venta-personajes-y-estrategia-internacional",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Mattel informó que la nueva colección de figuras de Lucha Libre AAA comenzará a comercializarse en el otoño de 2027",
+      "image": "https://files.merca20.com/uploads/2026/07/mr-iguana-mattel-lucha-libre.jpg",
+      "published": "2026-07-23T21:21:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ba64a4d78ae58b",
+      "title": "Dow Jones borra 506 puntos, lastrado por Alphabet; Nasdaq pierde 2.1%",
+      "url": "https://altonivel.com.mx/dow-jones-borra-506-puntos-lastrado-por-alphabet-nasdaq-pierde-2-1/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Wall Street registró su peor jornada en semanas tras el desplome de Tesla y Alphabet. El petróleo Brent superó los 100 dólares por barril, elevando los temores de inflación y nuevas alzas de tasas de la Fed. The post Dow…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2025/06/dow-jones_caida.webp",
+      "published": "2026-07-23T20:16:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2a745747b347dd",
+      "title": "‘EA Sports FC 27’ vuelve a probar suerte con el fútbol callejero y estrena la edición más cara de la historia de la saga",
+      "url": "https://hipertextual.com/videojuegos/ea-sports-fc-27-caracteristicas-precios-y-fecha-de-lanzamiento/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Tal y como se esperaba, Electronic Arts ha presentado oficialmente EA Sports FC 27, la nueva entrega de su saga de juegos de fútbol. El nuevo título mantiene mucho de lo ya conocido de entregas previas, pero incorpora me…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/FC27-1-scaled.jpg?fit=1024%2C768&quality=70&strip=all&ssl=1",
+      "published": "2026-07-23T20:13:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6c2827f907bf14",
+      "title": "China acaba de poner en marcha su nuevo acelerador de iones pesados. No lo ha construido solo para estudiar átomos",
+      "url": "https://www.xataka.com/investigacion/china-acaba-poner-marcha-su-nuevo-acelerador-iones-pesados-no-ha-construido-solo-para-estudiar-atomos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hay máquinas que se construyen para observar lo que ya conocemos y otras para empujar la materia hasta lugares en los que apenas sabemos qué vamos a encontrar. En Huizhou, China ha levantado un complejo cuya línea de haz…",
+      "image": "https://i.blogs.es/b81981/acelerador-de-iones-pesados-chino.png/1024_2000.jpeg",
+      "published": "2026-07-23T20:00:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "57b8ec2d92be1f",
+      "title": "De Shenlong a la Fusión: Converse presenta su espectacular colección de zapatillas de Dragon Ball Z con 7 modelos temáticos",
+      "url": "https://www.fayerwayer.com/sneakers/2026/07/23/de-shenlong-a-la-fusion-converse-presenta-su-espectacular-coleccion-de-zapatillas-de-dragon-ball-z-con-7-modelos-tematicos/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "La icónica marca de calzado se unió a Toei Animation para lanzar una línea inspirada en héroes y villanos del anime de Akira Toriyama.",
+      "image": "https://www.fayerwayer.com/resizer/v2/JVQ4MZ2WRZBERN7IDJCFUI6O3E.png?auth=1d7b3c9b0c78630b61bf7e2f14a98e0417fbb2c5d9dc09ba9c59a6645546ae10&smart=true&width=1788&height=1002",
+      "published": "2026-07-23T19:49:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7634c7204e8c06",
+      "title": "Desmantelan Kratos, el “Netflix del phishing” que usaban 2.000 ciberdelincuentes para 15.000 ataques al mes",
+      "url": "https://www.fayerwayer.com/internet/2026/07/23/desmantelan-kratos-el-netflix-del-phishing-que-usaban-2000-ciberdelincuentes-para-15000-ataques-al-mes/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "El modelo permitía a delincuentes sin conocimientos técnicos lanzar campañas masivas clonando accesos de Microsoft para robar credenciales en más de...",
+      "image": "https://www.fayerwayer.com/resizer/v2/OVMNNDUAZFHAXA7R7EPP3W4WQE.png?auth=995497d0238008ec1ea47aa8f667110bf1f6b16a3f1925d283176a8563502c83&smart=true&width=1920&height=1080",
+      "published": "2026-07-23T19:30:46+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b0be9776b8d9a7",
+      "title": "Se registran intensas llamaradas solares: Te explicamos cómo podrían afectar las señales de internet",
+      "url": "https://www.fayerwayer.com/espacio/2026/07/23/se-registran-intensas-llamaradas-solares-te-explicamos-como-podrian-afectar-las-senales-de-internet/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "El Instituto de Geofísica Aplicada de Moscú detectó dos potentes erupciones solares de clase M asociadas a la mancha solar 4493.",
+      "image": "https://www.fayerwayer.com/resizer/v2/5BMBETJHQVAGHBQY2F2AMIAEUE.jpg?auth=373902997f5a03890e322094cee41f2a9edd43a040e371ccd0c35ebc7354a9e6&smart=true&width=1920&height=1080",
+      "published": "2026-07-23T19:17:57+00:00",
       "score": null,
       "tags": []
     },
@@ -161,18 +509,6 @@
       "tags": []
     },
     {
-      "id": "7943fe0c4ddb03",
-      "title": "Christopher Nolan vs. las botas Ugg: ¿por qué el director prohibió la famosa marca en el set de La Odisea?",
-      "url": "https://www.merca20.com/christopher-nolan-vs-las-botas-ugg-por-que-el-director-prohibio-la-famosa-marca-en-el-set-de-la-odisea/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-nolan-vs-las-botas-ugg-por-que-el-director-prohibio-la-famosa-marca-en-el-set-de-la-odisea",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las botas que Nolan intenta mantener lejos del set representan uno de los mayores casos de éxito del calzado premium.",
-      "image": "https://files.merca20.com/uploads/2026/07/bigstock-Belgrade-Serbia-December-401752010.jpg",
-      "published": "2026-07-23T19:00:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "96c109e393d721",
       "title": "Misterios de la atmósfera: Qué es un río atmosférico categoría 5 y por qué está causando estragos en Chile",
       "url": "https://www.fayerwayer.com/ciencia/2026/07/23/misterios-de-la-atmosfera-que-es-un-rio-atmosferico-categoria-5-y-por-que-esta-causando-estragos-en-chile/",
@@ -193,18 +529,6 @@
       "summary": "Repasamos los hechos más relevantes del universo creado por Akira Toriyama: desde sus influencias en novelas clásicas hasta los secretos del doblaje latino",
       "image": "https://www.fayerwayer.com/resizer/v2/TLJGCVSL2VF5VLDVZ4GCGYRXQM.jpg?auth=611e0e908d20dfa21d21678fb1a2e6c1d5bc280f7f2906a8e984109127e9b163&smart=true&width=1200&height=777",
       "published": "2026-07-23T18:50:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "11552f8418db15",
-      "title": "Si tienes una cuenta Nu, esto cambiará en agosto: los nuevos contratos ya comenzaron a llegar",
-      "url": "https://www.merca20.com/si-tienes-una-cuenta-nu-esto-cambiara-en-agosto-los-nuevos-contratos-ya-comenzaron-a-llegar/?utm_source=rss&utm_medium=rss&utm_campaign=si-tienes-una-cuenta-nu-esto-cambiara-en-agosto-los-nuevos-contratos-ya-comenzaron-a-llegar",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Nu actualizó los contratos de sus clientes tras convertirse oficialmente en banco. Estos son los cambios más importantes, la fecha en que entrarán en vigor y qué pasa si no estás de acuerdo.",
-      "image": "https://files.merca20.com/uploads/2025/04/Copy-of-NBK02875-11.jpg",
-      "published": "2026-07-23T18:45:44+00:00",
       "score": null,
       "tags": []
     },
@@ -233,30 +557,6 @@
       "tags": []
     },
     {
-      "id": "62ceb731ff13d7",
-      "title": "Qué significa ordenar los billetes de menor a mayor, según la psicología",
-      "url": "https://www.merca20.com/que-significa-ordenar-los-billetes-de-menor-a-mayor-segun-la-psicologia/?utm_source=rss&utm_medium=rss&utm_campaign=que-significa-ordenar-los-billetes-de-menor-a-mayor-segun-la-psicologia",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Aunque parece algo simple, ordenar los billetes es una costumbre que puede estar relacionada con la organización y los hábitos personales",
-      "image": "https://files.merca20.com/uploads/2026/07/ordenar-los-billetes-de-menor-a-mayor-Gemini-AI.jpg",
-      "published": "2026-07-23T18:20:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ad8723e707e17f",
-      "title": "Domino’s lanza máquinas expendedoras para comprar pizza en segundos: dónde están ubicadas",
-      "url": "https://www.merca20.com/dominos-lanza-maquinas-expendedoras-para-comprar-pizza-en-segundos-donde-estan-ubicadas/?utm_source=rss&utm_medium=rss&utm_campaign=dominos-lanza-maquinas-expendedoras-para-comprar-pizza-en-segundos-donde-estan-ubicadas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las nuevas unidades funcionan como una prolongación de los restaurantes Domino's, donde el cliente realiza el pedido directamente en la máquina y la pizza es horneada en ese momento, siguiendo los mismos procesos de cali…",
-      "image": "https://files.merca20.com/uploads/2026/07/bigstock-Domino-s-Restaurant-Sign-68223247.jpg",
-      "published": "2026-07-23T18:16:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "5d2d7dd04e1852",
       "title": "\"La vi en el cine y apenas llegué a los créditos\": a Tarantino se le atragantó esta película que puedes recuperar en streaming",
       "url": "https://www.xataka.com/streaming/vi-cine-apenas-llegue-a-creditos-a-tarantino-se-le-atraganto-esta-pelicula-que-puedes-recuperar-streaming",
@@ -277,18 +577,6 @@
       "summary": "Microsoft ha dado el paso que muchos veían venir desde hace meses. El gigante tecnológico puso en marcha una prueba de Xbox Cloud Gaming con anuncios, la cual te permitirá jugar en la nube a cambio de ver publicidad. El …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/Microsoft-Xbox-Cloud-Gaming.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-23T18:15:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ac3eb2add02d90",
-      "title": "Bodega Aurrera rebaja la MacBook Air Apple de 13 pulgadas con 256 GB para el regreso a clases 2026",
-      "url": "https://www.merca20.com/bodega-aurrera-rebaja-la-macbook-air-apple-de-13-pulgadas-con-256-gb-para-el-regreso-a-clases-2026/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-rebaja-la-macbook-air-apple-de-13-pulgadas-con-256-gb-para-el-regreso-a-clases-2026",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El regreso a clases 2026 está impulsando las promociones en tecnología y una de las más llamativas es la que ofrece Bodega Aurrera",
-      "image": "https://files.merca20.com/uploads/2026/07/BODEGA-AURRERA-MACBOOK-APPLE.jpg",
-      "published": "2026-07-23T18:08:17+00:00",
       "score": null,
       "tags": []
     },
@@ -317,18 +605,6 @@
       "tags": []
     },
     {
-      "id": "915fa2567ce1ba",
-      "title": "Apple y Televisa lanzan “Nido de Villanas”, una micronovela grabada por completo con el iPhone 17 Pro",
-      "url": "https://www.merca20.com/apple-y-televisa-lanzan-nido-de-villanas-una-micronovela-grabada-por-completo-con-el-iphone-17-pro/?utm_source=rss&utm_medium=rss&utm_campaign=apple-y-televisa-lanzan-nido-de-villanas-una-micronovela-grabada-por-completo-con-el-iphone-17-pro",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La producción reúne a figuras icónicas de las telenovelas mexicanas y apuesta por el formato vertical para conquistar a las nuevas generaciones. Ya puede verse gratis en YouTube y ViX.",
-      "image": "https://files.merca20.com/uploads/2026/07/Nido-de-villanas.jpg",
-      "published": "2026-07-23T17:45:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "5ad6c6c527951e",
       "title": "¿Qué ha pasado con ChatGPT? Dos fallos preocupantes",
       "url": "https://www.muycomputer.com/2026/07/23/que-ha-pasado-con-chatgpt-dos-fallos-preocupantes/",
@@ -337,42 +613,6 @@
       "summary": "Las últimas horas han dejado dos incidentes de seguridad diferentes, pero relacionados con una misma cuestión: qué ocurre cuando ChatGPT y otros sistemas de OpenAI dejan de limitarse a responder preguntas y reciben capac…",
       "image": null,
       "published": "2026-07-23T17:33:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1da4489480d6b2",
-      "title": "Ibai Llanos recibe multa por La Velada del Año; esto fue lo que pasó",
-      "url": "https://www.merca20.com/ibai-llanos-recibe-multa-de-la-cnmc-por-la-velada-del-ano-esto-fue-lo-que-paso/?utm_source=rss&utm_medium=rss&utm_campaign=ibai-llanos-recibe-multa-de-la-cnmc-por-la-velada-del-ano-esto-fue-lo-que-paso",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La CNMC sancionó al streamer por una publicación relacionada con La Velada del Año en la que no se identificó claramente la publicidad. También multó a otros dos influencers",
-      "image": "https://files.merca20.com/uploads/2026/07/ibai-llano-multa.jpg",
-      "published": "2026-07-23T17:32:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4e57666a3cc710",
-      "title": "Cómo se debe cargar el celular para no dañar la batería",
-      "url": "https://www.merca20.com/como-se-debe-cargar-el-celular-para-no-danar-la-bateria/?utm_source=rss&utm_medium=rss&utm_campaign=como-se-debe-cargar-el-celular-para-no-danar-la-bateria",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El modo en el que se carga el celular puede influir en el desempeño de la batería y del equipo con el paso del tiempo",
-      "image": "https://files.merca20.com/uploads/2026/07/celular.jpg",
-      "published": "2026-07-23T17:20:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "36cdccbbc4db80",
-      "title": "Samsung remata precio Galaxy S25 Ultra de 256 GB con descuento de casi 6 mil pesos y MSI, incluye lápiz S Pen",
-      "url": "https://www.merca20.com/samsung-remata-precio-galaxy-s25-ultra-de-256-gb-con-descuento-de-casi-6-mil-pesos-incluye-lapiz-s-pen/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-remata-precio-galaxy-s25-ultra-de-256-gb-con-descuento-de-casi-6-mil-pesos-incluye-lapiz-s-pen",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El celular Samsung Galaxy S25 Ultra de 256 GB representa una de las ofertas más llamativas para quienes buscan un teléfono de gama alta",
-      "image": "https://files.merca20.com/uploads/2026/01/SAMSUNG-GALAXY-S25-1-TB_2026-3.jpg",
-      "published": "2026-07-23T17:20:52+00:00",
       "score": null,
       "tags": []
     },
@@ -413,54 +653,6 @@
       "tags": []
     },
     {
-      "id": "6f3a4eb6e17edd",
-      "title": "Ford retira del mercado casi 388 mil vehículos por riesgo de lesiones en los asientos",
-      "url": "https://www.merca20.com/ford-retira-del-mercado-casi-388-mil-vehiculos-por-riesgo-de-lesiones-en-los-asientos/?utm_source=rss&utm_medium=rss&utm_campaign=ford-retira-del-mercado-casi-388-mil-vehiculos-por-riesgo-de-lesiones-en-los-asientos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El problema radica en el sistema de \"Easy Entry\" o acceso fácil de los asientos exteriores de la segunda fila.",
-      "image": "https://files.merca20.com/uploads/2026/01/bigstock-Ford-Car-72977887.jpg",
-      "published": "2026-07-23T17:07:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7b3e663673b36e",
-      "title": "Resultados SAID 2026: dónde consultar y a qué hora salen los resultados de preescolar, primaria y secundaria del Edomex",
-      "url": "https://www.merca20.com/resultados-said-2026-donde-consultar-y-a-que-hora-salen-los-resultados-de-preescolar-primaria-y-secundaria-del-edomex/?utm_source=rss&utm_medium=rss&utm_campaign=resultados-said-2026-donde-consultar-y-a-que-hora-salen-los-resultados-de-preescolar-primaria-y-secundaria-del-edomex",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La expectativa aumenta porque el Sistema Anticipado de Inscripción y Distribución (SAID) dará a conocer los resultados el próximo viernes 31 de julio",
-      "image": "https://files.merca20.com/uploads/2026/07/resultados-said-hora-sitio.jpg",
-      "published": "2026-07-23T16:46:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fdedd520b11eb6",
-      "title": "Quién es Alejandra Jaramillo, la conductora que se burló de la Selección Mexicana y ahora se quedó sin trabajo",
-      "url": "https://www.merca20.com/quien-es-alejandra-jaramillo-la-conductora-que-se-burlo-de-la-seleccion-mexicana-y-ahora-se-quedo-sin-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=quien-es-alejandra-jaramillo-la-conductora-que-se-burlo-de-la-seleccion-mexicana-y-ahora-se-quedo-sin-trabajo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "María Alejandra Jaramillo López es una presentadora de televisión, actriz, empresaria y creadora de contenido ecuatoriana",
-      "image": "https://files.merca20.com/uploads/2026/07/alejandra-jaramillo_.jpg",
-      "published": "2026-07-23T16:45:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "335790fbb32087",
-      "title": "Google cambia el inicio de sesión para siempre: ahora podrás entrar a tu cuenta con un video selfie",
-      "url": "https://www.merca20.com/google-cambia-el-inicio-de-sesion-para-siempre-ahora-podras-entrar-a-tu-cuenta-con-un-video-selfie/?utm_source=rss&utm_medium=rss&utm_campaign=google-cambia-el-inicio-de-sesion-para-siempre-ahora-podras-entrar-a-tu-cuenta-con-un-video-selfie",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La compañía lanzó un nuevo sistema de autenticación que utiliza un video selfie para iniciar sesión o recuperar el acceso a una cuenta. Así funciona y qué pasará con tus datos biométricos.",
-      "image": "https://files.merca20.com/uploads/2025/12/GOOGLE-ANDROID_2026.jpg",
-      "published": "2026-07-23T16:45:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0175ee274fe359",
       "title": "Inflación en México baja a 3.1% en la primera quincena de julio, su mejor lectura en seis años",
       "url": "https://altonivel.com.mx/inflacion-en-mexico-baja-a-3-1-en-la-primera-quincena-de-julio-su-mejor-lectura-en-seis-anos/",
@@ -473,18 +665,6 @@
       "tags": []
     },
     {
-      "id": "4992653a160a66",
-      "title": "Cofepris alerta por Alka-Seltzer: qué debes saber si lo consumes",
-      "url": "https://www.merca20.com/cofepris-alerta-por-alka-seltzer-que-debes-saber-si-lo-consumes/?utm_source=rss&utm_medium=rss&utm_campaign=cofepris-alerta-por-alka-seltzer-que-debes-saber-si-lo-consumes",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La investigación realizada por Bayer permitió identificar inconsistencias en números de lote, fechas de caducidad alteradas y empaques que no corresponden con los productos originales.",
-      "image": "https://files.merca20.com/uploads/2026/07/bigstock-New-York-Packs-Of-284999200.jpg",
-      "published": "2026-07-23T16:35:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b66bf561bd3932",
       "title": "China acaba de estrenar tres líneas gigantes de fibra de carbono: malas noticias para EEUU y Japón",
       "url": "https://www.xataka.com/materiales/china-acaba-estrenar-tres-lineas-gigantes-fibra-carbono-malas-noticias-para-eeuu-japon",
@@ -493,18 +673,6 @@
       "summary": "China ha dado un nuevo paso en su carrera por dominar el sector de los materiales avanzados. Y es que el gigante estatal CNBM (China National Building Material Group) ha puesto en marcha tres nuevas líneas de producción …",
       "image": "https://i.blogs.es/05fb90/original-2/1024_2000.jpeg",
       "published": "2026-07-23T16:31:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "259f728508ea7d",
-      "title": "‘Avatar: The Last Airbender’: Will There Be a Season 4 on Netflix?",
-      "url": "https://www.merca20.com/avatar-the-last-airbender-will-there-be-a-season-4-on-netflix/?utm_source=rss&utm_medium=rss&utm_campaign=avatar-the-last-airbender-will-there-be-a-season-4-on-netflix",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Following the confirmation of Season 3 of Avatar: The Last Airbender, Netflix has revealed whether there will be a fourth installment",
-      "image": "https://files.merca20.com/uploads/2026/07/Avatar-The-Last-Airbender-1.jpg",
-      "published": "2026-07-23T16:25:12+00:00",
       "score": null,
       "tags": []
     },
@@ -527,7 +695,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "La migración latinoamericana hacia España ya no responde solo a razones económicas, sino también a seguridad, estabilidad e identidad cultural. The post Los jóvenes mejor preparados de América Latina están migrando a Esp…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/talento-latinoamericano-migracion.webp",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/jovenes-america-latina-migrando-espana.webp",
       "published": "2026-07-23T16:06:07+00:00",
       "score": null,
       "tags": []
@@ -599,7 +767,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Algunos republicanos se unieron a demócratas, señal de malestar dentro del partido de Trump. The post Congreso de EE.UU. avanza para limitar a Trump en operaciones contra Irán appeared first on Alto Nivel .",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/04/trump-bloqueo-ormuz-1.webp",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/donald-trump-iran.webp",
       "published": "2026-07-23T15:05:26+00:00",
       "score": null,
       "tags": []
@@ -617,18 +785,6 @@
       "tags": []
     },
     {
-      "id": "62bf4cfe7e4b86",
-      "title": "Los genios chinos de la IA podrían ser multimillonarios en EEUU. Lo malo para EEUU es que prefieren volver a China",
-      "url": "https://www.xataka.com/robotica-e-ia/genios-chinos-ia-podrian-ser-multimillonarios-eeuu-malo-para-eeuu-que-prefieren-volver-a-china",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Lo normal es que alguien tarde seis años en completar un doctorado en la Universidad Carnegie Mellon (CMU). Un joven llamado Yang Zhilin lo consiguió en cuatro, y acto seguido pasó lo que tenía que pasar: las grandes tec…",
-      "image": "https://i.blogs.es/bf02fe/ingenieros-ia-china/1024_2000.jpeg",
-      "published": "2026-07-23T14:31:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a0be9da5fe8e2b",
       "title": "Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales",
       "url": "https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026/",
@@ -637,18 +793,6 @@
       "summary": "Una vez más, la Comisión Europea ha aplicado una multa millonaria a Google por infringir las normativas de la UE con sus productos. En esta oportunidad, se trata de una sanción de 890 millones de euros por dos infraccion…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/adarsh-chauhan-r-oebX7qWxM-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-23T13:46:48+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "76d9c08baeec7b",
-      "title": "La inflación baja a 3.10% en la primera quincena de julio",
-      "url": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8dbd6f0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F98%2F6d%2F8125135448fc99a445edc3b8c4b4%2Fwalmart-afp-20251027-8282263-v1-highres-mexicoeconomytradewalmart.jpeg",
-      "published": "2026-07-23T13:31:32+00:00",
       "score": null,
       "tags": []
     },
@@ -685,66 +829,6 @@
       "summary": "La automotriz alemana analiza nuevos ajustes ante la crisis que golpea a dicho sector.",
       "image": "https://cdn-3.expansion.mx/dims4/default/d64f0f6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F46%2F16ff283c4a259efdbdeaa43e9456%2F3-gettyimages-695490792.jpg",
       "published": "2026-07-23T12:08:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b604740291fc30",
-      "title": "Activar la justicia energética, para encender las regiones de México",
-      "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/07/23/activar-la-justicia-energetica-para-encender-las-regiones-de-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Cerrar las desigualdades del sistema eléctrico requiere coordinar inversiones y esfuerzos entre grandes corporativos, pequeñas empresas y consumidores, en lugar de depender únicamente de decisiones centralizadas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3ba1b55/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2d%2Fd7%2Ff67f39f6453c8287add1e5c031a9%2Fimg-7761.jpeg",
-      "published": "2026-07-23T12:01:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a3242ddec232c9",
-      "title": "Los teléfonos plegables siguen sin bajar de precio y apenas representan 2% del mercado",
-      "url": "https://expansion.mx/tecnologia/2026/07/23/telefonos-plegables-nicho-de-2-que-no-logra-abaratarse",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Entrar a esta categoría requiere una inversión mínima de 25,000 pesos, casi cinco veces más que el gasto promedio de un consumidor mexicano al renovar su smartphone.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/272e211/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F29%2Ffd%2F38a30f4b4c5199562983e4b46f58%2Fistock-1296648559.jpg",
-      "published": "2026-07-23T11:55:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b7b850e73e435c",
-      "title": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
-      "url": "https://expansion.mx/economia/2026/07/22/mexico-aranceles-textiles-china-produccion-industria-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/fc025bc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc0%2F88%2F66d91aef46a8881a70375f162201%2Fpor-que-bajan-importaciones-textiles-china-mexico.jpeg",
-      "published": "2026-07-23T11:55:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "23c5e62eb68656",
-      "title": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
-      "url": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a76f539/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2Fff%2F384830cf496b9954104d98e083df%2Fempleo-formal-y-vivienda-propia-en-mexico-la-brecha-que-revela-el-estudio-de-infonavit.jpeg",
-      "published": "2026-07-23T11:55:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a078c1a04dcbec",
-      "title": "Tres latinoamericanas disputan la secretaría general de la ONU entre seis candidatos",
-      "url": "https://expansion.mx/mundo/2026/07/23/elecciones-secretaria-general-onu",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Michelle Bachelet, María Fernanda Espinosa y Rebeca Grynspan compiten por dirigir un organismo que enfrenta su mayor crisis financiera desde 1945 y una creciente parálisis política.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/ef928f5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F63%2F03%2F05b39803472cb32cd54d39bf3974%2Felecciones-secretario-general-naciones-unidas.jpg",
-      "published": "2026-07-23T11:55:09+00:00",
       "score": null,
       "tags": []
     },
@@ -875,7 +959,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Ferrero destinará 86 millones de dólares a ampliar la producción, construir infraestructura eléctrica y fortalecer la logística de su planta de Guanajuato. The post Ferrero invertirá 86 millones de dólares para producir …",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/Ferrero-Guanajuato.webp",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/ferrero-invertira-mexico.webp",
       "published": "2026-07-23T06:56:00+00:00",
       "score": null,
       "tags": []
@@ -1061,6 +1145,18 @@
       "tags": []
     },
     {
+      "id": "309b06d6ff5cfb",
+      "title": "La política migratoria en EU golpea a Chedraui y sus ganancias caen 11.5% en el segundo trimestre",
+      "url": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La minorista resintió una menor afluencia de clientes en sus supermercados para consumidores hispanos en Estados Unidos, donde la presión migratoria y el tipo de cambio debilitaron sus ingresos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f70eb6e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8a%2F83%2F2172917a42d2ab133ac52e8a43e6%2Fchedraui-istock.jpg",
+      "published": "2026-07-22T23:21:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "d35799eb9211ed",
       "title": "Mundial 2026 dejó una derrama turística de 42,276 mdp en México: Sectur",
       "url": "https://altonivel.com.mx/mundial-2026-dejo-una-derrama-turistica-de-42276-mdp-en-mexico-sectur/",
@@ -1073,6 +1169,30 @@
       "tags": []
     },
     {
+      "id": "df0d126d380538",
+      "title": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
+      "url": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Mundial impulsó ventas de pantallas, ropa y mercancía estacional, pero no logró reactivar el consumo de forma generalizada. Ante un primer semestre más débil de lo previsto, la empresa redujo su expectativa para 2026.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/261019d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F39%2F45%2F1f46db824f4785cd562afa697785%2Fwalmex.png",
+      "published": "2026-07-22T23:04:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8a68beb9c0b299",
+      "title": "¿Qué preocupa a las personas a las 3 de la mañana? Salud y dinero lideran las respuestas",
+      "url": "https://expansion.mx/finanzas-personales/2026/07/22/que-te-despierta-3-manana-estudio-preocupaciones",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El aumento del costo de vida, los ingresos insuficientes y la dificultad para ahorrar mantienen en alerta a millones, especialmente entre los jóvenes, quienes colocan las finanzas por encima de su bienestar físico.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/0c11c10/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbe%2F1f%2F47235d55470d983011866833dbc3%2Fimage.png",
+      "published": "2026-07-22T23:03:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "429b85f299741c",
       "title": "Alphabet invertirá 205,000 mdd en IA tras alza del 82% en ingresos de Cloud",
       "url": "https://altonivel.com.mx/alphabet-invertira-205000-mdd-en-ia-tras-alza-del-82-en-ingresos-de-cloud/",
@@ -1081,6 +1201,18 @@
       "summary": "Google superó las expectativas de ingresos gracias a Cloud, mientras anunció que invertirá hasta 205,000 mdd para ampliar su infraestructura de IA. The post Alphabet invertirá 205,000 mdd en IA tras alza del 82% en ingre…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2025/04/google-alphabet.webp",
       "published": "2026-07-22T22:54:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a1c699df0aba45",
+      "title": "Alphabet celebra el Mundial 2026: YouTube suma 1,700 millones de usuarios y más ingresos",
+      "url": "https://expansion.mx/tecnologia/2026/07/22/alphabet-celebra-el-mundial-2026-youtube-suma-1-700-millones-de-usuarios-y-mas-ingresos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Alphabet presentó su segundo informe trimestral de 2026, donde destaca la importancia de la IA para la compañía.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/785da2e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F09%2F9a%2Fc1143a3d4d6a81b1caa80e8ddf88%2Falphabet-gettyimages.jpg",
+      "published": "2026-07-22T22:43:11+00:00",
       "score": null,
       "tags": []
     },
@@ -1109,14 +1241,26 @@
       "tags": []
     },
     {
-      "id": "28387e0bbad8ef",
-      "title": "Kevin Feige revela el ambicioso plan tras ‘Avengers: Doomsday’ y ‘Secret Wars’: ¿Hasta cuándo habrá UCM?",
-      "url": "https://hipertextual.com/cine-television/kevin-feige-marvel-studios-planes-ucm-post-avengers-doomsday-secret-wars/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El debut del tráiler de Avengers: Doomsday revitalizó el interés por el próximo gran evento del Universo Cinematográfico de Marvel, que marcará el regreso de figuras como Robert Downey Jr y Chris Evans. El filme de los h…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Avengers-Doomsday-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-22T21:59:00+00:00",
+      "id": "748c6ab36c282e",
+      "title": "Daniel Siad, presunto cómplice de Jeffrey Epstein, es encontrado muerto cerca de París",
+      "url": "https://expansion.mx/mundo/2026/07/22/daniel-siad-presunto-complice-de-jeffrey-epstein-es-encontrado-muerto-cerca-de-paris",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El cazatalentos de modelos era acusado de reclutar mujeres para el delincuente sexual y exempresario; también enfrentaba denuncias de varias mujeres ante la justicia francesa.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/454c24a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F57%2F6d%2F9dc7847d42dea820697d9933db06%2Fdaniel-siad-complica-epstein-muerto.jpeg",
+      "published": "2026-07-22T22:05:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "992f86801062fb",
+      "title": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
+      "url": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ff7f12d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd2%2F05%2Fd06f64ba46ffb604ba6310c6ea9a%2Fla-comer-cuartoscuro.jpg",
+      "published": "2026-07-22T21:54:13+00:00",
       "score": null,
       "tags": []
     },
@@ -1157,18 +1301,6 @@
       "tags": []
     },
     {
-      "id": "61d24f322e4f98",
-      "title": "WhatsApp cambia por completo e incluye una de las funciones más pedidas por sus usuarios",
-      "url": "https://hipertextual.com/mobile/whatsapp-nuevas-funciones-pdf-android-auto-musica/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "WhatsApp ha lanzado una actualización que suma varias funciones pensadas para acompañarte en distintos momentos del día. Meta ya no quiere que solo sea una aplicación exclusiva de mensajería, por lo que integró un cúmulo…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/whatsapp-android.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
-      "published": "2026-07-22T21:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f24ff3a545f4f2",
       "title": "30 años del Festival Internacional de Turismo de Aventura, el evento que mueve millones de pesos en Chihuahua",
       "url": "https://altonivel.com.mx/30-anos-del-festival-internacional-de-turismo-de-aventura-el-evento-que-mueve-millones-de-pesos-en-chihuahua/",
@@ -1189,42 +1321,6 @@
       "summary": "El Nasdaq encabezó las caídas de Wall Street en una jornada marcada por la expectativa de los reportes de las \"Siete Magníficas\" y el repunte de los rendimientos de los bonos. The post Dow Jones, S&P 500 y Nasdaq cierran…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2025/12/dow-jones-retrocede.webp",
       "published": "2026-07-22T20:20:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9e9574ac8de8f9",
-      "title": "Xbox por fin permite jugar tus juegos de consola en PC",
-      "url": "https://hipertextual.com/videojuegos/xbox-retrocompatibilidad-pc-juegos-clasicos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Xbox ha anunciado una de las funciones más pedidas por los usuarios desde hace años. La compañía anunció un programa de retrocompatibilidad que permitirá jugar títulos de consola en PC. La función estará disponible tanto…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/xbox-juegos-control.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-07-22T20:01:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f2eba1159bdf08",
-      "title": "América Móvil compra WOW Perú para fortalecer su negocio de fibra óptica",
-      "url": "https://altonivel.com.mx/america-movil-compra-wow-peru-para-fortalecer-su-negocio-de-fibra-optica/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "América Móvil comprará WOW Perú para fortalecer la infraestructura de fibra óptica de Claro y ampliar su liderazgo en el mercado peruano de internet fijo. The post América Móvil compra WOW Perú para fortalecer su negocio…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/05/Slim-2026.webp",
-      "published": "2026-07-22T19:52:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e8052c7557b55f",
-      "title": "AMD refuerza su ofensiva contra Nvidia: invertirá 5,000 mdd en Anthropic",
-      "url": "https://altonivel.com.mx/amd-refuerza-su-ofensiva-contra-nvidia-invertira-5000-mdd-en-anthropic/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La alianza entre AMD y Anthropic acelera la carrera por la infraestructura de inteligencia artificial con una inversión multimillonaria y nuevos centros de datos. The post AMD refuerza su ofensiva contra Nvidia: invertir…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/06/anthropic.webp",
-      "published": "2026-07-22T19:37:50+00:00",
       "score": null,
       "tags": []
     },
@@ -1253,18 +1349,6 @@
       "tags": []
     },
     {
-      "id": "3bae3acc85fb8c",
-      "title": "Tomorrowland cierra una edición más con talento mexa en sus dos fines de semana",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/22/tomorrowland-cierra-una-edicion-mas-con-talento-mexa-en-sus-dos-fines-de-semana/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El festival sumó a UNREAD y The Criminal Sounds como parte del talento encargado de encender los escenarios más legendarios del Tomorrowland",
-      "image": "https://www.fayerwayer.com/resizer/v2/IZASR3JNTZDDNEDRIPUSFL6FCI.jpg?auth=4f8754546b240f998ae452b76bfd240e189c811099c1de38e91bd30482d1ab37&smart=true&width=6000&height=4002",
-      "published": "2026-07-22T18:32:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ba3f2c2e804b0a",
       "title": "¿Cuál fue la empresa hackeada por OpenAI y en qué se vio afectada?",
       "url": "https://www.fayerwayer.com/internet/2026/07/22/cual-fue-la-empresa-hackeada-por-openai-y-en-que-se-vio-afectada/",
@@ -1273,30 +1357,6 @@
       "summary": "Hugging Face fue la empresa atacada por modelos de OpenAI. Conoce qué información quedó expuesta y cómo respondió la plataforma",
       "image": "https://www.fayerwayer.com/resizer/v2/BK3NFVAS7VDQHJ6UAQUSCQSGNQ.png?auth=ecb972a98455ebd06d3957ab51a7e586228df5929e8cb995ccf39d6317b04c4c&smart=true&width=1376&height=768",
       "published": "2026-07-22T17:53:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "aa74bc519ff1e2",
-      "title": "Francia se convierte en el primer país de Europa en prohibir las redes sociales a menores de 15 años",
-      "url": "https://altonivel.com.mx/francia-se-convierte-en-el-primer-pais-de-europa-en-prohibir-las-redes-sociales-a-menores-de-15-anos/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Francia aprobó una ley que prohíbe el acceso a las redes sociales a menores de 15 años, convirtiéndose en el primer país europeo en adoptar una restricción general de este tipo. The post Francia se convierte en el primer…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/francia-prohibe-redes-sociales-a-menores.webp",
-      "published": "2026-07-22T16:59:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "318857de82c1c9",
-      "title": "¿Qué pasa después del iPhone? La hoja de ruta de John Ternus para revolucionar Apple Intelligence y los dispositivos del futuro",
-      "url": "https://www.fayerwayer.com/internet/2026/07/22/que-pasa-despues-del-iphone-la-hoja-de-ruta-de-john-ternus-para-revolucionar-apple-intelligence-y-los-dispositivos-del-futuro/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Tras 15 años de liderazgo de Tim Cook, John Ternus asumirá la dirección de Apple el 1 de septiembre. Enfrentará la presión por la IA, dispositivos...",
-      "image": "https://www.fayerwayer.com/resizer/v2/ICZYP4OO5NHONFA4IA5QJRHNTM.png?auth=e18656901618fbbc3ed8b49bc6ce8431e27782ba88c629318196fea0a2a6684a&smart=true&width=1570&height=894",
-      "published": "2026-07-22T16:49:03+00:00",
       "score": null,
       "tags": []
     },
@@ -1469,42 +1529,6 @@
       "tags": []
     },
     {
-      "id": "efcdc5878d22c4",
-      "title": "De la pantalla al papel: La startup latina que usa IA en WhatsApp para convertir chats grupales en libros familiares",
-      "url": "https://www.fayerwayer.com/internet/2026/07/22/de-la-pantalla-al-papel-la-startup-latina-que-usa-ia-en-whatsapp-para-convertir-chats-grupales-en-libros-familiares/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Capturar la memoria colectiva: Mila Stories levanta USD 800.000 para crear \"la máquina de los recuerdos\".",
-      "image": "https://www.fayerwayer.com/resizer/v2/7UZAVVX2ZZGXHK2K27BKQ56MD4.jpg?auth=7982958f9f5479c989b19e04c4d0d028800c09d76339b9668f49525ff0f52a8a&smart=true&width=594&height=395",
-      "published": "2026-07-22T00:13:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "74f68b519c27e8",
-      "title": "Francia se convierte en el primer país de Europa en prohibir las redes sociales a menores de 15 años",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/21/francia-se-convierte-en-el-primer-pais-de-europa-en-prohibir-las-redes-sociales-a-menores-de-15-anos/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La Asamblea Nacional de Francia aprobó la prohibición de redes sociales para menores de 15 años.",
-      "image": "https://www.fayerwayer.com/resizer/v2/64OSDM4V2RAEDFSU4WW6SJ6UKU.jpg?auth=6399f47b8af97d1d2f931f24e0117d634001258fba53fa56cf57bc0e3d938b88&smart=true&width=976&height=549",
-      "published": "2026-07-21T22:07:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f15c9e78af4c61",
-      "title": "Youtuber surcoreano muere en plena transmisión tras ingerir una sustancia tóxica",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/21/youtuber-surcoreano-muere-en-plena-transmision-tras-ingerir-una-sustancia-toxica/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Un espectador alertó a los servicios de emergencia tras observar la situación.",
-      "image": "https://www.fayerwayer.com/resizer/v2/TMRAOSHIBVE5HGEHRURSHTS36I.jpg?auth=2efd8108f7f8accf4d0e4e5d3e46d942fcef3bb5f40e26fdd609e08738d20920&smart=true&width=5056&height=2896",
-      "published": "2026-07-21T21:19:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b781c890b8f380",
       "title": "DLSS 5 mejora el control artístico y el rendimiento",
       "url": "https://www.muycomputer.com/2026/07/21/dlss-5-mejora-el-control-artistico-y-el-rendimiento/",
@@ -1513,30 +1537,6 @@
       "summary": "NVIDIA ha aprovechado SIGGRAPH 2026 para mostrar los últimos avances de DLSS 5, una tecnología que continúa acercándose a su lanzamiento previsto para este otoño. La nueva demostración confirma que la compañía ha trabaja…",
       "image": null,
       "published": "2026-07-21T17:04:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8c3ca95a9837c6",
-      "title": "El físico Sean Carroll explica por qué la física cuántica descarta la vida después de la muerte",
-      "url": "https://www.fayerwayer.com/ciencia/2026/07/21/el-fisico-sean-carroll-explica-por-que-la-fisica-cuantica-descarta-la-vida-despues-de-la-muerte/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El cosmólogo de Caltech, Sean Carroll, sostiene que la conciencia termina con la muerte física. La Teoría Cuántica de Campos no deja espacio para...",
-      "image": "https://www.fayerwayer.com/resizer/v2/CHQ3IFBJFZAJZGGKC73USNKDUU.jpg?auth=7028feddc8b947fd53a99ddc8011c2a332ad5665aee0d67cdb4279f977af449a&smart=true&width=5616&height=3744",
-      "published": "2026-07-21T17:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "070c58a6671954",
-      "title": "¿Tom Holland y Zendaya a prisión en México? La sanción que podrían recibir por alterar la bandera",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/07/21/tom-holland-y-zendaya-a-prision-en-mexico-la-sancion-que-podrian-recibir-por-alterar-la-bandera/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La visita de Tom Holland y Zendaya a la Ciudad de México para promocionar Spider-Man: Brand New Day terminó envuelta en controversia por una bandera de Méx",
-      "image": "https://www.fayerwayer.com/resizer/v2/PWOEOT2XYBHEBN3UMRCHKZLDLA.jpg?auth=b1473b2748331e5098d54d4074acddce52668b44a030cd01caa71707f23dc0a5&smart=true&width=4160&height=3120",
-      "published": "2026-07-21T16:41:34+00:00",
       "score": null,
       "tags": []
     },
@@ -2249,6 +2249,102 @@
       "tags": []
     },
     {
+      "id": "375543f10dadb8",
+      "title": "La importancia de los vínculos afectivos en el aula",
+      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
+      "image": null,
+      "published": "2021-06-03T14:00:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30827e2938db33",
+      "title": "Click to English: un recurso visual para el inglés",
+      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
+      "image": null,
+      "published": "2021-05-20T14:00:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f4ddc6170c5ca",
+      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
+      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
+      "image": null,
+      "published": "2021-05-06T14:00:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "39f21b0066f705",
+      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
+      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
+      "image": null,
+      "published": "2021-04-29T14:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c25c9b27d8e08",
+      "title": "El papel del juego en el aprendizaje",
+      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
+      "image": null,
+      "published": "2021-04-15T14:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a27c862780854e",
+      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
+      "url": "http://blog.tiching.com/teuvo-sankila/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
+      "image": null,
+      "published": "2021-04-11T08:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e31f7e480ae193",
+      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
+      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
+      "image": null,
+      "published": "2021-04-07T14:00:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea1bfdcc24e134",
+      "title": "Evaluar para aprender: herramientas para la autoevaluación",
+      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
+      "image": null,
+      "published": "2021-03-17T15:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2257,6 +2353,30 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e8a4e92c6ff20",
+      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
+      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
+      "image": null,
+      "published": "2021-02-25T17:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f160c4352a3034",
+      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
+      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
+      "image": null,
+      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

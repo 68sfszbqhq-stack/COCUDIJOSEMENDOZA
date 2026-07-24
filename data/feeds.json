@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-24T08:28:22.943967+00:00",
+    "generated": "2026-07-24T13:46:10.258556+00:00",
     "total": 188
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Esta iniciativa abre la puerta para que cualquier persona ponga su granito de arena con tan solo salir a caminar. The post La startup que convierte caminatas en alimento para refugios de animales prepara su expansión a L…",
       "image": null,
-      "published": "2026-07-24T08:28:21.545429+00:00",
+      "published": "2026-07-24T13:46:08.739287+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La vida útil promedio de las empresas ha disminuido drásticamente a lo largo de las décadas, planteando preguntas urgentes sobre lo que se necesita para construir un negocio que perdure. Esto es lo que he aprendido de mi…",
       "image": null,
-      "published": "2026-07-24T08:28:21.544933+00:00",
+      "published": "2026-07-24T13:46:08.738975+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "El cambio de contexto puede resultar agotador, pero si se realiza con intención, tiene el potencial de impulsar el crecimiento del negocio. The post 3 maneras en que alternar roles puede aumentar la productividad de tu e…",
       "image": null,
-      "published": "2026-07-24T08:28:21.544459+00:00",
+      "published": "2026-07-24T13:46:08.738632+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Un desarrollador planea renunciar a su trabajo en JPMorgan Chase el próximo mes para dedicarse de tiempo completo a crear aplicaciones. The post “Es una locura la cantidad de dinero que están ganando”: Los emprendedores …",
       "image": null,
-      "published": "2026-07-24T08:28:21.543955+00:00",
+      "published": "2026-07-24T13:46:08.738322+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Ocho tendencias marcan el rumbo del marketing en la era de la inteligencia artificial: de la automatización a la autenticidad pasando por la comunidad y el nuevo SEO generativo. Esto es lo que tienes que saber para no pe…",
       "image": null,
-      "published": "2026-07-24T08:28:21.543460+00:00",
+      "published": "2026-07-24T13:46:08.737958+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Estas ocho reglas prácticas muestran cómo acelerar la confianza en el equipo para tomar mejores decisiones, reducir la dependencia del líder y operar con mayor autonomía. The post Construí una empresa sólida que funciona…",
       "image": null,
-      "published": "2026-07-24T08:28:21.541987+00:00",
+      "published": "2026-07-24T13:46:08.729341+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Por qué el ensayo mental y emocional, y no solo la estrategia, determina cómo se desempeñan los fundadores cuando están bajo presión. The post La mayoría de los emprendedores nunca practican esta habilidad — y por eso en…",
       "image": null,
-      "published": "2026-07-24T08:28:21.541488+00:00",
+      "published": "2026-07-24T13:46:08.729022+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Si te corrieron otra vez, vale la pena reflexionar antes de buscar tu próximo empleo. Aquí hay cinco preguntas honestas que debes hacerte. The post Si te siguen despidiendo de tu puesto directivo, es momento de hacerte e…",
       "image": null,
-      "published": "2026-07-24T08:28:21.540953+00:00",
+      "published": "2026-07-24T13:46:08.728672+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "La irrupción de plataformas capaces de eludir la autenticación multifactorial, convierte la suplantación de identidad en un negocio masivo al alcance de cualquiera por solo $120 dólares. The post El “Phishing como Servic…",
       "image": null,
-      "published": "2026-07-24T08:28:21.540458+00:00",
+      "published": "2026-07-24T13:46:08.728357+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,343 @@
       "category": "startup",
       "summary": "En una cultura que premia el agotamiento como si fuera compromiso, el verdadero desgaste no siempre viene del exceso de trabajo, sino de vivir desconectados de quienes somos. The post Nadie va a aplaudir tu agotamiento. …",
       "image": null,
-      "published": "2026-07-24T08:28:21.539893+00:00",
+      "published": "2026-07-24T13:46:08.727999+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1ba863b21d00fb",
+      "title": "Play Station Network está caído:  el servicio está dando error y no deja iniciar sesión",
+      "url": "https://www.xataka.com/videojuegos/play-station-network-esta-caido-servicio-esta-dando-error-no-deja-iniciar-sesion",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Viernes en pleno verano, con un calor insoportable, parece buen momento para echar unas partidas en tu PlayStation. No tan deprisa... Si planeabas jugar a un juego online, vete olvidando porque el servicio PlayStation Ne…",
+      "image": "https://i.blogs.es/bdfb9e/psn-error/1024_2000.jpeg",
+      "published": "2026-07-24T13:41:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ef9551492584fc",
+      "title": "Los streamers llevan años haciendo publicidad encubierta de marcas: España acaba de multar a Ibai y Jordi Wild por ello",
+      "url": "https://www.xataka.com/magnet/streamers-llevan-anos-haciendo-publicidad-encubierta-marcas-espana-acaba-multar-a-ibai-jordi-wild-ello",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia acaba de contratar a una empresa portuguesa para rastrear publicidad encubierta en redes sociales. Las tres multas que ha logrado imponer con esa vigilancia recién es…",
+      "image": "https://i.blogs.es/666ba7/nr4uaphyfrnh7ekmpi5vfyuh6a/1024_2000.jpeg",
+      "published": "2026-07-24T13:30:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "93e96ddddf2372",
+      "title": "Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona",
+      "url": "https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xpeng L03, la versión SUV del Mona M03 con el que la marca arrasó en el mercado chino. La fórmula que le funcionó allí es conocida: mucha tecnol…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/44053118.jpeg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-07-24T13:21:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3bd136d04637f9",
+      "title": "EEUU está acusando a China de plagiar los modelos de Anthropic. Tenemos tres problemas con esa acusación",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-esta-acusando-a-china-plagiar-modelos-anthropic-tenemos-tres-problemas-esa-acusacion",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Michael Kratsios, asistente del presidente de EEUU, no se mordía la lengua esta semana cuando afirmaba que \"Tenemos información que indica que Moonshoot AI destiló Fable de Anthropic para el desarrollo de su modelo K3\". …",
+      "image": "https://i.blogs.es/78362a/casa-blanca-destilacion-kimi-k3-china-eeuu/1024_2000.jpeg",
+      "published": "2026-07-24T13:16:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d11ef132054ef1",
+      "title": "España tiene cada vez más bosques y menos recursos para prevenir los incendios. Su solución: burros bomberos",
+      "url": "https://www.xataka.com/magnet/pregunta-cual-nuestra-gran-arma-frente-a-incendios-espana-respuesta-se-abre-paso-burros-bomberos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "A lo largo de las últimas décadas la lucha contra los incendios se ha reforzado gracias al uso de drones , satélites y cámaras con IA , pero en algunas regiones de España están comprobando que hay una herramienta más sim…",
+      "image": "https://i.blogs.es/6c9126/29510904202_b48fbc4a72_k/1024_2000.jpeg",
+      "published": "2026-07-24T13:00:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d3036bcb239f03",
+      "title": "Mistral está muy lejos en la carrera de la IA. A Samsung eso le importa bien poco y planea invertir una fortuna en ella",
+      "url": "https://www.xataka.com/robotica-e-ia/mistral-esta-muy-lejos-carrera-ia-a-samsung-eso-le-importa-bien-poco-planea-invertir-fortuna-ella",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Mistral está de moda. No importa que sus modelos de IA no estén entre los mejores , porque a la startup francesa le basta con defender el discurso de la IA europea y soberana que tan relevante se ha vuelto en los últimos…",
+      "image": "https://i.blogs.es/a92f8d/samsung-mistral/1024_2000.jpeg",
+      "published": "2026-07-24T12:30:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d26ef06845d158",
+      "title": "Las mejores ofertas de la semana en un nuevo Red Friday",
+      "url": "https://www.muycomputer.com/2026/07/24/las-mejores-ofertas-de-la-semana-en-un-nuevo-red-friday-52/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Nos vamos de compras como cada viernes para aprovechar las mejores ofertas Red Friday, una selección variada de tecnología y electrónica donde te ofrecemos los mejores descuentos disponibles y que hoy enfocamos a la camp…",
+      "image": null,
+      "published": "2026-07-24T12:26:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c84404e9b9d9a4",
+      "title": "Amazon Prime Video anuncia el documental de la Selección Española en el Mundial 2026: número de episodios y cuándo podrás verlo",
+      "url": "https://hipertextual.com/cine-television/amazon-prime-video-anuncia-documental-seleccion-espanola-mundial-2026-numero-de-episodios-cuando-se-estrena/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Amazon Prime Video acaba de confirmar que la plataforma estrenará en exclusiva un documental en forma de serie sobre el histórico triunfo de la Selección Española en el Mundial de Fútbol 2026. La gesta que permitió a Esp…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Documental-Espana-Mundial-Amazon-prime-Video.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-24T12:19:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5284c857f78ead",
+      "title": "Chili’s se convierte en la marca con mejor desempeño de Alsea gracias a promociones ligadas al Mundial",
+      "url": "https://www.merca20.com/chilis-se-convierte-en-la-marca-con-mejor-desempeno-de-alsea-gracias-a-promociones-ligadas-al-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=chilis-se-convierte-en-la-marca-con-mejor-desempeno-de-alsea-gracias-a-promociones-ligadas-al-mundial",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "De acuerdo con Alsea, Chili’s logró capitalizar el interés de los consumidores por el Mundial mediante campañas comerciales, promociones y una propuesta de consumo asociada a la convivencia",
+      "image": "https://files.merca20.com/uploads/2026/06/chilis.jpg",
+      "published": "2026-07-24T12:15:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "53f78e536070ed",
+      "title": "Henry Ford ya anticipó el secreto de Tesla: “Cuanto menos complejo sea el coche, más fácil será fabricarlo y más barato se venderá”",
+      "url": "https://www.xataka.com/movilidad/ford-busca-reinventar-coche-mirando-a-su-pasado-cuanto-complejo-facil-sera-fabricarlo-barato-se-vendera",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Acababa de empezar el año 1914 cuando Henry Ford soltó la bomba: repartiría la mitad de los beneficios conseguidos en un año entre todos sus trabajadores. La cifra, se esperaba, ascendería a unos 10 millones de dólares d…",
+      "image": "https://i.blogs.es/ce30cb/henry-ford-tesla-coches-simples/1024_2000.jpeg",
+      "published": "2026-07-24T12:00:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1b61fb862f306c",
+      "title": "5 campañas publicitarias de salud exitosas que convierten objetos comunes en herramientas para salvar vidas",
+      "url": "https://www.merca20.com/campanas-publicitarias-salud-exitosas-objetos-salvar-vidas/?utm_source=rss&utm_medium=rss&utm_campaign=campanas-publicitarias-salud-exitosas-objetos-salvar-vidas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Recibos, etiquetas, teléfonos y residuos agrícolas protagonizan una nueva generación de campañas que encuentra soluciones donde pocos imaginaban.",
+      "image": "https://files.merca20.com/uploads/2026/07/smart-eye-camera-oui-inc-224873-scaled.jpg",
+      "published": "2026-07-24T11:54:21+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6b641cb25b7199",
+      "title": "Mientras Almería se derrite a 40º C, en Asturias no pasan de 27º C: la gran divergencia meteorológica de España este verano",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/sur-este-superan-40-c-asturias-no-pasan-27-c-explicacion-esta-meteorologia-no-suerte",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La actual ola de calor, la tercera del verano , se ha cebado especialmente con el sudeste español, aunque también está azotando el resto del sur, el este y el centro peninsular, así como las Islas Baleares. En cambio, en…",
+      "image": "https://i.blogs.es/25ee66/ola-de-calor-norte/1024_2000.jpeg",
+      "published": "2026-07-24T11:46:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a26c4767ad652b",
+      "title": "La estrategia detrás del nuevo lanzamiento de CASETiFY va mucho más allá de una funda para celular",
+      "url": "https://www.merca20.com/coleccion-casetify-spider-man-brand-new-day/?utm_source=rss&utm_medium=rss&utm_campaign=coleccion-casetify-spider-man-brand-new-day",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Una nueva colaboración muestra cómo las franquicias de entretenimiento encuentran oportunidades de negocio en categorías inesperadas y qué pueden aprender otras marcas de ese modelo.",
+      "image": "https://files.merca20.com/uploads/2026/07/coleccion-CASETiFY-Spider-Man.jpg",
+      "published": "2026-07-24T11:35:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b818c1d00845bd",
+      "title": "El himno de España no tiene letra, así que hemos coreado otro que no tiene nada que ver con el fútbol: el de Nino Bravo",
+      "url": "https://www.xataka.com/magnet/himno-nacional-no-tiene-letra-asi-que-hemos-coreado-otro-que-no-tiene-nada-que-ver-futbol-nino-bravo",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El himno español o Marcha Real es una rareza: no tiene letra oficial (aunque haya quien se lo haya intentado componer, de José María Pemán a Sabina o Marta Sánchez), lo que le da un aura solemne, pero impide la participa…",
+      "image": "https://i.blogs.es/85799c/captura-de-pantalla-2026-07-24-a-las-10.18.03/1024_2000.jpeg",
+      "published": "2026-07-24T11:30:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d3ec2b67ae6544",
+      "title": "La decisión internacional de FIAP que amplía el alcance de sus premios",
+      "url": "https://www.merca20.com/fiap-alianza-red-apple-festival-rusia/?utm_source=rss&utm_medium=rss&utm_campaign=fiap-alianza-red-apple-festival-rusia",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La nueva estrategia del festival iberoamericano revela cómo evoluciona la competencia entre los principales certámenes de creatividad del mundo, con un movimiento que conecta dos regiones poco habituales.",
+      "image": "https://files.merca20.com/uploads/2026/07/fiap-red-apple-festival-alianza.jpeg",
+      "published": "2026-07-24T11:22:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9a6078eacbf738",
+      "title": "Las mejores ofertas hoy 24 de julio en aires acondicionados portátiles de MediaMarkt: Cecotec, De'Longhi y más marcas",
+      "url": "https://www.xataka.com/seleccion/mejores-ofertas-hoy-24-julio-aires-acondicionados-portatiles-mediamarkt-cecotec-longhi-marcas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Estamos atravesando una época en la que está haciendo mucho calor, por lo que si vamos a pasar mucho tiempo en casa viene bien tener a mano un buen dispositivo que nos permita estar más fresquitos. Los aires acondicionad…",
+      "image": "https://i.blogs.es/423d6c/mediamarkt/1024_2000.jpeg",
+      "published": "2026-07-24T11:16:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "eaacb3538b0c19",
+      "title": "Este mapa te muestra todos los incendios activos de España en tiempo real, y puede avisarte si hay uno cerca de tu casa",
+      "url": "https://www.xataka.com/basics/este-mapa-te-muestra-todos-incendios-activos-espana-tiempo-real-puede-avisarte-hay-uno-cerca-tu-casa",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Vamos a decirte qué es y cómo funciona incendiosespaña.es , una web con la que puedes ver todos los incendios activos en España . Así, ya estés planeando un viaje podrás saber si hay alguno en tu destino, y si lo tienes …",
+      "image": "https://i.blogs.es/6a43d1/mapa-incendios/1024_2000.jpeg",
+      "published": "2026-07-24T11:00:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c6a024dde9e3cf",
+      "title": "SanDisk CZB: los pendrive USB siguen siendo muy útiles",
+      "url": "https://www.muycomputer.com/2026/07/24/sandisk-czb-los-pendrive-usb-siguen-siendo-muy-utiles/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "SanDisk CZB es la nueva línea de unidades de almacenamiento externo basados en memorias flash NAND del fabricante californiano. Un grupo de producto que conocemos como ‘pendrives’, que sigue siendo muy útil por su precio…",
+      "image": null,
+      "published": "2026-07-24T10:55:21+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a7abd5ee5232f4",
+      "title": "Llegar el primero ha dejado de ser un negocio (Próxima X #012)",
+      "url": "https://www.xataka.com/xataka-xtra/llegar-primero-ha-dejado-ser-negocio-proxima-x-012",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Durante unos años, llegar el primero ha sido una ventaja duradera. El mejor modelo era escaso, caro de alcanzar y difícil de imitar, y esa escasez se traducía en el precio. Quien llegaba primero cobraba por ello. Hace un…",
+      "image": "https://i.blogs.es/f0705b/modelazos-2/1024_2000.jpeg",
+      "published": "2026-07-24T10:30:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "014aec077287f5",
+      "title": "En Zamora hay un pueblo que tiene como vecino un ciervo llamado Tomás. Y ya ha demostrado que nadie lo sacará de allí",
+      "url": "https://www.xataka.com/magnet/historia-ciervo-tomas-desanduvo-50-kilometros-para-regresar-al-pueblo-zamora-que-se-ha-empadronado",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Linarejos es una aldea del municipio zamorano de Manzanal de Arriba , en el corazón mismo de la Sierra de la Culebra, donde viven alrededor de una decena de personas . Y un ciervo. Ese último es un detalle importante por…",
+      "image": "https://i.blogs.es/aa52b7/reddeerstag/1024_2000.jpeg",
+      "published": "2026-07-24T10:00:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6863c3f229a295",
+      "title": "Johnny Depp, totalmente irreconocible en el sorprendente tráiler de ‘Ebenezer’, el Cuento de Navidad de Charles Dickens",
+      "url": "https://hipertextual.com/cine-television/johnny-depp-totalmente-irreconocible-en-el-sorprendente-trailer-de-ebenezer-el-cuento-de-navidad-de-charles-dickens/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El Cuento de Navidad de Charles Dickens va a tener una nueva adaptación al cine este mismo año. Será Ebenezer, tendrá a Johnny Depp como protagonista y, aunque aún estamos en pleno verano, ya nos ha dejado su primer trái…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Ebenezer-Johnny-depp.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-24T10:00:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "445e0374bd850a",
+      "title": "De 799 a menos de 230 euros: este nuevo robot aspirador Lefant con base de autovaciado es muy compacto y apenas necesita mantenimiento",
+      "url": "https://www.xataka.com/seleccion/799-a-230-euros-este-nuevo-robot-aspirador-lefant-base-autovaciado-muy-compacto-apenas-necesita-mantenimiento",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Encontrar un buen robot-aspirador , con base de autovaciado y que tenga mucha potencia de succión sin gastar una fortuna, no es fácil. Si estás en esa búsqueda actualmente, puede que te encaje muy bien uno de los robots …",
+      "image": "https://i.blogs.es/7bc8fd/lefant-m210-portada-1-/1024_2000.png",
+      "published": "2026-07-24T09:46:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "633f64ef6dd785",
+      "title": "El movimiento de Mercado Libre en Chile anticipa un cambio mucho mayor en su negocio",
+      "url": "https://www.merca20.com/mercado-libre-busca-una-farmacia-chile-estrategia-retail/?utm_source=rss&utm_medium=rss&utm_campaign=mercado-libre-busca-una-farmacia-chile-estrategia-retail",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Una decisión que parece enfocarse en una nueva categoría revela una transformación más amplia en la estrategia de una de las empresas más grandes de América Latina.",
+      "image": "https://files.merca20.com/uploads/2026/07/mercado-libre.jpeg",
+      "published": "2026-07-24T09:35:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "85a52f58d130f8",
+      "title": "Amancio Ortega bate su récord personal de compras en Europa: más de 800 millones de euros por unas oficinas en París",
+      "url": "https://www.xataka.com/empresas-y-economia/amancio-ortega-bate-su-record-personal-compras-europa-800-millones-euros-unas-oficinas-paris",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Un estudio de la Universidad de Zaragoza ha señalado que cuando las temperaturas superan los 37,8 °C nuestra productividad se desploma un 36%. Sin embargo, esa caída no parece afectar al principal inversor inmobiliario e…",
+      "image": "https://i.blogs.es/d24b74/amancio-ortega-marca-un-record-en-paris/1024_2000.jpeg",
+      "published": "2026-07-24T09:30:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "706dd677fd388a",
+      "title": "Xbox prueba Cloud Gaming gratis con publicidad",
+      "url": "https://www.muycomputer.com/2026/07/24/xbox-prueba-cloud-gaming-gratis-con-publicidad/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Microsoft ha empezado a probar una nueva modalidad de Xbox Cloud Gaming (que ya volvió a dar señales de vida a principios de este mismo año), que permite jugar en streaming sin necesidad de pagar una suscripción, a cambi…",
+      "image": null,
+      "published": "2026-07-24T09:28:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a254e751877861",
+      "title": "ClickFix o estafa del falso CAPTCHA: cómo funciona y cómo evitar este timo para hackear tu ordenador",
+      "url": "https://www.xataka.com/basics/clickfix-estafa-falso-captcha-como-funciona-como-evitar-este-timo-para-hackear-tu-ordenador",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Vamos a explicarte qué es la estafa del falso CAPTCHA , también llamada como ClickFix. Se trata de un tipo de ataque de ingeniería social que apareció a finales del 2023, y que poco a poco se está popularizando, convirti…",
+      "image": "https://i.blogs.es/413470/clickfix/1024_2000.jpeg",
+      "published": "2026-07-24T09:14:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bbd07123c91562",
+      "title": "Es el momento de comprar un Apple Watch: Amazon ha tirado el precio al mínimo histórico",
+      "url": "https://hipertextual.com/apple/es-el-momento-de-comprar-un-apple-watch-amazon-ha-tirado-el-precio-al-minimo-historico/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Normalmente no recomendaríamos la compra de un Apple Watch o un iPhone a menos de dos meses del lanzamiento de la nueva generación, pero echando un vistazo a las filtraciones, es posible que el precio que acaba de lanzar…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Apple-Watch.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-07-24T08:57:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a3d9167fd1d328",
+      "title": "Esta estrella de ‘La Casa del Dragón’ será el nuevo Joker de Batman",
+      "url": "https://hipertextual.com/cine-television/esta-estrella-de-la-casa-del-dragon-sera-el-nuevo-joker-de-batman/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "DC Studios ha encontrado por fin a su nuevo Joker en una estrella de La Casa del Dragón. La compañía necesitaba encontrar a alguien que interpretase al Príncipe Payaso del Crimen de cara al próximo gran estreno de Batman…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Joker-Batman-La-Casa-del-Dragon.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-24T08:47:52+00:00",
       "score": null,
       "tags": []
     },
@@ -149,18 +485,6 @@
       "tags": []
     },
     {
-      "id": "70011ac18d1466",
-      "title": "Polonia tiene 500 kilómetros de tren por construir y 32.000 millones de euros guardados. Y España quiere hacerse con ellos",
-      "url": "https://www.xataka.com/movilidad/polonia-tiene-500-kilometros-tren-construir-32-000-millones-euros-guardados-espana-quiere-hacerse-ellos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "España es una potencia ferroviaria. Lo es porque somos el segundo país del mundo en vías de alta velocidad. Pero también porque nuestras empresas están entre las más buscadas cuando se trata de sacar un nuevo proyecto ad…",
-      "image": "https://i.blogs.es/36b0f4/rail_concourse-1/1024_2000.jpeg",
-      "published": "2026-07-24T08:00:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6c8998ebbd0c49",
       "title": "Gráfica del día: Los estados con mejores condiciones laborales para mujeres en 2026",
       "url": "https://www.merca20.com/grafica-del-dia-los-estados-con-mejores-condiciones-laborales-para-mujeres-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-los-estados-con-mejores-condiciones-laborales-para-mujeres-en-2026",
@@ -185,14 +509,14 @@
       "tags": []
     },
     {
-      "id": "7c35dc2bf1f952",
-      "title": "La generación Z no aguanta más de un año en sus empleos: no es por deslealtad ni salarios, es para ser mejores profesionales",
-      "url": "https://www.xataka.com/empresas-y-economia/generacion-z-no-aguanta-ano-sus-empleos-no-deslealtad-salarios-para-ser-mejores-profesionales",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La generación Z está revolucionando las dinámicas laborales actuales a un ritmo que supera a cualquier otra generación. Su llegada al mercado laboral no ha sido fácil: sus primeros empleos llegaron marcados por la pandem…",
-      "image": "https://i.blogs.es/e7f4a7/fran-innocenti-0fz8eficycg-unsplash/1024_2000.jpeg",
-      "published": "2026-07-24T07:00:39+00:00",
+      "id": "a5a60168bce26c",
+      "title": "Las empresas que más dinero ganan en 2026: Google supera a NVIDIA y Apple en el ranking mundial",
+      "url": "https://www.merca20.com/las-empresas-que-mas-dinero-ganan-en-2026-google-supera-a-nvidia-y-apple-en-el-ranking-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=las-empresas-que-mas-dinero-ganan-en-2026-google-supera-a-nvidia-y-apple-en-el-ranking-mundial",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El listado refleja el impacto que ha tenido la inteligencia artificial, los servicios digitales y los semiconductores en las utilidades corporativas",
+      "image": "https://files.merca20.com/uploads/2026/07/google-ranking-2026.jpg",
+      "published": "2026-07-24T07:40:55+00:00",
       "score": null,
       "tags": []
     },
@@ -217,18 +541,6 @@
       "summary": "Acabas de hacer una de las compras más importante, un desembolso que supera los 1.500 euros para un teléfono que, esperas, te dará muchas alegrías. Lo tienes claro, te gusta la innovación y el nuevo teléfono plegable de …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/aulumu-01-portada.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
       "published": "2026-07-24T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ff1b565c089751",
-      "title": "Corea del Sur soñaba con fabricar su propio caza: el KF-21 ha dejado de ser un proyecto y está a un paso del servicio operativo",
-      "url": "https://www.xataka.com/magnet/corea-sur-sonaba-fabricar-su-propio-caza-kf-21-ha-dejado-ser-proyecto-esta-a-paso-servicio-operativo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Corea del Sur lleva un cuarto de siglo intentando convertir una ambición política en un avión de combate fabricado bajo su propia dirección. Lo que estamos viendo ahora es el momento en que ese recorrido empieza a materi…",
-      "image": "https://i.blogs.es/3a85e8/kf-21_boramae/1024_2000.jpeg",
-      "published": "2026-07-24T06:30:39+00:00",
       "score": null,
       "tags": []
     },
@@ -377,6 +689,66 @@
       "tags": []
     },
     {
+      "id": "c0c89f23e05ec9",
+      "title": "Casi 40% de los estudiantes no sabe a qué quiere dedicarse",
+      "url": "https://expansion.mx/carrera/2026/07/23/4-de-cada-10-estudiantes-no-sabe-a-que-quiere-dedicarse",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Aunque los jóvenes enfrentan un mercado laboral cada vez más cambiante, casi cuatro de cada diez estudiantes no tienen definido un proyecto profesional.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/116c2ba/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2012%2F12%2F18%2Festudiantes.jpg",
+      "published": "2026-07-24T02:41:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e986e4bbd5ea41",
+      "title": "¿Trabajas en tu día de descanso? Proponen un pago extra equivalente al 50% de la jornada laboral",
+      "url": "https://expansion.mx/empresas/2026/07/23/pago-extra-dia-descanso-50-de-la-jornada-laboral",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Una iniciativa de ley contempla que los trabajadores vean beneficios en caso de que se les solicite cubrir turnos fuera de su horario laboral.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b88c281/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F84%2F67%2Ff26e3b244ee6a2bafc76a8ebafc1%2Fxpa1340-politica-trabajo-36z84w6-mexicouseconomytradetariffs.jpg",
+      "published": "2026-07-24T02:09:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d42301df3d6fa7",
+      "title": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
+      "url": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El banco informó cambios en su Consejo de Administración en el que también se incluye a Enrique Becerra como Consejero Delegado.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ec2f0bc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F53%2Fc4%2F5c8fda7f46b9bb1d12359d9d6dde%2Fsabadell-francisco-lara.jpg",
+      "published": "2026-07-24T01:20:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0c7d8d924426d1",
+      "title": "La compra de Warner Bros Discovery sigue en pausa y Paramount podría enfrentar un costo millonario",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/paramount-detenida-la-compra-de-warner",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La adquisición que uniría estudios como Warner y Paramount permanecerá congelada mientras un tribunal estadounidense analiza las acusaciones de prácticas anticompetitivas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/33606b9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb2%2Fb7%2Ff42e9fd646f5a49f690ff60b7bcc%2Fwarner-bros-historia.jpg",
+      "published": "2026-07-24T01:03:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3963a2c34701ae",
+      "title": "Las ganancias de José Cuervo caen 29% por el tipo de cambio y un menor consumo de tequila",
+      "url": "https://expansion.mx/empresas/2026/07/23/jose-cuervo-ganancias-caen-tipo-cambio-menor-consumo-tequila",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El fortalecimiento del peso, la transición de distribuidores en EU y la menor demanda de tequila presionaron los resultados trimestrales de José Cuervo.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/87d957d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F00%2F49%2F7577d95746478c1bc719352584cd%2Fcuervo-istock-1.jpg",
+      "published": "2026-07-24T00:42:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "0f5f19105c772a",
       "title": "Como en Blackmirror: ¿Qué opinas de hacer seguimiento a la ubicación de tus hijos con GPS?",
       "url": "https://www.fayerwayer.com/internet/2026/07/24/como-en-blackmirror-que-opinas-de-hacer-seguimiento-a-la-ubicacion-de-tus-hijos-con-gps/",
@@ -385,6 +757,30 @@
       "summary": "Organismos internacionales y psicólogos advierten que la práctica favorece dinámicas de vigilancia, fomenta la ansiedad y expone datos altamente sensibles.",
       "image": "https://www.fayerwayer.com/resizer/v2/3XUEBIFFJFFI7PFX5EX2BTLFNU.jpg?auth=8a16fa6dd9f2f0050f1b67fadd0998a2e690edec9828192bf5d26377864db02b&smart=true&width=640&height=427",
       "published": "2026-07-24T00:35:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4decdbbb879f72",
+      "title": "El registro gratuito para dejar de recibir llamadas de bancos y aseguradoras",
+      "url": "https://expansion.mx/finanzas-personales/2026/07/23/registro-gratuito-dejar-de-recibir-llamadas-de-bancos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las llamadas para ofrecer créditos y seguros pueden disminuir si te registras ante la Condusef, lo que obliga a las instituciones financieras a excluirte de sus campañas de marketing.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/8a92364/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4f%2Faa%2F328a57a84e1b81c8c06f57960d8b%2Fistock-538683033.jpg",
+      "published": "2026-07-24T00:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e2381c9bd0edfd",
+      "title": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
+      "url": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El acuerdo se logró en días pasados con la intervención del Órgano Especializado de Mecanismos Alternativos de Solución de Controversias de la FGR.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/aac6a29/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcc%2F05%2Fb2463a55451c931b4dbbce92fbd0%2F1-gettyimages-2263202874.jpeg",
+      "published": "2026-07-23T23:53:31+00:00",
       "score": null,
       "tags": []
     },
@@ -401,6 +797,18 @@
       "tags": []
     },
     {
+      "id": "f1bc95447ec2d3",
+      "title": "Bimbo aumenta ventas y rentabilidad pese al consumo débil y fortalece su generación de efectivo",
+      "url": "https://expansion.mx/empresas/2026/07/23/bimbo-resultados-segundo-trimestre-crecimiento",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La panificadora aumentó sus ventas 4.5%, mejoró su rentabilidad y generó 12,000 millones de pesos en efectivo gracias a mayores precios y un mayor volumen de ventas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/26fe858/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc1%2F66%2Ff7ebfc1b4cd0bc393bdcdcd6185c%2Fbimbo-istock-1.jpg",
+      "published": "2026-07-23T23:44:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "72c4cb95d2105f",
       "title": "Trump imposes new tariffs on 60 trading partners: Will prices rise and how will they affect Americans?",
       "url": "https://www.merca20.com/trump-imposes-new-tariffs-on-60-trading-partners-will-prices-rise-and-how-will-they-affect-americans/?utm_source=rss&utm_medium=rss&utm_campaign=trump-imposes-new-tariffs-on-60-trading-partners-will-prices-rise-and-how-will-they-affect-americans",
@@ -409,6 +817,18 @@
       "summary": "Trump's new tariffs target governments that have failed to implement adequate controls to prevent the trade of goods made with forced labor",
       "image": "https://files.merca20.com/uploads/2026/07/Trump.jpg",
       "published": "2026-07-23T23:42:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6d74219c7b49f3",
+      "title": "Tesla se hunde y el petróleo supera los 100 dólares mientras vuelven los aranceles de Trump",
+      "url": "https://expansion.mx/mercados/2026/07/23/tesla-se-hunde-y-el-petroleo-supera-los-100-dolares-mientras-vuelven-los-aranceles-de-trump",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los mercados nuevamente trasladaron el foco hacia las preocupaciones geopolíticas y comerciales, por la guerra en Irán y nuevos aranceles ordenados por el presidente de Estados Unidos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ae12515/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb8%2F57%2F5935fa844453b89adf9dd32a2b5c%2Fafp-20260723-c2zy29f-v1-midres-usstocksmarketsnyse.jpg",
+      "published": "2026-07-23T23:41:13+00:00",
       "score": null,
       "tags": []
     },
@@ -425,6 +845,30 @@
       "tags": []
     },
     {
+      "id": "a54786c2887dcf",
+      "title": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’",
+      "url": "https://expansion.mx/empresas/2026/07/23/mundial-2026-hoteles-ingresos-ocupacion-promocion-turistica",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los hoteles no alcanzaron la ocupación prevista durante el Mundial 2026, aunque el incremento en las tarifas compensó parte de la menor demanda de huéspedes.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f439b37/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb4%2F7b%2F7d7b399c47d68a8fcba5e01ac8ff%2Fturistas-coreanos-mundial.mexico.jpeg",
+      "published": "2026-07-23T23:21:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "09f9b87c4b0b32",
+      "title": "¿Qué lugar ocupa el pasaporte mexicano en el ranking 2026? Los países que puedes visitar sin visa",
+      "url": "https://expansion.mx/mundo/2026/07/23/pasaporte-mexicano-ranking-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Más de 150 países aceptan la entrada de turistas mexicanos presentando únicamente el pasaporte, sin necesidad de visa.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/0cb7a1e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6c%2F2a%2Fc30ff02e4aceb4cac4e65aee7616%2Fistock-504859927.jpeg",
+      "published": "2026-07-23T23:12:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "1cb1e88f159514",
       "title": "Walmart vendió más televisores y artículos de futbol, aunque el Mundial no logró acelerar todas sus ventas",
       "url": "https://www.merca20.com/walmart-vendio-mas-televisores-y-articulos-de-futbol-aunque-el-mundial-no-logro-acelerar-todas-sus-ventas/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-vendio-mas-televisores-y-articulos-de-futbol-aunque-el-mundial-no-logro-acelerar-todas-sus-ventas",
@@ -437,26 +881,14 @@
       "tags": []
     },
     {
-      "id": "4f8bdb3e9e49a4",
-      "title": "Cómo Apple planea construir un nuevo imperio publicitario fuera de la App Store",
-      "url": "https://www.merca20.com/como-apple-planea-construir-un-nuevo-imperio-publicitario-fuera-de-la-app-store/?utm_source=rss&utm_medium=rss&utm_campaign=como-apple-planea-construir-un-nuevo-imperio-publicitario-fuera-de-la-app-store",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La marca ya comenzó a desplegar nuevas herramientas de automatización que utilizan inteligencia artificial para administrar las pujas publicitarias y optimizar campañas de forma automática.",
-      "image": "https://files.merca20.com/uploads/2026/06/bigstock-TOKYO-JAPAN-JUNE-T-145380476-scaled.jpg",
-      "published": "2026-07-23T23:09:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5459f788aa61ab",
-      "title": "¡Adiós Samsung y iPhone! Huawei lanza el Pura 90s con IA, Kunlun Glass y potente cámara",
-      "url": "https://www.merca20.com/adios-samsung-y-iphone-huawei-lanza-el-pura-90s-con-ia-kunlun-glass-y-potente-camara/?utm_source=rss&utm_medium=rss&utm_campaign=adios-samsung-y-iphone-huawei-lanza-el-pura-90s-con-ia-kunlun-glass-y-potente-camara",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La marca presentó en México la nueva serie HUAWEI Pura 90, por lo que aquí te decimos cuánto costarán los smartphones y cuándo saldrán a la venta",
-      "image": "https://files.merca20.com/uploads/2026/07/huawei-lanzamiento-pura90.jpg",
-      "published": "2026-07-23T23:05:35+00:00",
+      "id": "ca0503235f1484",
+      "title": "Trump acepta un acuerdo nuclear con Arabia Saudita, pero pone una condición",
+      "url": "https://expansion.mx/mundo/2026/07/23/trump-acepta-un-acuerdo-nuclear-con-arabia-saudita-pero-pone-una-condicion",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Estados Unidos aceptará que el país árabe establezca un programa nuclear civil, con el riesgo de desencadenar más tensiones con Irán, rival regional de ambos países.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/dd61017/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcf%2Fe6%2F9cd231da4f32af1a2ef44f7c4019%2Facuerdo-nuclear-arabia-saudita-estados-unidos.jpg",
+      "published": "2026-07-23T23:09:40+00:00",
       "score": null,
       "tags": []
     },
@@ -485,42 +917,6 @@
       "tags": []
     },
     {
-      "id": "225c60a1fd78d7",
-      "title": "CFE: cómo y cuándo cambiar el nombre de titular en tu recibo de luz",
-      "url": "https://www.merca20.com/cfe-como-y-cuando-cambiar-el-nombre-de-titular-en-tu-recibo-de-luz/?utm_source=rss&utm_medium=rss&utm_campaign=cfe-como-y-cuando-cambiar-el-nombre-de-titular-en-tu-recibo-de-luz",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Si compraste una casa, rentas un inmueble o hubo un cambio de propietario, la CFE permite actualizar el nombre del titular del contrato sin costo. Estos son los requisitos y el paso a paso para realizar el trámite en 202…",
-      "image": "https://files.merca20.com/uploads/2024/05/cfe-apagones-luz-.jpg",
-      "published": "2026-07-23T22:40:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b5194ae23594c5",
-      "title": "Ekco remata juego de sartenes Hippie Chic de aluminio 3 piezas en solo 329 pesos: antiadherente de uso diario",
-      "url": "https://www.merca20.com/ekco-remata-juego-de-sartenes-hippie-chic-de-aluminio-3-piezas-en-solo-329-pesos-antiadherente-de-uso-diario/?utm_source=rss&utm_medium=rss&utm_campaign=ekco-remata-juego-de-sartenes-hippie-chic-de-aluminio-3-piezas-en-solo-329-pesos-antiadherente-de-uso-diario",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los sartenes Ekco Hippie Chic de aluminio tienen tecnología antiadherente, que ayuda a evitar que los alimentos se peguen mientras cocinas",
-      "image": "https://files.merca20.com/uploads/2026/07/juego-de-sartenes-Ekco-Mercado-Libre-1.jpg",
-      "published": "2026-07-23T22:33:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f80331ba838135",
-      "title": "Coppel tiene a precio de remate los tenis NIKE Initiator; cuenta con suela de goma y sus materiales son sintéticos",
-      "url": "https://www.merca20.com/coppel-tiene-a-precio-de-remate-los-tenis-nike-initiator-cuenta-con-suela-de-goma-y-sus-materiales-son-sinteticos/?utm_source=rss&utm_medium=rss&utm_campaign=coppel-tiene-a-precio-de-remate-los-tenis-nike-initiator-cuenta-con-suela-de-goma-y-sus-materiales-son-sinteticos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Este modelo de Nike que ofrece Coppel están pensados para quienes buscan comodidad tanto en actividades cotidianas como en caminatas o entrenamientos ligeros",
-      "image": "https://files.merca20.com/uploads/2026/07/coppel-descuento-nike.jpg",
-      "published": "2026-07-23T22:28:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "af2e0ea7fc0141",
       "title": "Guerra contra Hollywood: Elon Musk anuncia que producirá “La Odisea” completa usando solo Inteligencia Artificial",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/07/23/guerra-contra-hollywood-elon-musk-anuncia-que-producira-la-odisea-completa-usando-solo-inteligencia-artificial/",
@@ -533,18 +929,6 @@
       "tags": []
     },
     {
-      "id": "c876af7af01d17",
-      "title": "Why does ChatGPT recommend some brands and Google others? Semrush explains the differences between the AI ??platforms",
-      "url": "https://www.merca20.com/why-does-chatgpt-recommend-some-brands-and-google-others-semrush-explains-the-differences-between-the-ai-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=why-does-chatgpt-recommend-some-brands-and-google-others-semrush-explains-the-differences-between-the-ai-platforms",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "According to the Semrush report, one of the biggest differences lies in the sources that each platform uses to build its answers.",
-      "image": "https://files.merca20.com/uploads/2026/06/marketing_arr.jpg",
-      "published": "2026-07-23T22:20:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d91979219e6f04",
       "title": "Hallazgo casual en la red: Un usuario encuentra un mapa circular en Google Maps y científicos confirman que es un cráter milenario",
       "url": "https://www.fayerwayer.com/ciencia/2026/07/23/hallazgo-casual-en-la-red-un-usuario-encuentra-un-mapa-circular-en-google-maps-y-cientificos-confirman-que-es-un-crater-milenario/",
@@ -553,6 +937,42 @@
       "summary": "Expediciones de campo confirmaron el descubrimiento.",
       "image": "https://www.fayerwayer.com/resizer/v2/DULOH26V7RDITAS5PO37XOB3LU.png?auth=5c9290d77e60792b91bc0b59394d0135500e6c39ceff76659a140bd260088390&smart=true&width=2202&height=1460",
       "published": "2026-07-23T22:14:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4ed1f9b3feed6d",
+      "title": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
+      "url": "https://expansion.mx/empresas/2026/07/23/carlos-slim-miniso-cuantos-millones-ha-generado",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/73e94eb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9b%2Fca%2F3ad477c94d7c9944dff44941ef12%2Fcarlos-slim-miniso.png",
+      "published": "2026-07-23T22:12:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "685b423ae54805",
+      "title": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
+      "url": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Enviar dinero en segundos desde una aplicación bancaria parece algo normal para millones de mexicanos, pero no ocurre igual en todo el mundo.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7e33f97/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7a%2F49%2Fe2e724ed41759d7600fab8342702%2Fbanxico-rastreo-transferencias.jpg",
+      "published": "2026-07-23T21:59:55+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "15d16086df3151",
+      "title": "La cláusula que debe tener tu seguro para que el auto sea reparado directamente en la agencia",
+      "url": "https://expansion.mx/finanzas-personales/2026/07/23/clausula-seguro-para-auto-sea-reparado-directamente-agencia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "No todas las pólizas garantizan que el vehículo termine en un distribuidor de la marca después de un accidente. El beneficio depende de una cobertura específica y de las condiciones de cada aseguradora.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1044818/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F23%2F5e%2F2c5acdb5447bb8b083b98a885bbd%2Fclausula-seguro-para-auto-sea-reparado-directamente-agencia.png",
+      "published": "2026-07-23T21:57:08+00:00",
       "score": null,
       "tags": []
     },
@@ -617,18 +1037,6 @@
       "tags": []
     },
     {
-      "id": "6c2827f907bf14",
-      "title": "China acaba de poner en marcha su nuevo acelerador de iones pesados. No lo ha construido solo para estudiar átomos",
-      "url": "https://www.xataka.com/investigacion/china-acaba-poner-marcha-su-nuevo-acelerador-iones-pesados-no-ha-construido-solo-para-estudiar-atomos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay máquinas que se construyen para observar lo que ya conocemos y otras para empujar la materia hasta lugares en los que apenas sabemos qué vamos a encontrar. En Huizhou, China ha levantado un complejo cuya línea de haz…",
-      "image": "https://i.blogs.es/b81981/acelerador-de-iones-pesados-chino.png/1024_2000.jpeg",
-      "published": "2026-07-23T20:00:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "57b8ec2d92be1f",
       "title": "De Shenlong a la Fusión: Converse presenta su espectacular colección de zapatillas de Dragon Ball Z con 7 modelos temáticos",
       "url": "https://www.fayerwayer.com/sneakers/2026/07/23/de-shenlong-a-la-fusion-converse-presenta-su-espectacular-coleccion-de-zapatillas-de-dragon-ball-z-con-7-modelos-tematicos/",
@@ -689,18 +1097,6 @@
       "tags": []
     },
     {
-      "id": "519ec729d8c985",
-      "title": "China llevaba años persiguiendo el “oro negro”. Ahora ha comenzado a convertirlo en algo mucho más grande",
-      "url": "https://www.xataka.com/magnet/china-llevaba-anos-persiguiendo-oro-negro-ahora-ha-comenzado-a-convertirlo-algo-mucho-grande",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Una fibra casi invisible puede acabar soportando parte de una pala eólica gigantesca, formando parte de las estructuras principales de carga de un tren de metro o protegiendo varios satélites durante el ascenso de un coh…",
-      "image": "https://i.blogs.es/4b376f/china-fibra-de-carbono-1/1024_2000.jpeg",
-      "published": "2026-07-23T19:01:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "96c109e393d721",
       "title": "Misterios de la atmósfera: Qué es un río atmosférico categoría 5 y por qué está causando estragos en Chile",
       "url": "https://www.fayerwayer.com/ciencia/2026/07/23/misterios-de-la-atmosfera-que-es-un-rio-atmosferico-categoria-5-y-por-que-esta-causando-estragos-en-chile/",
@@ -725,42 +1121,6 @@
       "tags": []
     },
     {
-      "id": "4a0db6c8daf93c",
-      "title": "Una nube europea con cifrado postcuántico para evitar problemas de seguridad futuros: Internxt sigue con su promo estrella activa",
-      "url": "https://www.xataka.com/seleccion/nube-europea-cifrado-postcuantico-para-evitar-problemas-seguridad-futuros-internxt-sigue-su-promo-estrella-activa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Aunque suene un poco a ciencia ficción, la computación cuántica está cerca de ser una realidad a gran escala. Pero, ¿y eso en qué nos afecta a nosotros? Este tipo de ordenadores, entre otras muchas cosas, son capaces de …",
-      "image": "https://i.blogs.es/00c9b9/portada-internxt-codigo-de-descuento/1024_2000.jpeg",
-      "published": "2026-07-23T18:45:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e596b60132547a",
-      "title": "Este controlador te permite usar cualquier dispositivo con la lengua: se conecta por bluetooth y es un trackpad en tu paladar",
-      "url": "https://www.xataka.com/accesorios/este-controlador-te-permite-usar-cualquier-dispositivo-lengua-se-conecta-bluetooth-trackpad-tu-paladar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Manejar el ratón de un ordenador con la lengua puede parecerte algo excéntrico. Pero más de 100 millones de personas con movilidad reducida no tienen tan fácil usar un ratón con sus manos, y es aquí donde entra, disposit…",
-      "image": "https://i.blogs.es/49b34a/mouthpad/1024_2000.jpeg",
-      "published": "2026-07-23T18:31:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5d2d7dd04e1852",
-      "title": "\"La vi en el cine y apenas llegué a los créditos\": a Tarantino se le atragantó esta película que puedes recuperar en streaming",
-      "url": "https://www.xataka.com/streaming/vi-cine-apenas-llegue-a-creditos-a-tarantino-se-le-atraganto-esta-pelicula-que-puedes-recuperar-streaming",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Quentin Tarantino lo admite sin monsergas : \"la vi en el cine y apenas llegué a los créditos\". Habla de ' Las amargas lágrimas de Petra von Kant ', una de las películas de Rainer Werner Fassbinder que no logró ver entera…",
-      "image": "https://i.blogs.es/627b50/tarantino-petra/1024_2000.jpeg",
-      "published": "2026-07-23T18:15:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "871426045e0750",
       "title": "Lo nuevo de Xbox te permite jugar gratis en la nube a cambio de ver anuncios",
       "url": "https://hipertextual.com/videojuegos/xbox-cloud-gaming-juegos-gratis-anuncios/",
@@ -769,30 +1129,6 @@
       "summary": "Microsoft ha dado el paso que muchos veían venir desde hace meses. El gigante tecnológico puso en marcha una prueba de Xbox Cloud Gaming con anuncios, la cual te permitirá jugar en la nube a cambio de ver publicidad. El …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/Microsoft-Xbox-Cloud-Gaming.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-07-23T18:15:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7b9727f5696654",
-      "title": "Un experto en consumo avisa: las apps que simulan compras a cambio de dopamina abren la puerta a algo peor",
-      "url": "https://www.xataka.com/medicina-y-salud/no-compran-nada-no-reciben-nada-felices-app-coreana-que-promete-comida-a-domicilio-nunca-trae",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "¿Quién no ha terminado un día de trabajo estresado y ha decidido pedir comida a domicilio? Sin duda, es una buena opción cuando no tenemos ganas de cocinar. Pero no es la única razón por la que solemos tener el impulso. …",
-      "image": "https://i.blogs.es/e0bbec/apps-de-dopamina/1024_2000.jpeg",
-      "published": "2026-07-23T18:01:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "89ac7ab6f1d890",
-      "title": "En 1581, Felipe II tuvo una de las ideas más locas de la historia de España: conectar Madrid y el Atlántico con un canal",
-      "url": "https://www.xataka.com/magnet/1581-felipe-ii-tuvo-ideas-locas-historia-espana-conectar-madrid-atlantico-canal",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si todos los caminos llevan a Roma... ¿Por qué no podía tener Madrid al menos uno que lo conectase de forma directa y sobre todo navegable con el Atlántico? La idea suena macarrónica, pero durante un tiempo pareció cobra…",
-      "image": "https://i.blogs.es/d333c3/felipe-ii-canal-madrid/1024_2000.jpeg",
-      "published": "2026-07-23T17:45:15+00:00",
       "score": null,
       "tags": []
     },
@@ -821,18 +1157,6 @@
       "tags": []
     },
     {
-      "id": "0f8cd2dee8cb32",
-      "title": "Comparativa entre generaciones de plegables de Samsung: Galaxy Z Fold8 Ultra y Galaxy Z Fold7, frente a frente",
-      "url": "https://www.xataka.com/seleccion/samsung-galaxy-z-fold8-ultra-vs-galaxy-z-fold7-todas-novedades-diferencias-frente-a-generacion-anterior",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La llegada del nuevo buque insignia plegable de Samsung vuelve a plantear la pregunta clave a la hora de renovar dispositivo: \"¿representa un salto lo suficientemente grande como para justificar su precio de salida o sig…",
-      "image": "https://i.blogs.es/91c148/z-fold8-ultra-vs-z-fold7/1024_2000.jpeg",
-      "published": "2026-07-23T17:15:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "eafdce9879028c",
       "title": "La Casa de Toño podría venderse por más de 400 mdd; Grupo Gigante evalúa comprarla",
       "url": "https://altonivel.com.mx/la-casa-de-tono-venta-400-mdd-grupo-gigante/",
@@ -857,30 +1181,6 @@
       "tags": []
     },
     {
-      "id": "b66bf561bd3932",
-      "title": "China acaba de estrenar tres líneas gigantes de fibra de carbono: malas noticias para EEUU y Japón",
-      "url": "https://www.xataka.com/materiales/china-acaba-estrenar-tres-lineas-gigantes-fibra-carbono-malas-noticias-para-eeuu-japon",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "China ha dado un nuevo paso en su carrera por dominar el sector de los materiales avanzados. Y es que el gigante estatal CNBM (China National Building Material Group) ha puesto en marcha tres nuevas líneas de producción …",
-      "image": "https://i.blogs.es/05fb90/original-2/1024_2000.jpeg",
-      "published": "2026-07-23T16:31:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ac050e9ba04e9a",
-      "title": "Tom Hanks renunció a su salario de 7 millones de dólares por su trabajo en Forrest Gump: fue la mejor inversión de su vida",
-      "url": "https://www.xataka.com/cine-y-tv/tom-hanks-renuncio-a-su-salario-7-millones-dolares-su-trabajo-forrest-gump-fue-mejor-inversion-su-vida",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Que Tom Hanks es uno de los actores mejor pagados de Hollywood no es una sorpresa para nadie. Sin embargo, hubo una película en la que, debido al alto coste de producción, tanto el director como el actor principal tuvier…",
-      "image": "https://i.blogs.es/701a2d/forrest-gump-protagoniazada-por-tom-hanks/1024_2000.jpeg",
-      "published": "2026-07-23T16:21:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b29a81c2d1d3c2",
       "title": "Los jóvenes mejor preparados de América Latina están migrando a España (y eso es un problema)",
       "url": "https://altonivel.com.mx/talento-latinoamericano-migracion-espana-capital-humano/",
@@ -889,30 +1189,6 @@
       "summary": "La migración latinoamericana hacia España ya no responde solo a razones económicas, sino también a seguridad, estabilidad e identidad cultural. The post Los jóvenes mejor preparados de América Latina están migrando a Esp…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/jovenes-america-latina-migrando-espana.webp",
       "published": "2026-07-23T16:06:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "51298c5a288576",
-      "title": "La reserva de agua de España no para de bajar. La gran pregunta es si ha llegado el momento de prepararse para la sequía",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/embalses-espana-estan-vaciandose-poco-a-poco-eso-nos-recuerda-algo-fantasma-sequia-no-se-ha-ido",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Los embalses de España acumulan agua. Bastante. El balance publicado el lunes por el Gobierno muestra que la reserva hídrica se sitúa al 73,4% de su capacidad, lo que equivale a unos 41.100 hectómetros cúbicos (hm3), cas…",
-      "image": "https://i.blogs.es/af648f/47381578972_813fa808b8_k/1024_2000.jpeg",
-      "published": "2026-07-23T16:01:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "004e29a276df7d",
-      "title": "Hace tantísimo calor que Alicante ha tomado una decisión: cerrar sus playas por el reventón térmico",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/vientos-huracanados-subidas-15oc-cuestion-minutos-asi-reventon-termico-que-amenaza-costa-alicantina",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Las olas de calor están cambiando el comportamiento de los turistas en España , pero no nos podemos olvidar de las personas que viven los 365 días del año en las ciudades turísticas. Quienes viajan hasta allí pueden evit…",
-      "image": "https://i.blogs.es/048d69/playa-alicante/1024_2000.jpeg",
-      "published": "2026-07-23T15:45:15+00:00",
       "score": null,
       "tags": []
     },
@@ -953,18 +1229,6 @@
       "tags": []
     },
     {
-      "id": "76d9c08baeec7b",
-      "title": "La inflación baja a 3.10% en la primera quincena de julio",
-      "url": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8dbd6f0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F98%2F6d%2F8125135448fc99a445edc3b8c4b4%2Fwalmart-afp-20251027-8282263-v1-highres-mexicoeconomytradewalmart.jpeg",
-      "published": "2026-07-23T13:31:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8996648c0ce6d1",
       "title": "Legion C700, otra consola portátil de la mano de Lenovo",
       "url": "https://www.muycomputer.com/2026/07/23/legion-c700-otra-consola-portatil-de-la-mano-de-lenovo/",
@@ -973,90 +1237,6 @@
       "summary": "Lenovo ha anunciado el lanzamiento de la Legion C700, otra alternativa para el animadísimo mercado de consolas portátiles. Desarrollada junto a Tencent, se comercializará en China en agosto, pero a buen seguro llegará al…",
       "image": null,
       "published": "2026-07-23T12:34:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7ecc4ccaf632d4",
-      "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
-      "url": "https://hipertextual.com/actualidad/multa-historica-de-4-000-euros-a-ibai-llanos-jordi-wild-y-nachter-por-sus-contenidos-en-redes-sociales/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La Comisión Nacional de los Mercados y la Competencia ha impuesto un total de tres sanciones a Ibai Llanos, Jordi Wild y el influencer Nachter por vulnerar la Ley General de Comunicación Audiovisual. La multa asciende a …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ibai-llanos.jpg?fit=1024%2C621&quality=70&strip=all&ssl=1",
-      "published": "2026-07-23T12:12:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2a36c75637664e",
-      "title": "Porsche planea recortar otros 5,000 puestos de trabajo",
-      "url": "https://expansion.mx/empresas/2026/07/23/porsche-planea-recortar-5000-puestos-trabajo",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La automotriz alemana analiza nuevos ajustes ante la crisis que golpea a dicho sector.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d64f0f6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F46%2F16ff283c4a259efdbdeaa43e9456%2F3-gettyimages-695490792.jpg",
-      "published": "2026-07-23T12:08:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b604740291fc30",
-      "title": "Activar la justicia energética, para encender las regiones de México",
-      "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/07/23/activar-la-justicia-energetica-para-encender-las-regiones-de-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Cerrar las desigualdades del sistema eléctrico requiere coordinar inversiones y esfuerzos entre grandes corporativos, pequeñas empresas y consumidores, en lugar de depender únicamente de decisiones centralizadas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3ba1b55/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2d%2Fd7%2Ff67f39f6453c8287add1e5c031a9%2Fimg-7761.jpeg",
-      "published": "2026-07-23T12:01:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a3242ddec232c9",
-      "title": "Los teléfonos plegables siguen sin bajar de precio y apenas representan 2% del mercado",
-      "url": "https://expansion.mx/tecnologia/2026/07/23/telefonos-plegables-nicho-de-2-que-no-logra-abaratarse",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Entrar a esta categoría requiere una inversión mínima de 25,000 pesos, casi cinco veces más que el gasto promedio de un consumidor mexicano al renovar su smartphone.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/272e211/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F29%2Ffd%2F38a30f4b4c5199562983e4b46f58%2Fistock-1296648559.jpg",
-      "published": "2026-07-23T11:55:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b7b850e73e435c",
-      "title": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
-      "url": "https://expansion.mx/economia/2026/07/22/mexico-aranceles-textiles-china-produccion-industria-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/fc025bc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc0%2F88%2F66d91aef46a8881a70375f162201%2Fpor-que-bajan-importaciones-textiles-china-mexico.jpeg",
-      "published": "2026-07-23T11:55:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "23c5e62eb68656",
-      "title": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
-      "url": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a76f539/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2Fff%2F384830cf496b9954104d98e083df%2Fempleo-formal-y-vivienda-propia-en-mexico-la-brecha-que-revela-el-estudio-de-infonavit.jpeg",
-      "published": "2026-07-23T11:55:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a078c1a04dcbec",
-      "title": "Tres latinoamericanas disputan la secretaría general de la ONU entre seis candidatos",
-      "url": "https://expansion.mx/mundo/2026/07/23/elecciones-secretaria-general-onu",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Michelle Bachelet, María Fernanda Espinosa y Rebeca Grynspan compiten por dirigir un organismo que enfrenta su mayor crisis financiera desde 1945 y una creciente parálisis política.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/ef928f5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F63%2F03%2F05b39803472cb32cd54d39bf3974%2Felecciones-secretario-general-naciones-unidas.jpg",
-      "published": "2026-07-23T11:55:09+00:00",
       "score": null,
       "tags": []
     },
@@ -1073,18 +1253,6 @@
       "tags": []
     },
     {
-      "id": "9435e038f610d0",
-      "title": "‘He Man y los Masters del Universo’ llega a Prime Video tras recaudar 113 millones con un presupuesto de 200 millones",
-      "url": "https://hipertextual.com/cine-television/he-man-y-los-masters-del-universo-llega-a-prime-video-tras-recaudar-113-millones-con-un-presupuesto-de-200-millones/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "A veces una película tarda más en encontrar su forma que en llegar al público. Eso es lo que ocurre con He Man y los Masters del Universo llega a Prime Video el 22 de julio, después de un paso por salas que deja una preg…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/he-man-y-los-masters-del-universo-llega-a-prime-vi-2026-07-22-10-04-17.jpeg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-23T09:56:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "924fa4a7ea4c1b",
       "title": "El MacBook Neo 2 está en marcha con mejores prestaciones, pero no tan barato",
       "url": "https://www.muycomputer.com/2026/07/23/el-macbook-neo-2-esta-en-marcha-con-mejores-prestaciones-pero-no-tan-barato/",
@@ -1093,42 +1261,6 @@
       "summary": "Apple está desarrollando el MacBook Neo 2, una nueva versión de su portátil básico que llegará en los próximos meses junto a una renovación completa de la línea de ordenadores personales, Mac. Lo cuenta en un nuevo infor…",
       "image": null,
       "published": "2026-07-23T09:39:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "527dcd002177e9",
-      "title": "Google acaba de soltar un bombazo: pasar de iPhone a Android ahora es FACILÍSIMO y te lleva 1 minuto",
-      "url": "https://hipertextual.com/mobile/google-acaba-de-soltar-un-bombazo-pasar-de-iphone-a-android-ahora-es-facilisimo-y-te-lleva-1-minuto/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Android 17 tenía otra sorpresa preparada además de las mejoras y novedades que ya hemos visto durante los últimos meses. Google ha anunciado una nueva herramienta para que pasar de iPhone a Android ahora sea facilísimo, …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Android-a-iPhone.jpg?fit=1024%2C724&quality=70&strip=all&ssl=1",
-      "published": "2026-07-23T09:34:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e4430f689b12cb",
-      "title": "Bueno, bonito y barato: ¿cuál es el mejor smartphone actual por menos de 500 euros?",
-      "url": "https://hipertextual.com/mobile/bueno-bonito-y-barato-cual-es-el-mejor-smartphone-actual-por-menos-de-500-euros/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Quieres comprarte un móvil que te dure varios años, tienes un presupuesto de unos 500 euros y no sabes por dónde empezar. Hoy estás en el lugar correcto, porque hemos puesto sobre la mesa tres de las opciones más vendida…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/oppo.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-07-23T09:13:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a9e1164083ad18",
-      "title": "¿Ha spoileado el tráiler de ‘Avengers: Doomsday’ el final de la película? Los fans creen que sí",
-      "url": "https://hipertextual.com/cine-television/ha-spoileado-el-trailer-de-avengers-doomsday-el-final-de-la-pelicula-los-fans-creen-que-si/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El nuevo tráiler de Avengers: Doomsday está dando mucho de qué hablar. Y es que el avance ha mostrado por fin el primer vistazo al Doctor Doom de Robert Downey Jr. Pero también ha levantado algunas teorías que podrían de…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Avengers-Doomsday-final-trailer.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-07-23T08:55:41+00:00",
       "score": null,
       "tags": []
     },
@@ -1217,42 +1349,6 @@
       "tags": []
     },
     {
-      "id": "5d6ac42f31b8d5",
-      "title": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
-      "url": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e79a8e5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa9%2F5f%2F0111bfdb4b419a3af243b38eff7f%2Fistock-1445932592.jpg",
-      "published": "2026-07-23T01:27:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a3a5a5a893e225",
-      "title": "Gruma compensa la debilidad en EU con el crecimiento de Asia, Europa y Centroamérica",
-      "url": "https://expansion.mx/empresas/2026/07/22/gruma-resultados-eu-asia-centroamerica-segundo-trimestre",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La baja confianza del consumidor estadounidense redujo el volumen de ventas de Gruma. Sin embargo, el crecimiento en Asia, Europa y Centroamérica compensó parte del impacto y elevó los ingresos consolidados.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d5e939e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc5%2F49%2Fa428f2bc431f9e07092b66e1b29c%2Fgruma-reporte-financiero.jpg",
-      "published": "2026-07-23T01:23:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6fe9f7a0fe7cfd",
-      "title": "¿Qué red es mejor: 5G, 4G LTE o 3G? Así funcionan los símbolos del celular",
-      "url": "https://expansion.mx/tecnologia/2026/07/22/que-red-datos-moviles-es-mejor-5g-4g-o-3g",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El tipo de red al que se conecta tu teléfono determina la rapidez con la que puedes usar internet móvil.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5b71b42/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc1%2F5f%2Fe78082f24ac38ee273f895904d2c%2F1-telefonos-568149-jugadores-pokemon-go-impreso-1.jpeg",
-      "published": "2026-07-23T01:05:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b63e2c6e41f965",
       "title": "Mil millones de robots en las calles: La impresionante proyección económica de Elon Musk para 2031",
       "url": "https://www.fayerwayer.com/internet/2026/07/23/mil-millones-de-robots-en-las-calles-la-impresionante-proyeccion-economica-de-elon-musk-para-2031/",
@@ -1265,18 +1361,6 @@
       "tags": []
     },
     {
-      "id": "d6cdab69fc3940",
-      "title": "¿Quién es el dueño de la mayor cadena hotelera de México? Comenzó su imperio empresarial a los 21 años",
-      "url": "https://expansion.mx/empresas/2026/07/22/quien-es-el-dueno-de-la-mayor-cadena-hotelera-de-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Más de cinco décadas después de abrir su primer hotel, un grupo hotelero se mantiene entre los más grandes de México.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/cb707c9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe1%2F34%2Fd3b244b446d5861a43567c500665%2Fdiseno-sin-titulo-4.png",
-      "published": "2026-07-23T00:19:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "3211ca144d5322",
       "title": "Apple actualizará la MacBook Neo con chip A19 Pro y 12 GB de RAM: Todo sobre la renovada línea Mac",
       "url": "https://www.fayerwayer.com/internet/2026/07/23/apple-actualizara-la-macbook-neo-con-chip-a19-pro-y-12-gb-de-ram-todo-sobre-la-renovada-linea-mac/",
@@ -1285,54 +1369,6 @@
       "summary": "Apple trabaja en la nueva generación de su portátil accesible MacBook Neo con chip A19 Pro. Además, alista nuevos iMac OLED y computadoras con chips...g",
       "image": "https://www.fayerwayer.com/resizer/v2/GTZOJE4B2JGLJO3SO5CRBVEZMI.png?auth=5ef08eba545860ef9e3b7efedf5910b59b4c51dc19c612a838706e79f80356ed&smart=true&width=2110&height=1038",
       "published": "2026-07-23T00:08:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "365193cc7f9bf8",
-      "title": "¿Cuánto cuesta mantener una casa al año en México? Los 7 pagos que se comen tu dinero",
-      "url": "https://expansion.mx/finanzas-personales/2026/07/22/cuanto-cuesta-mantener-una-casa-al-ano-en-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Tener una casa significa que también debe haber una inversión constante para garantizar que se mantenga en óptimas condiciones.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/804a093/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6e%2Fed%2Fdebd61b740368ca73dc9109a5b8f%2F2-se-vende-img-0558.jpeg",
-      "published": "2026-07-22T23:46:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d5c0e5b98425e1",
-      "title": "Comprar un plegable de Samsung cuesta hasta 56 canastas básicas",
-      "url": "https://expansion.mx/tecnologia/2026/07/22/comprar-galaxy-z-fold8-ultra-cuesta-mas-ano-canastas-basicas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Samsung presentó su nueva generación de teléfonos plegables, una apuesta que la surcoreana renueva cada año desde que entró al mercado de plegables en 2019.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8aeb21a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5c%2Ff1%2Fd8d0f585446a918a7e60d8ca88bb%2F1000221993.jpg",
-      "published": "2026-07-22T23:30:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1541671cde71fa",
-      "title": "Bait alcanza la rentabilidad para Walmart con ingresos de 3,800 mdp, pese a un menor ritmo de suscripciones",
-      "url": "https://expansion.mx/empresas/2026/07/22/bait-tiene-menos-usuarios-pero-genera-rentabilidad-walmart",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El OMV de Walmart alcanzó niveles de rentabilidad comparables con otros negocios de la compañía, pero redujo el ritmo de incorporación de usuarios tras la entrada del registro telefónico.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5513804/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0c%2F12%2F68793b8d4759a62472531fe4c904%2F6-bait.jpeg",
-      "published": "2026-07-22T23:29:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d03657b13918a7",
-      "title": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "url": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyundai y Jetour.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/145d94f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fec%2F4a%2Fb173058d42388ce9e1fe038154d5%2Fistock-2205376620.jpg",
-      "published": "2026-07-22T23:28:42+00:00",
       "score": null,
       "tags": []
     },
@@ -1525,42 +1561,6 @@
       "summary": "Windows Update, la herramienta interna presente en la configuración general de cualquier versión del sistema de Microsoft, es el método preferencial para actualizar Windows. Pero no es el único, ni el mejor en algunas si…",
       "image": null,
       "published": "2026-07-22T11:54:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8dcaa30b592dce",
-      "title": "La UE impone una multa millonaria a AliExpress por incumplir la Ley de Servicios Digitales",
-      "url": "https://www.muycomputer.com/2026/07/22/la-ue-impone-una-multa-millonaria-a-aliexpress-por-incumplir-la-ley-de-servicios-digitales/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "La Comisión Europea ha impuesto una multa de 550 millones de euros a AliExpress por violar la Ley de Servicios Digitales (DSA) de la UE, por no cumplir con diligencia sus obligaciones de evaluar y mitigar los riesgos rel…",
-      "image": null,
-      "published": "2026-07-22T11:04:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1b71fc58067e49",
-      "title": "Ford Capri RWD, asentamiento",
-      "url": "https://www.muycomputer.com/2026/07/22/ford-capri-rwd-asentamiento/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "«Turn and face the strange, ch-ch-changes» — David Bowie (Changes, 1971) Creo que soy un gato. Entiéndanme, no se trata de que dude de lo que soy. Puedo ver claramente que soy un felino común con sus garras, sus bigotes,…",
-      "image": null,
-      "published": "2026-07-22T10:29:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "dc232f6e522423",
-      "title": "FluentCleaner Classic: el sueño del Windows ligero a golpe de clic y desde el código abierto",
-      "url": "https://www.muycomputer.com/2026/07/22/fluentcleaner-classic-el-sueno-del-windows-ligero-a-golpe-de-clic-y-desde-el-codigo-abierto/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "FluentCleaner Classic es la nueva versión del popular «limpiador» de Windows. Totalmente gratuita, portátil y desarrollada bajo código abierto, permite deshacerse del software basura que puebla las instalaciones por defe…",
-      "image": null,
-      "published": "2026-07-22T09:03:29+00:00",
       "score": null,
       "tags": []
     },

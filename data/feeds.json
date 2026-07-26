@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-07-26T08:26:58.580044+00:00",
-    "total": 182
+    "generated": "2026-07-26T13:25:04.325718+00:00",
+    "total": 152
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Estas ocho reglas prácticas muestran cómo acelerar la confianza en el equipo para tomar mejores decisiones, reducir la dependencia del líder y operar con mayor autonomía. The post Construí una empresa sólida que funciona…",
       "image": null,
-      "published": "2026-07-26T08:26:57.229498+00:00",
+      "published": "2026-07-26T13:25:02.910911+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Por qué el ensayo mental y emocional, y no solo la estrategia, determina cómo se desempeñan los fundadores cuando están bajo presión. The post La mayoría de los emprendedores nunca practican esta habilidad — y por eso en…",
       "image": null,
-      "published": "2026-07-26T08:26:57.228983+00:00",
+      "published": "2026-07-26T13:25:02.910419+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Si te corrieron otra vez, vale la pena reflexionar antes de buscar tu próximo empleo. Aquí hay cinco preguntas honestas que debes hacerte. The post Si te siguen despidiendo de tu puesto directivo, es momento de hacerte e…",
       "image": null,
-      "published": "2026-07-26T08:26:57.228494+00:00",
+      "published": "2026-07-26T13:25:02.909942+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La irrupción de plataformas capaces de eludir la autenticación multifactorial, convierte la suplantación de identidad en un negocio masivo al alcance de cualquiera por solo $120 dólares. The post El “Phishing como Servic…",
       "image": null,
-      "published": "2026-07-26T08:26:57.227990+00:00",
+      "published": "2026-07-26T13:25:02.909451+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "En una cultura que premia el agotamiento como si fuera compromiso, el verdadero desgaste no siempre viene del exceso de trabajo, sino de vivir desconectados de quienes somos. The post Nadie va a aplaudir tu agotamiento. …",
       "image": null,
-      "published": "2026-07-26T08:26:57.227513+00:00",
+      "published": "2026-07-26T13:25:02.908972+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Cumplir más de lo que prometes genera confianza duradera y te diferencia de la competencia. Establece expectativas realistas y luego supéralas de forma constante. The post Cómo superar constantemente las expectativas de …",
       "image": null,
-      "published": "2026-07-26T08:26:57.226957+00:00",
+      "published": "2026-07-26T13:25:02.908428+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "El incidente sacudió a los investigadores de inteligencia artificial en toda la industria. The post OpenAI perdió el control de su IA durante una prueba de seguridad y esta hackeó a otra empresa: “Profundamente preocupan…",
       "image": null,
-      "published": "2026-07-26T08:26:57.225547+00:00",
+      "published": "2026-07-26T13:25:02.906941+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "La brecha no es técnica, sino experiencial: se construye a través de la práctica constante de enseñarle a sistemas imperfectos cómo funciona realmente tu negocio, y se hace agranda cada semana que esperas. The post Los l…",
       "image": null,
-      "published": "2026-07-26T08:26:57.225008+00:00",
+      "published": "2026-07-26T13:25:02.906414+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El fallido proyecto de fibra óptica mediante un cable submarino entre Valparaíso y Hong Kong terminó exponiendo la fragilidad institucional de la región frente a la disputa global por el control de los activos que sostie…",
       "image": null,
-      "published": "2026-07-26T08:26:57.224486+00:00",
+      "published": "2026-07-26T13:25:02.905921+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,199 @@
       "category": "startup",
       "summary": "Cuando la persona más confiable del equipo se convierte en el cuello de botella, el crecimiento se detiene. The post ¿Tu necesidad de control está frenando a tu equipo? Así puedes evitarlo appeared first on Entrepreneur …",
       "image": null,
-      "published": "2026-07-26T08:26:57.223906+00:00",
+      "published": "2026-07-26T13:25:02.905355+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e6eb811afb7b4d",
+      "title": "Ya es oficial: Samsung presenta un nuevo SSD con interfaz PCIe 4.0 que llega en plena crisis de precios para la memoria",
+      "url": "https://www.xataka.com/seleccion/oficial-samsung-presenta-nuevo-ssd-interfaz-pcie-4-0-que-llega-plena-crisis-precios-para-memoria",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "No es el mejor momento para comprar un SSD por sus precios altísimos , pero eso no ha evitado que Samsung estrene un nuevo modelo. Se trata del SSD 990, una propuesta que está orientada a usuarios que buscan un rendimien…",
+      "image": "https://i.blogs.es/11a555/ssd-900-samsung/1024_2000.jpeg",
+      "published": "2026-07-26T13:16:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5247a13b36db03",
+      "title": "La cara oculta del ahorro energético: la España rural se está tiñendo de azul de noche",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/imagenes-satelitales-peninsula-iberica-han-descubierto-que-espana-rural-se-esta-tinendo-azul-noche",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 2023, los datos del satélite chino SDGSAT-1 posibilitaron que el proyecto RALAN-Map EU, de la Universidad Complutense de Madrid y el International Research Center of Big Data for Sustainable Development Goals, elabora…",
+      "image": "https://i.blogs.es/8a9478/kevin-clyde-berbano-5_4ahtf-6na-unsplash/1024_2000.jpeg",
+      "published": "2026-07-26T13:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "baf3a7cc7ff118",
+      "title": "Esta brutal película de terror ya está en HBO Max y apenas se estrenó este año",
+      "url": "https://hipertextual.com/cine-television/esta-brutal-pelicula-de-terror-ya-esta-en-hbo-max-y-apenas-se-estreno-este-ano/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Si lo tuyo es el miedo, hay buenas noticias para ti: una brutal película de terror de este año ya está en HBO. Lo que solo corrobora un punto. El último lustro ha sido de enorme éxito para el género. Algo que demuestra é…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/10-peliculas-de-terror.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-07-26T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9f69fbc1c14be8",
+      "title": "En 1994 los arqueólogos descubrieron un barco del XVII hundido con más de 400 monedas de oro. Al fin han resuelto su gran misterio",
+      "url": "https://www.xataka.com/magnet/1994-arqueologos-descubrieron-barco-xvii-hundido-400-monedas-oro-al-fin-han-resuelto-su-gran-misterio",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La sorpresa llegó a mediados de los 90 . Un grupo de buceadores británicos exploraba las aguas de la bahía de Salcombe , en Devon, cuando se encontraron con los restos de una embarcación del siglo XVII. A simple vista el…",
+      "image": "https://i.blogs.es/3180d4/portadapiezasoro/1024_2000.png",
+      "published": "2026-07-26T12:30:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8d903a3d187ee3",
+      "title": "Qué es Canva, cómo funciona y cómo usarlo para crear un diseño",
+      "url": "https://www.xataka.com/basics/que-canva-como-funciona-como-usarlo-para-crear-diseno-1",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Vamos a explicarte qué es Canva, cómo funciona y cómo usarlo para crear un diseño. Se trata de una de las webs de edición y diseño más populares que hay, famosa por su enorme flexibilidad y por incluir herramientas de in…",
+      "image": "https://i.blogs.es/198b15/canva/1024_2000.jpeg",
+      "published": "2026-07-26T12:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e951c9f18fddb4",
+      "title": "Las 7 mejores películas que puedes ver ahora mismo en Netflix",
+      "url": "https://hipertextual.com/cine-television/las-7-mejores-peliculas-que-puedes-ver-ahora-mismo-en-netflix/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "A estas alturas de la década, es obvio que Netflix revolucionó la industria del entretenimiento. Todo, al introducir un modelo de negocio basado en la accesibilidad total y la personalización masiva. Pero además, reinven…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Peliculas-Netflix.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-07-26T12:00:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9143c5ff483dee",
+      "title": "El 'prompt injection' ya tiene su propio contraataque: inyectar falsas instrucciones también a los hackers",
+      "url": "https://www.xataka.com/robotica-e-ia/prompt-injection-tiene-su-propio-contraataque-inyectar-falsas-instrucciones-tambien-a-hackers",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Durante los últimos dos años, el prompt injection ha sido el arma favorita de los ciberatacantes contra sistemas de inteligencia artificial. Este método pasa por esconder una instrucción maliciosa dentro de un correo, un…",
+      "image": "https://i.blogs.es/c97359/original/1024_2000.jpeg",
+      "published": "2026-07-26T11:30:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2cc049046cae37",
+      "title": "No sabemos si la música pop actual es mejor o peor que la de 1960, pero sí sabemos algo: es mucho más deprimente",
+      "url": "https://www.xataka.com/magnet/no-sabemos-musica-pop-actual-mejor-peor-que-1960-sabemos-algo-mucho-deprimente",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "¿Qué dice de ti la música que escuchas? ¿Y qué dice de nosotros, como sociedad, la música que se publica? Un grupo de científicos de la Universidad Queen Mary de Londres (QMUL) ha intentado responder esas y otras cuestio…",
+      "image": "https://i.blogs.es/4ee3d9/spencer-davis-nafhflv5cqu-unsplash/1024_2000.jpeg",
+      "published": "2026-07-26T11:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e682150eabb594",
+      "title": "Cinco errores que comete ‘La Odisea’ en su adaptación",
+      "url": "https://hipertextual.com/cine-television/cinco-errores-que-comete-la-odisea-en-su-adaptacion/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "A menos que vivas bajo una piedra, lo sabes. La Odisea de Christopher Nolan se convirtió en un inmediato y rotundo éxito. No solo de crítica, en la que logró más de 90 % de reseñas positivas en el agregador Rotten Tomato…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/La-Odisea-de-Christopher-Nolan.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-07-26T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "417768742d296f",
+      "title": "Hollywood ha llevado a la extenuación el filón de los superhéroes. Ahora le llega el turno al terror y a los youtubers",
+      "url": "https://www.xataka.com/cine-y-tv/hollywood-ha-llevado-a-extenuacion-filon-superheroes-ahora-le-llega-turno-al-terror-a-youtubers",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La industria del cine siempre está buscando su nuevo gran filón y parece que, cuando una fórmula empieza a dar señales de agotamiento, aparece un género dispuesto a recoger el testigo: el terror . Los superhéroes ya son …",
+      "image": "https://i.blogs.es/58ff85/hollywood-backrooms-youtubers/1024_2000.jpeg",
+      "published": "2026-07-26T10:16:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0f3984830c3fc8",
+      "title": "Una startup ha creado una máquina que fabrica gasolina con aire, agua y electricidad. Es su apuesta para salvar al motor de combustión",
+      "url": "https://www.xataka.com/movilidad/startup-ha-creado-maquina-que-fabrica-gasolina-aire-agua-electricidad-su-apuesta-para-salvar-al-motor-combustion",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Aircela, una startup de Nueva York, ha enseñado al mundo una máquina capaz de fabricar gasolina utilizando únicamente aire, agua y electricidad renovable. El dispositivo, que no es precisamente pequeño, ya se ha mostrado…",
+      "image": "https://i.blogs.es/a2d094/aircela-destacada/1024_2000.jpeg",
+      "published": "2026-07-26T10:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1fe33ba4feac7a",
+      "title": "El colapso de la Steam Deck: por qué la consola portátil más deseada se desploma en ventas",
+      "url": "https://hipertextual.com/videojuegos/steam-deck-hunde-ventas-que-esta-pasando/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Desde su llegada al mercado, la Steam Deck se convirtió en el modelo de referencia dentro del mercado de las consolas portátiles. Pese a no ser el inventor del factor de forma, Valve madrugó a varios fabricantes con un d…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/edgar-almeida-ODDeVEZGEfs-unsplash-scaled.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-07-26T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3472f20b9655f7",
+      "title": "\"El mundo no se da cuenta de cuánto depende la industria de la IA de los científicos de China\" Jensen Huang, CEO de Nvidia",
+      "url": "https://www.xataka.com/empresas-y-economia/mundo-no-se-da-cuenta-cuanto-depende-industria-ia-cientificos-china-jensen-huang-ceo-nvidia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cuando alguien tan importante para la tecnología como Jensen Huang habla, sube el pan. El CEO de Nvidia es una persona que, si bien no es conocida por dar titulares tan polémicos como su colega Elon Musk, sí que dice cos…",
+      "image": "https://i.blogs.es/2707a3/china/1024_2000.jpeg",
+      "published": "2026-07-26T09:30:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9a22a6503e21c3",
+      "title": "Google se está haciendo de oro apostando por sus rivales. Algunos ya le dan más beneficio que su propio negocio",
+      "url": "https://www.xataka.com/empresas-y-economia/google-se-esta-haciendo-oro-apostando-sus-rivales-algunos-le-dan-beneficio-que-su-propio-negocio",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Alphabet publicó hace unos días sus últimos resultados trimestrales , unos resultados que rompen todos sus récords con 112.100 millones de dólares de beneficio neto, un 298% más que hace un año. La sorpresa está en el or…",
+      "image": "https://i.blogs.es/12a31e/google-pasta/1024_2000.jpeg",
+      "published": "2026-07-26T09:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4bff87c58b666b",
+      "title": "Este es el mejor ajuste de Android Auto que te recomiendo activar",
+      "url": "https://hipertextual.com/tecnologia/este-es-el-mejor-ajuste-de-android-auto-que-te-recomiendo-activar/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Android Auto es una maravilla, pero no es perfecto. Si llevas tiempo utilizándolo, sabrás que Google tiene que mejorar algunas zonas de la interfaz, aunque también es posible que no conozcas uno de los ajustes ocultos má…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/03/android-auto-scaled.jpg?fit=1024%2C637&quality=70&strip=all&ssl=1",
+      "published": "2026-07-26T09:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8d868a34c39363",
+      "title": "Samsung Galaxy Watch Ultra2 vs Apple Watch Ultra 3: en qué se parecen (y en qué no) más allá de compartir apellido",
+      "url": "https://www.xataka.com/seleccion/samsung-galaxy-watch-ultra2-vs-apple-watch-ultra-3-que-se-parecen-que-no-alla-compartir-apellido",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Ahora que Samsung ha presentado la nueva generación de sus smartwatch , viene bien que nos paremos un momento para compararlos con sus iguales en la competencia. En este artículo vamos a comenzar con el mejor modelo de l…",
+      "image": "https://i.blogs.es/08c418/samsung-galaxy-watch-ultra2-vs-apple-watch-ultra-3/1024_2000.jpeg",
+      "published": "2026-07-26T08:30:27+00:00",
       "score": null,
       "tags": []
     },
@@ -169,18 +361,6 @@
       "summary": "La tercera temporada de La casa del Dragón, se sumerge por completo en la brutalidad de la Danza de los dragones. Pero además de indagar en la guerra civil Targaryen, también hace algo más. Contar una visión diametralmen…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/La-Casa-del-Dragon-trailer-temporada-3.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
       "published": "2026-07-26T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e2fc82e10282dd",
-      "title": "Recursos online imprescindibles para tus vacaciones",
-      "url": "https://www.muycomputer.com/2026/07/26/recursos-online-imprescindibles-para-tus-vacaciones/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "A finales de julio, las vacaciones dejan de ser algo que estamos preparando para convertirse, por fin, en algo que está a punto de empezar. Cambiamos horarios, hacemos desplazamientos que no forman parte de nuestra rutin…",
-      "image": null,
-      "published": "2026-07-26T06:16:56+00:00",
       "score": null,
       "tags": []
     },
@@ -257,6 +437,18 @@
       "tags": []
     },
     {
+      "id": "60201cc56677e3",
+      "title": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
+      "url": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El tequila mexicano ya llega a 120 países y exporta más de 405 millones de litros, pero la industria busca reducir su dependencia de Estados Unidos con una estrategia de expansión hacia Europa, Asia y Oceanía.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9250b84/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc8%2F27%2F724e53a6424d8805e041b09f7b5f%2Ftequila-shots-limon.jpg",
+      "published": "2026-07-26T00:21:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "4c7cc002ac1b76",
       "title": "Quién es dueño de Grupo Gigante: El grupo que planea comprar La Casa de Toño",
       "url": "https://www.merca20.com/quien-es-dueno-de-grupo-gigante-el-grupo-que-planea-comprar-la-casa-de-tono/?utm_source=rss&utm_medium=rss&utm_campaign=quien-es-dueno-de-grupo-gigante-el-grupo-que-planea-comprar-la-casa-de-tono",
@@ -265,18 +457,6 @@
       "summary": "La posible compra de La Casa de Toño por parte de Grupo Gigante ha colocado nuevamente a la compañía mexicana en el centro de la conversación. Aunque el acuerdo todavía no se concreta, la empresa confirmó que analiza la …",
       "image": "https://files.merca20.com/uploads/2025/06/Casa-de-Tono.jpg",
       "published": "2026-07-26T00:08:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d90820865bf099",
-      "title": "Mundial 2026 deja 10,000 mdp en Nuevo León tras cuatro partidos en Monterrey",
-      "url": "https://altonivel.com.mx/nuevo-leon-impacto-economico-mundial-2026-monterrey/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Nuevo León presentó un balance económico positivo tras el Mundial 2026: 10,000 millones de pesos de impacto, 1.1 millones de visitantes y un Fan Festival que reunió a 2.5 millones de asistentes. The post Mundial 2026 dej…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/mundial-2026-monterrey.webp",
-      "published": "2026-07-26T00:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -341,6 +521,18 @@
       "tags": []
     },
     {
+      "id": "7ad2e8dd030a3f",
+      "title": "Crisis del cacao pierde fuerza, aunque el chocolate seguirá con precios altos",
+      "url": "https://expansion.mx/mercados/2026/07/25/crisis-del-cacao-pierde-fuerza-aunque-el-chocolate-seguira-con-precios-altos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Tras dos años de escasez y máximos históricos, el mercado del cacao muestra señales de estabilización, aunque los precios del cacao seguirán por encima de los niveles previos a la crisis.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f404761/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F14%2F62%2Fbded9e08412e8c76c5a67bd6e078%2Fgranos-de-cacao-semillas.jpg",
+      "published": "2026-07-25T21:35:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "79e3b7ccafb98d",
       "title": "¿Retiraron los Dumpling Squishy? Esto es lo que realmente pasó con el juguete viral y la supuesta alerta mundial",
       "url": "https://www.merca20.com/retiraron-los-dumpling-squishy-esto-es-lo-que-realmente-paso-con-el-juguete-viral-y-la-supuesta-alerta-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=retiraron-los-dumpling-squishy-esto-es-lo-que-realmente-paso-con-el-juguete-viral-y-la-supuesta-alerta-mundial",
@@ -365,6 +557,18 @@
       "tags": []
     },
     {
+      "id": "3281f4a3fd9242",
+      "title": "Rebeldes hutíes lanzan misiles contra refinerías saudíes mientras escala el conflicto con Irán",
+      "url": "https://expansion.mx/mundo/2026/07/25/huties-atacan-aramco-arabia-saudi-conflicto-iran",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los ataques de los hutíes contra infraestructura petrolera saudí y las tensiones en el estrecho de Ormuz elevan el riesgo para el suministro mundial de petróleo.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/8fa65f6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F23%2F2d%2Fd41eb24343dabf3fd61e4d26c7ee%2Frebeldes-huties.jpg",
+      "published": "2026-07-25T20:44:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "e104dd782342d2",
       "title": "Educación suspende regreso a clases presenciales y ahora las escuelas abrirán una semana después",
       "url": "https://www.merca20.com/educacion-suspende-regreso-a-clases-presenciales-y-ahora-las-escuelas-abriran-una-semana-despues/?utm_source=rss&utm_medium=rss&utm_campaign=educacion-suspende-regreso-a-clases-presenciales-y-ahora-las-escuelas-abriran-una-semana-despues",
@@ -385,6 +589,18 @@
       "summary": "Si eres fanático del mundo de la animación, ya lo sabes. El anime ha dejado de ser un producto de nicho exclusivo de Japón para volverse uno de los fenómenos más influyentes del planeta. Con una historia que se remonta a…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Anumes-uconicos.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
       "published": "2026-07-25T20:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "768bfb999112b0",
+      "title": "Flávio Bolsonaro oficializa su candidatura presidencial en Brasil",
+      "url": "https://expansion.mx/mundo/2026/07/25/flavio-bolsonaro-candidato-elecciones-brasil-lula",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Bolsonaro competirá por la presidencia de Brasil frente a Lula da Silva. La contienda inicia con polémicas internas, encuestas cerradas y el impacto de los aranceles estadounidenses.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/cee4c7b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa9%2F80%2F932eef704739830dc6f6c4d83760%2Fflavio-bolsonaro-candidato-presidencial-brasil.jpg",
+      "published": "2026-07-25T19:55:10+00:00",
       "score": null,
       "tags": []
     },
@@ -421,30 +637,6 @@
       "summary": "Cuando dos personas quieren entenderse pero no hablan el mismo idioma, lo intentan hablando más alto, gesticulando o recurriendo a cosas que no entienden de fronteras. Y ojo, eso suponiendo que en el fútbol siempre quera…",
       "image": "https://i.blogs.es/144c21/porti-1-/1024_2000.jpeg",
       "published": "2026-07-25T18:00:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "611c91a17a2af7",
-      "title": "Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone",
-      "url": "https://hipertextual.com/inteligencia-artificial/claude-code-simulador-ios-apps/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Claude Code ha sumado una función que acerca la inteligencia artificial al desarrollo real de aplicaciones para el iPhone. La herramienta de programación de Anthropic ahora puede probar y ejecutar apps de iOS directament…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/claude-code.ios_-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-25T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ec0a7a6bd1a612",
-      "title": "Nu México operará como banco a partir del 6 de agosto: ¿Qué pasará con tu dinero?",
-      "url": "https://altonivel.com.mx/nu-mexico-banco-6-agosto-migracion-app-spei/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La aplicación y las transferencias SPEI estarán suspendidas durante cuatro horas y media el 5 de agosto. Las tarjetas seguirán funcionando y Nu comenzará como banco al día siguiente. The post Nu México operará como banco…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/nubank-mexico-1.webp",
-      "published": "2026-07-25T18:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -497,18 +689,6 @@
       "tags": []
     },
     {
-      "id": "18b625d10ba4c3",
-      "title": "Con esta app puedes usar Android con una sola mano sin renunciar a una pantalla grande",
-      "url": "https://hipertextual.com/guias/usar-android-con-una-sola-mano-quick-cursor/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Los teléfonos móviles se pueden utilizar de muchas maneras. Pero el tamaño de sus pantallas complica cada vez más su manejo con una sola mano. En modelos antiguos, aún era posible alcanzar las cuatro esquinas con el dedo…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/samsung-galaxy-a55-005.jpg?fit=1024%2C723&quality=70&strip=all&ssl=1",
-      "published": "2026-07-25T17:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "365ecf70543ab9",
       "title": "WWE SummerSlam 2026: Full match card",
       "url": "https://www.merca20.com/wwe-summerslam-2026-full-match-card/?utm_source=rss&utm_medium=rss&utm_campaign=wwe-summerslam-2026-full-match-card",
@@ -545,18 +725,6 @@
       "tags": []
     },
     {
-      "id": "c076880ecb0e60",
-      "title": "Adelgazar con Ozempic está vaciando los cuerpos. La industria de la belleza ya sabe cómo llenarlos: con grasa de cadáver",
-      "url": "https://www.xataka.com/medicina-y-salud/adelgazar-ozempic-esta-vaciando-cuerpos-industria-belleza-sabe-como-llenarlos-grasa-cadaver",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si alguna vez has perdido peso, seguro que te has encontrado en esta situación: la báscula marca menos kilos y el pantalón te queda más suelto, pero has perdido volumen en zonas inesperadas (e indeseadas) mientras que ot…",
-      "image": "https://i.blogs.es/3920b1/diete/1024_2000.jpeg",
-      "published": "2026-07-25T16:30:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f7f8bc3a030fa3",
       "title": "T-Fal remata batería de cocina Vital de 10 piezas en 1300 pesitos: con termo señal y antiadherente Easy Plus",
       "url": "https://www.merca20.com/t-fal-remata-bateria-de-cocina-vital-de-10-piezas-en-1300-pesitos-con-termo-senal-y-antiadherente-easy-plus/?utm_source=rss&utm_medium=rss&utm_campaign=t-fal-remata-bateria-de-cocina-vital-de-10-piezas-en-1300-pesitos-con-termo-senal-y-antiadherente-easy-plus",
@@ -565,30 +733,6 @@
       "summary": "La batería de cocina T-Fal Vital está diseñada para ofrecer un equilibrio entre resistencia, funcionalidad y facilidad de uso",
       "image": "https://files.merca20.com/uploads/2026/07/bateria-de-cocina-Vital-T-Fal-Mercado-Libre.jpg",
       "published": "2026-07-25T16:20:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "848760eadfe9a1",
-      "title": "El váter de Adriano revela un nuevo secreto sobre la durabilidad del hormigón romano",
-      "url": "https://www.xataka.com/magnet/vater-adriano-revela-nuevo-secreto-durabilidad-hormigon-romano",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Una de los secretos mejor guardados del Imperio Romano es qué tenía de especial su hormigón para que el Panteón de Agripa lleve 2.000 años ahí (y lo que le queda). De vez en cuando la ciencia y la arqueología cree descub…",
-      "image": "https://i.blogs.es/cd1e08/ps---plantilla-portadas-xtk/1024_2000.jpeg",
-      "published": "2026-07-25T16:00:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ed9c8e4662850b",
-      "title": "Xiaomi pone a la venta su nueva maquinilla de afeitar: inteligente, para cualquier tipo de barba y más barata que las de Braun y Gillette",
-      "url": "https://hipertextual.com/tecnologia/xiaomi-pone-a-la-venta-su-nueva-maquinilla-de-afeitar-inteligente-para-cualquier-tipo-de-barba-y-mas-barata-que-las-de-braun-y-gillette/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Xiaomi no para de anunciar nuevos productos, y su última incorporación en su catálogo de dispositivos para el cuidado personal se ha convertido directamente en la mejor opción para el afeitado de la barba. Se trata de la…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/maquina-afeitar-xiaomi.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-07-25T16:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -605,18 +749,6 @@
       "tags": []
     },
     {
-      "id": "22ada519c55e02",
-      "title": "Es uno de los libros más enigmáticos del mundo y lo hizo un esquizofrénico que nunca salió del manicomio",
-      "url": "https://www.xataka.com/magnet/uno-libros-enigmaticos-mundo-hizo-esquizofrenico-que-nunca-salio-manicomio",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En 1921 un psiquiatra suizo publicó un libro con un título que sonaba a contradicción: uno de sus internos, un enfermo mental, era un artista. Y a partir de ese oxímoron se fundó una disciplina entera. El aludido, Adolf …",
-      "image": "https://i.blogs.es/102f13/d7b6b1c747a0e046ef1061eacc4645b1/1024_2000.jpeg",
-      "published": "2026-07-25T15:30:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6039ccd90f15c4",
       "title": "Velada del año VI:  Cartelera completa de todos los combates y dónde ver desde México",
       "url": "https://www.merca20.com/velada-del-ano-vi-cartelera-completa-de-todos-los-combates-y-donde-ver-desde-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=velada-del-ano-vi-cartelera-completa-de-todos-los-combates-y-donde-ver-desde-mexico",
@@ -625,42 +757,6 @@
       "summary": "Conoce todos los combates que habrán en la Velada del año 6 de Ibai Llanos",
       "image": "https://files.merca20.com/uploads/2026/03/Velada-del-ano-6.jpg",
       "published": "2026-07-25T15:03:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "50a324a71f4ce1",
-      "title": "Un grupo de astronautas sin formación médica se ha hecho la primera radiografía en órbita del mundo: es un avance brutal",
-      "url": "https://www.xataka.com/espacio/grupo-astronautas-formacion-medica-se-ha-hecho-primera-radiografia-orbita-mundo-eso-cambia-muchas-cosas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Durante más de sesenta años, los astronautas solo han tenido una herramienta para diagnosticar posibles lesiones en órbita: el ecógrafo. Ahora, por primera vez, una tripulación ha conseguido tomar radiografías de diagnós…",
-      "image": "https://i.blogs.es/41a316/radiografia/1024_2000.jpeg",
-      "published": "2026-07-25T15:00:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a4b51e93c4a714",
-      "title": "Nayarit refuerza limpieza y monitoreo de macroalgas en Guayabitos",
-      "url": "https://altonivel.com.mx/nayarit-limpieza-monitoreo-macroalgas-guayabitos-turismo/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La respuesta busca proteger simultáneamente el ecosistema, la experiencia turística y la economía local. The post Nayarit refuerza limpieza y monitoreo de macroalgas en Guayabitos appeared first on Alto Nivel .",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/nayarit-macro-algas.webp",
-      "published": "2026-07-25T15:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1177e00027d41c",
-      "title": "Tu cuerpo llevaba miles de años regulando la temperatura solo. Hasta que llegó el aire acondicionado y le dijo \"tú tranqui, ya me encargo yo\" (no sale bien)",
-      "url": "https://www.xataka.com/medicina-y-salud/tu-cuerpo-llevaba-miles-anos-regulando-temperatura-solo-que-llego-aire-acondicionado-le-dijo-tu-tranqui-me-encargo-yo-no-sale-bien",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El aire acondicionado es nuestro mejor amigo en verano. Sin embargo, igual que no estamos pegados 24/7 a nuestros mejores amigos, tampoco deberíamos hacerlo con el aire acondicionado . Con tu amigo no es bueno porque te …",
-      "image": "https://i.blogs.es/b3aae4/aire-acondicionado/1024_2000.jpeg",
-      "published": "2026-07-25T14:30:27+00:00",
       "score": null,
       "tags": []
     },
@@ -677,126 +773,6 @@
       "tags": []
     },
     {
-      "id": "c0935f24bb1fbd",
-      "title": "La avispa invasora que caza abejas para alimentar a sus crías ya está en toda Andalucía, y no es la única",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/avispa-que-caza-abejas-para-alimentar-a-sus-crias-esta-andalucia-no-unica",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Andalucía, tierra de avispas (invasoras). Por si no hubiera suficiente con la temible avispa asiática ( Vespa velutina ) y el avispón bicolor (Vespa bicolor), se una a la tríada el avispón oriental ( Vespa orientalis ) c…",
-      "image": "https://i.blogs.es/f1d177/avispooon/1024_2000.jpeg",
-      "published": "2026-07-25T14:00:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8568408d883ebc",
-      "title": "LG está instalando un polémico spyware en los PC de sus usuarios sin avisar: así puedes eliminarlo",
-      "url": "https://hipertextual.com/tecnologia/spyware-monitores-lg-windows-11-como-eliminarlo/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Si has comprado un monitor LG, es probable que esté instalando spyware sin que lo sepas apenas lo conectas al ordenador. El fabricante ha quedado al centro de una polémica tras aprovecharse de una función legítima de Win…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/lg-monitor.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-07-25T14:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ff41a1615da939",
-      "title": "LG xboom Rock, análisis: pequeño, matón y sorprendentemente resistente a las inclemencias del verano",
-      "url": "https://www.xataka.com/analisis/lg-xboom-rock-analisis-caracteristicas-precio-especificaciones",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En casa, ya he comentado en alguna ocasión que tengo bastantes altavoces inteligentes distribuidos por distintas habitaciones. Por eso, cuando me preguntaron si quería probar un altavoz Bluetooth clásico , no lo dudé. Al…",
-      "image": "https://i.blogs.es/48ffd8/20260724_120716/1024_2000.jpeg",
-      "published": "2026-07-25T13:30:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "59fa27626ddd56",
-      "title": "WhatsApp estrena cuatro novedades muy útiles",
-      "url": "https://www.muycomputer.com/2026/07/25/whatsapp-estrena-cuatro-novedades-muy-utiles/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "WhatsApp está ampliando su presencia más allá del smartphone con un nuevo paquete de funciones que afecta a varios de los dispositivos y servicios desde los que utilizamos habitualmente la aplicación. Entre las novedades…",
-      "image": null,
-      "published": "2026-07-25T13:17:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0b68acfbffc329",
-      "title": "Whoop y Google tienen nuevo rival: así es la nueva Garmin CIRQA, una pulsera de actividad sin pantalla que no necesita suscripción",
-      "url": "https://www.xataka.com/seleccion/whoop-google-tienen-nuevo-rival-asi-nueva-garmin-cirqa-pulsera-actividad-pantalla-que-no-necesita-suscripcion",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Sin pantalla: Garmin ya ha hecho oficial su nueva CIRQA. Esta pulsera de actividad llega para competir directamente con Whoop y con la FitBit Air de Google en un sector que cada vez tiene más tirón. Su propuesta juega co…",
-      "image": "https://i.blogs.es/15fc0e/garmin-cirqa-portada/1024_2000.jpeg",
-      "published": "2026-07-25T13:16:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3617682a69824a",
-      "title": "Llevamos miles de años usando protector solar, aunque al principio no sabíamos que lo necesitábamos",
-      "url": "https://www.xataka.com/medicina-y-salud/llevamos-miles-anos-usando-protector-solar-al-principio-no-sabiamos-que-necesitabamos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hoy en día somos bastante conscientes de la importancia del protector solar . En el pasado no lo tenían tan claro, pero igualmente lo usaban. Normalmente, se empleaban sustancias para aclarar la piel o evitar que se oscu…",
-      "image": "https://i.blogs.es/aad85b/protector-solar-historia/1024_2000.jpeg",
-      "published": "2026-07-25T13:00:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a85310b5ead049",
-      "title": "Tres razones para ver ‘Stuart no consigue salvar el universo’",
-      "url": "https://hipertextual.com/cine-television/tres-razones-para-ver-stuart-no-consigue-salvar-el-universo/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Stuart no consigue salvar el universo es probablemente la serie que no sabías que necesitabas, pero que amarás. Eso, debido a que este spin-off de la ya clásica The Big Bang Theory no solo es un homenaje para fanáticos d…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/HBO-estrena-Stuart-no-consigue-salvar-el-universo-el-nuevo-spin-off-de-%E2%80%98The-Big-Bang-Theory-.jpg?fit=1024%2C580&quality=70&strip=all&ssl=1",
-      "published": "2026-07-25T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "08abda0aca36f2",
-      "title": "Hace 1.500 años falleció una niña en Mérida. Su lápida es toda una rareza para los arqueólogos: saben el día exacto de su muerte",
-      "url": "https://www.xataka.com/magnet/hace-1-500-anos-fallecio-nina-merida-su-lapida-toda-rareza-para-arqueologos-saben-dia-exacto-su-muerte",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La imagen que ves sobre estas líneas es la Basílica de Santa Eulalia de Mérida y, a su lado, la cripta paleocristiana que alberga en su interior. Junto a ella acaban de encontrar una lápida funeraria. No es raro: el ento…",
-      "image": "https://i.blogs.es/2c65a1/euli/1024_2000.jpeg",
-      "published": "2026-07-25T12:30:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "130cca90b86f3b",
-      "title": "La energía de las olas es la asignatura pendiente de las renovables. Dos plantas en Escocia y Portugal quieren cambiarlo",
-      "url": "https://www.xataka.com/energia/energia-olas-nunca-ha-logrado-despegar-a-grande-dos-plantas-portugal-escocia-estan-a-punto-cambiarlo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Mientras que hay energías renovables como la solar o la eólica que están acelerando la descarbonización, hay otras que siguen siendo un melón por abrir como la undimotriz . El potencial de las olas es enorme, como bien s…",
-      "image": "https://i.blogs.es/3185af/corpo/1024_2000.jpeg",
-      "published": "2026-07-25T12:00:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d78a7e101fd927",
-      "title": "OpenAI afronta una fractura por la regulación",
-      "url": "https://www.muycomputer.com/2026/07/25/openai-afronta-una-fractura-por-la-regulacion/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "La discusión sobre cómo debe regularse la inteligencia artificial está generando una división cada vez más visible dentro de OpenAI. Siete empleados actuales y un antiguo trabajador de la compañía han aportado conjuntame…",
-      "image": null,
-      "published": "2026-07-25T10:31:48+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8bb23ad3fc1220",
       "title": "Suburbia ofrece descuentos a adultos mayores con credencial del INAPAM por Día del Abuelo 2026",
       "url": "https://www.merca20.com/suburbia-ofrece-descuentos-a-adultos-mayores-con-credencial-del-inapam-por-dia-del-abuelo-2026/?utm_source=rss&utm_medium=rss&utm_campaign=suburbia-ofrece-descuentos-a-adultos-mayores-con-credencial-del-inapam-por-dia-del-abuelo-2026",
@@ -805,18 +781,6 @@
       "summary": "Las promociones por el Día del Abuelo 2026 ya comenzaron y una de las opciones para ahorrar está en Suburbia",
       "image": "https://files.merca20.com/uploads/2026/07/SUBURBIA-DIA-ABUELO-INAPAM.jpg",
       "published": "2026-07-25T09:13:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "cdc1012fae8980",
-      "title": "Google confirma que los Pixel 11 serán más caros",
-      "url": "https://www.muycomputer.com/2026/07/25/google-confirma-que-los-pixel-11-seran-mas-caros/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Google ha confirmado lo que las últimas filtraciones ya venían anticipando: los Pixel 11 serán más caros. Shakil Barkat, vicepresidente de Dispositivos y Servicios de la compañía, ha reconocido que el fuerte encarecimien…",
-      "image": null,
-      "published": "2026-07-25T08:11:09+00:00",
       "score": null,
       "tags": []
     },
@@ -953,18 +917,6 @@
       "tags": []
     },
     {
-      "id": "5311593e9d636a",
-      "title": "SEP oficializa aumento salarial para maestros: de cuánto será y qué prestaciones también subirán",
-      "url": "https://expansion.mx/https:/politica.expansion.mx/mexico/2026/07/24/sep-oficializa-aumentos-salarios-de-profesores",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Esta medida beneficiará a trabajadores de nivel básico, además de Escuelas Normales y otras instituciones ligadas a la SEP.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c66cc34/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F84%2F65%2F35960ce94cdd83041eb074bf6df1%2Fdocentes-escuelas.jpeg",
-      "published": "2026-07-24T22:00:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "de08d827bbcd3b",
       "title": "¡Spoiler coleccionable! Una figura de Goku filtra el tercer arco del esperado anime Dragon Ball Super Beerus",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/07/24/spoiler-coleccionable-una-figura-de-goku-filtra-el-tercer-arco-del-esperado-anime-dragon-ball-super-beerus/",
@@ -989,114 +941,6 @@
       "tags": []
     },
     {
-      "id": "01acb8278a75d8",
-      "title": "Petróleo sube hasta 9% en la semana pese a señales de diálogo entre Estados Unidos e Irán",
-      "url": "https://altonivel.com.mx/petroleo-sube-hasta-9-en-la-semana-pese-a-senales-de-dialogo-entre-estados-unidos-e-iran/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Aunque el petróleo cayó con fuerza este viernes tras conocerse un posible esfuerzo diplomático entre Washington y Teherán, el mercado sigue descontando riesgos para el suministro global. The post Petróleo sube hasta 9% e…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/03/precio-del-petroleo-iran.webp",
-      "published": "2026-07-24T21:38:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "75dd6f0b65e75c",
-      "title": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
-      "url": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/459ecf9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6f%2F4b%2F2f3af67e48328675c8f2d5c1677e%2Fsociedad-civil-medicion-pobreza-mexico.jpeg",
-      "published": "2026-07-24T21:04:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "67a93d136a2c2e",
-      "title": "¿Qué es la Ley 73 del IMSS? Esto pasa cuando te jubilas bajo este esquema de pensión",
-      "url": "https://expansion.mx/finanzas-personales/2026/07/24/que-es-ley-73-imss-esto-pasa-cuando-te-jubilas-esquema",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Si comenzaste a cotizar en el IMSS antes de esta fecha, podrías pensionarte bajo la Ley 73. Conoce quiénes pueden acceder, cómo funciona el esquema y cuáles son sus principales beneficios.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/357958d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fba%2F90%2F1dca55d5402b8b88b13b3c485747%2Fistock-1328192862.jpeg",
-      "published": "2026-07-24T21:03:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6a446b745b06fd",
-      "title": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
-      "url": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/35ea65a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F92%2Fc0%2F09ed35a04f4c857308de5a9e819f%2Ffirst-challange-tec-milenio-firs-ingenieros.jpg",
-      "published": "2026-07-24T20:56:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "59df909fb528b1",
-      "title": "Nasdaq cierra la semana con caída del 2.2% tras venta de chips; Dow Jones baja 0.38%",
-      "url": "https://altonivel.com.mx/nasdaq-cierra-la-semana-con-caida-del-2-2-tras-venta-de-chips-dow-jones-baja-0-38/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El Dow Jones avanzó impulsado por Alphabet, mientras el Nasdaq fue presionado por las acciones de semiconductores. Los mercados cerraron una semana negativa. The post Nasdaq cierra la semana con caída del 2.2% tras venta…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2025/01/nasdaq-1-jpg.webp",
-      "published": "2026-07-24T20:08:44+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3637e107c6c900",
-      "title": "México rechaza contaminación en lechugas de Taylor Farms tras brote de diarrea explosiva en Taco Bell",
-      "url": "https://altonivel.com.mx/mexico-rechaza-contaminacion-en-lechugas-de-taylor-farms-tras-brote-de-diarrea-explosiva-en-taco-bell/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La Secretaría de Salud aseguró que los análisis en Taylor Farms no detectaron contaminación por Cyclospora, mientras la investigación de la FDA continúa abierta. The post México rechaza contaminación en lechugas de Taylo…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/lechuga-causa-diarrea-explosiva.webp",
-      "published": "2026-07-24T19:26:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c8e3076b5ddf50",
-      "title": "Verizon firma acuerdo de más de 1,000 mdd con Google para conectar centros de datos de IA",
-      "url": "https://altonivel.com.mx/verizon-firma-acuerdo-de-mas-de-1000-mdd-con-google-para-conectar-centros-de-datos-de-ia/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Google reforzará la conectividad de sus centros de datos con la red de fibra óptica de Verizon, en un acuerdo que refleja el auge de las inversiones en infraestructura para IA. The post Verizon firma acuerdo de más de 1,…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/google-verizon.webp",
-      "published": "2026-07-24T19:09:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d66864fc700581",
-      "title": "Facebook cambia su identidad para parecerse a TikTok",
-      "url": "https://www.muycomputer.com/2026/07/24/facebook-cambia-su-identidad-para-parecerse-a-tiktok/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Facebook lleva años incorporando funciones inspiradas en TikTok, pero ahora está dispuesto a dar un paso mucho más radical: dejar de parecerse al Facebook que conocemos para adoptar como experiencia principal el modelo p…",
-      "image": null,
-      "published": "2026-07-24T18:53:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ebde1e344efe68",
-      "title": "La inteligencia artificial desafía sus propias restricciones",
-      "url": "https://www.muycomputer.com/2026/07/24/la-inteligencia-artificial-desafia-sus-propias-restricciones/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Los modelos más avanzados de inteligencia artificial son cada vez más capaces de resolver tareas complejas, pero esa capacidad también está revelando comportamientos difíciles de controlar. El AI Security Institute (AISI…",
-      "image": null,
-      "published": "2026-07-24T17:36:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9c6521222d3eb0",
       "title": "Dile adiós a buscar foto por foto: Google Fotos estrena un chat con Gemini para encontrar, editar y transformar tus imágenes",
       "url": "https://www.fayerwayer.com/internet/2026/07/24/dile-adios-a-buscar-foto-por-foto-google-fotos-estrena-un-chat-con-gemini-para-encontrar-editar-y-transformar-tus-imagenes/",
@@ -1105,42 +949,6 @@
       "summary": "Google Fotos integra Gemini con \"Pregúntale a Fotos\", edición por chat y generación de video con Veo 3. Descubre cómo funciona la nueva IA.",
       "image": "https://www.fayerwayer.com/resizer/v2/7F4XPDJI4FC55KIKW25YSSLAIY.png?auth=d85200bf96822bd3883ea6dd21281f8d7e48055d1eafac432c0f9922a7cf0991&smart=true&width=1400&height=926",
       "published": "2026-07-24T17:17:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0159c6f53850a1",
-      "title": "Jueza retrasa hasta el 17 de agosto la compra de Warner Bros. Discovery por Paramount Skydance",
-      "url": "https://altonivel.com.mx/jueza-retrasa-hasta-el-17-de-agosto-la-compra-de-warner-bros-discovery-por-paramount-skydance/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La adquisición de 110,000 mdd permanecerá suspendida mientras avanza la demanda de un grupo de estados que busca bloquear la operación por presuntas afectaciones a la competencia. The post Jueza retrasa hasta el 17 de ag…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/02/paramount-warner-bros.webp",
-      "published": "2026-07-24T16:23:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "36aaa4e36877fe",
-      "title": "Los errores al contratar seguridad privada que ponen en riesgo tu negocio",
-      "url": "https://altonivel.com.mx/los-errores-al-contratar-seguridad-privada-que-ponen-en-riesgo-tu-negocio/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Evita estos errores al contratar seguridad privada y dale a tu empresa el respaldo operativo y legal que necesita. The post Los errores al contratar seguridad privada que ponen en riesgo tu negocio appeared first on Alto…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/Errores-al-contratar-seguridad-privada-scaled.webp",
-      "published": "2026-07-24T16:18:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2038193e267d23",
-      "title": "Campaña para expulsar a Argentina de los Mundiales se acerca a un récord Guinness",
-      "url": "https://altonivel.com.mx/peticion-argentina-mundiales-record-guinness-fifa/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El caso muestra cómo la indignación digital puede presionar la reputación de torneos, marcas y federaciones. The post Campaña para expulsar a Argentina de los Mundiales se acerca a un récord Guinness appeared first on Al…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/expulsar_argentina_mundial.webp",
-      "published": "2026-07-24T15:47:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1157,42 +965,6 @@
       "tags": []
     },
     {
-      "id": "668a430e30960c",
-      "title": "Desempleo en México sube a 2.9% en junio; 1.8 millones de personas buscan trabajo",
-      "url": "https://altonivel.com.mx/desempleo-en-mexico-sube-a-2-9-en-junio-1-8-millones-de-personas-buscan-trabajo/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "México registró una tasa de informalidad de 55% y un desempleo de 2.9% durante junio, según reportó el Inegi. The post Desempleo en México sube a 2.9% en junio; 1.8 millones de personas buscan trabajo appeared first on A…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2022/06/Tasa-de-desempleo-jpg.webp",
-      "published": "2026-07-24T14:38:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8ba7fc3561f6e1",
-      "title": "BlackRock cambia su apuesta en Wall Street: menos ganadores de la IA y más infraestructura",
-      "url": "https://altonivel.com.mx/blackrock-cambia-su-apuesta-en-wall-street-menos-ganadores-de-la-ia-y-mas-infraestructura/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "BlackRock mantiene una visión positiva para Wall Street, pero recomienda dejar de buscar a los futuros ganadores de la inteligencia artificial y enfocarse en la infraestructura que hará posible su crecimiento. The post B…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/black-rock-wall-street.webp",
-      "published": "2026-07-24T14:29:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "12071cdf8a542f",
-      "title": "La Comisión Europea impone otra multa a Google por incumplir la DMA",
-      "url": "https://www.muycomputer.com/2026/07/24/la-comision-europea-impone-otra-multa-a-google-por-incumplir-la-dma/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "La Comisión Europea ha impuesto otra multa a Google por incumplir la Ley de Mercados Digitales (DMA). Para el ejecutivo europeo queda demostrado que el gigante de Internet priorizó sus propios servicios en la Búsqueda de…",
-      "image": null,
-      "published": "2026-07-24T14:03:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "79fd34b250f4d8",
       "title": "La IA desmonta un mito biológico: Gran estudio revela que la evolución de las aves avanza a “saltos” y no de forma gradual",
       "url": "https://www.fayerwayer.com/ciencia/2026/07/24/la-ia-desmonta-un-mito-biologico-gran-estudio-revela-que-la-evolucion-de-las-aves-avanza-a-saltos-y-no-de-forma-gradual/",
@@ -1201,30 +973,6 @@
       "summary": "La investigación, publicada en Nature Ecology & Evolution, demuestra que las especies experimentan explosiones de cambios físicos ante transformaciones...",
       "image": "https://www.fayerwayer.com/resizer/v2/D4LI6TWRLZGHJE2EVELEOZJSWM.jpg?auth=813216f42a7272b9ec160e5415e1e187e50129fb227f7eed6ef883628daa43fd&smart=true&width=954&height=550",
       "published": "2026-07-24T14:00:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d26ef06845d158",
-      "title": "Las mejores ofertas de la semana en un nuevo Red Friday",
-      "url": "https://www.muycomputer.com/2026/07/24/las-mejores-ofertas-de-la-semana-en-un-nuevo-red-friday-52/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Nos vamos de compras como cada viernes para aprovechar las mejores ofertas Red Friday, una selección variada de tecnología y electrónica donde te ofrecemos los mejores descuentos disponibles y que hoy enfocamos a la camp…",
-      "image": null,
-      "published": "2026-07-24T12:26:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c6a024dde9e3cf",
-      "title": "SanDisk CZB: los pendrive USB siguen siendo muy útiles",
-      "url": "https://www.muycomputer.com/2026/07/24/sandisk-czb-los-pendrive-usb-siguen-siendo-muy-utiles/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "SanDisk CZB es la nueva línea de unidades de almacenamiento externo basados en memorias flash NAND del fabricante californiano. Un grupo de producto que conocemos como ‘pendrives’, que sigue siendo muy útil por su precio…",
-      "image": null,
-      "published": "2026-07-24T10:55:21+00:00",
       "score": null,
       "tags": []
     },
@@ -1241,18 +989,6 @@
       "tags": []
     },
     {
-      "id": "706dd677fd388a",
-      "title": "Xbox prueba Cloud Gaming gratis con publicidad",
-      "url": "https://www.muycomputer.com/2026/07/24/xbox-prueba-cloud-gaming-gratis-con-publicidad/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Microsoft ha empezado a probar una nueva modalidad de Xbox Cloud Gaming (que ya volvió a dar señales de vida a principios de este mismo año), que permite jugar en streaming sin necesidad de pagar una suscripción, a cambi…",
-      "image": null,
-      "published": "2026-07-24T09:28:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4b994a109cb060",
       "title": "Conoce la solución colectiva que está ganando fuerza en los colegios para retrasar la compra del primer móvil",
       "url": "https://www.educaciontrespuntocero.com/noticias/pacto-de-familias/",
@@ -1265,18 +1001,6 @@
       "tags": []
     },
     {
-      "id": "75cce3d91fc6ef",
-      "title": "Trabaja, juega y olvídate de las grandes actualizaciones: Windows 11 Enterprise LTSC por solo 15 euros en GVGMall",
-      "url": "https://www.muycomputer.com/2026/07/24/trabaja-juega-y-olvidate-de-las-grandes-actualizaciones-windows-11-enterprise-ltsc-por-solo-15-euros-en-gvgmall/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Windows 11 ha cambiado mucho desde su lanzamiento. Microsoft ha ido incorporando nuevas funciones, modificando elementos de la interfaz y actualizando distintos componentes del sistema operativo, un proceso que continuar…",
-      "image": null,
-      "published": "2026-07-24T08:00:44+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "887dbad649440d",
       "title": "Toma nota de estas recomendaciones para proteger los dispositivos inteligentes de tu hogar frente a ciberataques",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/claves-proteger-dispositivos-inteligentes-ciberataques/",
@@ -1285,30 +1009,6 @@
       "summary": "Cambiar de contraseña, revisar los ajustes de privacidad o activar la búsqueda automática de actualizaciones son algunas de las medidas que pueden tomarse.",
       "image": null,
       "published": "2026-07-24T06:45:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3566263c31004f",
-      "title": "AMD estrena su primer procesador ZEN 6 para infraestructura IA",
-      "url": "https://www.muycomputer.com/2026/07/24/amd-estrena-su-primer-procesador-zen-6/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "AMD está celebrando en San Francisco la conferencia Advancing AI 2026. Un evento anual para desarrolladores, clientes y socios donde la firma californiana quiere ir más allá de impulsar la IA, «construyendo el futuro de …",
-      "image": null,
-      "published": "2026-07-24T06:17:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7e7864354c1c36",
-      "title": "Lefant M210 Omni lleva la limpieza a otro nivel",
-      "url": "https://www.muycomputer.com/2026/07/24/lefant-m210-omni-lleva-la-limpieza-a-otro-nivel/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Los robots aspiradores han evolucionado de manera notable durante los últimos años. Ya no se limitan a recorrer la vivienda y recoger el polvo, sino que incorporan sistemas de fregado, detección de obstáculos y estacione…",
-      "image": null,
-      "published": "2026-07-24T06:00:12+00:00",
       "score": null,
       "tags": []
     },
@@ -1385,18 +1085,6 @@
       "tags": []
     },
     {
-      "id": "858911ec197b8e",
-      "title": "Robo de identidad con IA: los fraudes que ya imitan tu voz, imagen y mensajes",
-      "url": "https://altonivel.com.mx/robo-de-identidad-con-ia-los-fraudes-que-ya-imitan-tu-voz-imagen-y-mensajes/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La IA ha elevado la sofisticación del robo de identidad mediante correos personalizados, clonación de voz y deepfakes. Conocer estas amenazas es clave para proteger la información personal y el historial crediticio. The …",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2023/11/robo-de-identidad-inteligencia-artificial-jpg.webp",
-      "published": "2026-07-24T03:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0f5001140b3359",
       "title": "Burger King rompe con El Xokas: la crisis de reputación que obligó a cancelar su campaña Grand King",
       "url": "https://ilifebelt.com/burger-king-rompe-con-el-xokas-la-crisis-de-reputacion-que-obligo-a-cancelar-su-campana-grand-king/2026/07/",
@@ -1405,54 +1093,6 @@
       "summary": "Lo que iba a ser una de las apuestas publicitarias más comentadas del verano terminó en una crisis de reputación exprés. Burger King decidió cancelar de forma inmediata su colaboración con el streamer El Xokas y retiró d…",
       "image": null,
       "published": "2026-07-24T02:52:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0c8435af76cbcd",
-      "title": "Trump impone nuevos aranceles de hasta 12.5% a 60 países por no prevenir trabajo forzoso; México pagará 10%",
-      "url": "https://altonivel.com.mx/trump-impone-nuevos-aranceles-de-hasta-12-5-a-60-paises-por-no-prevenir-trabajo-forzoso-mexico-pagara-10/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Estados Unidos impondrá aranceles de hasta 12.5% a importaciones de 60 países, incluida una tasa de 10% para México, bajo la Sección 301. The post Trump impone nuevos aranceles de hasta 12.5% a 60 países por no prevenir …",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/aranceles-trabajos-forzados.webp",
-      "published": "2026-07-23T22:56:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d32123040ce31a",
-      "title": "Credijal abre camino para las empresas medianas al debutar en la BMV",
-      "url": "https://altonivel.com.mx/credijal-abre-camino-para-las-empresas-medianas-al-debutar-en-la-bmv/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Con una emisión por 250 mdp, Credijal se convirtió en la primera empresa que llega al mercado bursátil tras participar en \"De Cero a Bolsa\", el programa de la BMV para impulsar nuevas emisoras. The post Credijal abre cam…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/credijal-1.webp",
-      "published": "2026-07-23T21:26:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5ad6c6c527951e",
-      "title": "¿Qué ha pasado con ChatGPT? Dos fallos preocupantes",
-      "url": "https://www.muycomputer.com/2026/07/23/que-ha-pasado-con-chatgpt-dos-fallos-preocupantes/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Las últimas horas han dejado dos incidentes de seguridad diferentes, pero relacionados con una misma cuestión: qué ocurre cuando ChatGPT y otros sistemas de OpenAI dejan de limitarse a responder preguntas y reciben capac…",
-      "image": null,
-      "published": "2026-07-23T17:33:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8996648c0ce6d1",
-      "title": "Legion C700, otra consola portátil de la mano de Lenovo",
-      "url": "https://www.muycomputer.com/2026/07/23/legion-c700-otra-consola-portatil-de-la-mano-de-lenovo/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Lenovo ha anunciado el lanzamiento de la Legion C700, otra alternativa para el animadísimo mercado de consolas portátiles. Desarrollada junto a Tencent, se comercializará en China en agosto, pero a buen seguro llegará al…",
-      "image": null,
-      "published": "2026-07-23T12:34:14+00:00",
       "score": null,
       "tags": []
     },

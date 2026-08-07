@@ -1,21 +1,9 @@
 {
   "meta": {
-    "generated": "2026-08-06T23:59:53.750227+00:00",
-    "total": 198
+    "generated": "2026-08-07T03:12:15.148801+00:00",
+    "total": 197
   },
   "items": [
-    {
-      "id": "039676e2762c11",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "url": "https://expansion.mx/mundo/2026/08/15/abelardo-de-la-espriella-cambia-la-paz-total-de-petro-por-una-politica-de-mano-dura-en-colombia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El político derechista propone una confrontación frontal con los grupos criminales, en un momento en el que la extorsión crece.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/45a1545/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2e%2F30%2Fa05ddb5d43149fa7a220013f594a%2Fde-la-espriella-mano-dura-colombia.jpeg",
-      "published": "2026-08-15T11:55:44+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "47a8eb958e7a1d",
       "title": "Conoce al tribunal de los gólems que juzgará a la IA cuando esta tenga que rendir cuentas",
@@ -24,7 +12,7 @@
       "category": "startup",
       "summary": "La sociedad siempre ha sentido la necesidad de someter a un marco de justicia formal a cualquier entidad no humana cuya conducta altere el orden económico o social. The post Conoce al tribunal de los gólems que juzgará a…",
       "image": null,
-      "published": "2026-08-06T23:59:52.246223+00:00",
+      "published": "2026-08-07T03:12:13.736259+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +24,7 @@
       "category": "startup",
       "summary": "El emprendedor del futuro no será quien más haga, sino quien mejor sepa detenerse para mirar con claridad. The post La reinvención del emprendedor: la inactividad como nuevo músculo productivo appeared first on Entrepren…",
       "image": null,
-      "published": "2026-08-06T23:59:52.245742+00:00",
+      "published": "2026-08-07T03:12:13.735934+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +36,7 @@
       "category": "startup",
       "summary": "Los mejores líderes saben que el servicio al cliente no es un departamento: es una cultura. Una empresa me lo demostró, y eso reafirmó todas mis creencias sobre liderazgo auténtico. The post La clave de una cultura que p…",
       "image": null,
-      "published": "2026-08-06T23:59:52.245278+00:00",
+      "published": "2026-08-07T03:12:13.735637+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +48,7 @@
       "category": "startup",
       "summary": "Los hermanos Chris y Tim Vanderhook, cuya empresa compró Myspace en 2011, confirmaron en un documental que planean relanzar la plataforma. The post Los dueños de Myspace dicen que lo traerán de vuelta de entre los muerto…",
       "image": null,
-      "published": "2026-08-06T23:59:52.244814+00:00",
+      "published": "2026-08-07T03:12:13.735347+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +60,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial está dando un giro al protagonismo de las llamadas telefónicas en el mundo empresarial. The post La IA está rescatando las llamadas telefónicas: así puede ayudar un agente de voz a tu empresa a…",
       "image": null,
-      "published": "2026-08-06T23:59:52.244310+00:00",
+      "published": "2026-08-07T03:12:13.734991+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +72,7 @@
       "category": "startup",
       "summary": "Construir un negocio juntos puede ser una ventaja… o un riesgo constante. Esto es lo que realmente necesitas para que funcione en la vida y en el trabajo. The post Construir un negocio con tu pareja puede romper tu relac…",
       "image": null,
-      "published": "2026-08-06T23:59:52.242860+00:00",
+      "published": "2026-08-07T03:12:13.733785+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +84,7 @@
       "category": "startup",
       "summary": "Un pasatiempo sorprendente cambió la forma en que manejo la presión, afino mi concentración y mantengo la energía creativa como emprendedora — y podría hacer lo mismo por ti. The post Esta sencilla práctica hizo más por …",
       "image": null,
-      "published": "2026-08-06T23:59:52.242353+00:00",
+      "published": "2026-08-07T03:12:13.733470+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +96,7 @@
       "category": "startup",
       "summary": "La compensación no es un dato de salida. Los líderes que pierden esto de vista mientras sus empleados llegan armados con puntos de referencia generados por ChatGPT corren el riesgo de debilitar la confianza, la cultura y…",
       "image": null,
-      "published": "2026-08-06T23:59:52.241845+00:00",
+      "published": "2026-08-07T03:12:13.733149+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +108,7 @@
       "category": "startup",
       "summary": "La irrupción de la IA agéntica representa nuevos desafíos: ya no basta con automatizar procesos, hay que definir quién controla las decisiones de los agentes autónomos, bajo qué reglas actúan y quién responde cuando esto…",
       "image": null,
-      "published": "2026-08-06T23:59:52.241314+00:00",
+      "published": "2026-08-07T03:12:13.732808+00:00",
       "score": null,
       "tags": []
     },
@@ -132,31 +120,103 @@
       "category": "startup",
       "summary": "Cuando tu cultura conecta, tu gente también lo hace. The post El liderazgo sin humanidad está fracasando — así puedes solucionarlo en 3 pasos appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-08-06T23:59:52.240750+00:00",
+      "published": "2026-08-07T03:12:13.732451+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "4f68df15d689e0",
-      "title": "Comité de Senado de EU declara a Anthony Fauci, el exzar anticovid, en desacato",
-      "url": "https://expansion.mx/mundo/2026/08/06/comite-de-senado-de-eu-declara-a-anthony-fauci-el-exzar-anticovid-en-desacato",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El máximo responsable de la lucha contra el covid-19 en el país norteamericano rechaza contestar las peguntas de los miembros de la comisión, controlada por legisladores republicanos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/23320df/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa1%2F3f%2F071a6ddf461abca0b5c9294738e4%2Fcomite-senado-declara-fauci-desacato.jpg",
-      "published": "2026-08-06T23:47:38+00:00",
+      "id": "1bbab2b176d209",
+      "title": "Transferencias bancarias desconocidas en tu cuenta: Por qué un malware en Android podría ser el culpable de las pérdidas",
+      "url": "https://www.fayerwayer.com/internet/2026/08/07/transferencias-bancarias-desconocidas-en-tu-cuenta-por-que-un-malware-en-android-podria-ser-el-culpable-de-las-perdidas/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Descubre cómo operan los troyanos bancarios en Android para realizar transferencias no autorizadas, interceptar SMS de verificación y vulnerar tus cuentas.",
+      "image": "https://www.fayerwayer.com/resizer/v2/PNRKGDRNKBFE5EW3GZQ7NLAUHY.png?auth=1b2e755dc0979fb91224e1a208987ed296aabc6ddaac02c70d7e7a4afbd719bf&smart=true&width=1640&height=924",
+      "published": "2026-08-07T01:51:31+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "c384efdaa1bffd",
-      "title": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
-      "url": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
-      "source": "Expansión",
+      "id": "0d0e5be4dcef84",
+      "title": "Quién responde cuando una inteligencia artificial recomienda mal un producto",
+      "url": "https://www.merca20.com/quien-responde-cuando-una-inteligencia-artificial-recomienda-mal-un-producto/?utm_source=rss&utm_medium=rss&utm_campaign=quien-responde-cuando-una-inteligencia-artificial-recomienda-mal-un-producto",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La IA ya forma parte del proceso de compra de millones de personas, sin embargo, cuando un chatbot recomienda mal un producto, la responsabilidad puede recaer en distintos actores.",
+      "image": "https://files.merca20.com/uploads/2026/08/Quien-responde-cuando-una-inteligencia-artificial-recomienda-mal-un-producto-1.jpg",
+      "published": "2026-08-07T01:05:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "439cb1e0f26bff",
+      "title": "Día Internacional de la Cerveza 2026: ¿Qué marca de cerveza eres según tu signo zodiacal? Horóscopo chelero",
+      "url": "https://www.merca20.com/dia-internacional-de-la-cerveza-2026-que-marca-de-cerveza-eres-segun-tu-signo-zodiacal-horoscopo-chelero/?utm_source=rss&utm_medium=rss&utm_campaign=dia-internacional-de-la-cerveza-2026-que-marca-de-cerveza-eres-segun-tu-signo-zodiacal-horoscopo-chelero",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "En el marco del Día Internacional de la Cerveza 2026, te presentamos un horóscopo chelero que mezcla astrología con algunas de las marcas más representativas del mercado",
+      "image": "https://files.merca20.com/uploads/2026/08/HOROSCOPO-CHELERO-CERVEZA.jpg",
+      "published": "2026-08-07T00:20:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f752b6ea110a78",
+      "title": "Las Guerreras K-Pop Demon Hunters llegan a McDonald’s: fecha de lanzamiento y costo de la Cajita Feliz",
+      "url": "https://www.merca20.com/las-guerreras-k-pop-demon-hunters-llegan-a-mcdonalds-fecha-de-lanzamiento-y-costo-de-la-cajita-feliz/?utm_source=rss&utm_medium=rss&utm_campaign=las-guerreras-k-pop-demon-hunters-llegan-a-mcdonalds-fecha-de-lanzamiento-y-costo-de-la-cajita-feliz",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Los fans de Las Guerreras K-Pop Demon Hunters ya tienen una nueva cita con McDonald's, ya que se confirmó la llegada de una edición especial de la Cajita Feliz",
+      "image": "https://files.merca20.com/uploads/2026/08/kpop-demon-mcdonalds.jpg",
+      "published": "2026-08-07T00:12:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7b393932be9dfa",
+      "title": "Por qué una vacante mal escrita puede destruir la reputación de un empleador",
+      "url": "https://www.merca20.com/por-que-una-vacante-mal-escrita-puede-destruir-la-reputacion-de-un-empleador/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-una-vacante-mal-escrita-puede-destruir-la-reputacion-de-un-empleador",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Una vacante comunica mucho más que un puesto disponible: también refleja la cultura, la transparencia y la reputación de la empresa ante candidatos y consumidores.",
+      "image": "https://files.merca20.com/uploads/2026/08/Por-que-una-vacante-mal-escrita-puede-destruir-la-reputacion-de-un-empleador-2.jpg",
+      "published": "2026-08-07T00:06:55+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "156a45fc562ed7",
+      "title": "Peter Katsis, Former Backstreet Boys Manager, Dies: Cause of Death and Net Worth",
+      "url": "https://www.merca20.com/peter-katsis-former-backstreet-boys-manager-dies-cause-of-death-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=peter-katsis-former-backstreet-boys-manager-dies-cause-of-death-and-net-worth",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "The news of Peter Katsis’ death was confirmed by a representative, sparking an outpouring of condolence messages",
+      "image": "https://files.merca20.com/uploads/2026/08/Peter-Katsis-Gemini-AI.jpg",
+      "published": "2026-08-07T00:05:55+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4265788378bc51",
+      "title": "Los canales invisibles que definen el consumo de belleza de la Gen Z y Gen Alpha",
+      "url": "https://www.merca20.com/los-canales-invisibles-que-definen-el-consumo-de-belleza-de-la-gen-z-y-gen-alpha/?utm_source=rss&utm_medium=rss&utm_campaign=los-canales-invisibles-que-definen-el-consumo-de-belleza-de-la-gen-z-y-gen-alpha",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El nuevo equivalente al consejo de una amiga está ocurriendo en espacios como comentarios, grupos privados, Reddit, Discord o chats entre consumidores.",
+      "image": "https://files.merca20.com/uploads/2025/11/maquillaje.jpg",
+      "published": "2026-08-07T00:02:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "56df73ae29fbb9",
+      "title": "El diablo viste a la moda… y compra en el ecommerce",
+      "url": "https://altonivel.com.mx/el-diablo-viste-a-la-moda-y-compra-en-el-ecommerce/",
+      "source": "Alto Nivel",
       "category": "coaching",
-      "summary": "Ricardo Salinas Pliego, Germán Larrea y hasta Carlos Slim decidieron que su formación universitaria fuera en instituciones mexicanas sobre las internacionales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/da89979/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9e%2Fda%2Fd47aaacd439c9157ff295ef94ed8%2Fen-que-universidades-estudiaron-los-empresarios-mas-importantes-de-mexico.jpg",
-      "published": "2026-08-06T23:34:33+00:00",
+      "summary": "La IA, las redes sociales y la omnicanalidad están transformando la forma en que los mexicanos compran moda. De cara a Hot Fashion 2026, las marcas compiten cada vez más por ofrecer inspiración, personalización y experie…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/El-diablo-viste-a-la-moda-ecommerce.webp",
+      "published": "2026-08-07T00:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -181,30 +241,6 @@
       "summary": "OpenAI está lista para sorprender a medio mundo con su primer dispositivo con IA. Tras meses de rumores y especulaciones, la compañía debutará un altavoz inteligente con ChatGPT que se aleja de todos los productos de est…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Homepod-chatgpt-scaled-1.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1",
       "published": "2026-08-06T23:10:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5228a62a10743e",
-      "title": "Falleció Tomás Parra, pintor y escultor de la Generación de la Ruptura",
-      "url": "https://expansion.mx/tendencias/2026/08/06/fallecio-tomas-parra-pintor-escultor-generacion-ruptura",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Parra fue representante del movimiento conocido como Generación de la Ruptura, que surgió tras el auge del Muralismo Mexicano.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/4542558/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F40%2F92%2F15ac863841bab85c3018dd900714%2Fmuere-tomas-parra-pintor-escultor-2.jpg",
-      "published": "2026-08-06T23:04:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3e6d32c1770345",
-      "title": "El IECM ofrece información a las personas interesadas en una candidatura sin partido",
-      "url": "https://expansion.mx/tendencias/2026/08/06/iecm-ofrece-informacion-candidatura-sin-partido",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "En el micrositio Ruta Indi están disponibles las herramientas para completar el registro independiente para cargos de elección popular en concejalías, diputaciones locales y la diputación migrante.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/1312b54/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb7%2F6c%2Ff86218814f4f859ae9ab1c1685ff%2Fiecm-ruta-indi-4.jpeg",
-      "published": "2026-08-06T23:02:42+00:00",
       "score": null,
       "tags": []
     },
@@ -257,50 +293,14 @@
       "tags": []
     },
     {
-      "id": "3f72801f097a54",
-      "title": "Los usuarios dejan atrás el triple play y presionan los ingresos de Totalplay",
-      "url": "https://expansion.mx/empresas/2026/08/06/mexicanos-dicen-adios-triple-play-total-play-ingresos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La migración de los usuarios hacia paquetes de doble play y el avance del streaming presionan el ingreso por usuario y el crecimiento del negocio residencial de la empresa de Grupo Salinas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8356205/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa6%2F4e%2Fb44220ed4943a9651e5a57f6f5fe%2Ftotalplay-simetrico.jpg",
-      "published": "2026-08-06T22:38:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1b6da90b52b5ad",
-      "title": "DAISO entra a México con un plan para abrir cinco tiendas antes de que termine el año",
-      "url": "https://expansion.mx/empresas/2026/08/06/daiso-llega-mexico-primeras-tiendas-expansion-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "DAISO iniciará operaciones en México con dos tiendas en el Estado de México y un plan para cerrar 2026 con cinco sucursales como parte de su expansión en América Latina.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b7a410c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa6%2Fea%2F81e5a5b7437fb9a89a4d315ce2bf%2Ffachada-tienda-daiso.jpg",
-      "published": "2026-08-06T22:32:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "37d696a29e3e0b",
-      "title": "Hacienda recorta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
-      "url": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La petrolera reporta menos recursos para apoyos financieros y para el desarrollo de infraestructura. También se registran descensos en presupuesto para infraestructura ferroviaria y carretera.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/1e8c725/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd2%2F88%2Fdc64083e45fab8327ce106991520%2F10-tren-mexico-queretaro-1063986-trabajos-tren-mexico-web.jpeg",
-      "published": "2026-08-06T22:26:40+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "80eca56d3c874e",
-      "title": "Donald Trump firma decreto para frenar el presunto \"turismo de nacimiento\"",
-      "url": "https://expansion.mx/mundo/2026/08/06/donald-trump-firma-decreto-para-frenar-el-presunto-turismo-de-nacimiento",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La medida se trata de un nuevo intento del presidente por restringir el derecho a la ciudadanía estadounidense por nacimiento, después de la negativa de la Suprema Corte.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/818e061/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb0%2F43%2F16a1f4484c64a1f78449f3a5a17d%2Ftrump-decreto-turismo-nacimiento.jpg",
-      "published": "2026-08-06T22:26:32+00:00",
+      "id": "bd7fa56dbe542f",
+      "title": "¿Cuánto sabes sobre Spider-Man?",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/08/06/cuanto-sabes-sobre-spider-man/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Spider-Man ha protagonizado cómics, series, películas y videojuegos y se ha convertido en uno de los superhéroes más populares del mundo.",
+      "image": "https://www.fayerwayer.com/resizer/v2/NBLASAMDQJCUTNOQXDXN4UW4LY.jpeg?auth=1fcde5d5eacffdf2ecda3df23a68d604c3faa2fe86039e763141e2723971968a&smart=true&width=1044&height=654",
+      "published": "2026-08-06T22:36:54+00:00",
       "score": null,
       "tags": []
     },
@@ -325,18 +325,6 @@
       "summary": "La forma de consumir cerveza está cambiando. Para los Millennials y la Generación Z, el precio y la marca ya no son el único factor de decisión",
       "image": "https://files.merca20.com/uploads/2026/08/CERVEZA_.jpg",
       "published": "2026-08-06T22:20:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c2d6e6279e8974",
-      "title": "Las 72 horas que pueden salvar tu línea celular si no haces el registro telefónico a tiempo",
-      "url": "https://expansion.mx/empresas/2026/08/06/72-horas-pueden-salvar-linea-telefonica-si-no-haces-registro",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Llamadas, SMS y datos móviles podrían quedar inhabilitados para quienes no registren su línea, pero la CRT dará hasta 3 días para evitar la suspensión.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/81a5613/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa2%2F3b%2F70a671ff48e5bea3ab861c2e212f%2Foffice-woman-phone.jpg",
-      "published": "2026-08-06T22:17:46+00:00",
       "score": null,
       "tags": []
     },
@@ -377,42 +365,6 @@
       "tags": []
     },
     {
-      "id": "9c5178ec16bc16",
-      "title": "Elektra remata pantalla Hisense de 100 pulgadas 4K; brinda imágenes realistas y gran nivel de detalle",
-      "url": "https://www.merca20.com/elektra-remata-pantalla-hisense-de-100-pulgadas-4k-brinda-imagenes-realistas-y-gran-nivel-de-detalle/?utm_source=rss&utm_medium=rss&utm_campaign=elektra-remata-pantalla-hisense-de-100-pulgadas-4k-brinda-imagenes-realistas-y-gran-nivel-de-detalle",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Uno de los principales atractivos del modelo es su panel QLED de 100 pulgadas, diseñado para ofrecer colores intensos, mayor brillo y un nivel de contraste que mejora la experiencia visual",
-      "image": "https://files.merca20.com/uploads/2026/08/elektra-pantalla-hisense.jpg",
-      "published": "2026-08-06T22:13:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ef4b2758380d94",
-      "title": "La IA dejó de ser una apuesta: startup Vambe abre el debate sobre el futuro de los negocios",
-      "url": "https://www.merca20.com/la-ia-dejo-de-ser-una-apuesta-startup-vambe-abre-el-debate-sobre-el-futuro-de-los-negocios/?utm_source=rss&utm_medium=rss&utm_campaign=la-ia-dejo-de-ser-una-apuesta-startup-vambe-abre-el-debate-sobre-el-futuro-de-los-negocios",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La empresa especializada en IA conversacional realizará su primer evento anual “Inside Vambe 2026”, que reunirá a líderes del ecosistema para analizar cómo esta tecnología está cambiando la forma en que las empresas vend…",
-      "image": "https://files.merca20.com/uploads/2026/08/WhatsApp-Image-2026-08-06-at-2.57.20-PM.jpeg",
-      "published": "2026-08-06T22:12:40+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8cbf45c3b0b873",
-      "title": "Alertan por brote de salmonela relacionado con chiles jalapeños provenientes de Sinaloa",
-      "url": "https://www.merca20.com/alertan-por-brote-de-salmonela-relacionado-con-chiles-jalapenos-provenientes-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=alertan-por-brote-de-salmonela-relacionado-con-chiles-jalapenos-provenientes-de-sinaloa",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La investigación apunta a jalapeños cultivados en Sinaloa y distribuidos por Coast Citrus Distributors, productos que llegaron principalmente a cadenas de restaurantes como Chipotle Mexican Grill y QDOBA Mexican Eats.",
-      "image": "https://files.merca20.com/uploads/2026/08/bigstock-Red-and-Green-Chillies-17081336.jpg",
-      "published": "2026-08-06T22:08:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "98f8d56d0acf3c",
       "title": "Delta pone en números el costo de su crisis de reputación tras el apagón de CrowdStrike",
       "url": "https://ilifebelt.com/delta-pone-en-numeros-el-costo-de-su-crisis-de-reputacion-tras-el-apagon-de-crowdstrike/2026/08/",
@@ -425,18 +377,6 @@
       "tags": []
     },
     {
-      "id": "aaee6a15163886",
-      "title": "Todas las entidades de Cuba a las que Estados Unidos ha sancionado",
-      "url": "https://expansion.mx/mundo/2026/08/06/todas-las-entidades-de-cuba-a-las-que-estados-unidos-ha-sancionado",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Washington emite nuevos castigos dirigidos a funcionarios y entidades de defensa de la isla, en una nueva presión a las autoridades castristas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/53ca138/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fad%2Fd8%2Ff055f93f44feb18927f5fe7c7274%2Fsanciones-estados-unidos.jpg",
-      "published": "2026-08-06T21:51:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2b59e0232ecae7",
       "title": "Decathlon ha llevado su experiencia al diseño de un traje espacial europeo. Y de momento todo va viento en popa",
       "url": "https://www.xataka.com/espacio/decathlon-ha-llevado-su-experiencia-al-diseno-traje-espacial-europeo-momento-todo-va-viento-popa",
@@ -445,54 +385,6 @@
       "summary": "Hay empresas que uno espera encontrar en una misión espacial y otras que, al menos de entrada, parecen pertenecer a otro mundo. Decathlon pertenece claramente al segundo grupo. La tenemos asociada al deporte cotidiano, a…",
       "image": "https://i.blogs.es/2ca8b2/eurosuit/1024_2000.jpeg",
       "published": "2026-08-06T21:50:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fbeed79f6dd615",
-      "title": "Amazon tiene a precio especial la mochila de Coca-Cola para el regreso a clases 2026; contiene logotipo y aplicaciones decorativas",
-      "url": "https://www.merca20.com/amazon-tiene-a-precio-especial-la-mochila-de-coca-cola-para-el-regreso-a-clases-2026-contiene-logotipo-y-aplicaciones-decorativas/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-tiene-a-precio-especial-la-mochila-de-coca-cola-para-el-regreso-a-clases-2026-contiene-logotipo-y-aplicaciones-decorativas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Uno de los artículos que será indispensable para el inicio del ciclo escolar 2026-2027 es la mochila, por lo que Amazon tiene a precio especial la mochila de Coca-Cola de la marca Nicole Lee",
-      "image": "https://files.merca20.com/uploads/2026/08/MOCHILA-COCA-COLA-AMAZON.jpg",
-      "published": "2026-08-06T21:48:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2dfc1210aa1bf7",
-      "title": "¿Quiénes son los dueños de AEW? Historia de la familia que también ha invertido en la NFL y el futbol inglés",
-      "url": "https://expansion.mx/tendencias/2026/08/06/quienes-son-duenos-aew-historia-familia-invertido-nfl-futbol",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "AEW realizó un evento en México en su búsqueda por consolidarse en el gusto del público. Ésta es su historia.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8f65a1c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fed%2F74%2Feaee64374d4db1d6d979dc929247%2F7.jpeg",
-      "published": "2026-08-06T21:47:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e29fb860bdd327",
-      "title": "Grown Ups 3: Netflix confirms the cast! Who’s returning?",
-      "url": "https://www.merca20.com/grown-ups-3-netflix-confirms-the-cast-whos-returning/?utm_source=rss&utm_medium=rss&utm_campaign=grown-ups-3-netflix-confirms-the-cast-whos-returning",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Grown Ups 3 is officially underway, and Netflix has begun revealing the first details about the new Adam Sandler film",
-      "image": "https://files.merca20.com/uploads/2026/08/Grown-Ups-3.jpg",
-      "published": "2026-08-06T21:46:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7c3b677c3e6744",
-      "title": "Nintendo dispara sus ganancias con Switch 2 y Mario: la nueva consola impulsa el negocio de la compañía",
-      "url": "https://www.merca20.com/nintendo-dispara-sus-ganancias-con-switch-2-y-mario-la-nueva-consola-impulsa-el-negocio-de-la-compania/?utm_source=rss&utm_medium=rss&utm_campaign=nintendo-dispara-sus-ganancias-con-switch-2-y-mario-la-nueva-consola-impulsa-el-negocio-de-la-compania",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El lanzamiento de Nintendo Switch 2 y el fenómeno cinematográfico de Mario impulsaron las ganancias de Nintendo más de 50% durante el último trimestre.",
-      "image": "https://files.merca20.com/uploads/2026/05/Nintendo-RT-logo.jpg",
-      "published": "2026-08-06T21:45:39+00:00",
       "score": null,
       "tags": []
     },
@@ -517,42 +409,6 @@
       "summary": "Nunca había sido tan fácil producir, modificar y distribuir información a gran escala. Hoy, una imagen, un audio o un vídeo pueden crearse mediante inteligencia artificial en cuestión de minutos y difundirse globalmente …",
       "image": null,
       "published": "2026-08-06T21:19:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5bcd4041bdda6f",
-      "title": "Bayer prueba una fórmula para producir más maíz con menos recursos",
-      "url": "https://expansion.mx/empresas/2026/08/06/bayer-abre-primera-granja-futuro-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El proyecto operará en 70 hectáreas de Rancho Hontoria y combinará semillas, herramientas digitales y manejo del agua; Bayer evaluará los resultados antes de replicarlo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/706f9b9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8d%2F3a%2Fc7d3ad524d2eaefe6ec67cd134a0%2Fbayer-prueba-en-queretaro-si-la-agricultura-regenerativa-puede-ser-rentable.jpeg",
-      "published": "2026-08-06T21:13:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8039d76021a1d3",
-      "title": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-      "url": "https://expansion.mx/economia/2026/08/06/transferir-a-nu-desde-otro-banco-cambio",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/acecf5d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6a%2F2e%2F098dcf4c42508c1e5505493b7cb9%2Fnu.jpg",
-      "published": "2026-08-06T20:50:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "200d4fda5582ae",
-      "title": "Los 10 autos más vendidos en México en 2026: cuánto cuestan del Nissan Versa al Hyundai Grand i10",
-      "url": "https://expansion.mx/empresas/2026/08/06/nissan-versa-hyundai-i10-cuanto-cuestan-autos-mas-vendidos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Sedanes, hatchbacks, SUV y camionetas integran el grupo de los modelos más vendidos del país, una diferencia que también se refleja en el presupuesto necesario para comprar cada uno.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d91d746/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd7%2F0a%2Fe5274c9849fc9e838bca069296cd%2Fnissan-versa-hyundai-i10-cuanto-cuestan-autos-mas-vendidos.jpg",
-      "published": "2026-08-06T20:35:17+00:00",
       "score": null,
       "tags": []
     },
@@ -833,6 +689,18 @@
       "tags": []
     },
     {
+      "id": "dd3d791700d15b",
+      "title": "GTA VI cambió las reglas de los videojuegos: costos, jugabilidad, diseño y más",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/08/06/gta-vi-cambio-las-reglas-de-los-videojuegos-costos-jugabilidad-diseno-y-mas/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "GTA VI revoluciona la industria con su presupuesto récord, realismo, precio, jugabilidad y un nivel técnico que ya cambió el mercado.",
+      "image": "https://www.fayerwayer.com/resizer/v2/ARG7F4RP3RCIFF5UKDZQ6OZVWY.jpeg?auth=db445597ee9a8440c18f623c1c7286bdaad32a99a37b7e00d2318945c2d15684&smart=true&width=3840&height=1970",
+      "published": "2026-08-06T16:25:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "df55fe137fd764",
       "title": "Hoy en Aldi, las gafas homologadas para ver el eclipse a mitad de precio",
       "url": "https://www.xataka.com/seleccion/hoy-aldi-gafas-homologadas-para-ver-eclipse-a-mitad-precio",
@@ -989,6 +857,18 @@
       "tags": []
     },
     {
+      "id": "3cacf50635da8d",
+      "title": "Google, Meta y Apple acumulan 8,000 mdd en multas: las regulaciones también llegan a México",
+      "url": "https://expansion.mx/tecnologia/2026/08/06/google-meta-y-apple-multas-78-000-mdd-en-multas-cambios",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La Unión Europea es la región más dura con las Big Tech y sus reglamentos y medidas tienen incidencia sobre la operación de las empresas a nivel mundial.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d127289/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff5%2F3e%2F97bd7e9d461f87c11610286db47f%2Fmultas-ue-big-tech.jpg",
+      "published": "2026-08-06T12:40:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "e55d50664f7041",
       "title": "Sony prepara PS5, y a los compradores, para el fin de los discos",
       "url": "https://www.muycomputer.com/2026/08/06/sony-prepara-ps5-y-a-los-compradores-para-el-fin-de-los-discos/",
@@ -1001,6 +881,18 @@
       "tags": []
     },
     {
+      "id": "218bf9422e42ac",
+      "title": "Afore o Plan Personal para el Retiro: cuál conviene más para tu jubilación",
+      "url": "https://expansion.mx/finanzas-personales/2026/08/06/donde-conviene-invertir-afore-ppr-herramientas-trabajadores",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Ambos instrumentos ayudan a ahorrar para el retiro, pero difieren en la forma de invertir, las aportaciones y los incentivos fiscales que ofrecen a los trabajadores.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b138ad7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F99%2F50%2Fdbaafaba4ee6acb3c5c07038a149%2F5-istock-1331205980-1.jpeg",
+      "published": "2026-08-06T11:55:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "823b31077d6e80",
       "title": "El mejor emulador de PS3, RPCS3, rinde mejor con Linux, pero el 90% de sus usuarios utilizan Windows",
       "url": "https://www.muycomputer.com/2026/08/06/el-mejor-emulador-de-ps3-rpcs3-rinde-mejor-con-linux-pero-el-90-de-sus-usuarios-utilizan-windows/",
@@ -1009,6 +901,18 @@
       "summary": "RPCS3 es, sin ningún género de duda, el mejor emulador de PS3, y también está optimizado para rendir mejor con Linux. Sin embargo, a pesar de ese alto grado de optimización para Linux, el 90% de las personas que lo utili…",
       "image": null,
       "published": "2026-08-06T11:11:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d5743be761e839",
+      "title": "La fiscalización del SAT pierde fuerza y recauda 49% menos por cada auditoría",
+      "url": "https://expansion.mx/economia/2026/08/06/sat-ingresos-fiscalizacion-agotan-cobro-auditoria-cae-49",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Aunque aumentó el número de actos de fiscalización, el SAT obtuvo menos recursos por cada auditoría en el primer semestre. Especialistas atribuyen la caída al agotamiento de las grandes regularizaciones.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/bc740d5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb1%2F7b%2Ff834fa46487da361bdcba8f43738%2F1-sat-300523-ahp-4.jpeg",
+      "published": "2026-08-06T11:05:01+00:00",
       "score": null,
       "tags": []
     },
@@ -1133,6 +1037,114 @@
       "tags": []
     },
     {
+      "id": "8ce0d64de1310e",
+      "title": "La mina más importante de Peñoles: el negocio que genera millones para los Bailleres",
+      "url": "https://expansion.mx/empresas/2026/08/05/mina-mas-importante-penoles-negocio-millones-bailleres",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Ubicada en Sonora, Herradura procesa más mineral que cualquier otra operación del grupo y es uno de los activos que sostienen el negocio minero de la familia Baillères.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6da8621/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F69%2F69%2F843905f34e9ba6e4be3d6ee8ae0a%2Fistock-1009715960.jpg",
+      "published": "2026-08-06T01:31:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "600a09a301cce6",
+      "title": "FIFA reconoce los errores cometidos en la iniciativa FFE",
+      "url": "https://expansion.mx/tendencias/2026/08/05/fifa-reconoce-errores-cometidos-iniciativa-ffe",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El organismo reconoció las fallas que se cometieron durante el proceso de iniciativa propuesto por Gianni Infantino.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/19c3c3f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F1b%2Fc1cc83724fafb04bdda3019036c5%2F4-gettyimages-2245218789.jpeg",
+      "published": "2026-08-06T00:55:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "295263d8b700e9",
+      "title": "La marca que ayuda a Walmart a vender más barato sin fabricar un solo producto",
+      "url": "https://expansion.mx/empresas/2026/08/05/historia-great-value-marca-walmart-vender-mas-barato",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Hoy es la marca propia más importante de Walmart, está presente en nueve de cada 10 hogares de Estados Unidos y es la principal apuesta para las tiendas de México.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d8518db/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fef%2F09%2Fc981b8374ea980b7bcfecbfa6c13%2Fistock-2261897050.jpg",
+      "published": "2026-08-06T00:08:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ac15473d6ed973",
+      "title": "“¿Qué culpa tienen otras empresas?”: CNA rechaza generalizar el caso de la lechuga de Taylor Farms",
+      "url": "https://expansion.mx/empresas/2026/08/05/cna-rechaza-generalizar-caso-lechuga-taylor-farms",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Consejo Nacional Agropecuario afirma que las pruebas realizadas en México no detectaron Cyclospora cayetanensis en muestras analizadas y pide evitar afectaciones a productores que cumplen con estándares de calidad.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7238bbe/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F20%2Ff6%2Fa3c6e4a94e3d961e5536ad083a75%2Fimg-8602.jpeg",
+      "published": "2026-08-05T23:42:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c658e59b7c145e",
+      "title": "Los inversionistas buscan oportunidades más baratas fuera de Wall Street",
+      "url": "https://expansion.mx/mercados/2026/08/05/inversionistas-oportunidades-baratas-fuera-wall-street",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las acciones fuera de Estados Unidos cotizan con descuentos de hasta 45% y ya superan a Wall Street, aunque el mercado estadounidense conserva el dominio de los índices globales.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2b504b2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4b%2Fbc%2Fdbbc849c4276b357edb4b7ed97ed%2Finversionistas-buscan-oportunidades-fuera-de-wall-street.jpeg",
+      "published": "2026-08-05T23:30:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7100b5d6fc6f0e",
+      "title": "¿Cuánto tiempo de mandato le falta a Daniel Ortega en Nicaragua?",
+      "url": "https://expansion.mx/mundo/2026/08/05/cuando-debe-terminar-mandato-daniel-ortega",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El presidente de Nicaragua lleva casi dos décadas ininterrumpidas al frente del país centroamericano. Ahora busca terminar con cualquier tipo de elección.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d686df1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd8%2F4c%2F5afdcce34f0aaa347e10febd07fe%2Fcuanto-dura-mandato-daniel-ortega.jpeg",
+      "published": "2026-08-05T23:09:14+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cd041f329495a6",
+      "title": "Anthropic crea un equipo para diseñar sus propios chips de IA",
+      "url": "https://expansion.mx/tecnologia/2026/08/05/anthropic-crea-un-equipo-para-disenar-sus-propios-chips-de-ia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El auge de la inteligencia artificial ha llevado a las tecnológicas a competir también por el hardware. Anthropic ahora desarrollará chips propios para fortalecer la infraestructura que soporta a Claude.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5eca4d5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8a%2F3d%2F3b4a338f497fbd5fb3c3e7d4021f%2F2-afp-20260610-boivin-notitle260610-nprtb-v1-highres-photoillustrationsanthropicu.jpeg",
+      "published": "2026-08-05T23:00:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "21ec9e579f3ad8",
+      "title": "Si tu celular termina en 0, 1 o 2, esto pasará con WhatsApp y Uber si no registras tu línea",
+      "url": "https://expansion.mx/empresas/2026/08/05/celular-termina-0-1-2-que-pasara-whatsapp-uber-registro",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las primeras líneas podrían ser suspendidas en agosto, afectando aplicaciones que utilizan SMS o llamadas para autenticar usuarios.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6bdfa66/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fba%2Fe0%2Fcb123c174321aef314f7f6b921e4%2Fistock-2228637148.jpg",
+      "published": "2026-08-05T22:49:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bda722eecf66fc",
+      "title": "Pemex avanza solo en 4 de 9 contratos mixtos; la estrategia para elevar la producción petrolera sigue sin sumar barriles",
+      "url": "https://expansion.mx/empresas/2026/08/05/pemex-dio-nueve-contratos-empresas-privadas-ninguna-suma",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "De un total de 21 contratos mixtos que Pemex contemplaba adjudicar para aumentar su producción, solo 9 han logrado ser firmados y 11 ni siquiera han anunciado en proceso de adjudicación.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/24552d0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff3%2Fcc%2F954e05a84f87beccf41244b65c9b%2Fimg-8600.jpeg",
+      "published": "2026-08-05T22:46:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "ce910b2aaddb48",
       "title": "(Clase en vivo) ACT con niños: lo que cambia cuando el paciente tiene 8 años",
       "url": "https://www.psyciencia.com/infancias-act-una-clase-con-geraldine-panelli/",
@@ -1145,6 +1157,30 @@
       "tags": []
     },
     {
+      "id": "bb31ac57b60420",
+      "title": "La libreta que cambió la vida de Carlos Slim y dio origen a su fortuna de 128,000 millones de dólares",
+      "url": "https://expansion.mx/empresas/2026/08/05/libreta-carlos-slim-fortuna-128-mil-millones",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Antes de comprar acciones a los 12 años y décadas antes de adquirir Telmex, Carlos Slim aprendió una rutina que moldeó su forma de administrar el dinero y hacer negocios.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9024266/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fba%2F0f%2Fb08305334da782e62f185b042415%2Fcarso.jpeg",
+      "published": "2026-08-05T22:21:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "658f20ef76411c",
+      "title": "La masificación del internet satelital convirtió a Starlink en el motor financiero de SpaceX",
+      "url": "https://expansion.mx/empresas/2026/08/05/starlink-genera-mas-dinero-cohetes-spacex",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Starlink ya genera el 55% de las ventas de SpaceX gracias a una estrategia de expansión global basada en reducción de precios, nuevos mercados, contratos con gobiernos y empresas, a pesar de reducir su ARPU.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/8f19be1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1c%2Ff8%2F7adf70f64b3fadb5f8f549cd3384%2Fstarlink-fue-obsesion-otro-antes-elon-musk.jpg",
+      "published": "2026-08-05T22:16:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "a5f8734f74580a",
       "title": "El error del puerto y la estática: Los hábitos que están destruyendo tu memoria USB sin que lo sepas",
       "url": "https://www.fayerwayer.com/internet/2026/08/05/el-error-del-aeropuerto-y-la-estatica-los-habitos-que-estan-destruyendo-tu-memoria-usb-sin-que-lo-sepas/",
@@ -1153,6 +1189,18 @@
       "summary": "A pesar de la masificación del almacenamiento en la nube, las memorias USB siguen siendo fundamentales para transportar datos.",
       "image": "https://www.fayerwayer.com/resizer/v2/HNMA5LBJKNCHPC4LQBPWUW3S3Y.png?auth=c0c6ec47048bb8a8aa73458abff7c464018fde572ba8d644bb04e9e5325c2f7e&smart=true&width=1640&height=924",
       "published": "2026-08-05T22:03:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "877dc62112d8c2",
+      "title": "“Utilizaron mi cara para promocionar remedios falsos”: influencers hechos con IA venden una falsa idea de bienestar",
+      "url": "https://expansion.mx/tecnologia/2026/08/05/influencers-hechos-ia-venden-idea-falsa-bienestar",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La facilidad de crear influencers con IA a bajo costo, incentiva la desinformación y compromete el bienestar de los usuarios, debido a que facilita la difusión masiva de consejos de salud sin evidencia científica.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/013f890/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F62%2F3a%2Fe813ad514b59af2aaa724805323c%2Finfluencers-comprometen-la-salud-de-usuarios.jpeg",
+      "published": "2026-08-05T22:00:39+00:00",
       "score": null,
       "tags": []
     },
@@ -1241,18 +1289,6 @@
       "tags": []
     },
     {
-      "id": "0ea9a60cca8fc8",
-      "title": "UNAM publica puntajes para el examen de control y rompe contrato con Territorium tras crisis por IA",
-      "url": "https://altonivel.com.mx/unam-publica-puntajes-para-el-examen-de-control-y-rompe-contrato-con-territorium-tras-crisis-por-ia/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La UNAM publicó los puntajes que definirán quiénes presentarán el examen presencial de control y anunció el fin de su contrato con Territorium Life, además de auditorías por las presuntas irregularidades detectadas. The …",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/UNAM.webp",
-      "published": "2026-08-05T19:14:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6a48ca6beef39c",
       "title": "El comentario que hundió la reputación de un restaurante argentino en Veracruz",
       "url": "https://ilifebelt.com/el-comentario-que-hundio-la-reputacion-de-un-restaurante-argentino-en-veracruz/2026/08/",
@@ -1273,6 +1309,18 @@
       "summary": "Una reseña negativa, una noticia antigua, un vídeo viral o una campaña de desinformación pueden tener hoy un impacto económico inmediato sobre una empresa. En un contexto en el que clientes, inversores y empleados buscan…",
       "image": null,
       "published": "2026-08-05T18:34:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "476d09162edeec",
+      "title": "¿Telegram desapareció de la tienda Apple? Esto ocurrió con la app",
+      "url": "https://www.fayerwayer.com/moviles/2026/08/05/telegram-desaparecio-de-la-tienda-apple-esto-ocurrio-con-la-app/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Telegram fue retirada temporalmente de la App Store de Apple por contenido sensible. Minutos después, la aplicación volvió a estar disponible.",
+      "image": "https://www.fayerwayer.com/resizer/v2/PQMNSWNSGNGR7BDUPQG4G5WO6M.png?auth=da5e3fe856c01cc6a8e912686deccc28bb9dd5c171d6091a65ab15633cf228cf&smart=true&width=777&height=396",
+      "published": "2026-08-05T18:08:40+00:00",
       "score": null,
       "tags": []
     },
@@ -1361,18 +1409,6 @@
       "tags": []
     },
     {
-      "id": "1f24934c773e4a",
-      "title": "Alerta máxima en el hotel: Microsoft revela cómo hackers rusos usan el Wi-Fi público para espiar y robar contraseñas",
-      "url": "https://www.fayerwayer.com/internet/2026/08/05/alerta-maxima-en-el-hotel-microsoft-revela-como-hackers-rusos-usan-el-wi-fi-publico-para-espiar-y-robar-contrasenas/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El equipo de inteligencia de amenazas de Microsoft detectó una campaña global bautizada como \"CaptiveCrunch\".",
-      "image": "https://www.fayerwayer.com/resizer/v2/GMRWMFKZ25HXLLG4SMRJ5UCGTM.png?auth=a1029c919a268677e6bedbc04a8c9bc2550a60186b43dce5fc3adcf1c9cc0f87&smart=true&width=1920&height=1080",
-      "published": "2026-08-05T00:59:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f62fbcaca55a29",
       "title": "La reputación empresarial ya no empieza cuando habla el CEO; empieza cuando hablan los empleados",
       "url": "https://ilifebelt.com/la-reputacion-empresarial-ya-no-empieza-cuando-habla-el-ceo-empieza-cuando-hablan-los-empleados/2026/08/",
@@ -1393,18 +1429,6 @@
       "summary": "Una buena reputación puede tomar años en construirse. Sin embargo, una campaña coordinada de comentarios negativos puede afectar la confianza de los clientes en cuestión de horas. Para muchas empresas, Google es el prime…",
       "image": null,
       "published": "2026-08-05T00:28:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f1c3356b3fe794",
-      "title": "Estudio: lectores prefieren historias escritas por inteligencia artificial",
-      "url": "https://www.fayerwayer.com/internet/2026/08/05/estudio-lectores-prefieren-historias-escritas-por-inteligencia-artificial/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La investigación encontró que los textos generados por IA recibieron mejores calificaciones que los escritos por humanos",
-      "image": "https://www.fayerwayer.com/resizer/v2/AQVDXH5FMNFOLIZOR3P3IWOGSE.jpg?auth=9a097efceaf15e1a180109936fb47d995d774566ed7fecbdc243a60de0b17719&smart=true&width=5152&height=3440",
-      "published": "2026-08-05T00:25:59+00:00",
       "score": null,
       "tags": []
     },
@@ -1477,30 +1501,6 @@
       "summary": "Durante mucho tiempo he usado habitualmente el primer Kindle Scribe: ha sido el lector que más he utilizado estando en casa (por su tamaño, no es el más cómodo de llevar de un lado para otro), tanto para leer como para t…",
       "image": null,
       "published": "2026-08-04T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b7b17671ad3710",
-      "title": "Telegram desaparece misteriosamente de la App Store, ¿fue censura, ataque o una falla de Apple?",
-      "url": "https://www.fayerwayer.com/moviles/2026/08/04/telegram-desaparece-misteriosamente-de-la-app-store-fue-censura-ataque-o-una-falla-de-apple/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Telegram desapareció temporalmente de la App Store de Apple y después fue restaurada; revisa si se trató de censura, ataque o una falla",
-      "image": "https://www.fayerwayer.com/resizer/v2/6WEYKA4CWZCAXGAPEKB4QT5DAQ.jpg?auth=1fa405eb439900be5414b22b38b2f6c347473f1bb92ce84d84afe8da08e4fb9b&smart=true&width=1300&height=780",
-      "published": "2026-08-04T02:51:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "16e590d96c74bc",
-      "title": "¿Llamadas y videollamadas en WhatsApp Web? Así funcionará la nueva actualización",
-      "url": "https://www.fayerwayer.com/moviles/2026/08/03/llamadas-y-videollamadas-en-whatsapp-web-asi-funcionara-la-nueva-actualizacion/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La actualización incluirá Salas de Espera para controlar quién puede ingresar a una videollamada.",
-      "image": "https://www.fayerwayer.com/resizer/v2/TSQSHT353FCV5P53KDHHWQUJ5Q.jpg?auth=601e5ca1b4496f7fa503586717716fc6c9243fc2d34454c0ef39d7af9e27a98f&smart=true&width=1920&height=1080",
-      "published": "2026-08-03T23:22:35+00:00",
       "score": null,
       "tags": []
     },
@@ -1597,18 +1597,6 @@
       "summary": "Si estás buscando un libro que te mantenga en vilo hasta la última página y que a la vez te ‘devane’ los sesos, estas novelas son para ti.",
       "image": null,
       "published": "2026-08-03T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3fc290f014d14e",
-      "title": "¿Qué es Blindsight? El ojo biónico de Elon Musk que promete devolver la vista y dar “superpoderes”",
-      "url": "https://www.fayerwayer.com/internet/2026/08/03/que-es-blindsight-el-ojo-bionico-de-elon-musk-que-promete-devolver-la-vista-y-dar-superpoderes/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Blindsight es el implante cerebral de Neuralink que busca generar visión artificial en personas ciegas y promete capacidades superiores al ojo humano",
-      "image": "https://www.fayerwayer.com/resizer/v2/YH3DWPSZZ5DC3LIVRWGY2MTNCQ.jpg?auth=60e710dadfc13bef7434cb85ae64c479b84ab6c69e8aa5944a3c8f22d9b725cc&smart=true&width=1024&height=617",
-      "published": "2026-08-03T02:10:15+00:00",
       "score": null,
       "tags": []
     },

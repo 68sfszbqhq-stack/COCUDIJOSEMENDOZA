@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-08-11T01:45:04.180780+00:00",
-    "total": 198
+    "generated": "2026-08-11T07:10:03.251624+00:00",
+    "total": 168
   },
   "items": [
     {
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La irrupción de la IA agéntica representa nuevos desafíos: ya no basta con automatizar procesos, hay que definir quién controla las decisiones de los agentes autónomos, bajo qué reglas actúan y quién responde cuando esto…",
       "image": null,
-      "published": "2026-08-11T01:45:02.810961+00:00",
+      "published": "2026-08-11T07:10:01.777887+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Cuando tu cultura conecta, tu gente también lo hace. The post El liderazgo sin humanidad está fracasando — así puedes solucionarlo en 3 pasos appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-08-11T01:45:02.810453+00:00",
+      "published": "2026-08-11T07:10:01.777516+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Estas estrategias, surgidas en las primeras líneas del movimiento ambiental, también pueden aplicarse al mundo empresarial. The post No dejes que la incertidumbre te paralice: los líderes más fuertes actúan para abrirse …",
       "image": null,
-      "published": "2026-08-11T01:45:02.809983+00:00",
+      "published": "2026-08-11T07:10:01.777133+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Google ha reconstruido la Búsqueda en torno a respuestas generadas por IA y, por primera vez, publicó una guía oficial sobre cómo mantenerse visible dentro de ellas. Para las empresas, nunca antes hubo tanto en juego. Th…",
       "image": null,
-      "published": "2026-08-11T01:45:02.809487+00:00",
+      "published": "2026-08-11T07:10:01.776760+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "El colombiano Wilder Zapata levantó Action Black, una red de gimnasios con 137 ubicaciones en ocho países. The post Los clientes le pidieron abrir en Nueva York y Londres: así nació una cadena de gimnasios con 137 sedes …",
       "image": null,
-      "published": "2026-08-11T01:45:02.808987+00:00",
+      "published": "2026-08-11T07:10:01.776330+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Los hábitos de liderazgo estratégico y con propósito, practicados de forma constante, son esenciales para impulsar el éxito empresarial a largo plazo y fomentar una cultura organizacional saludable. The post Deja de pers…",
       "image": null,
-      "published": "2026-08-11T01:45:02.808432+00:00",
+      "published": "2026-08-11T07:10:01.774808+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "La eficiencia solía hacernos indispensables. Hoy nos vuelve reemplazables. En la era de la automatización, la originalidad es la única seguridad laboral que queda. The post La IA no te reemplazará — pero tu previsibilida…",
       "image": null,
-      "published": "2026-08-11T01:45:02.806994+00:00",
+      "published": "2026-08-11T07:10:01.774387+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Estoy entrando en la temporada final de mi carrera como director general de una marca nacional de servicios para el hogar. Así es como la edad y la experiencia han moldeado mis prioridades. The post Las 4 estaciones del …",
       "image": null,
-      "published": "2026-08-11T01:45:02.806476+00:00",
+      "published": "2026-08-11T07:10:01.773986+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,7 @@
       "category": "startup",
       "summary": "En esta era de la presencia, la estrategia de marketing más poderosa de todas es, simplemente, estar ahí. The post Por qué la próxima era del branding pertenece a quienes se hacen presentes appeared first on Entrepreneur…",
       "image": null,
-      "published": "2026-08-11T01:45:02.805969+00:00",
+      "published": "2026-08-11T07:10:01.773573+00:00",
       "score": null,
       "tags": []
     },
@@ -132,7 +132,163 @@
       "category": "startup",
       "summary": "Descubre cómo los chatbots pueden ampliar el alcance de tu empresa y aumentar la eficiencia en el servicio al cliente. The post Si no usas chatbots, podrías decepcionar a tus clientes. Esta es la razón appeared first on …",
       "image": null,
-      "published": "2026-08-11T01:45:02.805414+00:00",
+      "published": "2026-08-11T07:10:01.773098+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "348f7477618474",
+      "title": "Los multimillonarios buscaban un plan para el apocalipsis. Varios han acabado mirando hacia el mismo lugar: Argentina",
+      "url": "https://www.xataka.com/magnet/multimillonarios-buscaban-plan-para-apocalipsis-varios-han-acabado-mirando-lugar-argentina",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "A finales de 2023, seis amigos juntaron dinero para comprar un campo. No fue un capricho cualquiera. Buscaban algo muy concreto: un sitio donde esconderse si el mundo se rompe de verdad. Ese campo está en pleno Valle de …",
+      "image": "https://i.blogs.es/641769/peter-thiel-argentina/1024_2000.jpeg",
+      "published": "2026-08-11T07:01:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e95e094b29780d",
+      "title": "Atención no es aceptación: los anuncios que más incomodan al consumidor",
+      "url": "https://www.merca20.com/atencion-no-es-aceptacion-los-anuncios-que-mas-incomodan-al-consumidor/?utm_source=rss&utm_medium=rss&utm_campaign=atencion-no-es-aceptacion-los-anuncios-que-mas-incomodan-al-consumidor",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Para las personas actualmente un anuncio en el momento correcto puede aportar información, pero si aparece sobre el contenido que alguien intenta leer puede convertirse en una barrera.",
+      "image": "https://files.merca20.com/uploads/2026/08/bigstock-Stopping-the-domino-effect-con-73071721.jpg",
+      "published": "2026-08-11T07:00:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d1edfd63e462c4",
+      "title": "Una puerta al futuro también se abre con una computadora",
+      "url": "https://www.merca20.com/una-puerta-al-futuro-tambien-se-abre-con-una-computadora/?utm_source=rss&utm_medium=rss&utm_campaign=una-puerta-al-futuro-tambien-se-abre-con-una-computadora",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La inauguración de una Comunidad Digital nunca debe entenderse como la meta. Es apenas el inicio de una historia que escribirán quienes la hagan suya todos los días",
+      "image": "https://files.merca20.com/uploads/2024/07/DIRK-GLAS-Save-the-Children-lislas-merca20-com-Correo-de-katedranet-com-bn.jpg",
+      "published": "2026-08-11T06:35:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "153b0a23aa76b9",
+      "title": "Cómo descargarse en el móvil los mapas de la zona a la que vas a ver el eclipse de Sol de 2026",
+      "url": "https://www.xataka.com/basics/como-descargarse-movil-mapas-zona-a-que-vas-a-ver-eclipse-sol-2026",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Vamos a explicarte cómo descargar los mapas de donde vayas a ver el eclipse de Sol , de este 2026 . Cabe la posibilidad de que haya fallos de cobertura en zonas remotas o sin tan buena infraestructura por parte de las op…",
+      "image": "https://i.blogs.es/b42b0a/eclipse-conducir/1024_2000.jpeg",
+      "published": "2026-08-11T06:31:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6e29ba308c5331",
+      "title": "Cuando un like cambia una vida",
+      "url": "https://www.merca20.com/cuando-un-like-cambia-una-vida/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-un-like-cambia-una-vida",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El poder de las redes no está solamente en hacer famoso a alguien. Está en decidir, colectivamente y en cuestión de horas, quién merece nuestra atención",
+      "image": "https://files.merca20.com/uploads/2025/03/Maria-Fernanda-Ramirez-2025.jpg",
+      "published": "2026-08-11T06:30:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "78922b00381f31",
+      "title": "La falsa discusión entre la libertad de expresión y el derecho de las audiencias",
+      "url": "https://www.merca20.com/la-falsa-discusion-entre-la-libertad-de-expresion-y-el-derecho-de-las-audiencias/?utm_source=rss&utm_medium=rss&utm_campaign=la-falsa-discusion-entre-la-libertad-de-expresion-y-el-derecho-de-las-audiencias",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "No cabe duda de que todos debemos defender la libertad de expresión y preferir, como lo decía un viejo político, los excesos de libertad contra los excesos de censura",
+      "image": "https://files.merca20.com/uploads/2025/06/mauricio-carrandi.jpg",
+      "published": "2026-08-11T06:25:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "145841de6fe2f4",
+      "title": "“Ninguna disposición debe imponer condicionamientos a la difusión de información u opiniones”: AMDC",
+      "url": "https://www.merca20.com/ninguna-disposicion-debe-imponer-condicionamientos-a-la-difusion-de-informacion-u-opiniones-amdc/?utm_source=rss&utm_medium=rss&utm_campaign=ninguna-disposicion-debe-imponer-condicionamientos-a-la-difusion-de-informacion-u-opiniones-amdc",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Academia Mexicana de la Comunicación recomienda redefinir el artículo 12 del anteproyecto, para delimitar las categorías de información falsa y descontextualizada",
+      "image": "https://files.merca20.com/uploads/2021/06/350x260-Carlos-bonilla-SQ.jpg",
+      "published": "2026-08-11T06:15:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f198f1a9895437",
+      "title": "SpaceX quiere desplegar 10 GW de IA en apenas un año. SemiAnalysis ha hecho las cuentas y dice que no es una locura",
+      "url": "https://www.xataka.com/robotica-e-ia/spacex-quiere-desplegar-10-gw-ia-apenas-ano-semianalysis-ha-hecho-cuentas-dice-que-no-locura",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Elon Musk suele plantear objetivos imposibles , pero este se sale incluso de sus estándares. SpaceX (o más bien, SpaceXAI ) aspira a añadir entre 6 y 8 GW de capacidad de cómputo para IA solo durante 2027, lo que la perm…",
+      "image": "https://i.blogs.es/e29bbd/colossus-2-10gw/1024_2000.jpeg",
+      "published": "2026-08-11T06:01:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3a909fc6d439ce",
+      "title": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
+      "url": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Mancera ingresó al banco central en 1957 y estuvo al frente de la institución durante la transición que marcó el inicio de su autonomía en 1994.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/c40cc50/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4a%2F5a%2F38cbcd714befac22d5ec6c0f0a32%2Fmiguel-mancera-aguayo-dsc-0109.jpeg",
+      "published": "2026-08-11T04:13:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "761a9554b2667b",
+      "title": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "url": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/45f29dc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0e%2F44%2F34c5211b43ab9e18f3b121c56750%2Fistock-1269800276.jpg",
+      "published": "2026-08-11T02:28:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "16399df4a33ccf",
+      "title": "Errores al crear el logotipo de tu negocio que pueden costarte dinero",
+      "url": "https://www.merca20.com/errores-al-crear-el-logotipo-de-tu-negocio-que-pueden-costarte-dinero/?utm_source=rss&utm_medium=rss&utm_campaign=errores-al-crear-el-logotipo-de-tu-negocio-que-pueden-costarte-dinero",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Vas a crear el logotipo de tu negocio? Conoce 9 errores que debes evitar al diseñarlo, diferenciar tu marca y protegerla ante el IMPI.",
+      "image": "https://files.merca20.com/uploads/2026/08/Errores-al-crear-el-logotipo-de-tu-negocio-que-pueden-costarte-dinero-.jpg",
+      "published": "2026-08-11T02:05:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e24d5c62a4c52d",
+      "title": "¿Dr. Guali es el “Dr. Simi” de Perú? Las similitudes que hicieron viral a esta farmacia",
+      "url": "https://expansion.mx/tendencias/2026/08/10/dr-guali-es-el-dr-simi-de-peru-las-similitudes-que-hicieron-viral-a-esta-farmacia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La Botica del Dr. Guali se volvió viral en redes sociales por el parecido entre su personaje y la imagen de Farmacias Similares.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ea5078c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F73%2F95%2F078c836245e5956fae695cbe5e61%2Fdiseno-sin-titulo-1.png",
+      "published": "2026-08-11T01:33:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b7caaef41357a5",
+      "title": "¿Cuántos muertos van en el terremoto de Colombia? Actualización: más de 5 mil viviendas presentan daños",
+      "url": "https://www.merca20.com/cuantos-muertos-van-en-el-terremoto-de-colombia-actualizacion/?utm_source=rss&utm_medium=rss&utm_campaign=cuantos-muertos-van-en-el-terremoto-de-colombia-actualizacion",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Al menos 132 personas han muerto por el terremoto de magnitud 7.4 que sacudió el oeste de Colombia este lunes 10 de agosto",
+      "image": "https://files.merca20.com/uploads/2026/08/VIDEOS-TERREMOTO-COLOMBIA_2026-24.jpg",
+      "published": "2026-08-11T01:33:21+00:00",
       "score": null,
       "tags": []
     },
@@ -161,6 +317,18 @@
       "tags": []
     },
     {
+      "id": "52ee5479d21ebe",
+      "title": "Estadio GNP Seguros: la inversión que lo llevó a convertirse en uno de los mejores del mundo",
+      "url": "https://expansion.mx/tendencias/2026/08/10/estadio-gnp-seguros-inversion-convertirse-uno-mejores-mundo",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El recinto capitalino se ha convertido en uno de los inmuebles para conciertos más importantes en México y el mundo.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ed49121/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2Ff0%2Ffd79dafd4768878260add4b26836%2F1-estadio-gnp-1025944-record-shakira-impreso.jpeg",
+      "published": "2026-08-11T00:48:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "cdb645c570a302",
       "title": "CEOs en redes sociales: por qué los líderes empresariales están tomando el control de la conversación",
       "url": "https://ilifebelt.com/ceos-en-redes-sociales-por-que-los-lideres-empresariales-estan-tomando-el-control-de-la-conversacion/2026/08/",
@@ -181,6 +349,18 @@
       "summary": "Las macrotendencias del marketing y la publicidad en México están marcando una nueva etapa para la industria, caracterizada por la integración de tecnología, data, contenido e inteligencia artificial. En un diálogo entre…",
       "image": null,
       "published": "2026-08-11T00:21:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "89eda62a912251",
+      "title": "La mejor universidad de Latinoamérica cuesta menos que el Tec de Monterrey",
+      "url": "https://expansion.mx/carrera/2026/08/10/mejor-universidad-de-latinoamerica-cuesta-menos-el-tec",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Estudiar una carrera completa en el Tec puede representar una inversión hasta 1.25 millones de pesos mayor que hacerlo en la Pontificia Universidad Católica de Chile.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4a733cc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F92%2F50%2F902953344550beff88ab280e6c31%2Ffachadatec-0.jpg",
+      "published": "2026-08-11T00:20:46+00:00",
       "score": null,
       "tags": []
     },
@@ -233,18 +413,6 @@
       "tags": []
     },
     {
-      "id": "21d1c9ce35cf5b",
-      "title": "México perdió 19,550 empleos formales en julio; creación de plazas se desacelera en 2026",
-      "url": "https://altonivel.com.mx/mexico-perdio-19550-empleos-formales-en-julio-creacion-de-plazas-se-desacelera-en-2026/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "México perdió 19,550 empleos formales en julio, mientras que la creación de plazas en 2026 se moderó. Los salarios alcanzaron un nuevo máximo y el empleo en plataformas digitales mantuvo su expansión. The post México per…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2025/05/desempleo.webp",
-      "published": "2026-08-10T23:55:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a484caaf4ed0ce",
       "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
       "url": "https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/",
@@ -281,6 +449,18 @@
       "tags": []
     },
     {
+      "id": "99a1a2ba9674ff",
+      "title": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
+      "url": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad de las telcos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e96cbdc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8c%2Ff5%2Fbd4b89444f7eb51595cc8773aa60%2Fistock-1558254975.jpg",
+      "published": "2026-08-10T23:29:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "117ca676f6d5b2",
       "title": "¿Por qué el marketing es uno de los mejores caminos hacia el liderazgo?",
       "url": "https://www.merca20.com/por-que-el-marketing-es-uno-de-los-mejores-caminos-hacia-el-liderazgo/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-el-marketing-es-uno-de-los-mejores-caminos-hacia-el-liderazgo",
@@ -289,6 +469,18 @@
       "summary": "La tecnología puede ayudar a generar contenido, analizar información o segmentar audiencias. Lo difícil sigue siendo decidir qué significa toda esa información y qué hacer con ella.",
       "image": "https://files.merca20.com/uploads/2026/08/bigstock-Direction-Solutions-46826278.jpg",
       "published": "2026-08-10T23:20:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "36cedfe2f6027b",
+      "title": "Las 7 pick-ups más económicas de México: modelos que puedes comprar sin gastar una fortuna",
+      "url": "https://expansion.mx/empresas/2026/08/10/pick-ups-mas-economicas-mexico-modelos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Estos siete modelos destacan por la relación entre sus prestaciones y un precio relativamente accesible dentro de su segmento.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f25d84c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F32%2F4b%2Fc8cf68be4e0dbaa92793fe077289%2Fpickups-economicas-mexico.jpg",
+      "published": "2026-08-10T23:08:28+00:00",
       "score": null,
       "tags": []
     },
@@ -305,38 +497,50 @@
       "tags": []
     },
     {
-      "id": "8b132b4c546f23",
-      "title": "VKNG Group consolida su modelo de growth partner tras ser reconocido como Partner of the Year de TikTok 2026",
-      "url": "https://www.merca20.com/vkng-group-consolida-su-modelo-de-growth-partner-tras-ser-reconocido-como-partner-of-the-year-de-tiktok/?utm_source=rss&utm_medium=rss&utm_campaign=vkng-group-consolida-su-modelo-de-growth-partner-tras-ser-reconocido-como-partner-of-the-year-de-tiktok",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "VKNG Group fue reconocido con los premios TikTok Scroll Stopper y Partner of the Year durante el TikTok Creative Partner Summit LATAM 2026, celebrado en Costa Rica.",
-      "image": "https://files.merca20.com/uploads/2026/08/Nota-Merca-2.0-TT-Awards-26.jpeg",
-      "published": "2026-08-10T22:22:33+00:00",
+      "id": "b83471dcac8ed7",
+      "title": "Regreso a clases: 72% de las órdenes ya se hacen desde el celular",
+      "url": "https://expansion.mx/tecnologia/2026/08/10/regreso-a-clases-mas-padres-compran-utiles-celular",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El regreso a clases se consolida como una temporada clave para el comercio electrónico, con mayor gasto en tecnología y consumidores que combinan compras planeadas con adquisiciones de última hora.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/0986564/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffa%2F0e%2F595ee30c4201b0f2c5db0f71cfea%2Fistock-1154771654.jpg",
+      "published": "2026-08-10T22:30:51+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "19245867ac894c",
-      "title": "SEP Edomex ciclo escolar 2026-2027: La primera suspensión de labores no será en lunes",
-      "url": "https://www.merca20.com/sep-edomex-ciclo-escolar-2026-2027-la-primera-suspension-de-labores-no-sera-en-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=sep-edomex-ciclo-escolar-2026-2027-la-primera-suspension-de-labores-no-sera-en-lunes",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El ciclo escolar 2026-2027 de la SEP en el Estado de México ya tiene definidas las principales fechas para estudiantes, madres y padres de familia, así como para docentes",
-      "image": "https://files.merca20.com/uploads/2026/07/calendario-escolar-edomex-2026-2027.jpg",
-      "published": "2026-08-10T22:17:12+00:00",
+      "id": "936a42ac080a08",
+      "title": "SAT espera más recaudación por auditorías; pone la mira en la regularización de 2027",
+      "url": "https://expansion.mx/economia/2026/08/10/sat-recaudacion-auditorias-programa-regularizacion-2027",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El SAT abre la puerta a mantener el próximo año el programa que reduce hasta 100% multas y recargos a contribuyentes.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/0575de2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F97%2F06%2F5735f1974e4e9d5b600bc185cabd%2F2-sat-1052148-segundo-dia-bloqueo-sat-web.jpeg",
+      "published": "2026-08-10T22:27:56+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "27e3cf8db85739",
-      "title": "Bodega Aurrera devuelve hasta 100 pesos por tus compras de agosto, así funciona Cashi",
-      "url": "https://www.merca20.com/bodega-aurrera-devuelve-hasta-100-pesos-por-tus-compras-de-agosto-asi-funciona-cashi/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-devuelve-hasta-100-pesos-por-tus-compras-de-agosto-asi-funciona-cashi",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Bodega Aurrera ofrece 2% de bonificación al pagar con Cuenta Cashi durante agosto. Conoce cómo obtenerla, requisitos, límites y tiendas participantes.",
-      "image": "https://files.merca20.com/uploads/2026/08/Bodega-Aurrera-te-devuelve-2-de-tus-compras-en-agosto-asi-funciona-Cashi-paso-a-paso-.jpg",
-      "published": "2026-08-10T21:59:13+00:00",
+      "id": "c7e1714993d555",
+      "title": "Trump disparó la conversación sobre aranceles entre las empresas de EU",
+      "url": "https://expansion.mx/economia/2026/08/10/aranceles-trump-impacto-empresas-eu",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Un análisis del Peterson Institute for International Economics revisó 920 llamadas de resultados de 150 compañías para medir el peso que adquirieron los aranceles entre las empresas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5721569/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc0%2F22%2F856d737048e6b41555d030b8e390%2Fdonald-trump-dice-que-mexico-no-vendera-ni-un-auto-en-eu-si-gana-la-presidencia.jpeg",
+      "published": "2026-08-10T22:19:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bc384b7ae56aed",
+      "title": "Terremoto en Colombia deja 111 muertos, edificios colapsados y cientos de personas afectadas",
+      "url": "https://expansion.mx/mundo/2026/08/10/terremoto-colombia-muertos-zonas-afectadas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El gobierno colombiano declaró una situación de emergencia mientras equipos de rescate buscan sobrevivientes entre los escombros.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b5737c2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc1%2F6c%2F1d65fe734014bb8c33c7a2f5ecf1%2Fsismo-colombia-10-agosto.jpg",
+      "published": "2026-08-10T22:03:10+00:00",
       "score": null,
       "tags": []
     },
@@ -365,50 +569,26 @@
       "tags": []
     },
     {
-      "id": "fca11fedb41204",
-      "title": "La estrategia de marketing de Bodega Aurrera y Mamá Lucha para que la tecnología no rompa el presupuesto familiar en el regreso a clases",
-      "url": "https://www.merca20.com/mama-lucha-tecnologia-regreso-clases-estrategia-bodega-aurrera/?utm_source=rss&utm_medium=rss&utm_campaign=mama-lucha-tecnologia-regreso-clases-estrategia-bodega-aurrera",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La tecnología dejó de ser un gasto opcional en el regreso a clases. La estrategia de Mamá Lucha busca posicionar a Bodega Aurrera como el aliado de las familias cuando el presupuesto enfrenta su mayor presión.",
-      "image": "https://files.merca20.com/uploads/2024/02/mama-lucha-bodega-aurrera-.jpeg",
-      "published": "2026-08-10T21:50:57+00:00",
+      "id": "ecd74717bff2ca",
+      "title": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
+      "url": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las tiendas de bajo costo se han multiplicado en México y detrás de ellas hay grandes grupos empresariales, capital extranjero y familias con décadas en el comercio.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f09e6ed/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F14%2F9f%2Fa8a40f8e4496948f11edd4ad3e39%2Ftiendas-baratas-mexico.png",
+      "published": "2026-08-10T21:41:06+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "fc057852c9e0e3",
-      "title": "Tiendas 3B y Yema te devuelven tu dinero sin ticket: así funciona",
-      "url": "https://www.merca20.com/tiendas-3b-y-yema-te-devuelven-tu-dinero-sin-ticket-asi-funciona/?utm_source=rss&utm_medium=rss&utm_campaign=tiendas-3b-y-yema-te-devuelven-tu-dinero-sin-ticket-asi-funciona",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Tiendas 3B y Yema apuestan por devolver el dinero sin ticket para impulsar sus marcas propias y fidelizar consumidores.",
-      "image": "https://files.merca20.com/uploads/2025/08/tiendas-3b-cierran.jpg",
-      "published": "2026-08-10T21:45:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "609d9080f6e4eb",
-      "title": "Así es la colección Crocs x One Piece que todos quieren: cuánto cuesta y dónde comprarla",
-      "url": "https://www.merca20.com/asi-es-la-coleccion-crocs-x-one-piece-que-todos-quieren-cuanto-cuesta-y-donde-comprarla/?utm_source=rss&utm_medium=rss&utm_campaign=asi-es-la-coleccion-crocs-x-one-piece-que-todos-quieren-cuanto-cuesta-y-donde-comprarla",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La colección Crocs x One Piece reúne modelos inspirados en algunos de los personajes más conocidos del anime",
-      "image": "https://files.merca20.com/uploads/2026/08/crocs-one-piece-coleccion.jpg",
-      "published": "2026-08-10T21:38:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "66dd6bb4f4130c",
-      "title": "El marketing global cambia: así conectan las marcas los insights de cada mercado",
-      "url": "https://www.merca20.com/el-marketing-global-cambia-asi-conectan-las-marcas-los-insights-de-cada-mercado/?utm_source=rss&utm_medium=rss&utm_campaign=el-marketing-global-cambia-asi-conectan-las-marcas-los-insights-de-cada-mercado",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los insights locales también están cambiando la manera de construir las campañas.",
-      "image": "https://files.merca20.com/uploads/2026/04/bigstock-Blue-global-technology-backgro-39420829.jpg",
-      "published": "2026-08-10T21:34:03+00:00",
+      "id": "75de64c2d2be4c",
+      "title": "De OpenAI a Meta: los incidentes que ponen a prueba la seguridad de los agentes de IA",
+      "url": "https://expansion.mx/tecnologia/2026/08/10/openai-anthropic-meta-agentes-ia-decisiones-seguridad",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los casos de OpenAI, Anthropic y Meta muestran los riesgos de dar a los sistemas de IA acceso a internet, código y herramientas para actuar con poca intervención humana.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b22c946/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F12%2Fe1%2Fe480a6a04b13b789e2ea65e7b1f7%2Fmeta-openai-anthropic.png",
+      "published": "2026-08-10T21:41:02+00:00",
       "score": null,
       "tags": []
     },
@@ -425,14 +605,14 @@
       "tags": []
     },
     {
-      "id": "c6caf8c76f7495",
-      "title": "Muere Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro, a los 96 años",
-      "url": "https://altonivel.com.mx/muere-maximiliano-leonardo-asturias-fundador-de-farmacias-del-ahorro-a-los-96-anos/",
-      "source": "Alto Nivel",
+      "id": "3888897b4f13a2",
+      "title": "Samsung Galaxy A37 vs. A56: ¿qué cambia entre los dos celulares y cuánto cuesta cada uno en México?",
+      "url": "https://expansion.mx/tecnologia/2026/08/10/samsung-galaxy-a37-vs-a56-que-cambia-entre-los-dos-celulares-y-cuanto-cuesta-cada-uno-en-mexico",
+      "source": "Expansión",
       "category": "coaching",
-      "summary": "El empresario de origen guatemalteco revolucionó la venta de medicamentos en México con Farmacias del Ahorro. La empresa continuará bajo la conducción de su familia. The post Muere Maximiliano Leonardo Asturias, fundador…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/maximiliano-leonardo-asturias-farmacias-de-ahorro.webp",
-      "published": "2026-08-10T20:32:47+00:00",
+      "summary": "Estos dos modelos de Samsung destacan por su precio y las características que ofrecen a los consumidores.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2dd7e70/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F07%2F02b8be6243c69c22cee07f94b312%2Fsamsung-galaxy-a37-vs-a56.jpg",
+      "published": "2026-08-10T20:42:39+00:00",
       "score": null,
       "tags": []
     },
@@ -445,18 +625,6 @@
       "summary": "Es fácil dar por sentado que los adolescentes están en crisis. Jonathan Haidt lleva años repitiendo que la tecnología les está friendo el cerebro, Francia bloqueó el acceso a las…",
       "image": null,
       "published": "2026-08-10T20:23:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f5ae567cbb9a3c",
-      "title": "S&P 500 baja 0.07% desde máximos y el Dow Jones pierde 0.11%, en espera de datos de inflación",
-      "url": "https://altonivel.com.mx/sp-500-baja-0-07-desde-maximos-y-el-dow-jones-pierde-0-11-en-espera-de-datos-de-inflacion/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El Dow Jones y el S&P 500 cerraron con pérdidas este lunes, mientras el petróleo subió casi 5% por las tensiones en el estrecho de Ormuz y los mercados esperan el dato de inflación de Estados Unidos. The post S&P 500 baj…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2025/08/SP-500-dow-jones.webp",
-      "published": "2026-08-10T20:20:04+00:00",
       "score": null,
       "tags": []
     },
@@ -497,18 +665,6 @@
       "tags": []
     },
     {
-      "id": "900f03c6a03f99",
-      "title": "Fiscalía CDMX va contra la red de Inverforx: detiene a seis personas por fraude",
-      "url": "https://altonivel.com.mx/fiscalia-cdmx-va-contra-la-red-de-inverforx-detiene-a-seis-personas-por-fraude/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La Fiscalía CDMX detuvo a cinco mujeres y un hombre por su probable participación en un esquema de fraude ligado a Strategic Capital Agency, que operaba como Inverforx. The post Fiscalía CDMX va contra la red de Inverfor…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/detenidos-inverforx.webp",
-      "published": "2026-08-10T19:08:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b4ddbc2764bc80",
       "title": "Confiar en AppleCare+ para fotografiar el eclipse parece razonable. La letra pequeña del seguro tiene algo que decir",
       "url": "https://www.xataka.com/moviles/confiar-applecare-para-fotografiar-eclipse-parece-razonable-letra-pequena-seguro-tiene-algo-que-decir",
@@ -533,18 +689,6 @@
       "tags": []
     },
     {
-      "id": "e8ef6f750b4d4c",
-      "title": "Nuez mexicana entra a China vía México y EU; el golpe de los aranceles antidumping es mayor",
-      "url": "https://expansion.mx/economia/2026/08/10/mexico-pierde-mas-que-eu-arancel-antidumping-china-nuez",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La Secretaría de Economía advierte que las cifras directas no muestran todo el riesgo, porque solo tiene identificados 21.9 millones de dólares exportados desde México a China.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3e2ec7d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6c%2F26%2Fb162240a428a8110b405c7edf7b4%2Fnueces-mexicanas-china-estados-aranceles-impacto.jpg",
-      "published": "2026-08-10T18:48:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "23f6011bc39557",
       "title": "El océano acaba de batir su récord histórico absoluto de temperatura: 20,96 °C que nos asoman a un territorio desconocido",
       "url": "https://www.xataka.com/ecologia-y-naturaleza/oceano-acaba-batir-su-record-historico-absoluto-temperatura-20-96-c-que-nos-asoman-a-territorio-desconocido",
@@ -557,18 +701,6 @@
       "tags": []
     },
     {
-      "id": "375b73d2acec6c",
-      "title": "México derrota a Estados Unidos, gana el Sub-20 y asegura su regreso a los Olímpicos",
-      "url": "https://altonivel.com.mx/mexico-derrota-a-estados-unidos-gana-el-sub-20-y-asegura-su-regreso-a-los-olimpicos/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La selección mexicana Sub-20 derrotó 2-0 a Estados Unidos en el Estadio Azteca, conquistó su decimoquinto título regional y aseguró su clasificación a los Juegos Olímpicos de Los Ángeles 2028. The post México derrota a E…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/campiones_sub-20.webp",
-      "published": "2026-08-10T18:30:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d58dadff5b72dd",
       "title": "Hoy en Netflix: está basada en una escalofriante historia real y entra continuamente en las listas de lo mejor del siglo XXI",
       "url": "https://www.xataka.com/streaming/hoy-netflix-esta-basada-escalofriante-historia-real-entra-continuamente-listas-mejor-siglo-xxi",
@@ -577,18 +709,6 @@
       "summary": "Pasan los años y ' Zodiac ' sigue figurando como una de las mejores películas de todos los tiempos . Por ejemplo, en 2025 el New York Times publicó la votación de más de 500 cineastas, actores y críticos y acabó en el pu…",
       "image": "https://i.blogs.es/40c69d/zodiac/1024_2000.jpeg",
       "published": "2026-08-10T18:15:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7654ec259edb90",
-      "title": "Antes de invertir esta semana: los cuatro focos que pueden mover al mercado",
-      "url": "https://expansion.mx/mercados/2026/08/10/antes-de-invertir-esta-semana-inflacion-petroleo-ia-bonos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Wall Street arranca cerca de máximos, pero petróleo, inflación, tasas y el creciente costo del boom de la IA amenazan con elevar la volatilidad y poner a prueba el apetito por riesgo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c6f1200/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fde%2Fa1%2F3c55a2a84f3887644351f83cc1bc%2Fwall-street-mercados-semana-petroleo-ia.jpg",
-      "published": "2026-08-10T18:06:32+00:00",
       "score": null,
       "tags": []
     },
@@ -629,18 +749,6 @@
       "tags": []
     },
     {
-      "id": "c5b516a1d8ca0d",
-      "title": "Nuez pecana mexicana enfrenta nuevo arancel en China: empresas pagarán hasta 52% por exportar",
-      "url": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Ministerio chino de Comercio estableció diferentes gravámenes a este alimento tras una análisis que realizó desde septiembre de 2025.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/ef3407c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2F70%2F3dda4f08437ab0b36cac20431cef%2Faranceles-nueces-pecanas-china-mexico-eu.jpg",
-      "published": "2026-08-10T17:45:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4c59cb29244617",
       "title": "Los Picos de Europa escondían otra montaña subterránea: más de mil kilos de basura, el efecto de años de turismo en las alturas",
       "url": "https://www.xataka.com/magnet/picos-europa-escondian-otra-montana-subterranea-mil-kilos-basura-efecto-anos-turismo-alturas",
@@ -649,42 +757,6 @@
       "summary": "Hace 300 millones de años, un mar cálido cubría lo que hoy es el norte de España. La lenta acumulación de sedimentos y el violento choque tectónico levantaron un coloso de roca caliza: así nacieron los Picos de Europa. D…",
       "image": "https://i.blogs.es/7b3c9b/picos/1024_2000.jpeg",
       "published": "2026-08-10T17:31:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2d7c0c949fa66f",
-      "title": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
-      "url": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El negocio que comenzó Maximiliano Leonardo Asturias hace décadas se convirtió en uno de los principales jugadores del sector farmacéutico, con ingresos millonarios y miles de empleados en México.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/33d1442/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe0%2Fa5%2Ff93c70ff4ffab8e4e6e38f5adc12%2Fimg-1150.jpeg",
-      "published": "2026-08-10T17:30:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "701e30296c72fc",
-      "title": "Cumplir 50 podría ser el comienzo de tu mejor etapa profesional",
-      "url": "https://altonivel.com.mx/economia-plateada-talento-50-emprendimiento-empleo-inteligencia-artificial/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El talento senior aporta pensamiento crítico, redes, resiliencia y experiencia acumulada, pero todavía enfrenta importantes barreras por edad. The post Cumplir 50 podría ser el comienzo de tu mejor etapa profesional appe…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/talento_50.webp",
-      "published": "2026-08-10T17:25:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5fe8904e3fa0cf",
-      "title": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
-      "url": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La industria de electrodomésticos enfrenta el reto de modernizar sus procesos de manufactura ante el avance de la inteligencia artificial y los dispositivos conectados en los hogares.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5aa8052/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5f%2F2b%2F9195ca3a49a0b9d714e4991f363a%2Fistock-2251133230.jpg",
-      "published": "2026-08-10T17:14:23+00:00",
       "score": null,
       "tags": []
     },
@@ -709,30 +781,6 @@
       "summary": "Conoce el fenómeno de los teléfonos fijos con Wi-Fi para niños: sin pantallas, redes sociales ni cámaras. El regreso a las llamadas estilo 90 que...",
       "image": "https://www.fayerwayer.com/resizer/v2/NSQNEDRBUBEQFOYQL5IGGCVWHM.png?auth=f9f901090963b4823644c4130daf2fc26f547bda28ac841b89f1704664edc433&smart=true&width=1640&height=924",
       "published": "2026-08-10T17:00:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "55f6573ac02bf7",
-      "title": "Meta presenta una nueva IA que podrás ejecutar en tu propia computadora",
-      "url": "https://expansion.mx/tecnologia/2026/08/10/meta-ia-codigo-abierto-computadora-personal",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Meta presentó una IA de código abierto que puede ejecutarse en computadoras personales, mientras Zuckerberg defiende el liderazgo de EU frente a China en la carrera por esta tecnología.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/04d18af/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F16%2F86%2F8b6097294e12922932d8db795fff%2Fmeta-ia-codigo-abierto-mark-zuckerberg.jpeg",
-      "published": "2026-08-10T16:45:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d4b0f965a3adf3",
-      "title": "Berkshire Hathaway cambia de estrategia: vuelve a comprar acciones tras 14 trimestres",
-      "url": "https://altonivel.com.mx/berkshire-hathaway-cambia-de-estrategia-vuelve-a-comprar-acciones-tras-14-trimestres/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Berkshire Hathaway volvió a ser comprador neto de acciones en el segundo trimestre, después de 14 trimestres consecutivos de ventas netas, en una señal del cambio de estrategia bajo Greg Abel. The post Berkshire Hathaway…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/berkshire_hathaway.webp",
-      "published": "2026-08-10T16:40:30+00:00",
       "score": null,
       "tags": []
     },
@@ -821,30 +869,6 @@
       "tags": []
     },
     {
-      "id": "34f644ead2466d",
-      "title": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
-      "url": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La automotriz china prepara el lanzamiento de sus primeros híbridos no enchufables en México hacia finales de 2027, con una tecnología desarrollada junto con Renault y Saudi Aramco.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f7ce5d2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe7%2F1a%2Feb4a29344f019ce4cf92c99c9f34%2Fimg-8668.jpeg",
-      "published": "2026-08-10T15:42:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4f9c256b45e54b",
-      "title": "\"Tiene motivos objetivos para temer\": acorralado y amenazado incluso en Rusia, Putin ha levantado una fortaleza alrededor de él",
-      "url": "https://www.xataka.com/magnet/tiene-motivos-objetivos-para-temer-acorralado-amenazado-incluso-rusia-putin-ha-levantado-fortaleza-alrededor",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Durante años, Vladimir Putin cultivó la imagen del líder omnipresente, un tipo capaz de recorrer Rusia, visitar fábricas, presidir desfiles militares o aparecer por sorpresa en cualquier rincón del país. Esa imagen está …",
-      "image": "https://i.blogs.es/49360e/image-from-rawpixel-id-26245879-original/1024_2000.jpeg",
-      "published": "2026-08-10T15:31:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "7a860f505bb2a5",
       "title": "OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa",
       "url": "https://hipertextual.com/inteligencia-artificial/openai-pausa-astra-nueva-ia-muy-peligrosa/",
@@ -853,114 +877,6 @@
       "summary": "OpenAI ha puesto en pausa los trabajos sobre Astra, su nueva IA de vanguardia, por considerarla demasiado peligrosa. La compañía informó días atrás que la evolución del modelo de lenguaje en cuestión es tal que no pueden…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/openai.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-08-10T15:25:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "58e6fbb81863d9",
-      "title": "La alta velocidad entre Madrid y Zaragoza ya no es tan alta: tras el accidente de Adamuz, cada vez son más los viajeros que huyen del AVE",
-      "url": "https://www.xataka.com/movilidad/alta-velocidad-madrid-zaragoza-no-alta-accidente-adamuz-cada-vez-viajeros-que-huyen-ave",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El trayecto que unía Zaragoza con Madrid en poco más de una hora en AVE se ha convertido en una línea en la que sus viajeros ya no saben realmente cuándo van a llegar. Y no es la única, pues siete meses después del accid…",
-      "image": "https://i.blogs.es/a89b4f/ave/1024_2000.jpeg",
-      "published": "2026-08-10T15:15:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0ad16d07805910",
-      "title": "Windows 11 tiene un consumo de memoria ridículamente alto: tres aplicaciones básicas ya rozan 1 GB de RAM",
-      "url": "https://www.muycomputer.com/2026/08/10/windows-11-tiene-un-consumo-de-memoria-ridiculamente-alto-tres-aplicaciones-basicas-ya-rozan-1-gb-de-ram/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Microsoft está comprometida a mejorar el consumo de RAM de Windows 11. La compañía asegura que está trabajando para hacer que este sistema operativo funcione mejor con 8 GB de RAM, ¿pero realmente es tan necesario, de ve…",
-      "image": null,
-      "published": "2026-08-10T15:11:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1ab8cff77611a0",
-      "title": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
-      "url": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presión en China.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c6a88f2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff0%2F8c%2F635ed110406386cf19d531b58792%2Fimg-8583.jpeg",
-      "published": "2026-08-10T15:10:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "18d384e37fc909",
-      "title": "Creíamos que elogiar constantemente a nuestros hijos forjaba su autoestima. La ciencia dice lo contrario",
-      "url": "https://www.xataka.com/medicina-y-salud/creiamos-que-elogiar-constantemente-a-pequenos-forjaba-su-autoestima-ciencia-demuestra-que-estabamos-equivocados",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hacer elogios a los más pequeños de la casa, como por ejemplo apuntar que es muy inteligente o que hace las cosas muy bien, es para muchos algo casi obligatorio para que durante su fase adulta pueda registrar sus propios…",
-      "image": "https://i.blogs.es/7ac2b5/ninoss/1024_2000.jpeg",
-      "published": "2026-08-10T15:01:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e794d0855019bf",
-      "title": "Arabia Saudí, Turquía y Pakistán sellan un pacto de defensa: ¿qué cambia en Oriente Medio?",
-      "url": "https://altonivel.com.mx/arabia-saudi-turquia-y-pakistan-sellan-un-pacto-de-defensa-que-cambia-en-oriente-medio/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Los tres países firmaron un pacto de defensa mutua que redefine el equilibrio estratégico en Oriente Medio. Irán no considera la alianza como una amenaza. The post Arabia Saudí, Turquía y Pakistán sellan un pacto de defe…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/pacto-de-defensa.webp",
-      "published": "2026-08-10T14:44:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "55a26392bea8e3",
-      "title": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
-      "url": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El registro obligatorio provocó la eliminación de millones de líneas, aunque los ingresos de las empresas crecieron 5.3% gracias al mayor consumo de datos y a planes de mayor valor.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/752979f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fea%2Fe8%2Fa9415c574b8eb298b5eb056b1689%2Fregistro-celulares-mexico-2026.jpg",
-      "published": "2026-08-10T14:43:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ec72b26a17d836",
-      "title": "Sheinbaum ofrece apoyo de México a Colombia tras terremoto de 7.4",
-      "url": "https://altonivel.com.mx/sheinbaum-apoyo-mexico-colombia-terremoto-74/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Claudia Sheinbaum ofreció apoyo de México a Colombia tras el terremoto de magnitud 7.4 con epicentro en San José del Palmar, Chocó. Las autoridades colombianas reportan heridos y daños graves en edificaciones. The post S…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/sheinbaum-apoyo-mexico-colombia.webp",
-      "published": "2026-08-10T14:37:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e2a026fe81b343",
-      "title": "LG xboom Blast, un potente altavoz Bluetooth para tus fiestas de verano",
-      "url": "https://www.muycomputer.com/2026/08/10/lg-xboom-blast-un-potente-altavoz-bluetooth-para-tus-fiestas-de-verano/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "LG xboom Blast es el nuevo altavoz que la firma surcoreana propone para entretener las actividades al aire libre que se incrementan durante la época estival. Combina un sonido potente, una batería de larga duración y la …",
-      "image": null,
-      "published": "2026-08-10T13:44:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b98c0478f10520",
-      "title": "Videos muestran la fuerza del terremoto en Colombia que ha dejado 70 fallecidos y edificios colapsados",
-      "url": "https://expansion.mx/mundo/2026/08/10/terremoto-sacude-colombia-desalojan-edificios-bogota",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Servicio Geológico Colombiano informó que fue de magnitud 7.4, y que tuvo como epicentro San José del Palmar de Chocó. Los primeros reportes informan sobre 18 fallecidos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/0e89b80/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F25%2F08%2F181f820c4d90ab7be63e8a9ae5b9%2Fterremoto-colombia-10-agosto.jpeg",
-      "published": "2026-08-10T13:36:59+00:00",
       "score": null,
       "tags": []
     },
@@ -977,18 +893,6 @@
       "tags": []
     },
     {
-      "id": "bde8c743772530",
-      "title": "Guía Gaming MC 2026: todo lo que debes saber para sobrevivir a la crisis de la memoria",
-      "url": "https://www.muycomputer.com/2026/08/10/guia-gaming-mc-2026-todo-lo-que-debes-saber-para-sobrevivir-a-la-crisis-de-la-memoria/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "El mundo del gaming en PC es bastante complejo, y la crisis actual que vivimos debido a la escasez de DRAM y de memoria NAND Flash ha hecho que resulte todavía más complicado acertar con la configuración de nuestro nuevo…",
-      "image": null,
-      "published": "2026-08-10T13:21:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "59b2d6952da1a7",
       "title": "¿Habrá ‘La Casa del Dragón’ temporada 4? Esto es todo lo que sabemos",
       "url": "https://hipertextual.com/cine-television/habra-la-casa-del-dragon-temporada-4-esto-es-todo-lo-que-sabemos/",
@@ -1001,54 +905,6 @@
       "tags": []
     },
     {
-      "id": "604730ae0fcfd3",
-      "title": "Microsoft sube el precio de las licencias de Windows",
-      "url": "https://www.muycomputer.com/2026/08/10/microsoft-sube-el-precio-de-las-licencias-de-windows/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Por si no tuviéramos suficiente con la subida de precio que han experimentado componentes como la memoria RAM, la VRAM, los SSDs, algunos procesadores e incluso las placas base ahora resulta que Microsoft ha decidido que…",
-      "image": null,
-      "published": "2026-08-10T12:12:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f6abafe7a01551",
-      "title": "Pemex aumenta 140% sus pérdidas por robo de combustible en tres meses",
-      "url": "https://expansion.mx/empresas/2026/08/10/pemex-eleva-perdidas-por-robo-de-combustible-en-tres-meses",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las pérdidas de Pemex por sustracción de combustibles pasaron de 3,812 millones a 9,180 millones de pesos entre el primero y segundo trimestres, mientras las tomas clandestinas en ductos aumentaron 8.6%.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c63db44/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F14%2F71%2F1e655b4c4840b91a4876fc20cd23%2Fimg-8664.jpeg",
-      "published": "2026-08-10T11:55:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b8cfbcf166be79",
-      "title": "Audible quiere conquistar al lector mexicano con más audiolibros en español",
-      "url": "https://expansion.mx/tecnologia/2026/08/10/la-ofensiva-de-audible-por-el-lector-mexicano",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Con 50,000 títulos en español, la plataforma de Amazon busca acelerar la producción local y aprovechar un mercado donde 77.4 millones ya consumen audio digital.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c94afe1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffa%2F41%2Fd640ab6a4c61868aab57b4064e94%2Fistock-2149658040.jpg",
-      "published": "2026-08-10T11:55:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "41f6e636f6f423",
-      "title": "Lecheros de EU presionan a México en el T-MEC por los nombres de los quesos",
-      "url": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "México importó 232,000 toneladas de queso en 2025 y 87% provino de Estados Unidos; la industria láctea busca evitar que las nuevas reglas sobre indicaciones geográficas afecten sus ventas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/eab84f5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8e%2Fa5%2Fae8259ab44438e3ee067fd0fd5cc%2Fmarcas-de-queso-profeco.jpeg",
-      "published": "2026-08-10T11:55:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8c56b963bd3439",
       "title": "‘Backrooms’, el fenómeno de terror de 2026, ya tiene fecha de estreno en HBO Max",
       "url": "https://hipertextual.com/cine-television/backrooms-el-fenomeno-de-terror-de-2026-ya-tiene-fecha-de-estreno-en-hbo-max/",
@@ -1057,42 +913,6 @@
       "summary": "La película de Backrooms ya tiene fecha de estreno en HBO Max. La cinta de terror se convirtió en su llegada a cines el pasado mes de junio en uno de los grandes fenómenos de 2026. Producida por A24, supuso el debut como…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Backrooms-HBO-Max.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
       "published": "2026-08-10T11:21:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "335b53fca18232",
-      "title": "Synology anuncia los NAS económicos DiskStation neo+",
-      "url": "https://www.muycomputer.com/2026/08/10/synology-anuncia-los-nas-economicos-diskstation-neo/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Synology ha anunciado el lanzamiento de DiskStation neo+, una nueva serie de dispositivos NAS que incluye en su estreno los modelos DS1825neo+, DS1525neo+, DS925neo+ y DS725neo+. Esta nueva gama ofrece una configuración …",
-      "image": null,
-      "published": "2026-08-10T10:54:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "68cc01aef804d3",
-      "title": "iPhone 18 Pro y iPhone 18 Pro Max: posibles especificaciones, precio, fecha de lanzamiento y todo lo que sabemos hasta el momento",
-      "url": "https://www.muycomputer.com/2026/08/10/iphone-18-pro-y-iphone-18-pro-max-posibles-especificaciones-precio-fecha-de-lanzamiento-y-todo-lo-que-sabemos-hasta-el-momento/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Según las últimas informaciones de confianza que tenemos sobre la mesa Apple va a introducir un cambio muy importante en su estrategia este mismo año, ya que planea posponer el lanzamiento del iPhone 18 a primavera de 20…",
-      "image": null,
-      "published": "2026-08-10T10:13:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "17812e76439040",
-      "title": "Dopamine 3.0, llega el jailbreak para iOS 26",
-      "url": "https://www.muycomputer.com/2026/08/10/dopamine-3-0-llega-el-jailbreak-para-ios-26/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Dopamine 3.0 ha incorporado soporte para jailbreak en iOS 26. Aunque el lanzamiento ha tardado casi un año desde el anuncio del último sistema operativo móvil de Apple, su llegada confirma que el desarrollo de estas herr…",
-      "image": null,
-      "published": "2026-08-10T10:07:30+00:00",
       "score": null,
       "tags": []
     },
@@ -1121,18 +941,6 @@
       "tags": []
     },
     {
-      "id": "68aaa110dc9512",
-      "title": "A qué tarjeta gráfica equivaldría la GPU de Xbox Project Helix",
-      "url": "https://www.muycomputer.com/2026/08/10/a-que-tarjeta-grafica-equivaldria-la-gpu-de-xbox-project-helix/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Por las informaciones que tenemos hasta ahora podemos sacar en claro que la GPU de PS6 sería equivalente, en términos aproximados, a una GeForce RTX 5070-Radeon RX 9070, ¿pero a qué tarjeta gráfica podría equivaler la GP…",
-      "image": null,
-      "published": "2026-08-10T08:42:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c4cc2e1e6f6701",
       "title": "‘La Odisea’ ya es la película más taquillera de Christopher Nolan: sus números son un escándalo",
       "url": "https://hipertextual.com/cine-television/la-odisea-ya-es-la-pelicula-mas-taquillera-de-christopher-nolan-sus-numeros-son-un-escandalo/",
@@ -1141,18 +949,6 @@
       "summary": "Con el estreno de La Odisea, Christopher Nolan ya tiene su nueva película más taquillera de toda su filmografía. El director británico venía de arrasar hace unos años en taquilla y premios con Oppenheimer. Sin embargo, c…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/La-Odisea-critica-Christopher-Nolan.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
       "published": "2026-08-10T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a02e526c9382b2",
-      "title": "Los precios de las memorias borran 20 años de progreso en PCs",
-      "url": "https://www.muycomputer.com/2026/08/10/los-precios-de-las-memorias-borran-20-anos-de-progreso-en-pcs/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Los precios de las memorias vienen mostrando una tendencia alcista desde hace año y medio y la mayoría de analistas predicen nuevos aumentos en el futuro. Un destacado desarrollador de GitHub ha publicado una serie de gr…",
-      "image": null,
-      "published": "2026-08-10T07:36:06+00:00",
       "score": null,
       "tags": []
     },
@@ -1169,30 +965,6 @@
       "tags": []
     },
     {
-      "id": "388249c5962a0c",
-      "title": "ASUS presenta el Vivobook Pro 16",
-      "url": "https://www.muycomputer.com/2026/08/10/asus-presenta-el-vivobook-pro-16/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "ASUS ha anunciado el lanzamiento del Vivobook Pro 16, un portátil para la batalla diaria que destaca por su pantalla OLED y su hardware interno con base en los Ryzen de AMD. ASUS amplía así las opciones de un modelo que …",
-      "image": null,
-      "published": "2026-08-10T06:09:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f559bd8c652105",
-      "title": "Israel rechaza el plan de alto al fuego en Gaza y se desmarca nuevamente de Trump",
-      "url": "https://expansion.mx/mundo/2026/08/09/israel-rechaza-el-plan-de-alto-al-fuego-en-gaza-y-se-desmarca-nuevamente-de-trump",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El primer ministro israelí condiciona cualquier retirada de Gaza al desarme total de Hamás, pese a que el grupo palestino aceptó el plan impulsado por Washington.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a7baa17/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2F8b%2F73eefa1346d9b1d46255357b91ed%2Fnetanyahu-trump-tensiones.jpg",
-      "published": "2026-08-09T20:14:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a067936698e744",
       "title": "No todo es psicología: No te mientas a ti mismo",
       "url": "https://www.psyciencia.com/no-todo-es-psicologia-no-te-mientas-a-ti-mismo/",
@@ -1205,18 +977,6 @@
       "tags": []
     },
     {
-      "id": "cefcbbdd21170d",
-      "title": "La cooperación México – Brasil ya mira a combustibles y biocombustibles",
-      "url": "https://altonivel.com.mx/mexico-brasil-segundo-acuerdo-refino-combustibles/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La alianza puede abrir oportunidades en tecnología industrial, petroquímica, eficiencia energética y descarbonización. The post La cooperación México – Brasil ya mira a combustibles y biocombustibles appeared first on Al…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/pemex-petrobras-segundo-acuerdo-refino-combustibles-biocombustibles.jpg.webp",
-      "published": "2026-08-09T18:36:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "623b0f6ebe23fd",
       "title": "¿Por qué los veranos de la infancia parecen no acabar nunca?",
       "url": "https://www.psyciencia.com/por-que-los-veranos-de-la-infancia-parecen-no-acabar-nunca/",
@@ -1225,114 +985,6 @@
       "summary": "Irene Mollá: “El niño está en un estado de atención plena sobre un estímulo concreto, y es capaz de priorizarlo frente a otros muchísimos que le rodean, como el sonido…",
       "image": null,
       "published": "2026-08-09T16:34:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c0ca0724727ed9",
-      "title": "Los mejores contenidos de la semana en MuyComputer (DXXXVI)",
-      "url": "https://www.muycomputer.com/2026/08/09/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxvi/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Aprovechamos el final del domingo para compartir con vosotros un nuevo repaso a los mejores contenidos que hemos publicado durante esta semana en MC. Que tengáis un buen inicio de semana. Evolución del trazado de rayos: …",
-      "image": null,
-      "published": "2026-08-09T15:12:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8e2257d243cf2f",
-      "title": "Evolución del trazado de rayos: la tecnología que diferenció el gaming en PC del gaming en consola",
-      "url": "https://www.muycomputer.com/2026/08/09/evolucion-del-trazado-de-rayos-la-tecnologia-que-diferencio-el-gaming-en-pc-del-gaming-en-consola/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "El trazado de rayos no es una tecnología nueva. No me voy a remontar a la fecha histórica del nacimiento de esta tecnología porque, francamente, no tiene interés en un artículo como este. Me voy a ir a la fecha en la que…",
-      "image": null,
-      "published": "2026-08-09T09:05:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c93cd95df7e050",
-      "title": "PS6 cambia a una GPU más potente con un avance que NVIDIA introdujo con las GeForce RTX 40",
-      "url": "https://www.muycomputer.com/2026/08/09/ps6-cambia-a-una-gpu-mas-potente-con-un-avance-que-nvidia-introdujo-con-las-geforce-rtx-40/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Las especificaciones de PS6 han cambiado, según una nueva información que ha compartido Moore´s Law is Dead, y en teoría lo han hecho para bien, ya que la GPU de esta consola tendrá una potencia mayor de lo que apuntaban…",
-      "image": null,
-      "published": "2026-08-09T07:04:48+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "727f679c6136f9",
-      "title": "Pemex y Petrobras entran en fase de ejecución tras acuerdo México-Brasil",
-      "url": "https://altonivel.com.mx/pemex-petrobras-acuerdo-ejecucion-mexico-brasil/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Roberto Velasco confirmó que una delegación de Pemex ya está en Río de Janeiro para dar seguimiento al acuerdo. The post Pemex y Petrobras entran en fase de ejecución tras acuerdo México-Brasil appeared first on Alto Niv…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/pemex-petrobras-mexico-brasil-acuerdo-energia-aguas-profundas.jpg.webp",
-      "published": "2026-08-08T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0979223b81d913",
-      "title": "La World Wide Web cumple 35 años",
-      "url": "https://www.muycomputer.com/2026/08/08/la-world-wide-web-cumple-35-anos/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "La World Wide Web acaba de cumplir 35 años y su creador, Sir Tim Berners-Lee, tiene un mensaje oportuno que no podría ser más relevante para los que dan por sentado eso de que miles de millones de personas se conecten a …",
-      "image": null,
-      "published": "2026-08-08T10:16:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f5783f0835d1ae",
-      "title": "Siete ajustes de Windows para mejorar el rendimiento en juegos PC",
-      "url": "https://www.muycomputer.com/2026/08/08/siete-ajustes-de-windows-para-mejorar-el-rendimiento-en-juegos-pc/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "El usuario que pretenda mejorar el rendimiento en juegos PC tendrá que aumentar el nivel de hardware del equipo que use. Aquí hay pocas soluciones milagrosas a las que acudir. Sin embargo, una correcta configuración del …",
-      "image": null,
-      "published": "2026-08-08T08:29:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5845b189eb2371",
-      "title": "Qué es el liderazgo jurásico y por qué el exceso de control frena a las empresas",
-      "url": "https://altonivel.com.mx/liderazgo-jurasico-micromanagement-control-delegar-crecer-empresa/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Cuando cada decisión depende del fundador, el crecimiento encuentra rápidamente un límite: su tiempo y capacidad de supervisión. The post Qué es el liderazgo jurásico y por qué el exceso de control frena a las empresas a…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/liderazgo_jurasico.webp",
-      "published": "2026-08-08T00:05:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "39e2302416375b",
-      "title": "¿Superfuerza sin ser Iron Man? La robótica mexicana ya trabaja en ello",
-      "url": "https://altonivel.com.mx/inteligencia-artificial-robotica-exoesqueletos-mexico-potenciar-capacidades-humanas/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Rodrigo Ruiz y David Da Vinci plantean que el verdadero valor de la tecnología aparece cuando resuelve problemas humanos concretos. The post ¿Superfuerza sin ser Iron Man? La robótica mexicana ya trabaja en ello appeared…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/ia-robotica-exoesqueletos-potenciar-humanos-mexico.jpg.webp",
-      "published": "2026-08-07T23:17:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "05c5f4cae05884",
-      "title": "Fabricaban robots, llegó la pandemia y cambiaron: la historia de Roomie IT",
-      "url": "https://altonivel.com.mx/roomie-it-robot-mexicano-covid-inteligencia-artificial-empresa/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Robótica, inteligencia artificial y automatización forman parte de una evolución empresarial que comenzó mucho antes del boom de la IA generativa. The post Fabricaban robots, llegó la pandemia y cambiaron: la historia de…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/roomie_it.webp",
-      "published": "2026-08-07T23:07:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1357,18 +1009,6 @@
       "summary": "No todas las marcas pueden mirar hacia atrás para construir una campaña hacia adelante. Coca-Cola sí. A cien años de su llegada a México, la compañía decidió recuperar una de las alianzas más recordadas de su historia pu…",
       "image": null,
       "published": "2026-08-07T20:35:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "977e34d28fb603",
-      "title": "Wall Street cierra su mejor semana desde abril: Nasdaq sube 5.2%, S&P 500 toca récord y Dow Jones gana 3%",
-      "url": "https://altonivel.com.mx/wall-street-cierra-su-mejor-semana-desde-abril-nasdaq-sube-5-2-sp-500-toca-record-y-dow-jones-gana-3/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Wall Street cerró su mejor semana desde abril, tras el repunte de las acciones tecnológicas y menores expectativas de nuevas alzas de tasas por parte de la Fed. The post Wall Street cierra su mejor semana desde abril: Na…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2025/12/nasdaq_today.webp",
-      "published": "2026-08-07T20:28:05+00:00",
       "score": null,
       "tags": []
     },

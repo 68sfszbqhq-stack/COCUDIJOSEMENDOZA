@@ -1,57 +1,9 @@
 {
   "meta": {
-    "generated": "2026-08-12T19:02:05.148187+00:00",
+    "generated": "2026-08-13T01:59:08.282587+00:00",
     "total": 173
   },
   "items": [
-    {
-      "id": "02ff21d5963739",
-      "title": "Los clientes le pidieron abrir en Nueva York y Londres: así nació una cadena de gimnasios con 137 sedes en ocho países",
-      "url": "https://spanish.entrepreneur.com/emprendedores/los-clientes-le-pidieron-abrir-en-nueva-york-y-londres-asi-nacio-una-cadena-de-gimnasios-con-137-sedes-en-ocho-paises",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "El colombiano Wilder Zapata levantó Action Black, una red de gimnasios con 137 ubicaciones en ocho países. The post Los clientes le pidieron abrir en Nueva York y Londres: así nació una cadena de gimnasios con 137 sedes …",
-      "image": null,
-      "published": "2026-08-12T19:01:58.970842+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e60a652c07bdb6",
-      "title": "Deja de perseguir resultados: cultiva los hábitos que harán crecer tu negocio",
-      "url": "https://spanish.entrepreneur.com/emprendedores/deja-de-perseguir-resultados-cultiva-los-habitos-que-haran-crecer-tu-negocio",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Los hábitos de liderazgo estratégico y con propósito, practicados de forma constante, son esenciales para impulsar el éxito empresarial a largo plazo y fomentar una cultura organizacional saludable. The post Deja de pers…",
-      "image": null,
-      "published": "2026-08-12T19:01:58.970461+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "86145fc6c024fa",
-      "title": "La IA no te reemplazará — pero tu previsibilidad sí. Así es como puedes volverte irremplazable",
-      "url": "https://spanish.entrepreneur.com/emprendedores/la-ia-no-te-reemplazara-pero-tu-previsibilidad-si-asi-es-como-puedes-volverte-irremplazable",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "La eficiencia solía hacernos indispensables. Hoy nos vuelve reemplazables. En la era de la automatización, la originalidad es la única seguridad laboral que queda. The post La IA no te reemplazará — pero tu previsibilida…",
-      "image": null,
-      "published": "2026-08-12T19:01:58.970096+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ad21cd40fd09e9",
-      "title": "Las 4 estaciones del viaje de un emprendedor y cómo cada una transforma tus prioridades",
-      "url": "https://spanish.entrepreneur.com/emprendedores/las-4-estaciones-del-viaje-de-un-emprendedor-y-como-cada-una-transforma-tus-prioridades",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Estoy entrando en la temporada final de mi carrera como director general de una marca nacional de servicios para el hogar. Así es como la edad y la experiencia han moldeado mis prioridades. The post Las 4 estaciones del …",
-      "image": null,
-      "published": "2026-08-12T19:01:58.969707+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "ded76c28174474",
       "title": "Por qué la próxima era del branding pertenece a quienes se hacen presentes",
@@ -60,7 +12,7 @@
       "category": "startup",
       "summary": "En esta era de la presencia, la estrategia de marketing más poderosa de todas es, simplemente, estar ahí. The post Por qué la próxima era del branding pertenece a quienes se hacen presentes appeared first on Entrepreneur…",
       "image": null,
-      "published": "2026-08-12T19:01:58.969301+00:00",
+      "published": "2026-08-13T01:59:06.661419+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +24,7 @@
       "category": "startup",
       "summary": "Descubre cómo los chatbots pueden ampliar el alcance de tu empresa y aumentar la eficiencia en el servicio al cliente. The post Si no usas chatbots, podrías decepcionar a tus clientes. Esta es la razón appeared first on …",
       "image": null,
-      "published": "2026-08-12T19:01:58.967890+00:00",
+      "published": "2026-08-13T01:59:06.661056+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +36,7 @@
       "category": "startup",
       "summary": "Después de muchos fracasos, he aprendido algunas verdades en torno al éxito. El verdadero éxito proviene del esfuerzo incansable, la resiliencia frente a los fracasos y la constancia de presentarse día tras día. The post…",
       "image": null,
-      "published": "2026-08-12T19:01:58.967471+00:00",
+      "published": "2026-08-13T01:59:06.660682+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +48,7 @@
       "category": "startup",
       "summary": "La IA tiene el potencial para transformar los supermercados desbloqueando innovaciones como análisis de estantes en tiempo real, detección de errores y la optimización de inventarios, promociones y operaciones. The post …",
       "image": null,
-      "published": "2026-08-12T19:01:58.967081+00:00",
+      "published": "2026-08-13T01:59:06.660287+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +60,7 @@
       "category": "startup",
       "summary": "Llegar a varias generaciones no tiene por qué ser un desafío. Aprende cómo crear una estrategia de marketing unificada y basada en datos que combine personalización, alcance multicanal y técnicas atemporales para conecta…",
       "image": null,
-      "published": "2026-08-12T19:01:58.966662+00:00",
+      "published": "2026-08-13T01:59:06.659902+00:00",
       "score": null,
       "tags": []
     },
@@ -120,31 +72,319 @@
       "category": "startup",
       "summary": "El fracaso en las startups es inevitable, pero la forma en que respondes determina lo que viene después. Este artículo plantea un marco claro y práctico para analizar los tropiezos, proteger las relaciones y regresar con…",
       "image": null,
-      "published": "2026-08-12T19:01:58.966193+00:00",
+      "published": "2026-08-13T01:59:06.658387+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "d303eba3c6100b",
-      "title": "Por qué tus ventas en TikTok Shop están bajas: revisa estos 7 puntos para impulsar tu negocio",
-      "url": "https://www.merca20.com/por-que-tus-ventas-en-tiktok-shop-estan-bajas-revisa-estos-7-puntos-para-impulsar-tu-negocio/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-tus-ventas-en-tiktok-shop-estan-bajas-revisa-estos-7-puntos-para-impulsar-tu-negocio",
-      "source": "Merca 2.0",
+      "id": "bf2d495817d4df",
+      "title": "10 razones por las que las startups fracasan y cómo afrontarlas a nivel emocional",
+      "url": "https://spanish.entrepreneur.com/emprendedores/10-razones-por-las-que-las-startups-fracasan-y-como/485116",
+      "source": "Entrepreneur ES",
       "category": "startup",
-      "summary": "¿Tus ventas en TikTok Shop están bajas? Revisa estos 7 puntos sobre envíos, contenido, desempeño y conversión que recomienda la propia plataforma.",
-      "image": "https://files.merca20.com/uploads/2026/08/Por-que-tus-ventas-en-TikTok-Shop-estan-bajas-revisa-estos-7-puntos-para-impulsar-tu-negocio-4.jpg",
-      "published": "2026-08-12T18:55:18+00:00",
+      "summary": "Esto es lo que necesitas saber sobre las causas emocionales del fracaso de las startups. The post 10 razones por las que las startups fracasan y cómo afrontarlas a nivel emocional appeared first on Entrepreneur en Espano…",
+      "image": null,
+      "published": "2026-08-13T01:59:06.657997+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "b1149be0413227",
-      "title": "The Perfect Formula: ISOPURE y The Coffee reinventan el café con proteína",
-      "url": "https://www.merca20.com/the-perfect-formula-isopure-y-the-coffee-reinventan-el-cafe-con-proteina/?utm_source=rss&utm_medium=rss&utm_campaign=the-perfect-formula-isopure-y-the-coffee-reinventan-el-cafe-con-proteina",
+      "id": "882acfd6366d68",
+      "title": "Podrías estar compitiendo contra 250 personas por tu próximo empleo. Así es como destacar, según el ceo de una plataforma de contratación",
+      "url": "https://spanish.entrepreneur.com/noticias/podrias-estar-compitiendo-contra-250-personas-por-tu-proximo-empleo-asi-es-como-destacar-segun-el-ceo-de-una-plataforma-de-contratacion",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Este CEO tiene una solución para un mercado laboral deprimido. The post Podrías estar compitiendo contra 250 personas por tu próximo empleo. Así es como destacar, según el ceo de una plataforma de contratación appeared f…",
+      "image": null,
+      "published": "2026-08-13T01:59:06.657602+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e719da64f3bed7",
+      "title": "“Made With IA”: Anthropic implementa marcas de agua invisibles en los contenidos generados por Claude",
+      "url": "https://spanish.entrepreneur.com/noticias/made-with-ia-anthropic-implementa-marcas-de-agua-invisibles-en-los-contenidos-generados-por-claude",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Made With IA: Anthropic implementa marcas de agua invisibles en los contenidos generados por Claude. The post “Made With IA”: Anthropic implementa marcas de agua invisibles en los contenidos generados por Claude appeared…",
+      "image": null,
+      "published": "2026-08-13T01:59:06.657164+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f556967cd6e6c1",
+      "title": "Cómo los tipos de personalidad pueden ayudarte a identificar fortalezas y mejorar el rendimiento de tu equipo",
+      "url": "https://spanish.entrepreneur.com/consultoria/como-los-tipos-de-personalidad-pueden-ayudarte-a/483686",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Así es como los líderes pueden desbloquear el potencial de sus equipos al comprender y aprovechar los tipos de personalidad, alineando las fortalezas individuales con roles que fomenten la productividad, la colaboración …",
+      "image": null,
+      "published": "2026-08-13T01:59:06.656724+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8020ffc9d3b223",
+      "title": "Profeco analiza 54 alimentos húmedos para gato y estas marcas no cumplen lo que declaran en sus etiquetas",
+      "url": "https://www.merca20.com/profeco-analiza-54-alimentos-humedos-para-gato-y-estas-marcas-no-cumplen-lo-que-declaran-en-sus-etiquetas/?utm_source=rss&utm_medium=rss&utm_campaign=profeco-analiza-54-alimentos-humedos-para-gato-y-estas-marcas-no-cumplen-lo-que-declaran-en-sus-etiquetas",
       "source": "Merca 2.0",
       "category": "startup",
-      "summary": "Alfonso Gómez, Marketing Director LATAM de Glanbia Performance Nutrition, destacó que la intención es sumar valor a los rituales cotidianos sin sacrificar sabor ni placer",
-      "image": "https://files.merca20.com/uploads/2026/08/isopure-presentacion-bebida.jpg",
-      "published": "2026-08-12T18:49:30+00:00",
+      "summary": "Profeco analizó 54 alimentos húmedos para gato y realizó 4,082 pruebas. Detectó productos con menos proteína y más humedad o cenizas de lo declarado.",
+      "image": "https://files.merca20.com/uploads/2026/08/Profeco-analiza-54-alimentos-humedos-para-gato-y-estas-marcas-no-cumplen-lo-que-declaran-en-sus-etiquetas-.jpg",
+      "published": "2026-08-13T01:05:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0bc79bcd6de80e",
+      "title": "El sueño de todo fanático del anime: Se filtran 9 sets oficiales de Lego Dragon Ball Z con la Kame House como set estrella",
+      "url": "https://www.fayerwayer.com/internet/2026/08/12/el-sueno-de-todo-fanatico-del-anime-se-filtran-9-sets-oficiales-de-lego-dragon-ball-z-con-la-kame-house-como-set-estrella/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Filtrados 9 sets de Lego Dragon Ball Z con la Kame House 18+ como Set Flagship. Descubre todas las construcciones de Namek, Goku y Vegeta.",
+      "image": "https://www.fayerwayer.com/resizer/v2/MYYOZMZFANEADGRBMZJFY6SBN4.png?auth=63a588b1ae3a6a9fc9ec75bc6f7144ed65e4ff33c8eb795e3fc6f19b12bfa60f&smart=true&width=1640&height=924",
+      "published": "2026-08-12T23:35:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "dce426ee40ac45",
+      "title": "Xbox sorprende con un control edición limitada de Gears of War: E-Day: Costo y fecha de venta en México",
+      "url": "https://www.merca20.com/xbox-sorprende-con-un-control-edicion-limitada-de-gears-of-war-e-day-costo-y-fecha-de-venta-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=xbox-sorprende-con-un-control-edicion-limitada-de-gears-of-war-e-day-costo-y-fecha-de-venta-en-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El nuevo control inalámbrico de edición limitada lleva el universo de Gears of War a Xbox con detalles en 3D, grabados láser y grietas rojas inspiradas en un E-hole.",
+      "image": "https://files.merca20.com/uploads/2026/08/Gears-of-War.jpg",
+      "published": "2026-08-12T23:30:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2407b11738a047",
+      "title": "Stephen Hawking, Scientist: “I Don’t Think the Human Race Will Survive the Next Thousand Years, Unless We Spread Into Space”",
+      "url": "https://www.merca20.com/stephen-hawking-scientist-i-dont-think-the-human-race-will-survive-the-next-thousand-years-unless-we-spread-into-space/?utm_source=rss&utm_medium=rss&utm_campaign=stephen-hawking-scientist-i-dont-think-the-human-race-will-survive-the-next-thousand-years-unless-we-spread-into-space",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "British physicist Stephen Hawking's reflection stems from the risks that could jeopardize humanity's long-term survival",
+      "image": "https://files.merca20.com/uploads/2026/08/Stephen-Hawking-Gemini-AI.jpg",
+      "published": "2026-08-12T23:23:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c8e223f824dfff",
+      "title": "China remains the biggest headache for Nike: sales are falling again, dealing a blow to Elliott Hill’s strategy",
+      "url": "https://www.merca20.com/china-remains-the-biggest-headache-for-nike-sales-are-falling-again-dealing-a-blow-to-elliott-hills-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=china-remains-the-biggest-headache-for-nike-sales-are-falling-again-dealing-a-blow-to-elliott-hills-strategy",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Although North America has once again become the primary driver of NIKE's growth, financial results make it clear that the business's performance in China will remain a decisive factor in the company's overall results",
+      "image": "https://files.merca20.com/uploads/2026/04/NIKE_2026-1.jpg",
+      "published": "2026-08-12T23:21:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6d31317825fc96",
+      "title": "TCL México nombra a Righel Guizar como nuevo Presidente de Ventas y Marketing",
+      "url": "https://www.merca20.com/tcl-mexico-nombra-a-righel-guizar-como-nuevo-presidente-de-ventas-y-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=tcl-mexico-nombra-a-righel-guizar-como-nuevo-presidente-de-ventas-y-marketing",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La compañía busca convertir el crecimiento de los últimos años en una posición más sólida dentro del mercado mexicano.",
+      "image": "https://files.merca20.com/uploads/2026/08/Righel-Final.jpg",
+      "published": "2026-08-12T23:11:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0b59fbb4f4c6ca",
+      "title": "Chick-fil-A Fall Menu: Full Lineup and Release Date",
+      "url": "https://www.merca20.com/chick-fil-a-fall-menu-full-lineup-and-release-date/?utm_source=rss&utm_medium=rss&utm_campaign=chick-fil-a-fall-menu-full-lineup-and-release-date",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Chick-fil-A’s new fall menu will be available for a limited time at U.S. restaurants and includes the return of a fan favorite",
+      "image": "https://files.merca20.com/uploads/2026/08/Chick-fil-A-Fall-Menu.jpg",
+      "published": "2026-08-12T23:03:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3b154d70d0f257",
+      "title": "Bodega Aurrera remata TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV con más del 50% de descuento",
+      "url": "https://www.merca20.com/bodega-aurrera-remata-tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-con-mas-del-50-de-descuento/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-remata-tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-con-mas-del-50-de-descuento",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La pantalla TCL con tecnología QD-Mini LED y Google TV baja de 12,599 a 5,990 pesos en una oferta que representa un ahorro de 6,609 pesos.",
+      "image": "https://files.merca20.com/uploads/2026/08/TCL.jpg",
+      "published": "2026-08-12T23:00:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c7850d1d0332ea",
+      "title": "Mattel confirma fecha de lanzamiento de Monster High x Wednesday: así son las muñecas de Merlina y Agnes que todos quieren tener",
+      "url": "https://www.merca20.com/mattel-confirma-fecha-de-lanzamiento-de-monster-high-x-wednesday-asi-son-las-munecas-de-merlina-y-agnes-que-todos-quieren-tener/?utm_source=rss&utm_medium=rss&utm_campaign=mattel-confirma-fecha-de-lanzamiento-de-monster-high-x-wednesday-asi-son-las-munecas-de-merlina-y-agnes-que-todos-quieren-tener",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Mattel ya tiene fecha para el lanzamiento de las nuevas muñecas de Monster High x Wednesday, una colección inspirada en la segunda temporada",
+      "image": "https://files.merca20.com/uploads/2026/08/MATTEL-MONSTER-WEDNESDAY.jpg",
+      "published": "2026-08-12T22:22:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3996672e8bf32f",
+      "title": "Kuromi becomes Sanrio’s big bet to win over new generations: here is how it aims to replicate Hello Kitty’s global success",
+      "url": "https://www.merca20.com/kuromi-becomes-sanrios-big-bet-to-win-over-new-generations-here-is-how-it-aims-to-replicate-hello-kittys-global-success/?utm_source=rss&utm_medium=rss&utm_campaign=kuromi-becomes-sanrios-big-bet-to-win-over-new-generations-here-is-how-it-aims-to-replicate-hello-kittys-global-success",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "If Hello Kitty was the symbol that took Sanrio to the world, Kuromi could become a key to connecting with a new generation of consumers",
+      "image": "https://files.merca20.com/uploads/2024/11/que-animal-es-kuromi-sanrio.jpg",
+      "published": "2026-08-12T22:20:21+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b10a9679eed4ef",
+      "title": "Nike y LEGO convierten el Air Force 1 en un cohete en su nuevo set para conquistar a los niños",
+      "url": "https://www.merca20.com/nike-y-lego-convierten-el-air-force-1-en-un-cohete-en-su-nuevo-set-para-conquistar-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=nike-y-lego-convierten-el-air-force-1-en-un-cohete-en-su-nuevo-set-para-conquistar-a-los-ninos",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La nueva pieza demuestra cómo la estrategia puede evolucionar de una simple licencia hacia la construcción de un universo compartido.",
+      "image": "https://files.merca20.com/uploads/2026/08/nike-lego1.jpeg",
+      "published": "2026-08-12T22:15:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "01f5cb6d93ce7e",
+      "title": "Greta Thunberg, activista: “Nos estamos enfrentando a la sexta extinción masiva y el ritmo es diez mil veces más rápido de lo normal”",
+      "url": "https://www.merca20.com/greta-thunberg-activista-nos-estamos-enfrentando-a-la-sexta-extincion-masiva-y-el-ritmo-es-diez-mil-veces-mas-rapido-de-lo-normal/?utm_source=rss&utm_medium=rss&utm_campaign=greta-thunberg-activista-nos-estamos-enfrentando-a-la-sexta-extincion-masiva-y-el-ritmo-es-diez-mil-veces-mas-rapido-de-lo-normal",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Con esta frase, Greta Thunberg hace referencia a un fenómeno respaldado por estudios científicos: la pérdida acelerada de especies",
+      "image": "https://files.merca20.com/uploads/2026/08/Greta-Thunberg-Gemini-AI.jpg",
+      "published": "2026-08-12T22:14:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a9f653eb3d7b00",
+      "title": "INE 2026: Cuánto tardan en entregar credencial de elector después de la cita",
+      "url": "https://www.merca20.com/ine-2026-cuanto-tardan-en-entregar-credencial-de-elector-despues-de-la-cita/?utm_source=rss&utm_medium=rss&utm_campaign=ine-2026-cuanto-tardan-en-entregar-credencial-de-elector-despues-de-la-cita",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El Instituto Nacional Electoral informó que ya eliminó el rezago acumulado en la producción de credenciales y trabaja para recuperar su tiempo ordinario de entrega.",
+      "image": "https://files.merca20.com/uploads/2025/08/INE-Credencial-para-votar.jpg",
+      "published": "2026-08-12T22:06:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "247846bb20ce49",
+      "title": "Amazon devuelve hasta $500 en compras con BBVA, tienes hasta el 16 de agosto para obtenerlo",
+      "url": "https://www.merca20.com/amazon-devuelve-hasta-500-en-compras-con-bbva-tienes-hasta-el-16-de-agosto-para-obtenerlo/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-devuelve-hasta-500-en-compras-con-bbva-tienes-hasta-el-16-de-agosto-para-obtenerlo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Amazon ofrece 10% de bonificación, hasta $500, en compras desde $5,000 con tarjetas de crédito BBVA participantes. Conoce los requisitos y vigencia.",
+      "image": "https://files.merca20.com/uploads/2026/08/Amazon-devuelve-hasta-500-en-compras-con-BBVA-tienes-hasta-el-16-de-agosto-para-obtenerlo-.jpg",
+      "published": "2026-08-12T22:05:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e0951b6f0983b2",
+      "title": "Así es la nueva Italika 300Z con GPS 2026: precio, ficha técnica, características y mensualidades",
+      "url": "https://www.merca20.com/asi-es-la-nueva-italika-300z-con-gps-2026-precio-ficha-tecnica-caracteristicas-y-mensualidades/?utm_source=rss&utm_medium=rss&utm_campaign=asi-es-la-nueva-italika-300z-con-gps-2026-precio-ficha-tecnica-caracteristicas-y-mensualidades",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Italika 300Z forma parte de la Línea Z y combina un motor de 278 cc con transmisión de seis velocidades, frenos de disco y una configuración enfocada en conducción urbana.",
+      "image": "https://files.merca20.com/uploads/2026/08/italika-moto-300.jpg",
+      "published": "2026-08-12T21:51:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2f91ec353bf318",
+      "title": "Gemini alcanza 1,000 millones de usuarios mensuales y Google pisa el acelerador en la carrera de la IA",
+      "url": "https://www.merca20.com/gemini-alcanza-1000-millones-de-usuarios-mensuales-y-google-pisa-el-acelerador-en-la-carrera-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=gemini-alcanza-1000-millones-de-usuarios-mensuales-y-google-pisa-el-acelerador-en-la-carrera-de-la-ia",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La inteligencia artificial de Google alcanza una cifra récord de usuarios y se acerca al alcance de las plataformas líderes del sector.",
+      "image": "https://files.merca20.com/uploads/2024/03/GEMINI-ADVANCED-ULTRA-GOOGLE-INTELIGENCIA-ARTIFICIAL-IA.jpg",
+      "published": "2026-08-12T21:45:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "71ced10ae67adf",
+      "title": "El actor de Kratos lanza una fuerte crítica contra la serie de ‘God of War’ y otras adaptaciones",
+      "url": "https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-god-of-war-guionistas/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Christopher Judge, el actor que dio vida a Kratos en los dos últimos juegos de God of War, ha lanzado una dura crítica contra la serie de televisión. El actor aprovechó un panel en una convención para hablar sin filtros …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/God-of-War-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-08-12T21:35:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9ebcd5654312ce",
+      "title": "¿Se cancela ‘Barbie 2’? Un conflicto salarial pone en jaque el futuro de la saga",
+      "url": "https://hipertextual.com/cine-television/se-cancela-barbie-2-conflicto-salarial-futuro-en-jaque/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El futuro de Barbie 2, la secuela de la aclamada película dirigida por Greta Gerwig y protagonizada por Margot Robbie y Ryan Gosling, pende de un hilo. Según reporta Variety, el cuarteto creativo detrás de la película, q…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/07/rev-1-BAR-TT2-004_High_Res_JPEG-scaled.jpeg?fit=1024%2C577&quality=70&strip=all&ssl=1",
+      "published": "2026-08-12T20:36:53+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e45472aa6b5612",
+      "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
+      "url": "https://hipertextual.com/seguridad/microsoft-parchea-fallo-critico-windows-explotado-activamente/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Microsoft ha lanzado un parche de emergencia para resolver una vulnerabilidad que ya estaba siendo aprovechada por atacantes. El fallo, considerado de alta gravedad, está presente en múltiples versiones de Windows 10 y W…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/windows-11.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-08-12T19:38:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3f880b06135ccc",
+      "title": "El 911 está diseñado para funcionar cuando todo lo demás cae. Un malware acaba de poner esa promesa a prueba en California",
+      "url": "https://www.xataka.com/seguridad/911-esta-disenado-para-funcionar-cuando-todo-demas-cae-malware-acaba-poner-esa-promesa-a-prueba-california",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hay números de teléfono que no guardamos porque los sepamos de memoria, sino porque confiamos en que estarán ahí cuando todo lo demás falle. En España pensamos en el 112; en Estados Unidos, en el 911. Son la puerta de en…",
+      "image": "https://i.blogs.es/93388b/911-emergencia/1024_2000.jpeg",
+      "published": "2026-08-12T19:31:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2622075c9d572c",
+      "title": "Sabíamos que la Vía Láctea estaba doblada como un vinilo al calor: 30.000 nubes han mostrado que además está arrugada",
+      "url": "https://www.xataka.com/espacio/sabiamos-que-via-lactea-estaba-doblada-como-vinilo-al-calor-30-000-nubes-han-mostrado-que-esta-arrugada",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cuando pensamos en la Vía Láctea, casi siempre pensamos en una imagen vista desde la Tierra: una franja blanquecina suspendida en el cielo , una nube de luz que cruza la noche y que nos recuerda que el Sistema Solar no f…",
+      "image": "https://i.blogs.es/69da60/via-lactea-vinilo-hallazgo-chino/1024_2000.jpeg",
+      "published": "2026-08-12T19:01:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "041bdc4bfe992e",
+      "title": "¿Vas a pagar la colegiatura? Revisa las quejas que tiene la escuela ante Profeco antes de inscribir",
+      "url": "https://expansion.mx/finanzas-personales/2026/08/12/como-revisar-quejas-escuela-privada-profeco",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Buró Comercial de Profeco permite consultar gratuitamente las quejas presentadas contra una escuela, sus motivos y el estado de las reclamaciones.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f1f20a6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F23%2F4e%2Fa9b987444b6cbf2ec3c5f7d84b2d%2Fdiseno-sin-titulo.png",
+      "published": "2026-08-12T18:48:23+00:00",
       "score": null,
       "tags": []
     },
@@ -185,42 +425,6 @@
       "tags": []
     },
     {
-      "id": "9e6752b4708aed",
-      "title": "Reacher Season 4: Full Episode Schedule",
-      "url": "https://www.merca20.com/reacher-season-4-full-episode-schedule/?utm_source=rss&utm_medium=rss&utm_campaign=reacher-season-4-full-episode-schedule",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Reacher Season 4 kicked off with a special three-episode premiere before switching to a weekly release schedule",
-      "image": "https://files.merca20.com/uploads/2026/08/Reacher-Season-4.jpg",
-      "published": "2026-08-12T18:24:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2b06c05fb84f39",
-      "title": "El clima ya tiene precio: cómo los desastres naturales están transformando los negocios",
-      "url": "https://www.merca20.com/el-clima-ya-tiene-precio-como-los-desastres-naturales-estan-transformando-los-negocios/?utm_source=rss&utm_medium=rss&utm_campaign=el-clima-ya-tiene-precio-como-los-desastres-naturales-estan-transformando-los-negocios",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El riesgo climático empieza así a convertirse en una variable de localización empresarial.",
-      "image": "https://files.merca20.com/uploads/2026/08/bigstock-Cinematic-Portrayal-Of-Destroy-64977790.jpg",
-      "published": "2026-08-12T18:22:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4893c327f44e57",
-      "title": "Bodega Aurrera remata cocina integral Turin 231 cm en color café / blanco; es un diseño moderno y funcional",
-      "url": "https://www.merca20.com/bodega-aurrera-remata-cocina-integral-turin-231-cm-en-color-cafe-blanco-es-un-diseno-moderno-y-funcional/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-remata-cocina-integral-turin-231-cm-en-color-cafe-blanco-es-un-diseno-moderno-y-funcional",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La cocina integral Turin está fabricada con MDP, un panel de partículas diseñado para ofrecer resistencia y durabilidad en muebles de este tipo",
-      "image": "https://files.merca20.com/uploads/2026/08/bodega-aurrera-cocina.jpg",
-      "published": "2026-08-12T18:12:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0a90bdf52d02b0",
       "title": "El regreso del maestro del anime: Crunchyroll y Sony distribuirán a nivel mundial la nueva película de Makoto Shinkai",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/08/12/el-regreso-del-maestro-del-anime-crunchyroll-y-sony-distribuiran-a-nivel-mundial-la-nueva-pelicula-de-makoto-shinkai/",
@@ -233,18 +437,6 @@
       "tags": []
     },
     {
-      "id": "5dedad09770168",
-      "title": "Josh Kushner y Bob Iger compran los Lakers por una cifra récord de 12,500 millones de dólares",
-      "url": "https://www.merca20.com/josh-kushner-y-bob-iger-compran-los-lakers-por-una-cifra-record-de-12500-millones-de-dolares/?utm_source=rss&utm_medium=rss&utm_campaign=josh-kushner-y-bob-iger-compran-los-lakers-por-una-cifra-record-de-12500-millones-de-dolares",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los empresarios acordaron adquirir a Los Angeles Lakers por 12,500 millones de dólares, en una operación que todavía debe ser aprobada por la NBA.",
-      "image": "https://files.merca20.com/uploads/2026/08/Lakers.jpg",
-      "published": "2026-08-12T18:03:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "5326c24b598376",
       "title": "Cinco millones de visualizaciones en cuatro días: Netflix ha vuelto a acertar con el true crime en su nueva miniserie",
       "url": "https://www.xataka.com/cine-y-tv/cinco-millones-visualizaciones-cuatro-dias-netflix-ha-vuelto-a-acertar-true-crime-su-nueva-miniserie",
@@ -253,30 +445,6 @@
       "summary": "Netflix tiene motivos para estar contenta, porque su nuevo estreno está funcionando de escándalo. La compañía lanzó el pasado 30 de julio la serie ' Bomba en el Pan Am 103 ', una producción de apenas seis capítulos que e…",
       "image": "https://i.blogs.es/0d46e2/pelicula/1024_2000.jpeg",
       "published": "2026-08-12T18:01:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "03f08c5e51bc26",
-      "title": "Whiskas vs Cat Chow y otras marcas: Profeco analizó sus croquetas y esto encontró",
-      "url": "https://www.merca20.com/whiskas-vs-cat-chow-y-otras-marcas-profeco-analizo-sus-croquetas-y-esto-encontro/?utm_source=rss&utm_medium=rss&utm_campaign=whiskas-vs-cat-chow-y-otras-marcas-profeco-analizo-sus-croquetas-y-esto-encontro",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "¿Whiskas o Cat Chow? Profeco analizó sus croquetas y encontró diferencias en proteína, ingredientes y contenido energético. Conoce los resultados.",
-      "image": "https://files.merca20.com/uploads/2026/08/Whiskas-vs-Cat-Chow-y-otras-marcas-Profeco-analizo-sus-croquetas-y-esto-encontro-.jpg",
-      "published": "2026-08-12T17:49:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c48fa70f94c7f0",
-      "title": "¿Soriana reemplazará trabajadores con IA y autopago? el salario mínimo cambia su estrategia",
-      "url": "https://www.merca20.com/soriana-reemplazara-trabajadores-con-ia-y-autopago-el-salario-minimo-cambia-su-estrategia/?utm_source=rss&utm_medium=rss&utm_campaign=soriana-reemplazara-trabajadores-con-ia-y-autopago-el-salario-minimo-cambia-su-estrategia",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El movimiento revela un cambio relevante para el retail mexicano; la discusión ya no es si las empresas utilizarán IA, sino qué puestos y tareas dejarán de necesitar la misma cantidad de personas.",
-      "image": "https://files.merca20.com/uploads/2022/06/Ofertas-Soriana.jpg",
-      "published": "2026-08-12T17:47:42+00:00",
       "score": null,
       "tags": []
     },
@@ -305,26 +473,14 @@
       "tags": []
     },
     {
-      "id": "5b8c468f7490fc",
-      "title": "PSG vs. Aston Villa: Where and When to Watch the 2026 UEFA Super Cup Match LIVE",
-      "url": "https://www.merca20.com/psg-vs-aston-villa-where-and-when-to-watch-the-2026-uefa-super-cup-match-live/?utm_source=rss&utm_medium=rss&utm_campaign=psg-vs-aston-villa-where-and-when-to-watch-the-2026-uefa-super-cup-match-live",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "PSG and Aston Villa will face off in the 2026 UEFA Super Cup in a match that will be played at the Red Bull Arena in Austria",
-      "image": "https://files.merca20.com/uploads/2026/08/PSG-vs.-Aston-Villa-Gemini-AI.jpg",
-      "published": "2026-08-12T17:39:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a990559d43ba59",
-      "title": "México envía ayuda humanitaria a Colombia tras terremoto: Sheinbaum ordena despliegue de Fuerza Aérea y Ejército",
-      "url": "https://www.merca20.com/mexico-envia-ayuda-humanitaria-a-colombia-tras-terremoto-sheinbaum-ordena-despliegue-de-fuerza-aerea-y-ejercito/?utm_source=rss&utm_medium=rss&utm_campaign=mexico-envia-ayuda-humanitaria-a-colombia-tras-terremoto-sheinbaum-ordena-despliegue-de-fuerza-aerea-y-ejercito",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "México enviará 58.5 toneladas de ayuda humanitaria a Colombia para apoyar a la población afectada por el terremoto registrado el pasado 10 de agosto de 2026",
-      "image": "https://files.merca20.com/uploads/2026/08/MEXICO-ENVIA-AYUDA-COLOMBIA-TERREMOTO-2026-1.jpg",
-      "published": "2026-08-12T17:33:18+00:00",
+      "id": "f8ad19e30f8a8c",
+      "title": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
+      "url": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La firma de origen alemán busca ampliar su presencia en México mediante alianzas con micro y pequeños permisionarios, con el objetivo de llevar su red a nuevas rutas y competir con los grandes operadores del país.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/db69c7a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F81%2F14%2F0afe508941bea38a528ab8e2932b%2Fistock-2269267519.jpg",
+      "published": "2026-08-12T17:40:43+00:00",
       "score": null,
       "tags": []
     },
@@ -353,14 +509,14 @@
       "tags": []
     },
     {
-      "id": "263e9fb4f3fffb",
-      "title": "Mientras Liverpool vendió más gracias a pantallas y deportes, Suburbia enfrenta una caída porque los mexicanos compraron menos ropa",
-      "url": "https://www.merca20.com/mientras-liverpool-vendio-mas-gracias-a-pantallas-y-deportes-suburbia-enfrenta-una-caida-porque-los-mexicanos-compraron-menos-ropa/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-liverpool-vendio-mas-gracias-a-pantallas-y-deportes-suburbia-enfrenta-una-caida-porque-los-mexicanos-compraron-menos-ropa",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Liverpool consiguió elevar sus ventas y aprovechar la demanda asociada con el Mundial, mientras Suburbia resintió con mayor fuerza la cautela de los consumidores mexicanos",
-      "image": "https://files.merca20.com/uploads/2026/08/liverpool-suburbia.jpg",
-      "published": "2026-08-12T17:23:06+00:00",
+      "id": "ee58c175e7d9b5",
+      "title": "Gemini alcanza los 1,000 millones de usuarios",
+      "url": "https://expansion.mx/tecnologia/2026/08/12/gemini-alcanza-1-000-millones-usuarios",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Conforme Gemini crece en usuarios, Google acelera la integración de Gemini en servicios como Search, Gmail, Maps y YouTube.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9799ce7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6d%2Fa0%2F9e6ec91c409b9d3847b65ef158aa%2Fistock-2254323354.jpg",
+      "published": "2026-08-12T17:28:34+00:00",
       "score": null,
       "tags": []
     },
@@ -377,18 +533,6 @@
       "tags": []
     },
     {
-      "id": "230219fa3cb35d",
-      "title": "Regreso a clases 2026: familias mexicanas gastarán hasta 10 mil pesos en lista de útiles escolares",
-      "url": "https://www.merca20.com/regreso-a-clases-2026-familias-mexicanas-gastaran-hasta-10-mil-pesos-en-lista-de-utiles-escolares/?utm_source=rss&utm_medium=rss&utm_campaign=regreso-a-clases-2026-familias-mexicanas-gastaran-hasta-10-mil-pesos-en-lista-de-utiles-escolares",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El regreso a clases 2026-2027 podría representar un gasto de hasta 10 mil pesos por familia, por lo que comparar precios será clave para evitar un golpe al bolsillo.",
-      "image": "https://files.merca20.com/uploads/2024/08/REGRESO-A-CLASES-GASTOS-2024-LISTA-DE-UTILES-ESCOLARES-SEP.jpg",
-      "published": "2026-08-12T16:46:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9ba33c91f2b276",
       "title": "¿Son mejor compra los nuevos Pixel 11 o los Pixel 10 con descuento? Los comparamos frente a frente",
       "url": "https://www.xataka.com/seleccion/mejor-compra-nuevos-pixel-11-pixel-10-descuento-comparamos-frente-a-frente",
@@ -401,18 +545,6 @@
       "tags": []
     },
     {
-      "id": "90616a29ddc188",
-      "title": "Dog Chow o Pedigree: Profeco analizó sus croquetas y esto fue lo que encontró",
-      "url": "https://www.merca20.com/dog-chow-o-pedigree-profeco-analizo-sus-croquetas-y-esto-fue-lo-que-encontro/?utm_source=rss&utm_medium=rss&utm_campaign=dog-chow-o-pedigree-profeco-analizo-sus-croquetas-y-esto-fue-lo-que-encontro",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "¿Dog Chow o Pedigree? Profeco analizó sus croquetas y encontró diferencias en proteína e información al consumidor. Conoce los resultados.",
-      "image": "https://files.merca20.com/uploads/2026/08/Dog-Chow-o-Pedigree-Profeco-analizo-sus-croquetas-y-esto-fue-lo-que-encontro-.jpg",
-      "published": "2026-08-12T16:44:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ff1f7ecb538110",
       "title": "La ferocidad de Logan llega a PlayStation: Así es la consola PS5 edición limitada de Marvel’s Wolverine",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/08/12/la-ferocidad-de-logan-llega-a-playstation-asi-es-la-consola-ps5-edicion-limitada-de-marvels-wolverine/",
@@ -421,30 +553,6 @@
       "summary": "Sony revela la PS5 Edición Limitada Marvel's Wolverine Battle Yellow con diseño de garras, DualSense personalizado y cubiertas de adamantium.",
       "image": "https://www.fayerwayer.com/resizer/v2/ZY45GIODJZFOZAIOTD2ING5KLE.png?auth=f70d68a57925b63e65ff162091c3f0d9896bd66d2d8dece6f531bcd5c7e1a109&smart=true&width=1640&height=924",
       "published": "2026-08-12T16:42:44+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1190129a319f95",
-      "title": "Quién es Fede de La Casa de los Famosos México 2026 y cuánto dinero ganó",
-      "url": "https://www.merca20.com/quien-es-fede-de-la-casa-de-los-famosos-mexico-2026-y-cuanto-dinero-gano/?utm_source=rss&utm_medium=rss&utm_campaign=quien-es-fede-de-la-casa-de-los-famosos-mexico-2026-y-cuanto-dinero-gano",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Fede fue el infiltrado de La Casa de los Famosos México, una dinámica en la que tuvo que cumplir diferentes misiones",
-      "image": "https://files.merca20.com/uploads/2026/08/Fede.jpg",
-      "published": "2026-08-12T16:40:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "00e576b117067f",
-      "title": "Protesta contra Amazon y Google llega al AWS Summit en CDMX por el Proyecto Nimbus",
-      "url": "https://www.merca20.com/protesta-contra-amazon-y-google-llega-al-aws-summit-en-cdmx-por-el-proyecto-nimbus/?utm_source=rss&utm_medium=rss&utm_campaign=protesta-contra-amazon-y-google-llega-al-aws-summit-en-cdmx-por-el-proyecto-nimbus",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El Comité Palestino del Movimiento de Boicot, Desinversión y Sanciones (BDS) realizó este miércoles 12 de agosto a una protesta contra Amazon Web Services (AWS) y Google en Ciudad de México",
-      "image": "https://files.merca20.com/uploads/2026/08/manifestacion-banamex.jpg",
-      "published": "2026-08-12T16:37:41+00:00",
       "score": null,
       "tags": []
     },
@@ -469,6 +577,18 @@
       "summary": "Los cielos están hoy en primera línea de actualidad por el eclipse total que podrá verse en buena parte de la Península Ibérica, pero no es el único punto de atracción: en la órbita baja, una buena parte de empresas luch…",
       "image": "https://i.blogs.es/e93c44/satelite-esa-portada/1024_2000.jpeg",
       "published": "2026-08-12T16:15:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6212efe3664ecc",
+      "title": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
+      "url": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Carne, lácteos, verduras, jitomate y aguacate acumularon alzas durante el primer semestre, mientras los restaurantes evalúan la automatización de procesos para contener el impacto de estos mayores costos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7f8b867/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fed%2Fa0%2F497274464e769614add10f708f64%2Frestaurantes-alzas-40-insumos-precios-platillos.jpeg",
+      "published": "2026-08-12T16:09:32+00:00",
       "score": null,
       "tags": []
     },
@@ -569,18 +689,6 @@
       "tags": []
     },
     {
-      "id": "cfb82a887c1745",
-      "title": "Un Pixel 11 Pro o Pro XL con un reembolso de hasta 980 euros por entregar tu antiguo móvil: así es la promo de Google para saltar a su nuevo móvil",
-      "url": "https://www.xataka.com/seleccion/pixel-11-pro-pro-xl-reembolso-980-euros-entregar-tu-antiguo-movil-asi-promo-google-para-saltar-a-su-nuevo-movil",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Aunque puede que te haya cogido en la playa, Google ha presentado un montón de dispositivos nuevos. Vamos a centrarnos ahora mismo en los Google Pixel Pro 11 y Pro 11 XL, dos teléfonos que siguen la misma línea de los mo…",
-      "image": "https://i.blogs.es/c2b1cd/pixel-11-pro-portada/1024_2000.jpeg",
-      "published": "2026-08-12T14:15:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f67e7a09911f2f",
       "title": "El nuevo Pixel Tag es la respuesta de Google al AirTag de Apple (y tiene un diseño exquisito)",
       "url": "https://hipertextual.com/tecnologia/el-nuevo-pixel-tag-es-la-respuesta-de-google-al-airtag-de-apple-y-tiene-un-diseno-exquisito/",
@@ -593,14 +701,14 @@
       "tags": []
     },
     {
-      "id": "adb777fc61f09e",
-      "title": "El giro de Google en los relojes se materializa en el Pixel Watch 5: quiere ser el guardián de tu salud",
-      "url": "https://www.xataka.com/wearables/google-pixel-watch-5-caracteristicas-precio-ficha-tecnica",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El día grande de Google en términos de dispositivos ha desembocado en tres nuevos Google Pixel 11. Pero no solo de móviles iba la cosa, ya que la empresa ha desvelado la nueva versión de su familia de relojes: el Google …",
-      "image": "https://i.blogs.es/d3c0c7/google-pixel-watch-5-portada/1024_2000.jpeg",
-      "published": "2026-08-12T14:01:16+00:00",
+      "id": "57dadb943d2483",
+      "title": "Google Pixel 11 no sube de precio, pero elimina las opciones de 128 GB de entrada",
+      "url": "https://expansion.mx/tecnologia/2026/08/12/google-pixel-11-precio-caracteristicas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Estos son los detalles del nuevo teléfono de Google: características, funciones, cámaras y precio, así como toda la información del nuevo Pixel Tag.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4878d9a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3f%2Fef%2Ff448d0de49aea15fd11808aa8c88%2Fgoogle-pixel-11.jpg",
+      "published": "2026-08-12T14:01:20+00:00",
       "score": null,
       "tags": []
     },
@@ -629,6 +737,18 @@
       "tags": []
     },
     {
+      "id": "cd128d9dc93de1",
+      "title": "Estuvo 35 horas bajo escombros: rescatan a Daniela tras terremoto en Colombia que deja más de 200 muertos",
+      "url": "https://expansion.mx/mundo/2026/08/12/daniela-rescatada-escombros-terremoto-colombia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El hallazgo ocurrió cuando los equipos de emergencia ya habían comenzado a perder la esperanza de encontrar personas con vida entre los escombros.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a31fd16/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4f%2F87%2F0c248c4944f4b4689252e1f82b49%2Fmexico-terremoto-colombia-2.jpg",
+      "published": "2026-08-12T13:45:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "c6d5439e7f7329",
       "title": "NVIDIA Nemotron 3.5 Lightning: un nuevo modelo de IA gratuito que funciona en local",
       "url": "https://www.muycomputer.com/2026/08/12/nvidia-nemotron-3-5-lightning-un-nuevo-modelo-de-ia-gratuito-que-funciona-en-local/",
@@ -653,9 +773,9 @@
       "tags": []
     },
     {
-      "id": "9595d6a52e18de",
+      "id": "45f5586cdc4f79",
       "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
-      "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
+      "url": "https://expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
       "source": "Expansión",
       "category": "coaching",
       "summary": "La gestión de riesgos ASG dejó de ser un asunto de cumplimiento. Integrarla a la estrategia permite a las empresas anticipar amenazas, fortalecer su resiliencia y proteger la creación de valor.",
@@ -665,9 +785,9 @@
       "tags": []
     },
     {
-      "id": "5df45673b08667",
+      "id": "a133d676bf7676",
       "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos.",
-      "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
+      "url": "https://expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
       "source": "Expansión",
       "category": "coaching",
       "summary": "El mercado de startups deja atrás la lógica de crecer a cualquier costo y exige valuaciones más realistas, disciplina financiera y modelos de negocio capaces de demostrar su valor.",
@@ -683,7 +803,7 @@
       "source": "Expansión",
       "category": "coaching",
       "summary": "Con ingresos tributarios que avanzan lentamente y mayores presiones de gasto, ampliar la base de contribuyentes aparece como una fuente potencial de recursos para el gobierno, de acuerdo con expertos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/0967de8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc7%2F91%2F9b8253f44b04a3e6e52c5dc5e931%2F3-informalidad-puesto-469190-autoempleo-autoempleo-impreso.jpeg",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e0ed71e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F93%2Fa2%2Fd0bf95a34ec9a87fdbbdbf237c41%2Finformalidad.jpeg",
       "published": "2026-08-12T11:56:39+00:00",
       "score": null,
       "tags": []
@@ -834,7 +954,7 @@
     },
     {
       "id": "a8b7e784dd5728",
-      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
+      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactos",
       "url": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
       "source": "Expansión",
       "category": "coaching",
@@ -905,18 +1025,6 @@
       "tags": []
     },
     {
-      "id": "973c497f957984",
-      "title": "Prohibir redes sociales a infancias violaría la Constitución, advierten analistas",
-      "url": "https://expansion.mx/tecnologia/2026/08/11/prohibir-redes-sociales-ninos-adolescentes-constitucion",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Ante el debate para limitar celulares y plataformas en escuelas, especialistas alertan que una prohibición podría contradecir el Artículo 6° y afectar el acceso a la educación y la salud.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8ebe7d3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2Fb2%2F5e5d5433435ba5f64705194ce254%2Fistock-1286735465.jpg",
-      "published": "2026-08-11T23:00:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d439f8b5605225",
       "title": "¿Por qué sentimos que el tiempo vuela o se detiene? Un estudio revela la red neuronal que construye la experiencia del tiempo",
       "url": "https://www.fayerwayer.com/ciencia/2026/08/11/por-que-sentimos-que-el-tiempo-vuela-o-se-detiene-un-estudio-revela-la-red-neuronal-que-construye-la-experiencia-del-tiempo/",
@@ -925,30 +1033,6 @@
       "summary": "Neurocientíficos revelan en PLOS Biology cómo el cerebro mide la duración visual en etapas jerárquicas para crear la percepción subjetiva del tiempo.",
       "image": "https://www.fayerwayer.com/resizer/v2/DVBCXJF4EZDIDK5WLMVKVZCUVM.png?auth=11a33db1680d5f2604923e0e619f52101fd23b2fb3ef01688b7e27273051fdc6&smart=true&width=1640&height=924",
       "published": "2026-08-11T22:59:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7f29e85ae9711a",
-      "title": "De Chevrolet a Kia: los autos eléctricos que ya se fabrican en México y cuánto cuestan en 2026",
-      "url": "https://expansion.mx/empresas/2026/08/11/autos-electricos-fabricados-mexico-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "México se ha convertido en un importante centro de producción de autos con tecnologías renovables, como es el caso de los eléctricos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8504534/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff5%2Fbb%2F6e37f3ed440e9f1ffa64874e6e21%2F1-chevrolet-equinox-ev.jpeg",
-      "published": "2026-08-11T22:48:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c4c92201a4ad88",
-      "title": "Pemex quema casi una quinta parte del gas que produce en medio de la dependencia de EU",
-      "url": "https://expansion.mx/empresas/2026/08/11/mexico-importa-70-gas-natural-pemex-quema-produce",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "México importa entre 70% y 75% del gas natural que consume, mientras Pemex dejó sin aprovechar 778 millones de pies cúbicos diarios durante el segundo trimestre de 2026, casi el doble que un año antes.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/80fe3d7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb4%2F14%2F7927af6b4ae9b59e7c16999757e6%2Fistock-155380480.jpg",
-      "published": "2026-08-11T22:34:39+00:00",
       "score": null,
       "tags": []
     },
@@ -965,18 +1049,6 @@
       "tags": []
     },
     {
-      "id": "2ebb314b291016",
-      "title": "Spotify etiquetará a los artistas creados con IA para distinguirlos de personas reales",
-      "url": "https://expansion.mx/tecnologia/2026/08/11/spotify-etiquetara-artistas-creados-con-ia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Spotify comenzará a mostrar a mediados de septiembre una insignia de “persona de IA” en perfiles, búsquedas y playlists revisando también las identidades de los artistas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6f52eb3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F63%2F70%2Fd4f343d1495c969184b70e6fc994%2Fnueva-funcion-spotify.png",
-      "published": "2026-08-11T22:18:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "eb7390b6a94e39",
       "title": "La nueva frontera de la reputación: cómo la inteligencia artificial cambia la comunicación de las empresas",
       "url": "https://ilifebelt.com/la-nueva-frontera-de-la-reputacion-como-la-inteligencia-artificial-cambia-la-comunicacion-de-las-empresas/2026/08/",
@@ -985,30 +1057,6 @@
       "summary": "La reputación e inteligencia artificial están cada vez más conectadas. Durante años, las empresas construyeron su reputación frente a clientes, empleados, periodistas e inversores. Ahora también deben considerar a los si…",
       "image": null,
       "published": "2026-08-11T21:51:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4618261161aaf4",
-      "title": "México encara dos medidas antidumping en Europa por insumos para plásticos",
-      "url": "https://expansion.mx/economia/2026/08/11/mexico-antidumping-europa-insumos-plasticos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La Unión Europea impuso una cuota antidumping de 24.1% al ácido tereftálico mexicano, mientras Reino Unido comenzó a vigilar las importaciones de PVC.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/cd10161/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F48%2F7a%2F942e079249de899ff96602468bba%2Fmexico-antidumping-europa-insumos-plasticos-pet-pvc.jpg",
-      "published": "2026-08-11T21:47:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a1130f6ba4e9ad",
-      "title": "La IA amenaza el primer empleo formal de 3 millones de mexicanos",
-      "url": "https://expansion.mx/economia/2026/08/11/ia-amenaza-primer-empleo-formal-jovenes-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El mayor riesgo recae en las ocupaciones que suelen ofrecer a los jóvenes su primera oportunidad laboral con seguridad social y prestaciones.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/191fde3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1f%2F73%2F696065bd4c149feedd99b8ec2465%2Fia-amenaza-primer-empleo-formal-jovenes-mexico.jpeg",
-      "published": "2026-08-11T21:47:07+00:00",
       "score": null,
       "tags": []
     },
@@ -1025,18 +1073,6 @@
       "tags": []
     },
     {
-      "id": "bc5b798b37896d",
-      "title": "El Galaxy S26 FE filtra todas sus características y ya no quedan sorpresas",
-      "url": "https://hipertextual.com/mobile/galaxy-s26-fe-especificaciones-filtradas/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El Galaxy S26 FE está cada vez más cerca de hacerse realidad. A unos días de filtrarse la fecha de lanzamiento, un nuevo reporte ha revelado todas las especificaciones del próximo móvil de Samsung. Tal y como se rumoreab…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/galaxy-s26-fe.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-08-11T21:03:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a5e826e53aa728",
       "title": "Sofisticación cibercriminal: Kaspersky alerta sobre “The Gentlemen”, el grupo de ransomware que usa backdoors a medida",
       "url": "https://www.fayerwayer.com/internet/2026/08/11/sofisticacion-cibercriminal-kaspersky-alerta-sobre-the-gentlemen-el-grupo-de-ransomware-que-usa-backdoors-a-medida/",
@@ -1049,18 +1085,6 @@
       "tags": []
     },
     {
-      "id": "71a91819af600b",
-      "title": "Elon Musk lanza una IA que trabaja por ti las 24 horas con solo enviar un mensaje",
-      "url": "https://hipertextual.com/inteligencia-artificial/grok-bot-app-agentes-ia-spacexai-elon-musk/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "SpaceXAI ha lanzado una nueva app que competirá de frente con Claude y ChatGPT en tareas de agente. Conocida como Grok Bot, esta IA promete agentes capaces de completar tareas completas sin tener que supervisarlos todo e…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/grok-bot-ai.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-08-11T19:41:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "df58e4ad6a1ba2",
       "title": "Review | Splatoon Raiders para Nintendo Switch 2: La franquicia de disparos de Nintendo se reinventa con una adictiva campaña para un jugador",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/08/11/review-splatoon-raiders-para-nintendo-switch-2-la-franquicia-de-disparos-de-nintendo-se-reinventa-con-una-adictiva-campana-para-un-jugador/",
@@ -1069,18 +1093,6 @@
       "summary": "Analizamos Splatoon Raiders en Nintendo Switch 2. La saga de shooters de Nintendo evoluciona con misiones individuales, acción frenética y coop.",
       "image": "https://www.fayerwayer.com/resizer/v2/JWYR7BHRINFLPKL4BHBVPXHEAI.png?auth=806bd1b2e853d19474f680c4cc1ff81b39945ae2eb99e9e55721fd0225e18866&smart=true&width=1640&height=924",
       "published": "2026-08-11T18:35:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6fb9646741edaf",
-      "title": "Filtrada la Nintendo Switch 2 especial por los 40 años de ‘Zelda’: querrás tenerla en tu sala",
-      "url": "https://hipertextual.com/videojuegos/filtrada-nintendo-switch-2-especial-40-anos-zelda/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Una Nintendo Switch 2 especial por los 40 años de The Legend of Zelda está en camino y su diseño se acaba de filtrar. Según ha publicado @necrolipe en X (Twitter), la compañía japonesa se prepara para lanzar una versión …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/zelda.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-08-11T18:31:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1321,18 +1333,6 @@
       "summary": "Hay una fuerte preocupación por el descenso de la natalidad en el mundo. Cada vez nacen menos niños y las poblaciones envejecen en casi todos los países. Para darte contexto:…",
       "image": null,
       "published": "2026-08-10T16:28:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b60ad4a549631a",
-      "title": "Las cinco tecnologías tras la nueva generación de aspiradoras robot que transforman el aseo en América Latina",
-      "url": "https://www.fayerwayer.com/internet/2026/08/10/las-cinco-tecnologias-tras-la-nueva-generacion-de-aspiradoras-robot-que-transforman-el-aseo-en-america-latina/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Descubre las 5 tecnologías que permiten a las aspiradoras robot mapear el hogar, superar obstáculos y operar sin supervisión manual en América Latina.",
-      "image": "https://www.fayerwayer.com/resizer/v2/PHUIL2M2FFGINDIOIFN6RJIC7I.png?auth=ea35d56f5041d144602bd0057ef88e2886490a7963adb56a0dd15c9b8c04fcbc&smart=true&width=1640&height=924",
-      "published": "2026-08-10T16:19:25+00:00",
       "score": null,
       "tags": []
     },

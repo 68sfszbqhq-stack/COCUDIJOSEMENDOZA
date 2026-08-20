@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-08-20T01:13:46.296368+00:00",
-    "total": 177
+    "generated": "2026-08-20T06:45:23.843819+00:00",
+    "total": 182
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Antes de automatizar hay que eliminar lo innecesario y simplificar lo que queda. Automatizar un proceso deficiente puede institucionalizar una deficiencia a mayor velocidad. The post La forma correcta de empezar a automa…",
       "image": null,
-      "published": "2026-08-20T01:13:44.930593+00:00",
+      "published": "2026-08-20T06:45:22.376169+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Las frases que repites como líder moldean la forma en que tu equipo piensa, actúa y se alinea. Utilízalas con intención y podrás construir cultura, una conversación a la vez. The post Tu lenguaje importa más de lo que cr…",
       "image": null,
-      "published": "2026-08-20T01:13:44.930300+00:00",
+      "published": "2026-08-20T06:45:22.375801+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "En un mundo que vive para perfeccionar la inteligencia artificial, es momento de redescubrir la Inteligencia Absoluta, más profunda, que impulsa tanto la creatividad humana como el aprendizaje automático. The post ¿La IA…",
       "image": null,
-      "published": "2026-08-20T01:13:44.929999+00:00",
+      "published": "2026-08-20T06:45:22.375380+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Un profesor creó un programa gratuito de capacitación en inteligencia artificial y esperaba 500 inscripciones. Lo que pasó después lo sorprendió. The post Así es como quienes hoy solicitan empleo están tratando de lograr…",
       "image": null,
-      "published": "2026-08-20T01:13:44.929689+00:00",
+      "published": "2026-08-20T06:45:22.374939+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Cuando todo depende de una sola persona, la organización deja de crecer. Cuando cada decisión la tiene que tomar un solo líder, la operación entera se frena. The post Delegar es más difícil de lo que parece, pero no hace…",
       "image": null,
-      "published": "2026-08-20T01:13:44.929391+00:00",
+      "published": "2026-08-20T06:45:22.374528+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "No tienes que dejar de ser quien eres para tener éxito en los negocios. Solo necesitas lograr el equilibrio adecuado entre estrategias para sobrellevarlo y un crecimiento planificado. The post Cómo manejar un negocio si …",
       "image": null,
-      "published": "2026-08-20T01:13:44.929074+00:00",
+      "published": "2026-08-20T06:45:22.373028+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "¿Alguna vez te has encontrado atrapado en un patrón, dando vueltas a las mismas soluciones sin encontrar un camino hacia adelante? Aquí te explicamos cómo liberarte de tus limitaciones autoimpuestas. The post Cómo romper…",
       "image": null,
-      "published": "2026-08-20T01:13:44.928418+00:00",
+      "published": "2026-08-20T06:45:22.372633+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Las empresas “AI-native” se definirán por qué tan efectivamente empoderan a sus empleados para adaptarse, innovar y generar mayor impacto en el negocio, más que por la cantidad de herramientas de IA que usan. The post Lo…",
       "image": null,
-      "published": "2026-08-20T01:13:44.926671+00:00",
+      "published": "2026-08-20T06:45:22.372193+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "La constancia, la disciplina y la atención al detalle son esos pequeños factores que moldean cada área del éxito. The post Tus hábitos están hablando. Esto es lo que dicen de ti appeared first on Entrepreneur en Espanol …",
       "image": null,
-      "published": "2026-08-20T01:13:44.926345+00:00",
+      "published": "2026-08-20T06:45:22.371782+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,211 @@
       "category": "startup",
       "summary": "La industria financiera lleva años sumando formas de pagar sin formular la pregunta clave: ¿realmente cambian el hábito del usuario? The post No se necesitan más métodos de pago, sino mejores razones para usarlos appeare…",
       "image": null,
-      "published": "2026-08-20T01:13:44.925990+00:00",
+      "published": "2026-08-20T06:45:22.371338+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ade7c8bde5f5fb",
+      "title": "China tendrá un radiotelescopio de 110 metros con precisión extrema: podrá apuntar al equivalente de una pelota a 3,3 km",
+      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-tendra-radiotelescopio-110-metros-precision-extrema-podra-apuntar-al-equivalente-pelota-a-3-3-km",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Construir un radiotelescopio de 110 metros ya supone levantar una estructura descomunal. Conseguir además que pueda moverse y apuntar al cielo con una precisión del orden de segundos de arco lleva el problema a otra esca…",
+      "image": "https://i.blogs.es/749aaa/telescopio-radioastronomico-qitai-construccion/1024_2000.jpeg",
+      "published": "2026-08-20T06:31:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b00bcec5f83952",
+      "title": "El papel del papel en la comunicación",
+      "url": "https://www.merca20.com/el-papel-del-papel-en-la-comunicacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-papel-del-papel-en-la-comunicacion",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Cuando parece que todo quiere ser digital, lo físico vuelve a tener valor. Durante años, la comunicación parecía tener una dirección inevitable: del papel a la pantalla. Menos revistas, menos periódicos y más banners, po…",
+      "image": "https://files.merca20.com/uploads/2021/06/Manuel_Alonso_-sq.jpg",
+      "published": "2026-08-20T06:05:42+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "80af7929606575",
+      "title": "Primer vistazo al Galaxy S26 FE",
+      "url": "https://www.muycomputer.com/2026/08/20/primer-vistazo-al-galaxy-s26-fe/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Samsung presentará el Galaxy S26 FE el próximo 26 de agosto en un evento virtual. Adelantándose al lanzamiento, Android Headlines ha publicado numerosas imágenes promocionales del terminal, además de la hoja de especific…",
+      "image": null,
+      "published": "2026-08-20T06:04:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "44ac1e1ca22797",
+      "title": "El meteórico ascenso de la china Unitree en la robótica tiene a un gigante inesperado detrás: el Ejército de Estados Unidos",
+      "url": "https://www.xataka.com/robotica-e-ia/meteorico-ascenso-china-unitree-robotica-tiene-a-gigante-inesperado-detras-ejercito-estados-unidos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Los robots van por modas. Hace unos años, modelos como el Spot de Boston Dynamics eran los que partían el bacalao, pero ahora que los humanoides han dejado de dedicarse sólo a dar volteretas en un laboratorio para dar vo…",
+      "image": "https://i.blogs.es/de87e4/upscalemedia-transformed-4-/1024_2000.jpeg",
+      "published": "2026-08-20T06:01:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "677fd98c297e8c",
+      "title": "Procesos, datos y talento: las seis claves para que la IA transforme el marketing",
+      "url": "https://altonivel.com.mx/procesos-datos-y-talento-las-seis-claves-para-que-la-ia-transforme-el-marketing/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La carrera por adoptar inteligencia artificial en marketing avanza, pero la mayoría de las organizaciones aún carece de las capacidades necesarias para convertirla en valor de negocio. The post Procesos, datos y talento:…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/ia-en-marketing.webp",
+      "published": "2026-08-20T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f07610e40cc310",
+      "title": "Google Lens supera 25 mil millones de búsquedas al mes: así pueden aprovecharlo los negocios para vender más",
+      "url": "https://www.merca20.com/google-lens-supera-25-mil-millones-de-busquedas-al-mes-asi-pueden-aprovecharlo-los-negocios-para-vender-mas/?utm_source=rss&utm_medium=rss&utm_campaign=google-lens-supera-25-mil-millones-de-busquedas-al-mes-asi-pueden-aprovecharlo-los-negocios-para-vender-mas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Google Lens supera las 25 mil millones de búsquedas mensuales y una de cada cuatro tiene intención comercial. Conoce cómo los negocios pueden aprovechar la búsqueda visual, Merchant Center y las fichas gratuitas.",
+      "image": "https://files.merca20.com/uploads/2026/08/Google-Lens-supera-25-mil-millones-de-busquedas-al-mes-asi-pueden-aprovecharlo-los-negocios-para-vender-mas-.jpg",
+      "published": "2026-08-20T01:05:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f4c6e52f70f5c0",
+      "title": "Se cayó ChatGPT: OpenAI confirma fallas en el servicio y se disparan las búsquedas en Google",
+      "url": "https://www.merca20.com/se-cayo-chatgpt-openai-confirma-fallas-en-el-servicio-y-se-disparan-las-busquedas-en-google/?utm_source=rss&utm_medium=rss&utm_campaign=se-cayo-chatgpt-openai-confirma-fallas-en-el-servicio-y-se-disparan-las-busquedas-en-google",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Miles de usuarios se han encontrado con problemas para acceder a ChatGPT. La plataforma de inteligencia artificial desarrollada por OpenAI presenta una interrupción generalizada",
+      "image": "https://files.merca20.com/uploads/2025/08/caida-chatgpt_.jpg",
+      "published": "2026-08-20T00:10:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2fbc34107d8284",
+      "title": "T-FAL remata batería de cocina de cerámica Refresh de 20 piezas; está hecha con 100% de aluminio reciclado y tiene diseño elegante",
+      "url": "https://www.merca20.com/t-fal-remata-bateria-de-cocina-de-ceramica-refresh-de-20-piezas-esta-hecha-con-100-de-aluminio-reciclado-y-tiene-diseno-elegante/?utm_source=rss&utm_medium=rss&utm_campaign=t-fal-remata-bateria-de-cocina-de-ceramica-refresh-de-20-piezas-esta-hecha-con-100-de-aluminio-reciclado-y-tiene-diseno-elegante",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Otro de los artículos que actualmente tiene descuento en Amazon es la batería de cocina de cerámica Refresh de 20 piezas de T-FAL, la cual cuenta con un 37% de descuento",
+      "image": "https://files.merca20.com/uploads/2026/08/amazon-bateria-tfal.jpg",
+      "published": "2026-08-20T00:06:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1ce8df41b7cf65",
+      "title": "LG lanza promoción para probar sus aires acondicionados por 30 días: devuélvelos si no te convencen o recibe 10% de cashback",
+      "url": "https://www.merca20.com/lg-lanza-promocion-para-probar-sus-aires-acondicionados-por-30-dias-devuelvelos-si-no-te-convencen-o-recibe-10-de-cashback/?utm_source=rss&utm_medium=rss&utm_campaign=lg-lanza-promocion-para-probar-sus-aires-acondicionados-por-30-dias-devuelvelos-si-no-te-convencen-o-recibe-10-de-cashback",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "LG lanzó una promoción para probar determinados aires acondicionados portátiles durante 30 días. Si decides conservar el equipo, puedes obtener 10% de cashback.",
+      "image": "https://files.merca20.com/uploads/2026/08/LG-lanza-promocion-para-probar-sus-aires-acondicionados-30-dias-devuelvelos-si-no-te-convencen-o-recibe-10-de-cashback-.jpg",
+      "published": "2026-08-20T00:05:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8f8bee7b5aeae0",
+      "title": "ChatGPT bad gateway: OpenAI confirms today’s outage",
+      "url": "https://www.merca20.com/what-does-unable-to-fetch-authentication-verification-keys-chatgpt-mean-openai-confirms-service-outages-today/?utm_source=rss&utm_medium=rss&utm_campaign=what-does-unable-to-fetch-authentication-verification-keys-chatgpt-mean-openai-confirms-service-outages-today",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Thousands of users have encountered problems accessing ChatGPT. The artificial intelligence platform developed by OpenAI is experiencing a widespread outage.",
+      "image": "https://files.merca20.com/uploads/2025/08/caida-chatgpt_.jpg",
+      "published": "2026-08-19T23:51:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1c6db0f12602e4",
+      "title": "Thousands of Blueberries Recalled Due to Possible Contamination",
+      "url": "https://www.merca20.com/thousands-of-blueberries-recalled-due-to-possible-contamination/?utm_source=rss&utm_medium=rss&utm_campaign=thousands-of-blueberries-recalled-due-to-possible-contamination",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "According to information released by the FDA, the affected blueberry lots were sold at Publix stores in several states",
+      "image": "https://files.merca20.com/uploads/2026/08/blueberry-recall-Gemini-AI.jpg",
+      "published": "2026-08-19T23:48:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4e58bce7e96b7e",
+      "title": "Cuánto cuesta construir una casa económica de 60 m2 en 2026: arquitectos revelan el presupuesto completo para CDMX",
+      "url": "https://www.merca20.com/cuanto-cuesta-construir-una-casa-economica-de-60-m2-en-2026-arquitectos-revelan-el-presupuesto-completo-para-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=cuanto-cuesta-construir-una-casa-economica-de-60-m2-en-2026-arquitectos-revelan-el-presupuesto-completo-para-cdmx",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Construir una casa de 60 m2 en CDMX cuesta desde 480 mil pesos en 2026. Conoce cuánto necesitas según el tipo de vivienda y qué gastos debes sumar.",
+      "image": "https://files.merca20.com/uploads/2026/08/Cuanto-cuesta-construir-una-casa-economica-de-60-m2-en-2026-arquitectos-revelan-el-presupuesto-completo-para-CDMX-.jpg",
+      "published": "2026-08-19T23:43:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c4113f6b04fe36",
+      "title": "Coppel remata cuatrimoto MB Motos Glock 150 cc 2026: potente y automática con el mejor descuento del verano",
+      "url": "https://www.merca20.com/coppel-remata-cuatrimoto-mb-motos-glock-150-cc-2026-potente-y-automatica-con-el-mejor-descuento-del-verano/?utm_source=rss&utm_medium=rss&utm_campaign=coppel-remata-cuatrimoto-mb-motos-glock-150-cc-2026-potente-y-automatica-con-el-mejor-descuento-del-verano",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Coppel ofrece la cuatrimoto MB Motos Glock 150 cc 2026 por 29,999 pesos, con un ahorro de 10,000 pesos y transmisión automática.",
+      "image": "https://files.merca20.com/uploads/2026/08/Cuatrimoto1.jpg",
+      "published": "2026-08-19T23:38:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "37ca532597dfaf",
+      "title": "Whirlpool remata despachador de agua con garrafón en color gris; puedes adquirirlo hasta en 15 meses sin intereses y tiene indicador LED",
+      "url": "https://www.merca20.com/whirlpool-remata-despachador-de-agua-con-garrafon-en-color-gris-puedes-adquirirlo-hasta-en-15-meses-sin-intereses-y-tiene-indicador-led/?utm_source=rss&utm_medium=rss&utm_campaign=whirlpool-remata-despachador-de-agua-con-garrafon-en-color-gris-puedes-adquirirlo-hasta-en-15-meses-sin-intereses-y-tiene-indicador-led",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Otra de las ofertas que tiene Amazon en su sitio es el despachador de agua de garrafón Whirlpool, el cual cuenta con un 40% de descuento",
+      "image": "https://files.merca20.com/uploads/2026/08/AMAZON-DESPACHADOR-AGUA.jpg",
+      "published": "2026-08-19T23:23:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d640f88598b206",
+      "title": "Billete de la Lotería Nacional de Juan Gabriel: dónde comprarlo y cuándo es el sorteo",
+      "url": "https://www.merca20.com/billete-de-la-loteria-nacional-de-juan-gabriel-donde-comprarlo-y-cuando-es-el-sorteo/?utm_source=rss&utm_medium=rss&utm_campaign=billete-de-la-loteria-nacional-de-juan-gabriel-donde-comprarlo-y-cuando-es-el-sorteo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "A 10 años de su muerte, el “Divo de Juárez” es homenajeado con una emisión especial que llevará su imagen por todo México.",
+      "image": "https://files.merca20.com/uploads/2026/08/loteria1.jpg",
+      "published": "2026-08-19T23:22:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "69887a23b87058",
+      "title": "Sopas Maruchan presenta el final de la trilogía “Sonrisas Maruchan”",
+      "url": "https://www.merca20.com/sopas-maruchan-presenta-el-final-de-la-trilogia-sonrisas-maruchan/?utm_source=rss&utm_medium=rss&utm_campaign=sopas-maruchan-presenta-el-final-de-la-trilogia-sonrisas-maruchan",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Archer Troy, la agencia creativa mexicana presenta la parte final de su campaña “La Sonrisa de mi Antojo”, creada para Sopas Maruchan en este 2026.",
+      "image": "https://files.merca20.com/uploads/2026/08/Captura-de-pantalla-2026-08-19-a-las-4.34.45-p.m.jpeg",
+      "published": "2026-08-19T23:14:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "70d92e1de0a19f",
+      "title": "¿Por qué el “Moche digital” revive alerta en empresas y marcas en México?",
+      "url": "https://www.merca20.com/por-que-el-moche-digital-revive-alerta-en-empresas-y-marcas-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-el-moche-digital-revive-alerta-en-empresas-y-marcas-en-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El “Moche digital” revive la alerta porque convierte una discusión de derechos de autor en una discusión de negocio.",
+      "image": "https://files.merca20.com/uploads/2026/08/bigstock-222339571.jpg",
+      "published": "2026-08-19T23:10:19+00:00",
       "score": null,
       "tags": []
     },
@@ -133,6 +337,30 @@
       "summary": "Una vacuna experimental basada en ARN mensajero contra el melanoma impulsó 177% las acciones de Moderna y 12% las de Merck. The post ¿Una vacuna contra el cáncer puede cambiar el futuro de Moderna? Wall Street apuesta qu…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/Moderna-cancer.webp",
       "published": "2026-08-19T23:07:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e53d29b6104850",
+      "title": "Gob.mx se cae: sitio web del Gobierno de México presenta error 500 y queda fuera de servicio",
+      "url": "https://www.merca20.com/gob-mx-se-cae-sitio-web-del-gobierno-de-mexico-presenta-error-500-y-queda-fuera-de-servicio/?utm_source=rss&utm_medium=rss&utm_campaign=gob-mx-se-cae-sitio-web-del-gobierno-de-mexico-presenta-error-500-y-queda-fuera-de-servicio",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El portal gob.mx presentó una interrupción durante la tarde de este miércoles 19 de agosto de 2026, lo que impidió a usuarios ingresar con normalidad a páginas y servicios digitales del Gobierno de México",
+      "image": "https://files.merca20.com/uploads/2026/08/caida-gobierno-1.jpg",
+      "published": "2026-08-19T23:06:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c521b92580d97",
+      "title": "Spotify regala 3 meses de Premium y te ahorras $417 pesos: así puedes activar la promoción",
+      "url": "https://www.merca20.com/spotify-regala-3-meses-de-premium-y-te-ahorras-417-pesos-asi-puedes-activar-la-promocion/?utm_source=rss&utm_medium=rss&utm_campaign=spotify-regala-3-meses-de-premium-y-te-ahorras-417-pesos-asi-puedes-activar-la-promocion",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Spotify ofrece 3 meses de Premium Individual por $0 en México. Conoce quiénes pueden obtenerlos, cómo activar la promoción y hasta cuándo estará disponible.",
+      "image": "https://files.merca20.com/uploads/2026/08/Spotify-regala-3-meses-de-Premium-y-te-ahorras-417-pesos-asi-puedes-activar-la-promocion-.jpg",
+      "published": "2026-08-19T23:05:59+00:00",
       "score": null,
       "tags": []
     },
@@ -281,18 +509,6 @@
       "tags": []
     },
     {
-      "id": "da1927b7c35251",
-      "title": "¿Cómo analizar el costo-beneficio de la consolidación de deudas?",
-      "url": "https://expansion.mx/bespoke-ad/2026/08/19/como-analizar-el-costo-beneficio-de-la-consolidacion-de-deudas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La capacidad de pago es un factor fundamental, pero no es el único que debe revisarse para determinar si un crédito de consolidación realmente beneficiará a un cliente.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/dc5c2a2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fff%2F8a%2F1fce07e646d1b309c9a451cb1bc0%2Fportada-expansion-1.png",
-      "published": "2026-08-19T18:04:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "46e9b4e3edd0b3",
       "title": "El Supremo y la DGT lo confirmaron hace tiempo: los radares móviles no pueden sancionarte si circulas sin exceder un límite específico",
       "url": "https://www.xataka.com/movilidad/supremo-dgt-confirmaron-hace-tiempo-radares-moviles-no-pueden-sancionarte-circulas-exceder-limite-especifico",
@@ -329,18 +545,6 @@
       "tags": []
     },
     {
-      "id": "fd99197c9225fc",
-      "title": "La cuota antidumping a la fresa mexicana puede ser solo el principio, advierte el CNA",
-      "url": "https://expansion.mx/economia/2026/08/19/cuota-antidumping-fresa-mexicana-riesgo-campo-cna",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El sector agropecuario teme que los criterios de estacionalidad y regionalidad abran la puerta a nuevas investigaciones comerciales para otros productos del campo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/72e35eb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7e%2F55%2F35eb8d424c10ae13511b05b043c3%2Ffresas-irapuato-000-36xz9nz.jpeg",
-      "published": "2026-08-19T17:21:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8341d8ab2f0881",
       "title": "INE ajusta su presupuesto para las elecciones del 2027: baja 12.9% tras reclamo de Sheinbaum",
       "url": "https://altonivel.com.mx/ine-ajusta-su-presupuesto-para-las-elecciones-del-2027-baja-12-9-tras-reclamo-de-sheinbaum/",
@@ -361,18 +565,6 @@
       "summary": "El Google Pixel Tag se ha presentado en un evento en el que quizás haya pasado algo desapercibido (al fin y al cabo, compartía presentación con los nuevos Google Pixel 11 ). Pero se trata de un paso importante dentro de …",
       "image": "https://i.blogs.es/89712e/google-pixel-tag-y-airtag-2/1024_2000.jpeg",
       "published": "2026-08-19T17:15:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0f26c7aca3f23d",
-      "title": "Campañas que venden hoy, pero dejan de generar valor cuando termina la inversión publicitaria",
-      "url": "https://expansion.mx/opinion/2026/08/19/campana-publicitaria-activos-atencion-rentada",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Una campaña puede vender durante tres meses, pero su verdadero valor aparece cuando también deja datos, comunidad, reputación, productos o canales que siguen trabajando después de la pauta.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/af9869a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fad%2Fb3%2F83031b9b4af4b81ec454ac42596c%2Fcampana-publicitaria-activos-atencion-rentada.jpg",
-      "published": "2026-08-19T17:09:28+00:00",
       "score": null,
       "tags": []
     },
@@ -485,18 +677,6 @@
       "tags": []
     },
     {
-      "id": "5ee010f5d04669",
-      "title": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
-      "url": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/967d546/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F62%2Fd2%2Fac6d1f7e4536babfc10be1d483df%2Fregistro-telefonico-lineas-suspendidas.png",
-      "published": "2026-08-19T16:05:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "72bc9a711e8e41",
       "title": "Noruega casi ha dejado de vender coches de combustión: así es como ha convertido su mercado de coches en el más electrificado",
       "url": "https://www.xataka.com/movilidad/noruega-casi-ha-dejado-vender-coches-combustion-asi-como-ha-convertido-su-mercado-coches-electrificado",
@@ -593,42 +773,6 @@
       "tags": []
     },
     {
-      "id": "68ac4451aa5341",
-      "title": "Indignación en La Moraleja: han instalado una torre de alta tensión al lado de la mayor urbanización de lujo de Madrid",
-      "url": "https://www.xataka.com/magnet/vecinos-urbanizacion-lujo-moraleja-madrid-estan-indignados-instalacion-torre-alta-tension-a-30-metros-sus-casas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Nadie les ha avisado, pero hace un par de semanas, los vecinos de La Carrascosa , dentro de la urbanización de lujo La Moraleja, se asomaron a la ventana y vieron decenas de operarios levantando una estructura metálica d…",
-      "image": "https://i.blogs.es/aed619/torre/1024_2000.jpeg",
-      "published": "2026-08-19T14:31:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5549d4cc71596c",
-      "title": "Peso mexicano rompe la barrera de 17 y cotiza en 16.95 por dólar",
-      "url": "https://expansion.mx/mercados/2026/08/19/peso-mexicano-rompe-barrera-17-cotiza-16-95-dolar",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El avance se apoya en mayores apuestas especulativas a favor de la moneda mexicana y en expectativas de tasas menos restrictivas en Estados Unidos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b3f0fbe/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbf%2F1c%2F5cc9f4b7400bb3e64fd454d587a0%2Fpeso-mexicano-peso-dolar-fortaleza-2026.jpg",
-      "published": "2026-08-19T14:19:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1f46fcbb62e207",
-      "title": "Imágenes satelitales no dejan dudas: Rusia está levantando una base para lanzar miles de drones, y el problema para Europa es dónde",
-      "url": "https://www.xataka.com/magnet/imagenes-satelitales-no-dejan-dudas-rusia-esta-levantando-base-para-lanzar-miles-drones-problema-para-europa-donde",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En estos momentos, el espacio está mostrando cómo Rusia está transformando su guerra de drones en algo mucho más grande que una sucesión de ataques contra Ucrania. Moscú está construyendo y ampliando una red de instalaci…",
-      "image": "https://i.blogs.es/4e7ff6/rusia-drones-xataka/1024_2000.jpeg",
-      "published": "2026-08-19T14:01:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "809a6e8e7c81bc",
       "title": "¿Vivir o invertir? Los detalles de tecnología y diseño que aseguran la plusvalía de tu próxima vivienda",
       "url": "https://www.fayerwayer.com/internet/2026/08/19/vivir-o-invertir-los-detalles-de-tecnologia-y-diseno-que-aseguran-la-plusvalia-de-tu-proxima-vivienda/",
@@ -653,30 +797,6 @@
       "tags": []
     },
     {
-      "id": "89d8589411c3e7",
-      "title": "OpenAI frena su IA más avanzada después de que un agente escapó y lanzó un ataque por su cuenta",
-      "url": "https://expansion.mx/tecnologia/2026/08/19/openai-frena-ia-avanzada-tras-ataque-autonomo",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El episodio ocurre mientras OpenAI evalúa nuevas barreras para modelos capaces de ejecutar tareas con menor intervención humana y admite que incluso sus sistemas de vigilancia pueden ser evadidos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/dc4fb9c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F37%2Ffe%2F9805b9404a4aad71d81db02336b1%2F4-chatgpt-y-acusaciones-apple.jpeg",
-      "published": "2026-08-19T13:49:48+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "509c01409421b5",
-      "title": "El verdadero valor de un medicamento",
-      "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/19/verdadero-valor-de-un-medicamento",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Una segunda pregunta definirá el futuro de los sistemas de salud: ¿cómo garantizar que esos avances lleguen de manera efectiva a todas las personas que los necesitan?",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e31c544/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd8%2Fe0%2F0af993d4451482cb853c0dd27304%2Fistock-2125132045.jpg",
-      "published": "2026-08-19T12:36:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "aa33df1108a986",
       "title": "Así cuenta GTA VI la derrota de Xbox Series X-S frente a PS5",
       "url": "https://www.muycomputer.com/2026/08/19/asi-cuenta-gta-vi-la-derrota-de-xbox-series-x-s-frente-a-ps5/",
@@ -685,18 +805,6 @@
       "summary": "La firma Sensor Tower ha compartido los datos que ha recopilado de las precompras de GTA VI en consolas, y estos no hacen más que confirmar la enorme derrota que ha sufrido Xbox en esta generación frente a PlayStation. Y…",
       "image": null,
       "published": "2026-08-19T12:25:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "863ccfb5008cf9",
-      "title": "Aprovechemos todo el valor del momento de la IA",
-      "url": "https://expansion.mx/opinion/2026/08/21/aprovechemos-todo-el-valor-del-momento-de-la-ia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El reto de hoy en día es estratégico y organizacional. Por lo mismo, apuntamos a acciones que pueden ayudar a los líderes a convertirse en los impulsores de IA.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/de203dc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F82%2F46%2Fdc9654684313ad794e2ef8e7ae71%2Finteligencia.jpg",
-      "published": "2026-08-19T12:07:27+00:00",
       "score": null,
       "tags": []
     },
@@ -749,18 +857,6 @@
       "tags": []
     },
     {
-      "id": "cc7ace3369905c",
-      "title": "Entrevistas en Big Tech: las reglas han cambiado",
-      "url": "https://expansion.mx/opinion/2026/08/20/entrevistas-en-big-tech-las-reglas-han-cambiado",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El talento siempre será atractivo si cumple con los requisitos que implica el trabajo, pero en la era de la IA, el valor proviene de otro lado.",
-      "image": null,
-      "published": "2026-08-19T12:01:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cff039431e5204",
       "title": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
       "url": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
@@ -769,6 +865,30 @@
       "summary": "Iván Lomelí busca acelerar el crecimiento del banco con más clientes, procesos de crédito ágiles y una expansión ofensiva hacia las principales zonas metropolitanas del país.",
       "image": "https://cdn-3.expansion.mx/dims4/default/de5da00/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2F71%2F7c7cd8e3429d90d208fa74dc3572%2Fivan-lomeli-banbajio-entrevista-exclusiva-para-expansion.jpg",
       "published": "2026-08-19T11:55:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "43f0d752ce0598",
+      "title": "Trump pierde margen de maniobra en la guerra entre EU e Irán",
+      "url": "https://expansion.mx/mundo/2026/08/19/trump-pierde-margen-de-maniobra-en-la-guerra-entre-eu-e-iran",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El fracaso de las negociaciones deja a Washington con menos opciones para contener el conflicto, mientras Teherán gana poder de presión e Israel complica cualquier salida diplomática.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a8947d8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F09%2Fa5%2F701cef634f389e17a19962f9280e%2Fguerra-iran-estrecho-ormuz.jpeg",
+      "published": "2026-08-19T11:55:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f986d1a6a341fa",
+      "title": "“Reparar no es explicar”: la UNAM aún debe esclarecer qué falló en su examen",
+      "url": "https://expansion.mx/tecnologia/2026/08/19/fallas-examen-unam-2026-explicar-que-ocurrio",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La universidad busca corregir el proceso de admisión tras detectar resultados atípicos, pero especialistas advierten que aún falta reconstruir qué ocurrió, qué controles fallaron y quién tomó las decisiones clave.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4686fec/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb9%2F74%2F88b7d6a64e5a9fff502ba6437518%2Ffallas-tecnologicas-examen-unam-2026.jpg.jpeg",
+      "published": "2026-08-19T11:55:05+00:00",
       "score": null,
       "tags": []
     },
@@ -893,6 +1013,30 @@
       "tags": []
     },
     {
+      "id": "b27af445df3de1",
+      "title": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
+      "url": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La Secretaría de Economía rechaza los criterios de Estados Unidos y alerta sobre el impacto para casi 5,000 productores.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1493804/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3f%2Fa6%2Fcba936fa49cea6f15a47179328e9%2Ffresas-irapuato-000-36xw4jm.jpeg",
+      "published": "2026-08-19T04:30:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1d8a4a058e0763",
+      "title": "Trump da tres días a Canadá ante aranceles de 50% y revive un oleoducto",
+      "url": "https://expansion.mx/economia/2026/08/18/trump-aplaza-aranceles-canada-oleoducto-keystone-xl",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La prórroga evita una escalada inmediata entre los socios del T-MEC, aunque la amenaza arancelaria continuará vigente si fracasan las conversaciones.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/fb659e6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2F63%2Ff04811bd4e818774ec19e92f54b4%2Fdonald-trump-mark-carney-reunion.jpg",
+      "published": "2026-08-19T04:02:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "47ee4ecc41882b",
       "title": "Flamin’ Hot: las 5 lecciones de innovación que toda empresa puede aprender",
       "url": "https://altonivel.com.mx/flamin-hot-las-5-lecciones-de-innovacion-que-toda-empresa-puede-aprender/",
@@ -901,6 +1045,78 @@
       "summary": "El caso del sabor Flamin’ Hot demuestra que la innovación puede surgir de observar hábitos, cultura y necesidades que otros pasan por alto. The post Flamin’ Hot: las 5 lecciones de innovación que toda empresa puede apren…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/flamin-hot-1.webp",
       "published": "2026-08-19T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5491d9fa4c5905",
+      "title": "Revisa tu lista de útiles 2026: los cuadernos y mochilas ya cuestan 23% más que el año pasado",
+      "url": "https://expansion.mx/finanzas-personales/2026/08/18/lista-de-utiles-2026-cuadernos-mochilas-ya-cuestan-mas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El gasto escolar puede continuar durante todo el ciclo, con hasta 4,000 pesos mensuales adicionales por estudiante en transporte y lunch.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2d03377/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Faf%2F04%2Ff07393da4deca078af8104ce8545%2Fschool-supplies-flatlay.jpg",
+      "published": "2026-08-19T01:35:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e441cb132f8d44",
+      "title": "UNAM vs. Tec: la diferencia de 1.4 millones por estudiar en las mejores universidades de México",
+      "url": "https://expansion.mx/carrera/2026/08/18/unam-tec-1-4-millones-estudiar-mejores-universidades-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Tec de Monterrey aparece como la segunda universidad mexicana mejor posicionada en el ranking mundial, pero su costo estimado es 16 veces mayor al de una institución pública.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e200b38/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd0%2F69%2F1da5d9154ff49834aa94a727e68c%2F527572239-1193110482856217-3505775262348634901-n.jpg",
+      "published": "2026-08-19T00:47:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "048e7786f97af6",
+      "title": "Meta enfrenta su “momento tabacalera”: el juicio que puede cambiar el negocio de las redes sociales",
+      "url": "https://expansion.mx/tecnologia/2026/08/18/meta-enfrenta-su-momento-tabacalero",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "29 estados acusan a Meta de diseñar Facebook e Instagram para fomentar el uso compulsivo entre menores y el uso recuerda una batalla legal que obligó a las tabacaleras a pagar miles de millones de dólares.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/70c87ad/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F61%2Fb4%2F94cc482f4354b4da8e10a9382e0f%2Fde-las-tabacaleras-a-meta.png",
+      "published": "2026-08-19T00:19:02+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f77da2c516a784",
+      "title": "Quién es Natalie Harp, la funcionaria cercana a Trump que saltó al ojo público",
+      "url": "https://expansion.mx/mundo/2026/08/18/quien-es-natalie-harp-cercana-a-trump",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La asistente está en el centro de la polémica porque fue una de las pocas personas presentes en el cambio secreto de aviones Air Force One en un vuelo en julio.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/22cb12f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc5%2F2b%2Fb34889d24bdea1c71dcf68f78610%2Fquien-es-natalie-harp.jpg",
+      "published": "2026-08-18T23:56:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1bb31752c4ab65",
+      "title": "¿Es posible aumentar pensión para beneficiarios de la Ley 73 del IMSS? Esto dice amparo",
+      "url": "https://expansion.mx/finanzas-personales/2026/08/18/es-posible-aumentar-pension-beneficiarios-ley-73-imss-amparo",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El trámite denominado como \"asignación familiar\" puede aumentar el monto de la pensión que perciben los pensionados por el régimen de la Ley 73 del IMSS.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3bd623b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F78%2F7c%2Fa4f98307407ca0d35e644b04f64a%2Faumentar-pension-ley-73-imss.jpeg",
+      "published": "2026-08-18T23:55:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e7e796d20fb52f",
+      "title": "Casi 3 de cada 10 consultoras de belleza tienen licenciatura, pero enfrentan problemas para analizar datos",
+      "url": "https://expansion.mx/carrera/2026/08/18/consultoras-natura-dificultades-para-analizar-datos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El 29% de las consultoras terminó la educación superior, pero solo 24.9% pudo determinar si tenía información suficiente para resolver un problema.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/163c6fa/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F21%2Ff3%2Ff1651bfb44ad9252d8a4b3ae1c69%2Fconsultoras-natura-licenciatura-analisis-datos.jpg",
+      "published": "2026-08-18T23:40:37+00:00",
       "score": null,
       "tags": []
     },
@@ -1133,18 +1349,6 @@
       "tags": []
     },
     {
-      "id": "3ab451828ec24d",
-      "title": "Los mayores accionistas de SpaceX: cuánto tienen Alphabet y Elon Musk",
-      "url": "https://altonivel.com.mx/mayores-inversores-spacex-alphabet-fidelity-elon-musk/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Alphabet lidera las posiciones institucionales divulgadas con 551.2 millones de acciones; Fidelity, Gigafund y el fondo soberano saudita también aparecen entre los grandes tenedores. The post Los mayores accionistas de S…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/05/spacex.webp",
-      "published": "2026-08-18T16:00:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0c704f3b3b0d55",
       "title": "GeForce Now llega a Firefox: la colaboración con Mozilla fue clave",
       "url": "https://www.muycomputer.com/2026/08/18/geforce-now-llega-a-firefox-la-colaboracion-con-mozilla-fue-clave/",
@@ -1213,30 +1417,6 @@
       "summary": "Rutinas sencillas como abrazarse cinco segundos cada día, chocar la mano al salir de casa o repasar cosas positivas antes de dormir ayudan a mejorar el ambiente y a fortalecer nuestros vínculos.",
       "image": null,
       "published": "2026-08-18T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8f79c5fd36dbf9",
-      "title": "Astrónomos descubren un nuevo tipo de objeto, «estrella agujero negro»",
-      "url": "https://www.muycomputer.com/2026/08/18/astronomos-descubren-un-nuevo-tipo-de-objeto-estrella-agujero-negro/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Un grupo de investigadores dicen haber descubierto un nuevo tipo de objeto astronómico que han bautizado como estrella agujero negro. Identificado por el telescopio espacial James Webb de la NASA, se trata de brillante o…",
-      "image": null,
-      "published": "2026-08-18T08:53:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9e1e8ccce2f2a1",
-      "title": "¿Por qué tu teléfono tarda una eternidad en cargar conectado al computador? Esta es la explicación técnica",
-      "url": "https://www.fayerwayer.com/moviles/2026/08/18/por-que-tu-telefono-tarda-una-eternidad-en-cargar-conectado-al-computador-esta-es-la-explicacion-tecnica/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Te explicamos por qué el teléfono carga más lento en el computador que en un enchufe de pared. Analizamos voltajes, puertos USB-C vs. USB-A y potencia.",
-      "image": "https://www.fayerwayer.com/resizer/v2/EJO6A6OZF5EWDM77NX4OPNTXCQ.jpeg?auth=111d6e95e55f232f0b186586e766de179fed2c557382c8e97f28fec1c23c65f7&smart=true&width=1376&height=768",
-      "published": "2026-08-18T02:00:46+00:00",
       "score": null,
       "tags": []
     },
@@ -1997,102 +2177,6 @@
       "tags": []
     },
     {
-      "id": "375543f10dadb8",
-      "title": "La importancia de los vínculos afectivos en el aula",
-      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
-      "image": null,
-      "published": "2021-06-03T14:00:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "30827e2938db33",
-      "title": "Click to English: un recurso visual para el inglés",
-      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
-      "image": null,
-      "published": "2021-05-20T14:00:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1f4ddc6170c5ca",
-      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
-      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
-      "image": null,
-      "published": "2021-05-06T14:00:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "39f21b0066f705",
-      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
-      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
-      "image": null,
-      "published": "2021-04-29T14:00:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7c25c9b27d8e08",
-      "title": "El papel del juego en el aprendizaje",
-      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
-      "image": null,
-      "published": "2021-04-15T14:00:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a27c862780854e",
-      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
-      "url": "http://blog.tiching.com/teuvo-sankila/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
-      "image": null,
-      "published": "2021-04-11T08:00:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e31f7e480ae193",
-      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
-      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
-      "image": null,
-      "published": "2021-04-07T14:00:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ea1bfdcc24e134",
-      "title": "Evaluar para aprender: herramientas para la autoevaluación",
-      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
-      "image": null,
-      "published": "2021-03-17T15:00:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2101,30 +2185,6 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3e8a4e92c6ff20",
-      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
-      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
-      "image": null,
-      "published": "2021-02-25T17:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f160c4352a3034",
-      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
-      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
-      "source": "Tiching Blog",
-      "category": "educacion",
-      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
-      "image": null,
-      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

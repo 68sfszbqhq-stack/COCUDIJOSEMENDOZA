@@ -1,57 +1,9 @@
 {
   "meta": {
-    "generated": "2026-08-19T18:35:29.655922+00:00",
-    "total": 168
+    "generated": "2026-08-20T01:13:46.296368+00:00",
+    "total": 177
   },
   "items": [
-    {
-      "id": "bc394522ff188f",
-      "title": "Estrategias de captación impulsadas por IA: un motor que está nivelando el campo de juego empresarial",
-      "url": "https://spanish.entrepreneur.com/emprendedores/estrategias-de-captacion-impulsadas-por-ia-un-motor-que-esta-nivelando-el-campo-de-juego-empresarial",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "La inteligencia artificial ya revoluciona el alcance B2B, optimizando la hiperpersonalización y nivelando el campo de juego competitivo para empresas en un mercado global. The post Estrategias de captación impulsadas por…",
-      "image": null,
-      "published": "2026-08-19T18:35:28.290345+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4b1f429767bcbf",
-      "title": "Estas son las 3 fuerzas ocultas que determinan el éxito de una startup — y cómo abrazarlas",
-      "url": "https://spanish.entrepreneur.com/iniciar-un-negocio/estas-son-las-3-fuerzas-ocultas-que-determinan-el-exito-de/488600",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "El emprendimiento prospera en la intersección de la fragilidad, el impulso y la reinversión. Analicemos cómo estas fuerzas definen el camino de una startup, con lecciones sobre cómo navegar la incertidumbre, abrazar el f…",
-      "image": null,
-      "published": "2026-08-19T18:35:28.289854+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "756946a6828c7d",
-      "title": "5 poderosas lecciones para ayudar a los líderes a navegar la disrupción",
-      "url": "https://spanish.entrepreneur.com/emprendedores/5-poderosas-lecciones-para-ayudar-a-los-lideres-a-navegar-la-disrupcion",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Estas son las cinco lecciones que he aprendido al guiar a una de las empresas más consolidadas del mundo cripto a través de la transformación, la regulación y el crecimiento. The post 5 poderosas lecciones para ayudar a …",
-      "image": null,
-      "published": "2026-08-19T18:35:28.289317+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bdbc47f2bbc69f",
-      "title": "“Ya no quiero trabajar con ustedes”: el precio de eliminar la fricción comercial",
-      "url": "https://spanish.entrepreneur.com/emprendedores/ya-no-quiero-trabajar-con-ustedes-el-precio-de-eliminar-la-friccion-comercial",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Eliminar fricción comercial en servicios de alto valor es la forma más elegante de sabotear un proyecto. The post “Ya no quiero trabajar con ustedes”: el precio de eliminar la fricción comercial appeared first on Entrepr…",
-      "image": null,
-      "published": "2026-08-19T18:35:28.288800+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "6a7ee0a80fc100",
       "title": "La forma correcta de empezar a automatizar una empresa no es con IA, sino entendiendo primero sus procesos",
@@ -60,7 +12,7 @@
       "category": "startup",
       "summary": "Antes de automatizar hay que eliminar lo innecesario y simplificar lo que queda. Automatizar un proceso deficiente puede institucionalizar una deficiencia a mayor velocidad. The post La forma correcta de empezar a automa…",
       "image": null,
-      "published": "2026-08-19T18:35:28.288311+00:00",
+      "published": "2026-08-20T01:13:44.930593+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +24,7 @@
       "category": "startup",
       "summary": "Las frases que repites como líder moldean la forma en que tu equipo piensa, actúa y se alinea. Utilízalas con intención y podrás construir cultura, una conversación a la vez. The post Tu lenguaje importa más de lo que cr…",
       "image": null,
-      "published": "2026-08-19T18:35:28.287771+00:00",
+      "published": "2026-08-20T01:13:44.930300+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +36,7 @@
       "category": "startup",
       "summary": "En un mundo que vive para perfeccionar la inteligencia artificial, es momento de redescubrir la Inteligencia Absoluta, más profunda, que impulsa tanto la creatividad humana como el aprendizaje automático. The post ¿La IA…",
       "image": null,
-      "published": "2026-08-19T18:35:28.285192+00:00",
+      "published": "2026-08-20T01:13:44.929999+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +48,7 @@
       "category": "startup",
       "summary": "Un profesor creó un programa gratuito de capacitación en inteligencia artificial y esperaba 500 inscripciones. Lo que pasó después lo sorprendió. The post Así es como quienes hoy solicitan empleo están tratando de lograr…",
       "image": null,
-      "published": "2026-08-19T18:35:28.284295+00:00",
+      "published": "2026-08-20T01:13:44.929689+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +60,7 @@
       "category": "startup",
       "summary": "Cuando todo depende de una sola persona, la organización deja de crecer. Cuando cada decisión la tiene que tomar un solo líder, la operación entera se frena. The post Delegar es más difícil de lo que parece, pero no hace…",
       "image": null,
-      "published": "2026-08-19T18:35:28.283526+00:00",
+      "published": "2026-08-20T01:13:44.929391+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +72,175 @@
       "category": "startup",
       "summary": "No tienes que dejar de ser quien eres para tener éxito en los negocios. Solo necesitas lograr el equilibrio adecuado entre estrategias para sobrellevarlo y un crecimiento planificado. The post Cómo manejar un negocio si …",
       "image": null,
-      "published": "2026-08-19T18:35:28.282301+00:00",
+      "published": "2026-08-20T01:13:44.929074+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "589e5543d3050a",
+      "title": "Cómo romper tu zona de confort y empezar a impulsar el crecimiento de tu empresa",
+      "url": "https://spanish.entrepreneur.com/emprendedores/como-romper-tu-zona-de-confort-y-empezar-a-impulsar-el/487065",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "¿Alguna vez te has encontrado atrapado en un patrón, dando vueltas a las mismas soluciones sin encontrar un camino hacia adelante? Aquí te explicamos cómo liberarte de tus limitaciones autoimpuestas. The post Cómo romper…",
+      "image": null,
+      "published": "2026-08-20T01:13:44.928418+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ed27d53d4e1c86",
+      "title": "Lo que hace AI-native a una empresa no es la tecnología, es su gente. Este es el cambio que los líderes deben hacer",
+      "url": "https://spanish.entrepreneur.com/emprendedores/lo-que-hace-ai-native-a-una-empresa-no-es-la-tecnologia-es-su-gente-este-es-el-cambio-que-los-lideres-deben-hacer",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Las empresas “AI-native” se definirán por qué tan efectivamente empoderan a sus empleados para adaptarse, innovar y generar mayor impacto en el negocio, más que por la cantidad de herramientas de IA que usan. The post Lo…",
+      "image": null,
+      "published": "2026-08-20T01:13:44.926671+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "84d7923aabf643",
+      "title": "Tus hábitos están hablando. Esto es lo que dicen de ti",
+      "url": "https://spanish.entrepreneur.com/emprendedores/tus-habitos-estan-hablando-esto-es-lo-que-dicen-de-ti",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "La constancia, la disciplina y la atención al detalle son esos pequeños factores que moldean cada área del éxito. The post Tus hábitos están hablando. Esto es lo que dicen de ti appeared first on Entrepreneur en Espanol …",
+      "image": null,
+      "published": "2026-08-20T01:13:44.926345+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f8970c6620e6a3",
+      "title": "No se necesitan más métodos de pago, sino mejores razones para usarlos",
+      "url": "https://spanish.entrepreneur.com/iniciar-un-negocio/finanzas/no-se-necesitan-mas-metodos-de-pago-sino-mejores-razones-para-usarlos",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "La industria financiera lleva años sumando formas de pagar sin formular la pregunta clave: ¿realmente cambian el hábito del usuario? The post No se necesitan más métodos de pago, sino mejores razones para usarlos appeare…",
+      "image": null,
+      "published": "2026-08-20T01:13:44.925990+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "85fba5ca44d52e",
+      "title": "¿Una vacuna contra el cáncer puede cambiar el futuro de Moderna? Wall Street apuesta que sí",
+      "url": "https://altonivel.com.mx/una-vacuna-contra-el-cancer-puede-cambiar-el-futuro-de-moderna-wall-street-apuesta-que-si/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Una vacuna experimental basada en ARN mensajero contra el melanoma impulsó 177% las acciones de Moderna y 12% las de Merck. The post ¿Una vacuna contra el cáncer puede cambiar el futuro de Moderna? Wall Street apuesta qu…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/Moderna-cancer.webp",
+      "published": "2026-08-19T23:07:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3f14107feb4d5a",
+      "title": "Fed evalúa subir tasas si la inflación no baja, revelan minutas",
+      "url": "https://altonivel.com.mx/fed-evalua-subir-tasas-si-inflacion-no-baja-revelan-minutas/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Varios integrantes de la Reserva Federal consideraron que probablemente será necesario endurecer la política monetaria si la inflación no disminuye. The post Fed evalúa subir tasas si la inflación no baja, revelan minuta…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/05/kevin-warsh-presidencia-fed.webp",
+      "published": "2026-08-19T22:51:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6e42fac085b82f",
+      "title": "Cómo escuchan los psicoterapeutas habiles",
+      "url": "https://www.psyciencia.com/como-escuchan-los-psicoterapeutas-habiles/",
+      "source": "Psyciencia",
+      "category": "psicologia",
+      "summary": "Jonathan Shedler en Substack: Así es como escuchamos. No escuchamos solo hechos y eventos. Escuchamos narrativa, afecto, vacíos, inconsistencias, tono, lenguaje corporal, temas y significados subyacentes. Tratamos de ent…",
+      "image": null,
+      "published": "2026-08-19T22:19:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "32deb96b2b5695",
+      "title": "Moderna se ha disparado un 177% en bolsa. Detrás hay una vacuna contra el cáncer que ha cumplido objetivos de fase 3",
+      "url": "https://www.xataka.com/medicina-y-salud/moderna-se-ha-disparado-177-bolsa-detras-hay-vacuna-cancer-que-ha-cumplido-objetivos-fase-3",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Moderna volvió a colocar el ARNm en el centro de todas las miradas , pero esta vez el motivo no tiene nada que ver con una pandemia. Sus acciones se dispararon alrededor de un 177% después de que la compañía y Merck anun…",
+      "image": "https://i.blogs.es/7687d0/moderna-merck-vacuna-portada/1024_2000.jpeg",
+      "published": "2026-08-19T21:10:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b941b00e7534db",
+      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades-gemini/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Google ha lanzado una promoción que entusiasmará a todos los que usan Gemini. El gigante tecnológico anunció que regalará un año completo de Google AI Plus a los usuarios elegibles de todo el mundo. La oferta llega a uno…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/google-ai-plus.jpg?fit=1024%2C577&quality=70&strip=all&ssl=1",
+      "published": "2026-08-19T20:47:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "54224e32d10985",
+      "title": "S&P 500 y Dow Jones avanzan 0.2% y frenan tres sesiones a la baja",
+      "url": "https://altonivel.com.mx/sp-500-y-dow-jones-avanzan-0-2-y-frenan-tres-sesiones-a-la-baja/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Los mercados reaccionaron al anuncio del Tesoro, las minutas de la Fed y nuevos resultados corporativos, mientras el petróleo avanzó por la incertidumbre en el estrecho de Ormuz. The post S&P 500 y Dow Jones avanzan 0.2%…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2025/12/dow_jones_index.webp",
+      "published": "2026-08-19T20:36:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "179583e66f91c9",
+      "title": "Cigarros vuelven a subir de precio en México: estas marcas ya llegan a 110 pesos",
+      "url": "https://altonivel.com.mx/cigarros-vuelven-a-subir-de-precio-en-mexico-estas-marcas-ya-llegan-a-110-pesos/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Los cigarros subieron entre 2 y 5 pesos por cajetilla en agosto, en el segundo aumento del año; algunas presentaciones de Marlboro y Camel ya llegan a 110 pesos. The post Cigarros vuelven a subir de precio en México: est…",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/cigarros-precio.webp",
+      "published": "2026-08-19T20:11:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2b233251ec69f8",
+      "title": "200.000 millones de dólares en juego: Por qué EE.UU. acusa a Meta de engañar al público sobre la salud mental juvenil",
+      "url": "https://www.fayerwayer.com/internet/2026/08/19/por-que-eeuu-acusa-a-meta-de-enganar-al-publico-sobre-la-salud-mental-juvenil/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Meta enfrenta un juicio histórico en EE.UU. acusada de diseñar Facebook e Instagram para volver adictos a los menores. Se exigen 200.000 millones de USD.",
+      "image": "https://www.fayerwayer.com/resizer/v2/PSCXTXIJTRCEFESHS2Y3OZ5YFE.png?auth=ab99978fb8ba9d2931f419b80538ffa6becb37935725643dacf9585f199e3046&smart=true&width=1640&height=924",
+      "published": "2026-08-19T19:20:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "409cc6052c39dc",
+      "title": "Meta AI lanza su app para Mac con una función que preocupa a ChatGPT y Claude",
+      "url": "https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Meta ha lanzado una aplicación de Meta AI para Mac. Mark Zuckerberg no quiere cederle más terreno a ChatGPT y Claude, por lo que decidió ofrecer una app que permite acceder a todas las funciones del chatbot, como compart…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/Meta-AI-2.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-08-19T19:19:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "290ff3dd58663d",
+      "title": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a un científico de IA de origen chino",
+      "url": "https://www.xataka.com/magnet/mansion-record-silicon-valley-tiene-nuevo-dueno-70-millones-4-9-hectareas-todo-apunta-a-cientifico-ia-origen-chino",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En los alrededores de Silicon Valley, el mercado inmobiliario de lujo lleva tiempo jugando en una liga donde una vivienda puede ocupar varias hectáreas y ofrecer un nivel de privacidad difícil de encontrar incluso entre …",
+      "image": "https://i.blogs.es/e6fa82/mansion-ultralujo-hillsborough-1/1024_2000.jpeg",
+      "published": "2026-08-19T19:01:33+00:00",
       "score": null,
       "tags": []
     },
@@ -143,7 +263,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Estados Unidos determinó de forma preliminar que las fresas mexicanas se venden por debajo de su valor normal; México cuestiona los criterios utilizados y prepara su defensa. The post México defiende sus fresas ante Esta…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/fresa.webp",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/fresas-mexicanas.webp",
       "published": "2026-08-19T18:24:58+00:00",
       "score": null,
       "tags": []
@@ -157,18 +277,6 @@
       "summary": "A unos días de pausar el desarrollo de Astra, OpenAI frenó el entrenamiento de sus modelos más avanzados. La compañía detectó señales preocupantes en su capacidad ofensiva, por lo que decidió parar en seco mientras refor…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/gpt-6-chatgpt.jpg?fit=1024%2C577&quality=70&strip=all&ssl=1",
       "published": "2026-08-19T18:15:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "199e4574239736",
-      "title": "200.000 millones de dólares en juego: Por qué EE.UU. acusa a Meta de engañar al público sobre la salud mental juvenil",
-      "url": "https://www.fayerwayer.com/internet/2026/08/19/200000-millones-de-dolares-en-juego-por-que-eeuu-acusa-a-meta-de-enganar-al-publico-sobre-la-salud-mental-juvenil/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Meta enfrenta un juicio histórico en EE.UU. acusada de diseñar Facebook e Instagram para volver adictos a los menores. Se exigen 200.000 millones de USD.",
-      "image": "https://www.fayerwayer.com/resizer/v2/DKK3BKOHCZF6JODR673GSLOKRA.jpg?auth=757366ea04160b254cc68c80c429bf46ce64e67218ad873ee3bb2e7906aa0900&smart=true&width=1000&height=686",
-      "published": "2026-08-19T18:08:47+00:00",
       "score": null,
       "tags": []
     },
@@ -557,30 +665,6 @@
       "tags": []
     },
     {
-      "id": "5e76f56242766e",
-      "title": "MediaMarkt lanza su mejor promo en el Google Pixel 11 Pro hasta la fecha: últimas horas para aprovechar estos descuentos",
-      "url": "https://www.xataka.com/seleccion/mediamarkt-lanza-su-mejor-promo-google-pixel-11-pro-fecha-ultimas-horas-para-aprovechar-estos-descuentos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "MediaMarkt está celebrando el próximo lanzamiento del Google Pixel 11 Pro con una nueva oferta bastante atractiva, al menos a simple vista. El móvil, que parte de un precio oficial y recomendado de 1.199 euros, ahora mis…",
-      "image": "https://i.blogs.es/adac9d/google-pixel-11-pro/1024_2000.jpeg",
-      "published": "2026-08-19T13:45:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a2c83b42bb0bd0",
-      "title": "China tenía un Windows 10 hecho a medida para su Gobierno. Ahora Pekín ha ordenado retirarlo antes de lo previsto",
-      "url": "https://www.xataka.com/empresas-y-economia/china-tenia-windows-10-hecho-a-medida-para-su-gobierno-ahora-pekin-ha-ordenado-retirarlo-antes-previsto",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En 2017 Microsoft le presentó a China su Windows 10 China Government Edition, una versión de su sistema operativo desarrollado específicamente para que la pudieran usar los organismos públicos y empresas estatales. Casi …",
-      "image": "https://i.blogs.es/2d6cdf/china-microsoft-windows-10/1024_2000.jpeg",
-      "published": "2026-08-19T13:31:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "509c01409421b5",
       "title": "El verdadero valor de un medicamento",
       "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/19/verdadero-valor-de-un-medicamento",
@@ -815,7 +899,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "El caso del sabor Flamin’ Hot demuestra que la innovación puede surgir de observar hábitos, cultura y necesidades que otros pasan por alto. The post Flamin’ Hot: las 5 lecciones de innovación que toda empresa puede apren…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/flamin-hot.webp",
+      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/flamin-hot-1.webp",
       "published": "2026-08-19T04:00:00+00:00",
       "score": null,
       "tags": []
@@ -965,18 +1049,6 @@
       "tags": []
     },
     {
-      "id": "2866910512581f",
-      "title": "Sony revela más detalles sobre la fecha de lanzamiento de la PS6 y su precio",
-      "url": "https://hipertextual.com/videojuegos/ps6-fecha-precio-crisis-memoria-ram/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La espera por la PlayStation 6 podría ser más larga de lo que pensabas. Si bien Sony tiene claro que la consola llegará en algún punto, la compañía no ha decidido la fecha de lanzamiento ni el precio. La razón principal …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/ps5-dualsense.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-08-18T18:37:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "17b6f923e53044",
       "title": "Fin de una era en Apple: El icónico iPhone X y el MacBook Pro de 2018 entran oficialmente a la lista de productos obsoletos",
       "url": "https://www.fayerwayer.com/internet/2026/08/18/fin-de-una-era-en-apple-el-iconico-iphone-x-y-el-macbook-pro-de-2018-entran-oficialmente-a-la-lista-de-productos-obsoletos/",
@@ -997,18 +1069,6 @@
       "summary": "¿Presentaste examen para la UNAM o el IPN? Estos son los pasos para consultar tu resultado ECOEMS 2026 y saber si fuiste asignado a una Prepa, CCH o CECyT. The post Resultados ECOEMS 2026: ¿cómo saber si quedaste en la U…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2025/02/examen-de-admision-preparatoria-2025.webp",
       "published": "2026-08-18T18:26:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fbc88719fc90f3",
-      "title": "Apple cambia las comisiones de la App Store en Europa: así quedan los nuevos valores",
-      "url": "https://hipertextual.com/apple/apple-cambia-comisiones-app-store-europa/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Apple acaba de anunciar una serie de cambios en las comisiones que aplica tanto a las aplicaciones que se distribuyen desde la App Store como a través de tiendas alternativas en Europa. Los de Cupertino indican que las m…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/12/Apple-App-Store-scaled.jpg?fit=1024%2C682&quality=70&strip=all&ssl=1",
-      "published": "2026-08-18T17:42:03+00:00",
       "score": null,
       "tags": []
     },
@@ -1097,30 +1157,6 @@
       "tags": []
     },
     {
-      "id": "b9b4750ec962cf",
-      "title": "Trump dice que no hay diálogo con Irán mientras crece la tensión en Ormuz",
-      "url": "https://altonivel.com.mx/trump-dice-que-no-hay-dialogo-con-iran-mientras-crece-la-tension-en-ormuz/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Trump aseguró que no existen conversaciones con Irán, mientras Teherán condiciona la reapertura del estrecho a concesiones de Washington. The post Trump dice que no hay diálogo con Irán mientras crece la tensión en Ormuz…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/donald-trump-iran.webp",
-      "published": "2026-08-18T15:03:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c8594999859d68",
-      "title": "Más de mil piezas prehispánicas regresan a México: estudiantes ayudaron a recuperarlas",
-      "url": "https://altonivel.com.mx/mexico-recupera-1132-piezas-arqueologicas-boston-estados-unidos/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El Consulado de México en Boston recibió 1,132 bienes prehispánicos del sureste mexicano restituidos voluntariamente por un particular. The post Más de mil piezas prehispánicas regresan a México: estudiantes ayudaron a r…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/mexico-recupera-1132-piezas-arqueologicas.webp",
-      "published": "2026-08-18T14:47:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "09f8122924803b",
       "title": "GoldenEye 007 de Nintendo 64 tendrá un port nativo para PC con trazado de rayos",
       "url": "https://www.muycomputer.com/2026/08/18/goldeneye-007-de-nintendo-64-tendra-un-port-nativo-para-pc-con-trazado-de-rayos/",
@@ -1129,18 +1165,6 @@
       "summary": "GoldenEye 007 es uno de los juegos clásicos más importantes y mejor valorados dentro del género de la acción en primera persona, y fue uno de los exclusivos que diferenciaron a Nintendo 64 frente a PS1. Recuerdo las sens…",
       "image": null,
       "published": "2026-08-18T14:03:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d55af9badfaf03",
-      "title": "México aprueba la nueva pastilla de Novo Nordisk para bajar de peso",
-      "url": "https://altonivel.com.mx/mexico-aprueba-la-nueva-pastilla-de-novo-nordisk-para-bajar-de-peso/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La nueva píldora de Novo Nordisk puede ampliar el acceso a tratamientos contra la obesidad en México, donde más de 70 millones de adultos viven con sobrepeso u obesidad. The post México aprueba la nueva pastilla de Novo …",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2024/12/novo-nordisk-jpg.webp",
-      "published": "2026-08-18T14:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1205,18 +1229,6 @@
       "tags": []
     },
     {
-      "id": "7dee9fbf6f040e",
-      "title": "Ciberseguridad: el riesgo financiero que las juntas directivas ya no pueden delegar",
-      "url": "https://altonivel.com.mx/ciberseguridad-el-riesgo-financiero-que-las-juntas-directivas-ya-no-pueden-delegar/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El fraude digital y los ciberataques ya no son un problema exclusivo de TI: representan un riesgo financiero, operativo y reputacional que debe llegar a la sala de juntas. The post Ciberseguridad: el riesgo financiero qu…",
-      "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/Ciberseguridad.webp",
-      "published": "2026-08-18T03:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9e1e8ccce2f2a1",
       "title": "¿Por qué tu teléfono tarda una eternidad en cargar conectado al computador? Esta es la explicación técnica",
       "url": "https://www.fayerwayer.com/moviles/2026/08/18/por-que-tu-telefono-tarda-una-eternidad-en-cargar-conectado-al-computador-esta-es-la-explicacion-tecnica/",
@@ -1225,18 +1237,6 @@
       "summary": "Te explicamos por qué el teléfono carga más lento en el computador que en un enchufe de pared. Analizamos voltajes, puertos USB-C vs. USB-A y potencia.",
       "image": "https://www.fayerwayer.com/resizer/v2/EJO6A6OZF5EWDM77NX4OPNTXCQ.jpeg?auth=111d6e95e55f232f0b186586e766de179fed2c557382c8e97f28fec1c23c65f7&smart=true&width=1376&height=768",
       "published": "2026-08-18T02:00:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "91e7e080280377",
-      "title": "Google lanza Gemini 3.7 Flash: La nueva IA para desarrolladores que duplica la eficiencia en código y reduce los costos a la mitad",
-      "url": "https://www.fayerwayer.com/internet/2026/08/17/google-lanza-gemini-37-flash-la-nueva-ia-para-desarrolladores-que-duplica-la-eficiencia-en-codigo-y-reduce-los-costos-a-la-mitad/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Google lanza Gemini 3.7 Flash con mejoras clave en programación, desarrollo web y gestión empresarial. Conoce sus precios, benchmarks y disponibilidad.",
-      "image": "https://www.fayerwayer.com/resizer/v2/OODPJ2WM4VHTVOZ7YVINYKSVWI.jpg?auth=dd1b704aa501cc834d301c37cee38f398a2187a5d6772600ef9e01cc8114b10a&smart=true&width=1300&height=731",
-      "published": "2026-08-17T23:16:29+00:00",
       "score": null,
       "tags": []
     },
@@ -1585,18 +1585,6 @@
       "summary": "Las redes sociales están llenas de contenidos que parecen diseñados para irritarnos. Videos absurdamente provocadores, opiniones extremas, información presentada de manera tendenciosa o publicaciones que generan indignac…",
       "image": null,
       "published": "2026-08-05T17:12:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0bddc4abf0776b",
-      "title": "¿Hablar tanto de salud mental nos está enfermando más?",
-      "url": "https://www.psyciencia.com/deja-de-patologizar-la-vida-cotidiana/",
-      "source": "Psyciencia",
-      "category": "psicologia",
-      "summary": "Clay Routledge para The New York Times: En cierto modo, alentar a las personas a pensar y hablar más sobre su salud mental es algo bueno. Ahora hay menos estigma…",
-      "image": null,
-      "published": "2026-08-04T23:00:35+00:00",
       "score": null,
       "tags": []
     },
@@ -2009,6 +1997,102 @@
       "tags": []
     },
     {
+      "id": "375543f10dadb8",
+      "title": "La importancia de los vínculos afectivos en el aula",
+      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
+      "image": null,
+      "published": "2021-06-03T14:00:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30827e2938db33",
+      "title": "Click to English: un recurso visual para el inglés",
+      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
+      "image": null,
+      "published": "2021-05-20T14:00:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f4ddc6170c5ca",
+      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
+      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
+      "image": null,
+      "published": "2021-05-06T14:00:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "39f21b0066f705",
+      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
+      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
+      "image": null,
+      "published": "2021-04-29T14:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c25c9b27d8e08",
+      "title": "El papel del juego en el aprendizaje",
+      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
+      "image": null,
+      "published": "2021-04-15T14:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a27c862780854e",
+      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
+      "url": "http://blog.tiching.com/teuvo-sankila/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
+      "image": null,
+      "published": "2021-04-11T08:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e31f7e480ae193",
+      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
+      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
+      "image": null,
+      "published": "2021-04-07T14:00:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea1bfdcc24e134",
+      "title": "Evaluar para aprender: herramientas para la autoevaluación",
+      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
+      "image": null,
+      "published": "2021-03-17T15:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2017,6 +2101,30 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e8a4e92c6ff20",
+      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
+      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
+      "image": null,
+      "published": "2021-02-25T17:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f160c4352a3034",
+      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
+      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
+      "image": null,
+      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-08-21T01:17:41.264854+00:00",
+    "generated": "2026-08-21T06:46:18.645600+00:00",
     "total": 194
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Cuando todo depende de una sola persona, la organización deja de crecer. Cuando cada decisión la tiene que tomar un solo líder, la operación entera se frena. The post Delegar es más difícil de lo que parece, pero no hace…",
       "image": null,
-      "published": "2026-08-21T01:17:39.734471+00:00",
+      "published": "2026-08-21T06:46:17.190698+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "No tienes que dejar de ser quien eres para tener éxito en los negocios. Solo necesitas lograr el equilibrio adecuado entre estrategias para sobrellevarlo y un crecimiento planificado. The post Cómo manejar un negocio si …",
       "image": null,
-      "published": "2026-08-21T01:17:39.734204+00:00",
+      "published": "2026-08-21T06:46:17.190243+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "¿Alguna vez te has encontrado atrapado en un patrón, dando vueltas a las mismas soluciones sin encontrar un camino hacia adelante? Aquí te explicamos cómo liberarte de tus limitaciones autoimpuestas. The post Cómo romper…",
       "image": null,
-      "published": "2026-08-21T01:17:39.733921+00:00",
+      "published": "2026-08-21T06:46:17.189748+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Las empresas “AI-native” se definirán por qué tan efectivamente empoderan a sus empleados para adaptarse, innovar y generar mayor impacto en el negocio, más que por la cantidad de herramientas de IA que usan. The post Lo…",
       "image": null,
-      "published": "2026-08-21T01:17:39.733607+00:00",
+      "published": "2026-08-21T06:46:17.189278+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La constancia, la disciplina y la atención al detalle son esos pequeños factores que moldean cada área del éxito. The post Tus hábitos están hablando. Esto es lo que dicen de ti appeared first on Entrepreneur en Espanol …",
       "image": null,
-      "published": "2026-08-21T01:17:39.733314+00:00",
+      "published": "2026-08-21T06:46:17.188756+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "La industria financiera lleva años sumando formas de pagar sin formular la pregunta clave: ¿realmente cambian el hábito del usuario? The post No se necesitan más métodos de pago, sino mejores razones para usarlos appeare…",
       "image": null,
-      "published": "2026-08-21T01:17:39.732117+00:00",
+      "published": "2026-08-21T06:46:17.187283+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "El contenido auténtico y sin pretensiones está superando a los anuncios pulidos — hay una razón de peso para ello. The post ¿Por qué todo mundo le da clic al contenido “feo”? La respuesta podría sorprenderte appeared fir…",
       "image": null,
-      "published": "2026-08-21T01:17:39.731817+00:00",
+      "published": "2026-08-21T06:46:17.186764+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial hacia una nueva frontera. Los agentes capaces de encontrar vulnerabilidades y ejecutar acciones por sí mismos obligan a las grandes tecnológicas a reforzar sus controles. The post ¿La IA ya es …",
       "image": null,
-      "published": "2026-08-21T01:17:39.731501+00:00",
+      "published": "2026-08-21T06:46:17.186265+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El Open Finance dejó de ser una promesa: hoy mueve miles de millones de dólares al día y está redefiniendo quién gana y quién pierde en la banca latinoamericana. The post Open Finance en América Latina, la decisión más c…",
       "image": null,
-      "published": "2026-08-21T01:17:39.731193+00:00",
+      "published": "2026-08-21T06:46:17.185721+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,67 @@
       "category": "startup",
       "summary": "La IA agéntica no es un chatbot ni una herramienta de automatización más inteligente; es la base de una nueva forma de trabajar. The post 5 cosas que las empresas hacen mal con la IA agente: ¿Tú también cometes estos err…",
       "image": null,
-      "published": "2026-08-21T01:17:39.730849+00:00",
+      "published": "2026-08-21T06:46:17.185199+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e1ac845af31bd3",
+      "title": "Hong Kong presenta un robot humanoide capaz de cargar 50 kilos: está diseñado para transporte pesado y tareas de precisión",
+      "url": "https://www.xataka.com/robotica-e-ia/hong-kong-presenta-robot-humanoide-capaz-cargar-50-kilos-esta-disenado-para-transporte-pesado-tareas-precision",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La empresa hongkonesa NineRay Technology ha presentado en el Parque Científico de Hong Kong un robot humanoide capaz de levantar y transportar barras de 50 kilos obedeciendo a las órdenes recibidas por voz. Se trata del …",
+      "image": "https://i.blogs.es/0c8649/chatgpt-image-20-ago-2026-16_58_05/1024_2000.png",
+      "published": "2026-08-21T06:31:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "99e8b8810efb70",
+      "title": "El dilema de  Lula ante  un cuarto mandato en Brasil",
+      "url": "https://www.merca20.com/el-dilema-de-lula-ante-un-cuarto-mandato-en-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=el-dilema-de-lula-ante-un-cuarto-mandato-en-brasil",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Brasil ante el cuarto mandato de Lula entre la continuidad y la polarización.",
+      "image": "https://files.merca20.com/uploads/2024/04/Federico.jpeg",
+      "published": "2026-08-21T06:15:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e6271dd5fab926",
+      "title": "En 1770, el abuelo de Darwin se apostó 1.000 libras a que inventaba una máquina capaz de hablar. Y casi las gana",
+      "url": "https://www.xataka.com/investigacion/1770-abuelo-darwin-se-aposto-1-000-libras-a-que-inventaba-maquina-capaz-hablar-casi-gana",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El abuelo de Darwin también se llamaba Darwin y, además, era tartamudo. Lo cuento para esquivar lo que llaman la 'tentación del biógrafo'; eso de explicar toda la vida, las ideas y objetivos de una persona por un hecho c…",
+      "image": "https://i.blogs.es/05da6c/abuelo-de-darwin-maquina-que-habla/1024_2000.png",
+      "published": "2026-08-21T06:01:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e797bda3ecfab2",
+      "title": "Cuando el follow se volvió boicot",
+      "url": "https://www.merca20.com/cuando-el-follow-se-volvio-boicot/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-el-follow-se-volvio-boicot",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Funcionó. Y muy bien. Hasta que un día el consumidor parece haber dicho: “Ya estuvo”. En España crece el hartazgo hacia algunos influencers, especialmente del lifestyle, por el exceso de publicidad, la ostentación y una …",
+      "image": "https://files.merca20.com/uploads/2023/06/Arturo-Mora-Columnista.jpeg",
+      "published": "2026-08-21T06:00:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5e1d45288d4bdd",
+      "title": "Microsoft investiga fallos en juegos y reinicios de PCs en la última actualización de Windows 11",
+      "url": "https://www.muycomputer.com/2026/08/21/microsoft-investiga-fallos-en-juegos-y-reinicios-de-pcs-en-la-ultima-actualizacion-de-windows-11/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Microsoft está investigando los informes de usuarios que citan juegos bloqueados, congelados o que provocan reinicios de las computadoras que han instalado la última actualización de Windows 11 destinada a la seguridad L…",
+      "image": null,
+      "published": "2026-08-21T05:58:32+00:00",
       "score": null,
       "tags": []
     },
@@ -185,18 +245,6 @@
       "tags": []
     },
     {
-      "id": "b673a9a9a9cf8a",
-      "title": "Cotizas para el ISSSTE, pero no alcanzas una pensión: ¿qué pasa con el dinero de tu Afore?",
-      "url": "https://expansion.mx/finanzas-personales/2026/08/20/cotizas-issste-no-alcanzas-pension-que-pasa-dinero-afore",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "En caso de que el interesado no alcance con una pensión, el ISSSTE cuenta con protocolos para la entrega de estos recursos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/db890a3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F46%2F92%2F267f10f84029afd9c617f771e452%2Fcotizas-issste-afore-que-pasa.jpeg",
-      "published": "2026-08-21T00:23:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cb836bb312276c",
       "title": "LinkedIn y liderazgo empresarial: por qué la marca personal ya es parte de la reputación corporativa",
       "url": "https://ilifebelt.com/linkedin-y-liderazgo-empresarial-por-que-la-marca-personal-ya-es-parte-de-la-reputacion-corporativa/2026/08/",
@@ -229,18 +277,6 @@
       "summary": "La reputación corporativa ya no es solo cuestión de imagen: se consolidó como un activo estratégico clave para las organizaciones que buscan diferenciarse, generar confianza y mantener su competitividad en un entorno cad…",
       "image": null,
       "published": "2026-08-20T23:58:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6100d1d68eb075",
-      "title": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
-      "url": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Durante la primera fecha de corte del registro, los usuarios enfrentaron dificultades para vincular sus números debido a que las plataformas de los operadores reportaron congestionamiento y errores.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/7c2af76/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb0%2Fef%2F59fc00fe4f99afb1dbf9f6b52502%2F9-registro-telefonico-1065080-registro-lineas-telefonicas-usuarios-impreso.jpeg",
-      "published": "2026-08-20T23:49:14+00:00",
       "score": null,
       "tags": []
     },
@@ -317,18 +353,6 @@
       "tags": []
     },
     {
-      "id": "156166dbb58e44",
-      "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Rafa Sánchez Loza, quién también ha ocupado puestos directivos en IBM, SAP, Softtek y Genesys, se incorporó como Chief Revenue Officer de KIO IT Services para encabezar la estrategia comercial de la compañía.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f4a7087/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F48%2F84%2Fadf0ca044d379b4cee43b253e9fb%2Frafa-sanchez-loera.jpeg",
-      "published": "2026-08-20T23:00:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "63006471c29be6",
       "title": "Trump anuncia un “Día D” económico contra Irán: el petróleo vuelve a acercarse a 94 dólares",
       "url": "https://altonivel.com.mx/trump-anuncia-un-dia-d-economico-contra-iran-el-petroleo-vuelve-a-acercarse-a-94-dolares/",
@@ -337,18 +361,6 @@
       "summary": "Trump busca estrangular económicamente a Irán y evitar, por ahora, una nueva ofensiva militar, mientras el petróleo vuelve a acercarse a 94 dólares. The post Trump anuncia un “Día D” económico contra Irán: el petróleo vu…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/07/ataque-contra-iran.webp",
       "published": "2026-08-20T22:59:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "058bf867e1e5da",
-      "title": "Pokémon no vive solo de los videojuegos: la estrategia que mantiene vigente a la franquicia después de 30 años",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/pokemon-videojuegos-estrategia-negocios-30-anos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Desde cartas y series animadas hasta Pokémon Center y aplicaciones móviles, la marca desarrolló distintas vías para monetizar a sus personajes.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8407ab0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbd%2Fca%2Fbf467dc0491a9eeb38ec61e631af%2Flos-negocios-mas-alla-de-los-videojuegos-de-pokemon.jpg",
-      "published": "2026-08-20T22:48:28+00:00",
       "score": null,
       "tags": []
     },
@@ -413,18 +425,6 @@
       "tags": []
     },
     {
-      "id": "f4817e2a1941fb",
-      "title": "México mueve pasajeros y mercancías en camiones y autobuses de hasta 20 años, cuatro veces la edad recomendada",
-      "url": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El deterioro de componentes críticos, así como las mayores emisiones de vehículos antiguos, elevan los desafíos para un sector que mueve mercancías y pasajeros a través de buena parte del territorio nacional.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/1680641/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F23%2F0a%2Ff333fa344efe875c87ad5e1a16a1%2Fpost-foto-1.jpg",
-      "published": "2026-08-20T22:22:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "3a2ad29a2c63af",
       "title": "Algo gigante apareció en Metro Auditorio: la obra de arte que tardaron apenas 34 días en crear y ya rompe récord",
       "url": "https://www.merca20.com/algo-gigante-aparecio-en-metro-auditorio-la-obra-de-arte-que-tardaron-apenas-34-dias-en-crear-y-ya-rompe-record/?utm_source=rss&utm_medium=rss&utm_campaign=algo-gigante-aparecio-en-metro-auditorio-la-obra-de-arte-que-tardaron-apenas-34-dias-en-crear-y-ya-rompe-record",
@@ -449,42 +449,6 @@
       "tags": []
     },
     {
-      "id": "d62e707543f17b",
-      "title": "EU sanciona una red de narcotráfico Ecuador relacionada con cárteles mexicanos",
-      "url": "https://expansion.mx/mundo/2026/08/20/eu-sanciona-una-red-de-narcotrafico-ecuador-relacionada-con-carteles-mexicanos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las sanciones incluyen a 15 individuos y entidades, incluidas seis empresas pesqueras familiares, por su presunta relación con el Cartel Jalisco Nueva Generación y el Cartel de Sinaloa.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/daff78a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc5%2Fda%2F6faef07e4bea85a11670f6c49e98%2Fdonald-trump-sanciones-ecuador-carteles-mexicanos.jpg",
-      "published": "2026-08-20T22:01:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "28c7fa61f8d6f8",
-      "title": "Zootopia 3: Release Date, Plot, and Everything You Need to Know",
-      "url": "https://www.merca20.com/zootopia-3-release-date-plot-and-everything-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=zootopia-3-release-date-plot-and-everything-you-need-to-know",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The announcement of Zootopia 3 was made at Disney’s D23, where several details about the franchise’s new movie were revealed",
-      "image": "https://files.merca20.com/uploads/2025/07/Will-Shakira-be-in-Zootopia-2-These-are-the-returning-characters.jpg",
-      "published": "2026-08-20T22:00:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7d45e928ba2ff3",
-      "title": "Selección Mexicana llega a Prime Video: transmitirá 38 partidos durante cuatro años",
-      "url": "https://www.merca20.com/seleccion-mexicana-llega-a-prime-video-transmitira-38-partidos-durante-cuatro-anos/?utm_source=rss&utm_medium=rss&utm_campaign=seleccion-mexicana-llega-a-prime-video-transmitira-38-partidos-durante-cuatro-anos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Prime Video se convertirá en una nueva casa de la Selección Mexicana al adquirir los derechos para transmitir 38 partidos como local durante los próximos cuatro años.",
-      "image": "https://files.merca20.com/uploads/2026/07/Mexico.jpg",
-      "published": "2026-08-20T21:58:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8960ac30f15b4d",
       "title": "El Tesoro estadounidense intervino para bajar los bonos, pero el mercado volvió a subir las tasas",
       "url": "https://altonivel.com.mx/el-tesoro-estadounidense-intervino-para-bajar-los-bonos-pero-el-mercado-volvio-a-subir-las-tasas/",
@@ -493,42 +457,6 @@
       "summary": "La recompra de 4,000 mdd en deuda del Tesoro provocó una caída inicial del rendimiento a 10 años de 4.68% a 4.63%. 24 horas después la tasa superó el nivel previo al anuncio. The post El Tesoro estadounidense intervino p…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2025/12/dolar-1.webp",
       "published": "2026-08-20T21:52:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4ac7cbe8ebbf2c",
-      "title": "“La parte económica no fue la que esperábamos”: Azcárraga reconoce pérdidas millonarias por el Mundial 2026",
-      "url": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El torneo dejó un impacto negativo de 813.1 millones de pesos a Ollamani, pero también permitió renovar el Estadio Banorte y abrir nuevas oportunidades de negocio.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/7b2a347/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F61%2Fd7%2Ff88412da4a868ca2c4b971af69d5%2Femilio-azcarraga.jpeg",
-      "published": "2026-08-20T21:36:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "af11d116de38bd",
-      "title": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
-      "url": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La tendencia de los modelos electrificados llegó a un segmento relacionado estrictamente con la potencia y la fuerza de trabajo: las pick-ups.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/00e2a22/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F30%2F1f%2F7624cf824c0592c99d5f55fb5fac%2F4-tesla-cybertruck-gettyimages-2225090686.jpeg",
-      "published": "2026-08-20T21:21:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1ecce8e4567a6e",
-      "title": "Prime Video invertirá más de 2,000 mdd para producciones originales en Latinoamérica; México será clave",
-      "url": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La plataforma aseguró que el país es uno de los mercados clave para la producción de series y películas, así como para su propuesta deportiva.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/27ac97c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9b%2Fe4%2F876630224618921ad62e1fb30b1b%2F5-prime-video-gettyimages-2246141999.jpeg",
-      "published": "2026-08-20T21:09:42+00:00",
       "score": null,
       "tags": []
     },
@@ -553,18 +481,6 @@
       "summary": "Durante buena parte de la historia espacial, el gran desafío fue conseguir que una nave pudiera abandonar la Tierra y alcanzar la órbita. Pero la industria espacial está entrando en una fase en la que llegar hasta allí y…",
       "image": "https://i.blogs.es/236b74/prueba-remolcador-espacial-chino/1024_2000.jpeg",
       "published": "2026-08-20T20:01:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "28ccee394e799d",
-      "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Xbox cumple 25 años en medio de su peor crisis comercial. La celebración llega mientras la marca intenta demostrar que la consola todavía importa.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c113753/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F17%2F0d%2Faf4d067b42258af167ee80f8b611%2F5-2001-gettyimages-681111.jpeg",
-      "published": "2026-08-20T20:00:55+00:00",
       "score": null,
       "tags": []
     },
@@ -605,30 +521,6 @@
       "tags": []
     },
     {
-      "id": "bd4edc9b60979b",
-      "title": "Un sismo magnitud 6.7 sacude Perú",
-      "url": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El terremoto removió varias regiones del país sudamericano; se registraron deslizamientos de piedras en los cerros de Coracora, la ciudad más cercana al epicentro.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/cbe4eef/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7b%2F05%2F9c896236477aab4ca868361faad0%2Fsismo-peru-20-agosto.jpg",
-      "published": "2026-08-20T19:10:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9f61400f83b6fe",
-      "title": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "url": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Gobierno federal apuesta porque el vehículo se venda en todo el país y a nivel internacional. El de carga busca apoyar a los usuarios de transporte de mercancía en distancias cortas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/0059927/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F93%2F1d%2F544385c548c5970544deaf8f4723%2Fauto.jpg",
-      "published": "2026-08-20T19:07:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fa0ea214aa60db",
       "title": "Tras ocho años en Estée Lauder, Erick Corral llega a dirigir el marketing de Natura México",
       "url": "https://altonivel.com.mx/erick-corral-director-marketing-natura-mexico-trayectoria/",
@@ -637,18 +529,6 @@
       "summary": "El ejecutivo llega con experiencia en distintas categorías de belleza y asume el marketing de Natura en medio de la integración comercial con Avon. The post Tras ocho años en Estée Lauder, Erick Corral llega a dirigir el…",
       "image": "https://altonivel.com.mx/wp-content/uploads/2026/08/erick-corral-natura-estee-lauder-marketing.webp",
       "published": "2026-08-20T19:04:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "192a85ecfe3976",
-      "title": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan el alza de precios",
-      "url": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La inflación llegará hacia su meta de 3% hasta el cuarto trimestre de 2027, la persistencia del conflicto en Medio Oriente es un factor que agrega presión al precio del petróleo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c75a943/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbf%2Fe5%2Fdfce6f8e4c81a4e54654ee41a1fe%2Fcuartoscuro-586355-digital.jpeg",
-      "published": "2026-08-20T18:39:40+00:00",
       "score": null,
       "tags": []
     },
@@ -757,6 +637,18 @@
       "summary": "La materia oscura encarna uno de los mayores enigmas de la física. Los científicos no saben qué es, pero sospechan que la supersimetría , si se demuestra su validez, podría resultar útil para entender cuál es su naturale…",
       "image": "https://i.blogs.es/47b650/materiaoscura/1024_2000.png",
       "published": "2026-08-20T17:01:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e702ce2bf07524",
+      "title": "Google Pixel 11 ya tiene fecha para México y viene con toda la artillería de Gemini",
+      "url": "https://expansion.mx/tecnologia/2026/08/20/google-pixel-11-mexico-cuando-salen-precio",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Google llevará por primera vez a México toda su nueva familia Pixel 11, junto con el Pixel Watch 5 y los Pixel Buds Pro 2. La preventa comienza el 24 de septiembre y los equipos llegarán a tiendas el 1 de octubre.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/365f5a4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8f%2F6b%2F762967944341aa920b5c0030d94c%2Fgoogle-pixel-11-mexico.jpg.jpg",
+      "published": "2026-08-20T17:00:20+00:00",
       "score": null,
       "tags": []
     },
@@ -1013,6 +905,30 @@
       "tags": []
     },
     {
+      "id": "f42f564abacd27",
+      "title": "Evergrande: China manda a prisión de por vida al magnate que construyó un imperio inmobiliario con deuda",
+      "url": "https://expansion.mx/mundo/2026/08/20/evergrande-china-condena-a-su-fundador-a-cadena-perpetua",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La condena a Xu Jiayin cierra el capítulo judicial de una de las mayores quiebras corporativas de China, pero deja abierto el problema que provocó su caída: la crisis inmobiliaria.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6063e74/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F65%2F2b%2Febe3268f4c0084704435324cfb03%2Fevergrande-china.jpg",
+      "published": "2026-08-20T14:29:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8adedb686aa83e",
+      "title": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
+      "url": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Roberto Capuano informó sobre las fechas de la convocatoria para que las empresas interesadas en participar en la producción de los diferentes modelos eléctricos presenten sus propuestas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1d13ea6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fef%2F1a%2Ffcf7ab2e4d99a86b952f2cdca692%2Fsheinbaum-presenta-el-olinia-de-carga-cuanto-costara-el-nuevo-auto-electrico-y-cuando-llegara-al-mercado.jpeg",
+      "published": "2026-08-20T14:13:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "f1f28326315cca",
       "title": "Qué pasaría si PS6 y Xbox Project Helix llegan con un precio de 1.000 dólares",
       "url": "https://www.muycomputer.com/2026/08/20/que-pasaria-si-ps6-y-xbox-project-helix-llegan-con-un-precio-de-1-000-dolares/",
@@ -1037,30 +953,6 @@
       "tags": []
     },
     {
-      "id": "ce1799aeeac01e",
-      "title": "Uber quiere que pedir comida sea casi tan rápido como enviar un mensaje. Para lograrlo, está metiendo un millón de vuelos diarios en la ecuación",
-      "url": "https://www.xataka.com/empresas-y-economia/uber-quiere-que-pedir-comida-sea-casi-rapido-como-enviar-mensaje-para-lograrlo-esta-metiendo-millon-vuelos-diarios-ecuacion",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Uber quiere que pedir comida a domicilio sea una experiencia todavía más rápida, y está dispuesta a cambiar a sus repartidores humanos por drones para conseguirlo. La empresa ha anunciado una alianza estratégica con Zipl…",
-      "image": "https://i.blogs.es/97cf7d/chatgpt-image-20-ago-2026-12_25_22/1024_2000.png",
-      "published": "2026-08-20T13:31:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7b7e33337a9708",
-      "title": "Estos son los mejores chollos del día que hemos encontrado en Amazon hoy, 20 de agosto",
-      "url": "https://www.xataka.com/seleccion/estos-mejores-chollos-dia-que-hemos-encontrado-amazon-hoy-20-agosto",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "A diario, Amazon nos ofrece una gran selección de ofertas y rebajas en todo tipo de dispositivos. Las cuales podemos aprovechar, por ejemplo, para estrenar un equipo gaming a buen precio en plena crisis del hardware . O …",
-      "image": "https://i.blogs.es/17cebd/recopilatorio-ofertas-amazon/1024_2000.jpeg",
-      "published": "2026-08-20T13:15:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ff4a988f8d325d",
       "title": "Las filtraciones de ‘GTA 6’ no se detienen y ya son la peor pesadilla de Rockstar",
       "url": "https://hipertextual.com/videojuegos/mas-filtraciones-gta-6-build-jugable-cyberleek/",
@@ -1081,6 +973,102 @@
       "summary": "LG Display ha anunciado la nueva tecnología de fabricación FLiPP OLED para pantallas de visualización de nueva generación, televisores y monitores. La compañía la promociona como una «revolución», ya que mejora la calida…",
       "image": null,
       "published": "2026-08-20T12:48:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "26fd9667a67997",
+      "title": "Los números que explican por qué el T-MEC no se puede descarrilar",
+      "url": "https://expansion.mx/opinion/2026/08/20/numeros-tmec-no-se-puede-descarrilar",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "México exportó 298,157 millones de dólares a Estados Unidos en la primera mitad del año, un aumento de 12.95% anual y el valor más alto registrado para un primer semestre.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/727e61d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fad%2F40%2Fc764f0df45879a844198954fe706%2Fistock-185241921.jpg",
+      "published": "2026-08-20T12:06:53+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6f165ee8204fb3",
+      "title": "Liderar en la disrupción: la nueva agenda estratégica de la industria de consumo y retail",
+      "url": "https://expansion.mx/opinion/2026/08/20/liderar-en-la-disrupcion-la-nueva-agenda-estrategica-de-la-industria-de-consumo-y-retail",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La inteligencia artificial, la resiliencia de las cadenas de suministro, el talento y la sostenibilidad están redefiniendo las prioridades estratégicas del sector.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/03c4429/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F02%2F24%2Fsmartphone.jpg",
+      "published": "2026-08-20T12:03:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "abd049e9744c32",
+      "title": "Súper Empresas para Mujeres: entre lo que se puede ofrecer y lo que se necesita",
+      "url": "https://expansion.mx/opinion/2026/08/20/super-empresas-para-mujeres-entre-lo-que-se-puede-ofrecer-y-lo-que-se-necesita",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El ranking de Expansión muestra que atraer talento femenino es apenas el primer paso; retenerlo, desarrollarlo y llevarlo a puestos de decisión exige cambios de fondo.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a5a28cb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F01%2Fmujer-ejecutivasjpg.jpg",
+      "published": "2026-08-20T11:59:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0420b1eea0f67d",
+      "title": "El liderazgo financiero detrás del crecimiento de las empresas",
+      "url": "https://expansion.mx/opinion/2026/08/20/el-liderazgo-financiero-detras-del-crecimiento-de-las-empresas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La función financiera dejó de ser un área de control para convertirse en un actor estratégico capaz de anticipar riesgos, asignar recursos y sostener la expansión.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/357d77e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2011%2F11%2F21%2Ftest_analista_financiero.jpg",
+      "published": "2026-08-20T11:59:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "52cee42567ea22",
+      "title": "Trabajo infantil baja, pero 138 millones de niños aún laboran en el mundo",
+      "url": "https://expansion.mx/mundo/2026/08/20/trabajo-infantil-baja-pero-138-millones-de-ninos-aun-laboran-en-el-mundo",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La cifra cayó en más de 100 millones desde 2000, pero el ritmo actual tendría que acelerarse 11 veces para alcanzar la meta mundial de erradicación en 2030.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/c4da5bb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F70%2F1e%2F0a8d848a4cdf976521c0289dc9c7%2Ftrabajo-infantil-masivo-138-millones-ninos.jpeg",
+      "published": "2026-08-20T11:55:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "459b70a6ea5592",
+      "title": "Ex Google advierte a México sobre el riesgo de acumular datos para la identidad digital",
+      "url": "https://expansion.mx/tecnologia/2026/08/20/identidad-digital-mexico-curp-registro-telefonia",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La CURP biométrica y el registro de líneas móviles amplían la infraestructura de identificación, pero también elevan el riesgo para instituciones que almacenan información personal.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5291e80/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb6%2F85%2F08b1ca294019bacd1b5420d4e4b8%2Fidentidad-digital-mexico-curp-biometrica.jpg.jpg",
+      "published": "2026-08-20T11:55:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4ba7a4edad3356",
+      "title": "Hubo un momento en que los autos eléctricos costaban más que un auto de lujo, hasta que los chinos cambiaron eso",
+      "url": "https://expansion.mx/empresas/2026/08/20/autos-electricos-eran-lujo-hasta-que-llegaron-marcas-chinas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los modelos de menos de 400,000 pesos ampliaron el mercado y aceleraron las ventas, pero ahora las marcas compiten por justificar el valor de sus vehículos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/c504be4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F71%2F84%2F8fd0ff0947d197c0ed624404c76b%2F3-byd-gettyimages-2234751456.jpeg",
+      "published": "2026-08-20T11:55:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8462897af8bcc2",
+      "title": "La riqueza que heredará la Generación Z en México puede ampliar la desigualdad",
+      "url": "https://expansion.mx/economia/2026/08/20/gen-z-herencia-mexico-3-por-ciento",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Una fracción de los jóvenes recibirá empresas, inmuebles y portafolios, mientras otros tendrán que construir patrimonio principalmente con su salario.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b69c011/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F61%2Fad%2F6215c4b946d3810edfb32a92811f%2Fistock-1457184521.jpeg",
+      "published": "2026-08-20T11:55:05+00:00",
       "score": null,
       "tags": []
     },
@@ -1237,6 +1225,30 @@
       "summary": "Samsung presentará el Galaxy S26 FE el próximo 26 de agosto en un evento virtual. Adelantándose al lanzamiento, Android Headlines ha publicado numerosas imágenes promocionales del terminal, además de la hoja de especific…",
       "image": null,
       "published": "2026-08-20T06:04:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6f1ae93fc01700",
+      "title": "Por qué los celulares dejaron de traer cargador y puerto para audífonos y qué hay detrás del cambio",
+      "url": "https://expansion.mx/tecnologia/2026/08/19/por-que-celulares-dejaron-cargador-puerto-audifonos-cambio",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Lo que comenzó con casos particulares, hoy es prácticamente un estándar para toda la industria de los teléfonos celulares.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/10ab356/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F19%2Fcf%2F93e0bc724ca6a71514ec2596c8e7%2Fistock-1402095562.jpeg",
+      "published": "2026-08-20T01:20:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e4259b021d15b1",
+      "title": "Mientras sigue la huelga de Monte de Piedad, así está protegida tu prenda",
+      "url": "https://expansion.mx/finanzas-personales/2026/08/19/huelga-monte-de-piedad-que-pasa-pierde-roba-dana-prenda",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los clientes deben conservar su contrato y comprobantes para realizar una reclamación por una prenda perdida, robada o dañada.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/903d283/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fab%2F37%2F9b4e1f134548b65604e5a72a656a%2Fmonte-de-piedad-967602-e48b28df-84e5-4dfe-8f0b-60e1f36ebb64-web.jpeg",
+      "published": "2026-08-20T01:01:11+00:00",
       "score": null,
       "tags": []
     },
@@ -1417,18 +1429,6 @@
       "summary": "La firma Sensor Tower ha compartido los datos que ha recopilado de las precompras de GTA VI en consolas, y estos no hacen más que confirmar la enorme derrota que ha sufrido Xbox en esta generación frente a PlayStation. Y…",
       "image": null,
       "published": "2026-08-19T12:25:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2a6bfea94a3a64",
-      "title": "Requisitos de The Blood of Dawnwalker, el sucesor espiritual de The Witcher 3",
-      "url": "https://www.muycomputer.com/2026/08/19/requisitos-de-the-blood-of-dawnwalker-el-sucesor-espiritual-de-the-witcher-3/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "The Blood of Dawnwalker es un juego que nos recuerda, y mucho, a The Witcher 3. No es casualidad, este juego ha sido desarrollado por antiguos miembros del equipo que sacó adelante The Witcher 3 cuando trabajaban en CD P…",
-      "image": null,
-      "published": "2026-08-19T11:11:43+00:00",
       "score": null,
       "tags": []
     },

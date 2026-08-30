@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-08-29T20:30:02.778719+00:00",
-    "total": 185
+    "generated": "2026-08-30T03:59:09.271309+00:00",
+    "total": 179
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Zoox acaba de empezar a cobrar por viajes en San Francisco y Las Vegas. Los pasajeros van sentados uno frente al otro en una cabina con forma de caja. The post El nuevo robotaxi de Amazon parece una tostadora y no tiene …",
       "image": null,
-      "published": "2026-08-29T20:30:01.202998+00:00",
+      "published": "2026-08-30T03:59:07.794616+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Las personas realmente son las que hacen o deshacen una startup. Incluso el proyecto más prometedor con una idea brillante puede desmoronarse por conflictos internos. The post La mayoría de las startups no fracasan por f…",
       "image": null,
-      "published": "2026-08-29T20:30:01.202553+00:00",
+      "published": "2026-08-30T03:59:07.794137+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Las tácticas que antes impulsaban el crecimiento de las startups están perdiendo eficacia en mercados saturados. Lo que ahora destaca no es ejercer más presión, sino tener coherencia, contención y generar confianza. The …",
       "image": null,
-      "published": "2026-08-29T20:30:01.202062+00:00",
+      "published": "2026-08-30T03:59:07.793676+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La empresa decidió llegar a un acuerdo en lugar de ir a juicio contra cuatro estados que alegan que la plataforma representa un riesgo para los menores. The post Así cambiará las redes sociales el acuerdo de $17,100 mill…",
       "image": null,
-      "published": "2026-08-29T20:30:01.201595+00:00",
+      "published": "2026-08-30T03:59:07.793183+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Los médicos advierten sobre un nuevo riesgo en personas que pasan horas al día con chatbots diseñados para darles la razón. Vale la pena que leas esto si así luce tu jornada laboral. The post La psicosis por IA es real, …",
       "image": null,
-      "published": "2026-08-29T20:30:01.201104+00:00",
+      "published": "2026-08-30T03:59:07.792719+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "En la era de la IA, la marca personal ya no se define solo por lo que publicas, sino por lo que otros —incluidos estos sistemas— pueden entender de ti cuando no estás presente. No basta con ser visible: hay que ser legib…",
       "image": null,
-      "published": "2026-08-29T20:30:01.199689+00:00",
+      "published": "2026-08-30T03:59:07.791566+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "La movilidad laboral va más allá de un tema logístico. Es una variable crítica que impacta la salud mental de tus colaboradores y, por ende, la operación y la rentabilidad de tu empresa. The post Movilidad y salud mental…",
       "image": null,
-      "published": "2026-08-29T20:30:01.199172+00:00",
+      "published": "2026-08-30T03:59:07.791067+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Tu currículum enumera lo que has hecho. Tu marca personal muestra quién eres y por qué eres relevante. The post Cómo construir una marca personal más poderosa que tu currículum appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-08-29T20:30:01.198706+00:00",
+      "published": "2026-08-30T03:59:07.790605+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "La nueva herramienta ayuda a la plataforma a identificar contenido de baja calidad. The post LinkedIn lanzó una nueva herramienta para combatir el “AI slop”. Más de un millón de personas la han usado en solo dos semanas …",
       "image": null,
-      "published": "2026-08-29T20:30:01.198189+00:00",
+      "published": "2026-08-30T03:59:07.790079+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,55 @@
       "category": "startup",
       "summary": "Tu marca personal va más allá de lo que publicas en redes; es un activo financiero medible, con impacto directo en cuánto tardas en cerrar un trato, cuánto puedes cobrar y a qué oportunidades tienes acceso antes que nadi…",
       "image": null,
-      "published": "2026-08-29T20:30:01.197685+00:00",
+      "published": "2026-08-30T03:59:07.789584+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "955d9de0144110",
+      "title": "De Keanu Reeves a Zendaya: Crean web que mide quién tiene más “aura” entre las celebridades",
+      "url": "https://www.merca20.com/de-keanu-reeves-a-zendaya-crean-web-que-mide-quien-tiene-mas-aura-entre-las-celebridades/?utm_source=rss&utm_medium=rss&utm_campaign=de-keanu-reeves-a-zendaya-crean-web-que-mide-quien-tiene-mas-aura-entre-las-celebridades",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Quién tiene más aura? Aura100 enfrenta a celebridades y permite que los usuarios decidan el ranking con sus votos.",
+      "image": "https://files.merca20.com/uploads/2026/04/bigstock-LOS-ANGELES-JUN-Zendaya-310411495.jpg",
+      "published": "2026-08-30T00:12:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "79acdd214057a1",
+      "title": "Tamagotchi cumple 30 años y ahora puedes llevarlo como un anillo en el dedo",
+      "url": "https://www.merca20.com/tamagotchi-cumple-30-anos-y-ahora-puedes-llevarlo-como-un-anillo-en-el-dedo/?utm_source=rss&utm_medium=rss&utm_campaign=tamagotchi-cumple-30-anos-y-ahora-puedes-llevarlo-como-un-anillo-en-el-dedo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Bandai celebra los 30 años del Tamagotchi con un anillo que incorpora una mascota virtual, pantalla LCD a color y más de 30 personajes.",
+      "image": "https://files.merca20.com/uploads/2024/04/bigstock-Belarus-Novopolotsk-May-419387230.jpg",
+      "published": "2026-08-29T23:04:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d2d838087fdf6d",
+      "title": "¿Es feriado el 1 de septiembre por el Segundo Informe de Claudia Sheinbaum? Esto dice la ley",
+      "url": "https://www.merca20.com/es-feriado-el-1-de-septiembre-por-el-segundo-informe-de-claudia-sheinbaum-esto-dice-la-ley/?utm_source=rss&utm_medium=rss&utm_campaign=es-feriado-el-1-de-septiembre-por-el-segundo-informe-de-claudia-sheinbaum-esto-dice-la-ley",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El Segundo Informe de Claudia Sheinbaum será el 1 de septiembre. Te contamos si la fecha será feriado oficial en México.",
+      "image": "https://files.merca20.com/uploads/2026/08/colombia-claudia-sheinbaum.jpg",
+      "published": "2026-08-29T22:43:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bfab6982c61d35",
+      "title": "Burger King revive el marketing de nostalgia de Dragon Ball Super con seis figuras coleccionables",
+      "url": "https://www.merca20.com/burger-king-revive-el-marketing-de-nostalgia-de-dragon-ball-super-con-seis-figuras-coleccionables/?utm_source=rss&utm_medium=rss&utm_campaign=burger-king-revive-el-marketing-de-nostalgia-de-dragon-ball-super-con-seis-figuras-coleccionables",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Burger King prepara una colaboración con Dragon Ball Super que incluye seis figuras coleccionables de Goku, Vegeta, Piccolo y Beerus, una estrategia basada en nostalgia y cultura pop.",
+      "image": "https://files.merca20.com/uploads/2026/03/bigstock-Burger-King-Restaurant-Exterio-66781144.jpg",
+      "published": "2026-08-29T21:44:39+00:00",
       "score": null,
       "tags": []
     },
@@ -253,6 +301,18 @@
       "summary": "Veinte plantas. 411 habitaciones, incluyendo un puñado de suites con ventanales. Cero huéspedes en dos décadas, salvo ratas. El hotel El Algarrobico lleva desde 2006 clavado en la arena de una de las playas más vírgenes …",
       "image": "https://i.blogs.es/47f754/algarrobico/1024_2000.jpeg",
       "published": "2026-08-29T17:31:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "64f42207d975a3",
+      "title": "Nepal y China luchan por localizar a casi 3,000 desaparecidos tras deslave",
+      "url": "https://expansion.mx/mundo/2026/08/29/nepal-y-china-localizar-3000-desaparecidos-deslave",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El miércoles pasado, una inmensa pared de lodo atribuida al colapso de un glaciar sepultó viviendas, derribó puentes y arrastró vehículos tanto en Nepal como en la región autónoma china del Tíbet.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a58655c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F11%2Fd2%2F1a351fec46e1be6288f80388a4ac%2Fnepal-deslave.jpg",
+      "published": "2026-08-29T17:06:33+00:00",
       "score": null,
       "tags": []
     },
@@ -569,6 +629,18 @@
       "tags": []
     },
     {
+      "id": "b072f03c24e4b7",
+      "title": "5 recomendaciones prácticas para fomentar la autonomía en menores de 6 a 12 años",
+      "url": "https://www.educaciontrespuntocero.com/familias/fomentar-la-autonomia-en-menores/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Asignar tareas en casa según su edad, permitir que elijan su ropa o una actividad extraescolar e incluso pedirles que expliquen cómo resolverían un conflicto les ayudará a desarrollar esta capacidad.",
+      "image": null,
+      "published": "2026-08-29T09:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "811179100b2cc2",
       "title": "Lo nuevo de Gemini puede convertir tus hojas de Excel en apps interactivas",
       "url": "https://hipertextual.com/inteligencia-artificial/sheets-canvas-gemini-hojas-de-excel-ia/",
@@ -773,18 +845,6 @@
       "tags": []
     },
     {
-      "id": "5c5629982f2a5c",
-      "title": "Marcas y creadores, ¿quién está revisando realmente los anuncios antes de publicarlos?",
-      "url": "https://www.merca20.com/marcas-y-creadores-quien-esta-revisando-realmente-los-anuncios-antes-de-publicarlos/?utm_source=rss&utm_medium=rss&utm_campaign=marcas-y-creadores-quien-esta-revisando-realmente-los-anuncios-antes-de-publicarlos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las marcas quieren aprovechar la velocidad, naturalidad y capacidad de producción de los creadores, pero muchas estructuras de aprobación siguen funcionando bajo una lógica pensada para campañas tradicionales.",
-      "image": "https://files.merca20.com/uploads/2026/03/DATOS-MARKETING-INFLUENCERS.jpg",
-      "published": "2026-08-28T21:26:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "736b291ef582c5",
       "title": "México coloca bonos samurái por más de 1,700 millones de dólares",
       "url": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
@@ -793,42 +853,6 @@
       "summary": "Con esta oferta en el mercado japonés, la Secretaría de Hacienda concluye su programa de emisiones en los mercados externos para 2026.",
       "image": "https://cdn-3.expansion.mx/dims4/default/ffce314/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Feb%2Fab%2F17b30e5140ba999377e731364bb2%2Fbonos-samurai.jpg",
       "published": "2026-08-28T21:24:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "97f7a3cb9cd4dd",
-      "title": "Gavin Newsom launches “Made in California” to boost products manufactured in the state",
-      "url": "https://www.merca20.com/gavin-newsom-launches-made-in-california-to-boost-products-manufactured-in-the-state/?utm_source=rss&utm_medium=rss&utm_campaign=gavin-newsom-launches-made-in-california-to-boost-products-manufactured-in-the-state",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The launch of “Made in California” also comes as the Newsom administration seeks to project the international dimension of the state’s economy",
-      "image": "https://files.merca20.com/uploads/2026/08/made-in-california.jpg",
-      "published": "2026-08-28T21:20:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0d15cf9e2d1d06",
-      "title": "adidas remata tenis Adizero para correr y entrenar; incorporan tecnología Lightstrike y TORSIONRODS",
-      "url": "https://www.merca20.com/adidas-remata-tenis-adizero-para-correr-y-entrenar-incorporan-tecnologia-lightstrike-y-torsionrods/?utm_source=rss&utm_medium=rss&utm_campaign=adidas-remata-tenis-adizero-para-correr-y-entrenar-incorporan-tecnologia-lightstrike-y-torsionrods",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los tenis adidas Adizero RC 4 representan una alternativa interesante para corredores que buscan un calzado ligero y orientado al rendimiento",
-      "image": "https://files.merca20.com/uploads/2026/07/adizero-rc-4.jpg",
-      "published": "2026-08-28T21:11:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5dca0949f90101",
-      "title": "Mattel suma a Maluma, Supercar Blondie y Robert Lewandowski a Hot Wheels: así es su estrategia para nuevas audiencias",
-      "url": "https://www.merca20.com/mattel-suma-a-maluma-supercar-blondie-y-robert-lewandowski-a-hot-wheels-asi-es-su-estrategia-para-nuevas-audiencias/?utm_source=rss&utm_medium=rss&utm_campaign=mattel-suma-a-maluma-supercar-blondie-y-robert-lewandowski-a-hot-wheels-asi-es-su-estrategia-para-nuevas-audiencias",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Con Maluma, Supercar Blondie y Robert Lewandowski, Mattel amplía así la estrategia de Hot Wheels alrededor de celebridades, coleccionables, contenido y experiencias",
-      "image": "https://files.merca20.com/uploads/2026/08/mattel-maluma-hot-wheels-2026.jpg",
-      "published": "2026-08-28T21:00:22+00:00",
       "score": null,
       "tags": []
     },
@@ -1009,18 +1033,6 @@
       "summary": "Windows 10 tiene una cuota de mercado tan alta que Microsoft no ha tenido más remedio que extender el soporte durante un año más, concretamente hasta el 12 de octubre de 2027. Durante todo ese tiempo, este sistema operat…",
       "image": null,
       "published": "2026-08-28T16:48:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2f64285e005e25",
-      "title": "Huevo y otros alimentos que subieron de precio en agosto y que presionan el bolsillo de los mexicanos",
-      "url": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "No solo el huevo, otros alimentos que forman parte de la dieta de los mexicanos registraron un aumento en la primera quincena de agosto.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5a69193/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2f%2Fb7%2Fbd96ef944142988bb66251b5950a%2Fhuevo-alimentos-subieron-precio.jpg",
-      "published": "2026-08-28T16:06:58+00:00",
       "score": null,
       "tags": []
     },
@@ -1217,18 +1229,6 @@
       "tags": []
     },
     {
-      "id": "287bce09139b24",
-      "title": "La Guerra de los Clones al estilo XCOM: Star Wars Zero Company ya está disponible en PC, PS5 y Xbox Series",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/08/27/la-guerra-de-los-clones-al-estilo-xcom-star-wars-zero-company-ya-esta-disponible-en-pc-ps5-y-xbox-series/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Todos los detalles del lanzamiento de Star Wars Zero Company: historia, jugabilidad táctica, plataformas, precios y ediciones especiales.",
-      "image": "https://www.fayerwayer.com/resizer/v2/XL3JS42JQZCLRM76IXZW6ZSYEM.png?auth=9d966f0ca80152a02b2997603063a53a8f5ef885c5c6f28db920b67fed81cf3d&smart=true&width=2926&height=1642",
-      "published": "2026-08-27T23:28:40+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "376b794398e370",
       "title": "¿Gamer de PC? Las 5 claves indispensables antes de comprar un notebook para juegos en 2026",
       "url": "https://www.fayerwayer.com/internet/2026/08/27/gamer-de-pc-las-5-claves-indispensables-antes-de-comprar-un-notebook-para-juegos-en-2026/",
@@ -1261,18 +1261,6 @@
       "summary": "Durante mucho tiempo se pensó en LinkedIn como una vitrina de la empresa, no de las personas que la dirigen. Eso está cambiando rápido. Un artículo publicado por Acento, con base en información de la propia red social, s…",
       "image": null,
       "published": "2026-08-27T21:17:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b175f2fff72e8c",
-      "title": "La familia S26 se completa: Samsung lanza el Galaxy S26 FE enfocado en fotografía de alta gama e IA consciente",
-      "url": "https://www.fayerwayer.com/moviles/2026/08/27/la-familia-s26-se-completa-samsung-lanza-el-galaxy-s26-fe-enfocado-en-fotografia-de-alta-gama-e-ia-consciente/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Todos los detalles del Samsung Galaxy S26 FE: pantalla AMOLED de 6,7\", batería de 4.900 mAh, One UI 9 y disponibilidad desde el 4 de septiembre.",
-      "image": "https://www.fayerwayer.com/resizer/v2/W4Q3KX74XVFDTCGSPTYUOKRQUM.jpeg?auth=77caa7a71a454abdbb1be0eb155c80d26d5e212ac87b5713f7f0c7d35f132a9c&smart=true&width=2880&height=1440",
-      "published": "2026-08-27T20:54:42+00:00",
       "score": null,
       "tags": []
     },
@@ -1361,18 +1349,6 @@
       "tags": []
     },
     {
-      "id": "dbe58c8a6dabec",
-      "title": "¿Carátulas de último minuto? Así puedes hacerlas rápido y bonitas con inteligencia artificial",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/08/27/caratulas-de-ultimo-minuto-asi-puedes-hacerlas-rapido-y-bonitas-con-inteligencia-artificial/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "¿Necesitas carátulas escolares de último minuto? Conoce cómo usar la IA para crear diseños fáciles, bonitos y personalizados para el regreso a clases.",
-      "image": "https://www.fayerwayer.com/resizer/v2/OM5BD6UB45D4HAZCV2C4XVPVNA.png?auth=83e62cc98ef32631c8f886efd14175b17913f00b4e8f6c75206e19baf610e1b1&smart=true&width=1536&height=1024",
-      "published": "2026-08-27T16:34:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d900d45f4c6b1a",
       "title": "La sed insaciable de la Inteligencia Artificial: Los centros de datos ya consumen el triple de agua que hace una década",
       "url": "https://www.fayerwayer.com/internet/2026/08/27/la-sed-insaciable-de-la-inteligencia-artificial-los-centros-de-datos-ya-consumen-el-triple-de-agua-que-hace-una-decada/",
@@ -1385,18 +1361,6 @@
       "tags": []
     },
     {
-      "id": "c318d6f967033f",
-      "title": "¿Llegó la hora del iPhone plegable? Apple pone fecha a su gran evento",
-      "url": "https://www.fayerwayer.com/moviles/2026/08/27/llego-la-hora-del-iphone-plegable-apple-pone-fecha-a-su-gran-evento/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Apple confirmó su evento del 9 de septiembre. Se esperan el iPhone 18 Pro, el Pro Max y un posible iPhone plegable. Conoce fecha, hora y rumores.",
-      "image": "https://www.fayerwayer.com/resizer/v2/32AIZAMO5JA7VLB3C4DGVH3DNY.png?auth=aea278b46da2dfb665c16221017bd39d8f2325bb8315d7788a9c5fa688860664&smart=true&width=812&height=681",
-      "published": "2026-08-27T13:15:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "1d5c41136ebb9d",
       "title": "¡Vuelta al cole! Ideas y recursos para la gestión y organización de la labor docente y del centro",
       "url": "https://www.educaciontrespuntocero.com/recursos/gestion-de-la-vuelta-al-cole/",
@@ -1405,18 +1369,6 @@
       "summary": "Herramientas de evaluación, de gestión escolar o para crear horarios son algunos de los materiales ideales para que docentes y equipos directivos estén mejor preparados para la vuelta al cole.",
       "image": null,
       "published": "2026-08-27T09:03:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "324d96c2bda905",
-      "title": "GTA VI: hora exacta para ver el tráiler en Ecuador y cómo ser de los primeros",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/08/27/gta-vi-hora-exacta-para-ver-el-trailer-en-ecuador-y-como-ser-de-los-primeros/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "GTA VI: hora exacta del tráiler en Ecuador y cómo activar el aviso de estreno en Netflix.",
-      "image": "https://www.fayerwayer.com/resizer/v2/USH3ADPTCZHZ5OTSWHMO5DJKVQ.png?auth=173a5908b874959b4924c942d8635c7ef528605920f37938c7338eef179ca9c9&smart=true&width=2802&height=1582",
-      "published": "2026-08-27T03:57:27+00:00",
       "score": null,
       "tags": []
     },
@@ -1741,30 +1693,6 @@
       "summary": "La ansiedad social suele asociarse con evitación. La persona se retira, evita el contacto visual, teme la evaluación ajena. Pero un estudio reciente publicado en Aggressive Behavior muestra que ese…",
       "image": null,
       "published": "2026-08-20T16:48:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e760d0753b3614",
-      "title": "Bloqueos por DNS y VPNs: Por qué la estrategia judicial contra los casinos en línea nace técnicamente muerta",
-      "url": "https://www.fayerwayer.com/internet/2026/08/20/neutralidad-de-la-red-y-leyes-bloqueos-por-dns-y-vpns-por-que-la-estrategia-judicial-contra-los-casinos-en-linea-nace-tecnicamente-muerta/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El Estado de Chile cobra impuestos a casinos online pero ordena su bloqueo vía DNS. Analizamos la falta de regulación y los límites técnicos del sistema.",
-      "image": "https://www.fayerwayer.com/resizer/v2/OCSAB3HB3BAEZLIBFZINUXCHQI.png?auth=f33e9b88261a4b7f364d3cc5887242749e765d5ac8c47ddde3e6b8a42d01b1c3&smart=true&width=1459&height=859",
-      "published": "2026-08-20T14:49:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "13471b41c1591a",
-      "title": "Qué mochila escolar elegir según la edad: cinco modelos para acertar en la vuelta al cole",
-      "url": "https://www.educaciontrespuntocero.com/familias/mochilas-escolares-segun-edad/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "Seleccionamos las mejores mochilas para cada etapa educativa, desde Infantil hasta los estudios superiores, teniendo en cuenta comodidad, capacidad y ergonomía.",
-      "image": null,
-      "published": "2026-08-20T09:00:00+00:00",
       "score": null,
       "tags": []
     },

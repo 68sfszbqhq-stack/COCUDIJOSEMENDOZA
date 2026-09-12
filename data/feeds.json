@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-09-12T10:12:45.743913+00:00",
-    "total": 183
+    "generated": "2026-09-12T15:07:03.733169+00:00",
+    "total": 191
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "El entrenador cerebral Jim Kwik explica la ciencia detrás de comenzar bien el día. The post Haz esto en cuanto te despiertes para tener un día productivo appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-09-12T10:12:44.391602+00:00",
+      "published": "2026-09-12T15:07:02.256279+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Después de dos años de pruebas de concepto con la inteligencia artificial, 2027 será el año en que las empresas tengan que demostrar un retorno de inversión real. The post De la teoría al ROI: Por qué la IA agéntica defi…",
       "image": null,
-      "published": "2026-09-12T10:12:44.391324+00:00",
+      "published": "2026-09-12T15:07:02.255804+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Al enfrentar la primera gran crisis de mi carrera como CEO, aprendí cómo la transparencia, la empatía y un liderazgo decisivo pueden transformar un mercado en crisis en uno próspero. The post Cómo sobreviví mi primera cr…",
       "image": null,
-      "published": "2026-09-12T10:12:44.391037+00:00",
+      "published": "2026-09-12T15:07:02.255351+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Una idea brillante es solo una pequeña parte de lo que hace exitosa a una empresa. El resto es tu capacidad para perseverar cuando las cosas no van como esperabas. The post El éxito no está en la idea, sino en la resilie…",
       "image": null,
-      "published": "2026-09-12T10:12:44.390714+00:00",
+      "published": "2026-09-12T15:07:02.254863+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La controversia rodea la afirmación de OpenAI de que a 10,000 agentes les tomó un fin de semana resolver uno de los seis problemas matemáticos de “un millón de dólares”. The post OpenAI dice que su IA acaba de resolver u…",
       "image": null,
-      "published": "2026-09-12T10:12:44.390413+00:00",
+      "published": "2026-09-12T15:07:02.254384+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Durante décadas construimos la industria de pagos alrededor de una pregunta bastante sencilla: ¿cuál es la mejor forma de mover dinero? The post El dinero ya no viaja por un solo camino: bienvenidos al mundo multi-rail a…",
       "image": null,
-      "published": "2026-09-12T10:12:44.389192+00:00",
+      "published": "2026-09-12T15:07:02.252796+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Domina estas tres sencillas técnicas para dejar una impresión duradera y amplificar tu impacto. The post El poder de tu personalidad: desarrolla estas 3 técnicas para lograr una influencia duradera appeared first on Entr…",
       "image": null,
-      "published": "2026-09-12T10:12:44.388896+00:00",
+      "published": "2026-09-12T15:07:02.252316+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Jacob Coxon dejó OpenAI por Anthropic debido a su reputación en el campo de la seguridad de IA. Ahora se retira de la industria. The post El investigador de Anthropic que renunció por miedo a la IA: “las cosas podrían sa…",
       "image": null,
-      "published": "2026-09-12T10:12:44.388589+00:00",
+      "published": "2026-09-12T15:07:02.251798+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El nuevo tráiler de Artificial, la película de Luca Guadagnino sobre la salida y regreso de Sam Altman a OpenAI, reabre un episodio que dejó más que drama corporativo… The post El drama de la salida de Sam Altman de Open…",
       "image": null,
-      "published": "2026-09-12T10:12:44.388280+00:00",
+      "published": "2026-09-12T15:07:02.251304+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,199 @@
       "category": "startup",
       "summary": "El rechazo es parte esencial del camino de cualquier startup, pues ofrece valiosas lecciones sobre resiliencia, estrategia y crecimiento, fortaleciendo tanto a los emprendedores como a sus proyectos. The post Por qué el …",
       "image": null,
-      "published": "2026-09-12T10:12:44.387932+00:00",
+      "published": "2026-09-12T15:07:02.250740+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e1f8be4c42e461",
+      "title": "El origen del archicelebrado menú del día en España: un \"menú turístico\" impulsado por el franquismo en 1964",
+      "url": "https://www.xataka.com/magnet/origen-archicelebrado-menu-dia-espana-menu-turistico-impulsado-franquismo-1964",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Más allá de sectores, mercados o países, la mayoría de negocios del mundo tienen algo en común: sueñan con las codiciadas \"tres B\". Productos \"buenos, bonitos y baratos\", la santa trinidad del mundo empresarial. En Españ…",
+      "image": "https://i.blogs.es/825114/alain-rouiller-hu1ovobfwuo-unsplash/1024_2000.jpeg",
+      "published": "2026-09-12T15:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f78f29ef3b19d2",
+      "title": "Esta película de acción con la estrella de ‘The Boys’ es una locura gamberra que te encantará",
+      "url": "https://hipertextual.com/cine-television/esta-pelicula-de-accion-con-la-estrella-de-the-boys-es-una-locura-gamberra-que-te-encantara/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Una película de acción debe al menos cumplir dos requisitos. Tener grandes escenas frenéticas filmadas para el asombro del espectador y hacer reír. Y Novocaine disponible en Movistar+, cumple ambos. Además, incluye una s…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Final-The-Boys-e1779273235846.jpeg?fit=1024%2C428&quality=70&strip=all&ssl=1",
+      "published": "2026-09-12T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "673b4ac9808a9a",
+      "title": "La NASA quiere aterrizar en el polo sur lunar. El piloto de Artemis II dice que es una mala idea",
+      "url": "https://www.xataka.com/espacio/nasa-quiere-aterrizar-polo-sur-lunar-piloto-artemis-ii-dice-que-mala-idea",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La próxima misión del programa Artemis, Artemis III , tendrá como objetivo ensayar las maniobras de acoplamiento con los vehículos lunares de Blue Origin y SpaceX. En Artemis IV, en cambio, habrá llegado por fin el momen…",
+      "image": "https://i.blogs.es/79e2c7/victor-glover-artemis-ii/1024_2000.jpeg",
+      "published": "2026-09-12T14:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cfd981356a1680",
+      "title": "El turismo masivo ha disparado el número de pisos turísticos 'minpaku' en Japón. En Tokio ya han empezado a prohibirlos",
+      "url": "https://www.xataka.com/magnet/turismo-masivo-ha-disparado-numero-pisos-turisticos-minpaku-japon-tokio-han-empezado-a-prohibirlos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Sus calles repletas de neones, torres y la intensa vida nocturna del barrio de Kabukichō han convertido a Shinjuku , uno de los distritos de Tokio, en un imán para turistas. Llegan de todas las partes del mundo y se aloj…",
+      "image": "https://i.blogs.es/fc632d/teodor-kuduschiev-9kzgspi5nl4-unsplash/1024_2000.jpeg",
+      "published": "2026-09-12T14:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0ac7e46cf2a870",
+      "title": "Tiene una sola temporada y es la mejor adaptación de Stephen King de la década: te decimos todo sobre la serie de HBO Max que deberías ver",
+      "url": "https://hipertextual.com/cine-television/tiene-una-sola-temporada-y-es-la-mejor-adaptacion-de-stephen-king-de-la-decada-te-decimos-todo-sobre-la-serie-de-hbo-max-que-deberias-ver/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La mejor adaptación de una obra de Stephen King está en HBO Max y es posible que te haya pasado desapercibida en el inmenso catálogo de la plataforma. Pero si eres fanático del autor y estás en busca de una adaptación qu…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/10/hipertextual-asi-sera-visitante-nueva-serie-hbo-basada-libro-stephen-king-2019807504.jpg?fit=1024%2C575&quality=70&strip=all&ssl=1",
+      "published": "2026-09-12T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9f7c968ba2aa52",
+      "title": "Las baterías están empezando a revolucionar las redes eléctricas de muchos países: el ejemplo de Texas es solo el primero",
+      "url": "https://www.xataka.com/energia/baterias-estan-empezando-a-revolucionar-redes-electricas-muchos-paises-ejemplo-texas-solo-primero",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Texas está a punto de cerrar su verano más exigente de la historia a nivel eléctrico y no ha pasado nada. Allá por 2023, en pleno y tórrido verano, el operador eléctrico de la red texana (ERCOT) tuvo que pedir hasta seis…",
+      "image": "https://i.blogs.es/aa5608/gemini_generated_image_fe310ofe310ofe31/1024_2000.jpeg",
+      "published": "2026-09-12T13:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "448665212b807f",
+      "title": "Tu corazón, tus pupilas y hasta tus pasos: todo lo que de verdad se sincroniza cuando pasas tiempo con alguien",
+      "url": "https://www.xataka.com/medicina-y-salud/tu-corazon-tus-pupilas-tus-pasos-todo-que-verdad-se-sincroniza-cuando-pasas-tiempo-alguien",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Puede que alguna vez hayas leído u oído eso de que las personas que viven juntas pueden sincronizar sus menstruaciones. Incluso si menstruas, puede que alguna vez hayas creído que te estaba pasando a ti. Sin embargo, no …",
+      "image": "https://i.blogs.es/a4ecb5/sincronia/1024_2000.jpeg",
+      "published": "2026-09-12T13:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "86e893a7931b49",
+      "title": "Lo que debes recordar si quieres ver ‘Prácticamente magia 2’ con Nicole Kidman y Sandra Bullock",
+      "url": "https://hipertextual.com/cine-television/lo-que-debes-recordar-si-quieres-ver-practicamente-magia-2-con-nicole-kidman-y-sandra-bullock/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Prácticamente magia 2 llega al cine después de 28 años de la película original, estrenada en 1998. Y lo hace con la promesa de no solo explorar en el querido universo original. También, el de mostrar nuevas facetas de su…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Practicamente-Magia-Hipertextual.jpeg?fit=1024%2C575&quality=70&strip=all&ssl=1",
+      "published": "2026-09-12T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b0a105b7456c65",
+      "title": "Australia regala tres horas de electricidad al día cuando sobra energía solar. Si España quiere lo mismo, hay algo que debe tener en cuenta",
+      "url": "https://www.xataka.com/energia/australia-regala-tres-horas-electricidad-al-dia-cuando-sobra-energia-solar-espana-quiere-hay-algo-que-debe-tener-cuenta",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Debido a la mayor intensidad de la radiación solar, las horas centrales del día son el momento en el que las placas solares producen más electricidad. Sin embargo, la mayor parte del consumo en los hogares se hace por la…",
+      "image": "https://i.blogs.es/1f4994/shanjir-h-photo4life-au-h5j56dfllko-unsplash/1024_2000.jpeg",
+      "published": "2026-09-12T12:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2a7cf5b69f210f",
+      "title": "Los nuevos iPhone 18 Pro y 18 Pro Max ya se pueden reservar en España: dónde comprarlos hoy antes de que se agoten",
+      "url": "https://www.xataka.com/seleccion/nuevos-iphone-18-pro-18-pro-max-se-pueden-reservar-espana-donde-comprarlos-hoy-se-agoten",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La espera ha terminado. Tras la presentación oficial de Apple, ya se pueden reservar en España los nuevos iPhone 18 Pro . Si no quieres quedarte sin el tuyo para el día de lanzamiento oficial de venta en las tiendas ( 18…",
+      "image": "https://i.blogs.es/9352c7/reserva-iphone-18-pro-y-iphone-18-pro-max-1-/1024_2000.jpeg",
+      "published": "2026-09-12T12:17:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e38027c8be751b",
+      "title": "De la Conga y la Mambo al ladrillo: Cecotec quiere fabricar 6.000 casas al año",
+      "url": "https://www.xataka.com/empresas-y-economia/conga-mambo-al-ladrillo-cecotec-quiere-fabricar-6-000-casas-al-ano",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cuando hablábamos de Cecotec en 2019 hacíamos referencia a un catálogo con más de 700 productos y que era solo el principio. Dicho y hecho: del pequeño electrodoméstico con los robots aspiradores Conga y los robots de co…",
+      "image": "https://i.blogs.es/b1a6e7/portada/1024_2000.jpeg",
+      "published": "2026-09-12T12:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0fc35e96d152c2",
+      "title": "5 razones por las que ‘Silo’ es la mejor serie de ciencia ficción del año",
+      "url": "https://hipertextual.com/cine-television/5-razones-por-las-que-silo-es-la-mejor-serie-de-ciencia-ficcion-del-ano/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Silo de Apple TV estrenó el cierre de su tercera temporada dejando algo muy claro. No es solo una de las mejores series de ciencia ficción de la plataforma de los de Cupertino, que ya es un logro considerable. También es…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Silo.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-09-12T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "074a8bcce4daa0",
+      "title": "La guerra de drones acaba de entrar en su fase más darwiniana: China está fabricando en masa un depredador que viaja a 320 km/h para cazarlos",
+      "url": "https://www.xataka.com/magnet/guerra-drones-acaba-entrar-su-fase-darwiniana-china-esta-fabricando-masa-depredador-para-cazarlos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La guerra de drones está entrando en una fase (aún más) peculiar: después de convertir pequeños UAV en cazadores de soldados, vehículos y artillería, ahora está creando drones cuya presa son otros drones. La china Shengy…",
+      "image": "https://i.blogs.es/328237/hrmwdlcw8aqv7xh/1024_2000.jpeg",
+      "published": "2026-09-12T11:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f94354e970212b",
+      "title": "Hace 20 años, Madrid se inventó un parque espectacular sobre la M-30. Ahora necesita invertir 400 millones para que no se caiga a cachos",
+      "url": "https://www.xataka.com/movilidad/hace-20-anos-madrid-se-invento-parque-espectacular-m-30-ahora-necesita-invertir-400-millones-no-se-caiga-a-cachos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Desde que en enero de 2025 comenzaran las obras del soterramiento de la A-5 no se ha hecho más que echar la vista atrás para comparar esta obra faraónica con Madrid Río y el soterramiento de la M-30 a su paso por el sur …",
+      "image": "https://i.blogs.es/106d74/madrid-m-30-tunel-parque/1024_2000.jpeg",
+      "published": "2026-09-12T11:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c16ded533d95f3",
+      "title": "Apple te acaba de regalar un año gratuito de este servicio si tienes un iPhone 14 o superior",
+      "url": "https://hipertextual.com/apple/apple-te-acaba-de-regalar-un-ano-gratuito-de-este-servicio-si-tienes-un-iphone-14-o-superior/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo, Apple ha vuelto a renovar uno de sus servicios más populares en todo el mundo. No por descargas, más bien por utilidad. Y lo mejor es que, si tienes un iPho…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/iphone-17.jpg?fit=1024%2C650&quality=70&strip=all&ssl=1",
+      "published": "2026-09-12T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "28f618599f3fb2",
+      "title": "El salto al mar más espectacular de Cantabria tiene 700 escalones de escalada y fueron tallados por los presos del penal del Dueso",
+      "url": "https://www.xataka.com/magnet/salto-al-mar-espectacular-cantabria-tiene-700-escalones-escalada-fueron-tallados-presos-penal-dueso",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La mayoría de lugares famosos del mundo son como un premio al que se accede tras subir y subir. Al Faro del Caballo , en Santoña, se llega después de bajar. Primero aparece el Cantábrico entre los árboles. Después, el ac…",
+      "image": "https://i.blogs.es/211eef/faro-1/1024_2000.jpeg",
+      "published": "2026-09-12T10:31:00+00:00",
       "score": null,
       "tags": []
     },
@@ -209,30 +401,6 @@
       "tags": []
     },
     {
-      "id": "e4abafa631eff1",
-      "title": "Liquidación de televisores en el outlet online de El Corte Inglés con modelos Samsung, LG y Sony",
-      "url": "https://www.xataka.com/seleccion/liquidacion-televisores-outlet-online-corte-ingles-modelos-samsung-lg-sony",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El outlet de El Corte Inglés suele renovarse con bastante frecuencia, añadiendo multitud de productos con precios bastante competitivos. Sobre todo hay muchos televisores reacondicionados , por lo que vamos a repasar cuá…",
-      "image": "https://i.blogs.es/463ba2/el-corte-ingles/1024_2000.jpeg",
-      "published": "2026-09-12T08:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "77f3a24bf780f2",
-      "title": "El mapa que destapa la presión del turismo en Europa: el 10% del territorio ya suma más visitantes que residentes",
-      "url": "https://www.xataka.com/magnet/mapa-que-destapa-presion-turismo-europa-10-territorio-suma-visitantes-que-residentes",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En 2024, Europa batió un récord en turismo: el número de noches en alojamientos turísticos superó por primera vez en la historia los 3.000 millones, un 2,2% más que en 2023, según datos de Eurostat . Pero claro, Europa e…",
-      "image": "https://i.blogs.es/b0816e/mapaaa/1024_2000.jpeg",
-      "published": "2026-09-12T08:01:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6d4c90b207fe38",
       "title": "He acabado con los problemas de almacenamiento en mi Amazon Fire TV Stick: te cuento cómo",
       "url": "https://hipertextual.com/tecnologia/he-acabado-con-los-problemas-de-almacenamiento-en-mi-amazon-fire-tv-stick-te-cuento-como/",
@@ -241,18 +409,6 @@
       "summary": "El Amazon Fire TV lleva años siendo el referente en el mercado y un gran dispositivo, pero tiene un problema. Cuando lo utilizas durante años, su almacenamiento acaba pasando factura. Apps, archivos y datos que no sabes …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Amazon-Fire-TV.jpg?fit=1024%2C642&quality=70&strip=all&ssl=1",
       "published": "2026-09-12T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1071436e655d22",
-      "title": "Hemos dedicado seis años a procesar imágenes de un agujero negro para llegar a una conclusión: Einstein tenía razón",
-      "url": "https://www.xataka.com/espacio/hemos-dedicado-seis-anos-a-procesar-imagenes-agujero-negro-para-llegar-a-conclusion-einstein-tenia-razon-2",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Han pasado varios años desde que el Telescopio del Horizonte de Sucesos (EHT) publicara la famosa primera imagen de un agujero negro , tomada en 2017. La foto ha si do puesta en duda por algunos investigadores , pero el …",
-      "image": "https://i.blogs.es/8005a9/estrellas/1024_2000.jpeg",
-      "published": "2026-09-12T07:31:00+00:00",
       "score": null,
       "tags": []
     },
@@ -317,14 +473,38 @@
       "tags": []
     },
     {
-      "id": "a3b4fdc22ad612",
-      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 12 de septiembre",
-      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-12-septiembre",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Este fin de semana vuelve a ponerse en marcha el esquema del Hoy No Circula sabatino, la medida de control con la que la Secretaría de Medio Ambiente de la Ciudad de México ( SEDEMA ) busca mitigar las emisiones en el Va…",
-      "image": "https://i.blogs.es/b5150a/erik-mclean-ctnwvtptul0-unsplash/1024_2000.jpeg",
-      "published": "2026-09-12T03:01:00+00:00",
+      "id": "0f3c4c43c45d6d",
+      "title": "Porsche deja ir a Bugatti y destina parte de la venta a pagar pensiones",
+      "url": "https://expansion.mx/empresas/2026/09/11/porsche-venta-bugatti-rimac-pagar-pensiones",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La operación forma parte de un giro estratégico con el que la marca deportiva busca recuperar rentabilidad y flujo de efectivo ante un mercado más exigente.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/23ab0e3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fd9%2Fef661a894b3c81654485a17d8fa7%2Fimg-9075.jpeg",
+      "published": "2026-09-12T01:50:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "58acbdb423e285",
+      "title": "¿Cómo se tramita la pensión por invalidez del ISSSTE? Estos son los pasos a seguir",
+      "url": "https://expansion.mx/finanzas-personales/2026/09/11/como-tramita-pension-invalidez-issste-pasos-a-seguir",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Dentro de las distintas modalidades que existen para obtener una pensión en el ISSSTE, destaca esta posibilidad a la que puede acceder cualquier asegurado.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d4ffa80/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3a%2Fde%2Fa543afca4314b7a51108e7100474%2Fafore-issste-pension-invalidez.jpeg",
+      "published": "2026-09-12T00:36:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2588d00482f452",
+      "title": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
+      "url": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Del 12 al 18 de septiembre, las gasolinas y diésel tendrán la semana del año con los mayores descuentos a sus cuotas por el Impuestos Especial sobre Producción y Servicios (IEPS).",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3fae035/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2e%2F9d%2F1d97d517456fa6e3cb54577c24d4%2Fieps-gasolina-diesel-hacienda.jpeg",
+      "published": "2026-09-12T00:28:01+00:00",
       "score": null,
       "tags": []
     },
@@ -401,6 +581,54 @@
       "tags": []
     },
     {
+      "id": "b850410f0d404c",
+      "title": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
+      "url": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Entre marzo y agosto, la petrolera estatal ha perdido 10,541 millones de pesos por los descuentos en sus terminales.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9374a55/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2F48%2F16e12501471da72badec84351e9a%2Fgasolinera-pemex.jpeg",
+      "published": "2026-09-11T22:24:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8e898f5274db4c",
+      "title": "Pova 8 Pro 5G: el diseño estilo Matrix que querías por menos de 7,000 pesos",
+      "url": "https://expansion.mx/tecnologia/2026/09/11/pova-8-pro-diseno-matrix-por-menos-7-000-pesos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Pova 8 Pro busca destacar en la gama media con una cámara de 50 MP, batería de 6,500 mAh, 256 GB de almacenamiento y luces personalizables en la parte trasera.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/8f9334b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc7%2F76%2Fdbcac86340049ad4d7036eab12a4%2Fresena-pova-8-pro-5g.jpeg",
+      "published": "2026-09-11T22:00:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3bfc8940385da0",
+      "title": "¡Cuidado! Profeco alerta por venta de boletos falsos para conciertos de Luis Miguel",
+      "url": "https://expansion.mx/tendencias/2026/09/11/profeco-alerta-venta-boletos-falsos-conciertos-luis-miguel",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Hasta el momento, Luis Miguel y su equipo no se han pronunciado sobre la posible realización de una gira en 2027.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/520ec5b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F56%2Fab%2F9fd02821421a9d33479f070ab258%2Fprofeco-luis-miguel-boletos-falsos.jpeg",
+      "published": "2026-09-11T21:53:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "60dc98897cae7e",
+      "title": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
+      "url": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El empresario llegó a controlar casi 100% de Porcelanite, una de las principales compañías de recubrimientos cerámicos de México.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1bd5227/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F86%2F20%2Fcd5b193946978c6be223c89155b2%2Fcarlos-slim-porcelanite.jpg",
+      "published": "2026-09-11T21:51:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "9baef52436d000",
       "title": "UNAM descubre un planeta gigante en formación a 430 años luz de la Tierra y así fue como lo confirmaron",
       "url": "https://www.merca20.com/unam-descubre-un-planeta-gigante-en-formacion-a-430-anos-luz-de-la-tierra-y-asi-fue-como-lo-confirmaron/?utm_source=rss&utm_medium=rss&utm_campaign=unam-descubre-un-planeta-gigante-en-formacion-a-430-anos-luz-de-la-tierra-y-asi-fue-como-lo-confirmaron",
@@ -421,6 +649,30 @@
       "summary": "La tecnología experiencial de 2026 apunta que mientras más sofisticado es el sistema que opera detrás, menos esfuerzo debería percibir quien está frente a la marca.",
       "image": "https://files.merca20.com/uploads/2026/09/bigstock-business-people-cloud-comput-79684360.jpg",
       "published": "2026-09-11T21:39:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4af3a86edeb065",
+      "title": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
+      "url": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Advierten que los fraudes pueden comenzar con un SMS, correo, llamada o enlace falso que busca instalar programas maliciosos en el celular y obtener claves o códigos de seguridad",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e19c77c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe7%2F20%2F452bd3c5493db9484f5ededf3f96%2Fevitar-fraudes-financieros-aplicaciones.jpg",
+      "published": "2026-09-11T21:37:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cc8c97766ec20e",
+      "title": "El AIFA alcanza cifras récord en el periodo vacacional de verano",
+      "url": "https://expansion.mx/bespoke-ad/2026/09/11/el-aifa-alcanza-cifras-record-en-el-periodo-vacacional-de-verano",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Aeropuerto Internacional Felipe Ángeles (AIFA) registró su mayor actividad al movilizar a más de 1.4 millones de pasajeros en 10,201 vuelos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e79928a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F85%2Feb%2Fbc86fdf34f50ac1632e6c9c5856b%2Faifa-record-historico-verano-2026.jpg",
+      "published": "2026-09-11T21:27:34+00:00",
       "score": null,
       "tags": []
     },
@@ -469,6 +721,18 @@
       "summary": "Rey Mysterio se juega su futuro y Omos su lugar en la empresa: así arranca Triplemanía 34 en Las Vegas.",
       "image": "https://files.merca20.com/uploads/2026/09/Triplemania-34-WWE.jpg",
       "published": "2026-09-11T20:45:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "80d6908e62d2ca",
+      "title": "¿Game Pass o contratar apps por separado? Hicimos la cuenta de cuánto te costará ver la NFL en vivo en México",
+      "url": "https://expansion.mx/tendencias/2026/09/11/game-pass-apps-separado-cuanto-costara-ver-nfl-vivo-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La NFL está de regreso, pero la forma de disfrutar del futbol americano en México ha cambiado. Estas son las opciones disponibles para los aficionados.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ab98c73/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8c%2F8b%2Ff9e615844f8998e81aadc39a841e%2Fgame-pass-apps-donde-ver-nfl-2026-1.jpeg",
+      "published": "2026-09-11T20:39:15+00:00",
       "score": null,
       "tags": []
     },
@@ -581,6 +845,18 @@
       "tags": []
     },
     {
+      "id": "8e206513ed9a21",
+      "title": "JAC E10X se corona como el eléctrico más barato de México, y además te libra de la verificación para siempre",
+      "url": "https://expansion.mx/empresas/2026/09/11/jac-e10x-electrico-mas-barato-de-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La llegada de nuevos jugadores al mercado mexicano está cambiando la competencia por conquistar a quienes buscan dar el salto a la movilidad eléctrica.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ff9b997/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5b%2F40%2F26db15984246abbb0fd9f1c21be5%2Fjac-e-10-x.jpeg",
+      "published": "2026-09-11T19:42:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "9e0c9659b1374a",
       "title": "¿Cómo se reinventa una marca de casi 100 años? Helados Holanda revela su estrategia",
       "url": "https://www.altonivel.com.mx/helados-holanda-100-anos-adelma-gonzalez-magnum-ice-cream-company/",
@@ -593,14 +869,14 @@
       "tags": []
     },
     {
-      "id": "e33ee9f064c3ba",
-      "title": "Comprar un juego de PC antes también significaba tener una caja enorme en la estantería. GOG quiere recuperar eso",
-      "url": "https://www.xataka.com/videojuegos/comprar-juego-pc-antes-tambien-significaba-tener-caja-enorme-estanteria-gog-quiere-recuperar-eso",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hubo un tiempo en el que conservar un juego de PC parecía tan sencillo como guardar su caja en una estantería. Hoy nuestras bibliotecas caben en una cuenta, pero volver dentro de diez o veinte años a aquello que compramo…",
-      "image": "https://i.blogs.es/48543c/l-gog-big-box-2/1024_2000.jpeg",
-      "published": "2026-09-11T19:31:00+00:00",
+      "id": "782f78cea7a5bc",
+      "title": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
+      "url": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d7d011d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc3%2F9d%2F6677975f4815b41b3082ca7e4246%2Fgeely-influencia-estados-unidos-ford.png",
+      "published": "2026-09-11T19:32:12+00:00",
       "score": null,
       "tags": []
     },
@@ -617,14 +893,14 @@
       "tags": []
     },
     {
-      "id": "442d075cc32c25",
-      "title": "Necesitamos construir casas en Marte sin llevar ladrillos desde la Tierra: la solución que proponen unos científicos es gelatina y levadura",
-      "url": "https://www.xataka.com/espacio/necesitamos-construir-casas-marte-llevar-ladrillos-tierra-solucion-que-proponen-unos-cientificos-gelatina-levadura",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si crees que la obra más larga de la historia fue la reforma del piso de tu vecino, en la que te comiste varios meses de martillazos mientras tú teletrabajabas, lo entiendo. Me ha pasado. Pero, en realidad, hay obras más…",
-      "image": "https://i.blogs.es/380270/cemento-edificios-en-marte/1024_2000.jpeg",
-      "published": "2026-09-11T19:01:00+00:00",
+      "id": "e5b8af118696d3",
+      "title": "Cómo ganar dinero con tus videos en Spotify: Requisitos y detalles del nuevo programa en México",
+      "url": "https://expansion.mx/tecnologia/2026/09/11/como-ganar-dinero-con-tus-videos-en-spotify",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Spotify Partner Program llega por primera vez a México con una nueva vía de monetización para los creadores de podcasts, mientras el video gana terreno entre las audiencias del país.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/8fc6b7f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F97%2F7d%2F2b162f5c48c4ba6e02dcfb68d044%2Fspotify-programa-para-creadores.jpg",
+      "published": "2026-09-11T19:00:44+00:00",
       "score": null,
       "tags": []
     },
@@ -665,26 +941,26 @@
       "tags": []
     },
     {
-      "id": "5d8d842eadc96a",
-      "title": "Madrid se ha empeñado en levantar un gigantesco parque encima de la M-30: con 16.370 metros cuadrados de jardín, ya está al 70%",
-      "url": "https://www.xataka.com/movilidad/madrid-se-ha-empenado-levantar-gigantesco-parque-encima-m-30-16-370-metros-cuadrados-jardin-esta-al-70",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Las obras del Parque Ventas se acercan a su fin. Y es que este macroproyecto de 16.370 metros cuadrados que se está construyendo directamente sobre la M-30 ya ha superado el 70 % de su ejecución, según ha informado el Ay…",
-      "image": "https://i.blogs.es/65bad0/parque-ventas/1024_2000.jpeg",
-      "published": "2026-09-11T18:31:00+00:00",
+      "id": "4cbaded2b37d0d",
+      "title": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
+      "url": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Esta cadena ofrece a sus afiliados la posibilidad de solicitar reembolsos hasta un año después de haber realizado la compra, dependiendo del producto.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7b50ba4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa5%2F24%2Fe4d1daec4f8694cc6e53cc6f5e08%2Fcomo-solicitar-reembolsos-costco-1.jpeg",
+      "published": "2026-09-11T18:33:09+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "0a9124aed85f72",
-      "title": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
-      "url": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Los tokens son la unidad mínima en la que la IA \"trocea\" el texto para procesarlo y darnos respuestas, pero también son la unidad en la que se mide el consumo y, en la práctica, la \"moneda\" de la IA. En China, los tokens…",
-      "image": "https://i.blogs.es/418dad/magnific_te-has-pasado-un-poco-men_lwiyyktswo/1024_2000.jpeg",
-      "published": "2026-09-11T18:01:01+00:00",
+      "id": "f398f3d7bdf77e",
+      "title": "¿Quién era el dueño de las Torres Gemelas, por qué no acudió el 11 de septiembre y quién cobró el seguro?",
+      "url": "https://expansion.mx/mundo/2026/09/11/quien-era-dueno-torres-gemelas-11-de-septiembre",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Larry Silverstein había tomado el control del complejo apenas 49 días antes de los atentados, en una operación inmobiliaria de 3,200 millones de dólares.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5a9c7d8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2F10%2Fef%2F6f7824104d19b9fbd93c792bc0f0%2Fgettyimages-1339505.jpg",
+      "published": "2026-09-11T17:58:43+00:00",
       "score": null,
       "tags": []
     },
@@ -713,18 +989,6 @@
       "tags": []
     },
     {
-      "id": "4e89b476bab937",
-      "title": "Renfe ya conoce el precio de dejar en manos de Talgo su futuro: 100.000 plazas menos en el Madrid-Valencia y más Avril parados",
-      "url": "https://www.xataka.com/movilidad/renfe-conoce-precio-dejar-manos-talgo-su-futuro-100-000-plazas-madrid-valencia-avril-parados",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando Renfe encargó a Talgo la entrega de 30 unidades de los nuevos S-106 no podía imaginarse lo que se le vendría encima. Desde que Talgo empezara a entregar los conocidos comercialmente como Avril, los problemas no ha…",
-      "image": "https://i.blogs.es/41dcad/talgo_avril_de_renfe_avlo_en_tres_cantos_-madrid--servicio_valladolid-alicante_en_2024-5/1024_2000.jpeg",
-      "published": "2026-09-11T17:31:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f3f211f8a91cfa",
       "title": "“11-S en retrospectiva”: El emotivo documental de National Geographic que reúne a sobrevivientes a 25 años del atentado",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/09/11/11-s-en-retrospectiva-el-emotivo-documental-de-national-geographic-que-reune-a-sobrevivientes-a-25-anos-del-atentado/",
@@ -733,18 +997,6 @@
       "summary": "Conoce \"11-S en retrospectiva\", la nueva serie documental de National Geographic disponible en Disney+ que reúne a sobrevivientes a 25 años del 11S.",
       "image": "https://www.fayerwayer.com/resizer/v2/TTAH4EAFEREEFHOL3QHZ6GP2DU.jpeg?auth=8667829ab187d76695abc55b5531be0c698275641eca44ffbf67446adcfb5c77&smart=true&width=1376&height=768",
       "published": "2026-09-11T17:14:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "89032937cb9f1e",
-      "title": "PLD Space quiere poner a España al frente de la carrera europea por reutilizar cohetes. Su apuesta se llama MIURA 9",
-      "url": "https://www.xataka.com/espacio/pld-space-quiere-poner-a-espana-al-frente-carrera-europea-reutilizar-cohetes-su-apuesta-se-llama-miura-9",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Europa lleva décadas lanzando cohetes, pero eso no significa que tenga resuelta la siguiente etapa de la carrera espacial. Mientras en Estados Unidos nos hemos acostumbrado a ver primeras etapas regresar a tierra y volve…",
-      "image": "https://i.blogs.es/4f9c01/flight-render-miura-9_01/1024_2000.jpeg",
-      "published": "2026-09-11T17:01:01+00:00",
       "score": null,
       "tags": []
     },
@@ -781,18 +1033,6 @@
       "summary": "A 25 años del ataque terrorista a las Torres Gemelas, se recuerdan las impactantes imágenes capturadas por el astronauta Frank Culbertson, el único...",
       "image": "https://www.fayerwayer.com/resizer/v2/BCGTEHZZRVHIRMS6FTK6NCRXZ4.jpg?auth=3654d5834404423832f5ebca0161aed61e337feadc01644817bf4469ce918457&smart=true&width=594&height=414",
       "published": "2026-09-11T16:34:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4f8ab74c641879",
-      "title": "China demuestra que no hace falta cambiar de química para mejorar las baterías de sus coches: llegan las baterías LFP de 200 Wh/kg",
-      "url": "https://www.xataka.com/movilidad/china-demuestra-que-no-hace-falta-cambiar-quimica-para-mejorar-baterias-sus-coches-llegan-baterias-lfp-200-wh-kg",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Aunque la industria de baterías en China está sumida en ofrecer más densidad, autonomía y eficiencia mediante nuevas químicas, las ya presentes todavía tienen margen de mejora. Y en este aspecto, hay novedades en las de …",
-      "image": "https://i.blogs.es/a2f80e/andrew-roberts-2jvejf0tf50-unsplash/1024_2000.jpeg",
-      "published": "2026-09-11T16:31:00+00:00",
       "score": null,
       "tags": []
     },
@@ -929,18 +1169,6 @@
       "tags": []
     },
     {
-      "id": "dbcf634bdd5062",
-      "title": "¿Error de precio? Amazon sigue vendiendo el iPhone 17 a precio de chollo después de que Apple lo suba a 1.109 euros",
-      "url": "https://hipertextual.com/apple/error-de-precio-amazon-sigue-vendiendo-el-iphone-17-a-precio-de-chollo-despues-de-que-apple-lo-suba-a-1-109-euros/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Ya te avisamos la semana pasada antes de que Apple anunciase los nuevos dispositivos: el iPhone 17 no se iba a renovar y seguía siendo muy buena compra. Hoy la historia cambia un poco: como se esperaba, el iPhone 18 base…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/iPhone-17.jpg?fit=1024%2C631&quality=70&strip=all&ssl=1",
-      "published": "2026-09-11T08:31:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "17155738019ed5",
       "title": "Windows 11 Pro y Office Professional Plus 2024 en oferta: ahorra hasta un 91% y disfruta de IA avanzada",
       "url": "https://www.muycomputer.com/2026/09/11/windows-11-pro-y-office-professional-plus-2024-en-oferta-ahorra-hasta-un-91-y-disfruta-de-ia-avanzada/",
@@ -949,18 +1177,6 @@
       "summary": "Necesitas Windows 11 Pro, y también quieres dar el salto a Office Professional Plus 2024, pero no lo haces porque las licencias te resultan muy caras y crees que son algo que no te puedes permitir. Si te encuentras en es…",
       "image": null,
       "published": "2026-09-11T08:03:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fe2a3a7a7580a2",
-      "title": "La nueva película de ‘X-Men’ ficha a esta estrella de ‘The Boys’ como Ángel",
-      "url": "https://hipertextual.com/cine-television/la-nueva-pelicula-de-x-men-ficha-a-esta-estrella-de-the-boys-como-angel/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Marvel sigue dando forma a su nueva película de X-Men. Y es que, a pesar de haber anunciado a buena parte de su reparto principal hace unas semanas, acaban de cerrar un nuevo fichaje. Concretamente, La Casa de las Ideas …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Angel-X-Men.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-11T07:33:56+00:00",
       "score": null,
       "tags": []
     },
@@ -1049,102 +1265,6 @@
       "tags": []
     },
     {
-      "id": "56847381c0864a",
-      "title": "Los trenes buscan ganar terreno al camión con inversión en carga refrigerada",
-      "url": "https://expansion.mx/empresas/2026/09/10/trenes-ganar-terreno-al-camion-inversion-carga-refrigerada",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La industria ferroviaria busca elevar su participación en la carga nacional de 26% a 40% hacia 2030 con infraestructura y más de 1,000 contenedores refrigerados.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6ed4e85/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F90%2Fce%2F9751ec4b420eb1ce433293566ea6%2Fimg-20260910-wa0027.jpg",
-      "published": "2026-09-11T01:46:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "65fadb662656bb",
-      "title": "CEO de Banamex, Edgardo del Rincón, vuelve a “casa” para cambiar la cultura del banco",
-      "url": "https://expansion.mx/economia/2026/09/10/edgardo-del-rincon-cambiar-cultura-banamex",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El nuevo CEO regresa al banco donde comenzó su carrera con la misión de simplificar procesos, recuperar participación de mercado y prepararlo para una nueva etapa como institución independiente.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/cade676/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2Fc7%2Fd306d86747a78c3dcad2036b0942%2Fedgardo-del-rincon-banamex-expansion-summit-2026.jpg",
-      "published": "2026-09-11T01:10:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f0fad88ed0239f",
-      "title": "El banco que te alerta si estás en una llamada de posible fraude",
-      "url": "https://expansion.mx/finanzas-personales/2026/09/10/banco-te-alerta-llamada-posible-fraude",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La herramienta busca advertir al usuario antes de que complete una operación que podría estar relacionada con un intento de fraude.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/376832b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F03%2Fdd%2F9c6454734668be14feec4cb11cd3%2F6-banco-plata.jpeg",
-      "published": "2026-09-11T01:04:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b140890a59ebc3",
-      "title": "Coppel, Lala, Banamex, TCL y Gentera tienen más datos que nunca, pero simplificar la compra sigue siendo su reto",
-      "url": "https://expansion.mx/empresas/2026/09/10/cliente-inteligente-empresas-summit-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las empresas recopilan datos para anticipar qué necesita cada cliente, pero el volumen de información también dificulta elegir qué problemas resolver y cómo simplificar una compra o un servicio.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8b9a076/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5f%2Faf%2Fc53f0aa44c7d8f8f9214e4d3e679%2Fdatos-cliente-experiencia-compra-expansion-summit-2026.JPG",
-      "published": "2026-09-11T00:34:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "924cb074336cd4",
-      "title": "LitioMX enfrentará otro año sin dinero para desarrollar el litio mexicano",
-      "url": "https://expansion.mx/empresas/2026/09/10/litiomx-enfrentara-otro-ano-sin-dinero-para-desarrollar-el-litio-mexicano",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El presupuesto propuesto para 2027 deja a LitioMX sin recursos para explorar, invertir o desarrollar proyectos de extracción, pese a que la dependencia fue creada para impulsar la cadena de valor del mineral en México.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/9471563/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F29%2Fe2%2Fa7c76bd54404b644e4737e3886b8%2Flitiomx-presupuesto-2027.jpeg",
-      "published": "2026-09-10T23:36:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "56ee42a19fc187",
-      "title": "Tiempo y eficiencia, los nuevos retos de la competitividad urbana",
-      "url": "https://expansion.mx/tecnologia/2026/09/10/eficiencia-urbana-se-juega-el-tiempo-del-consumidor",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Los directivos de Rappi, Equinix y Aleatica coinciden en el Expansión Summit 2026 en que la competitividad urbana dependerá de conectar mejor la infraestructura física y digital.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/7094604/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fde%2F6a%2Fd0b45e9042a593387eec8fb954a3%2Feficiencia-urbana-se-juega-el-tiempo-del-consumidor.JPG",
-      "published": "2026-09-10T23:27:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "874396018abfd8",
-      "title": "¿Puedo hacer mi testamento gratis? Cómo obtener un descuento para no heredar problemas",
-      "url": "https://expansion.mx/finanzas-personales/2026/09/10/testamento-gratis-obtener-descuento-no-heredar-problemas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Durante el mes de septiembre, las personas interesadas pueden tramitar su testamento por un costo menor al habitual.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/879fc42/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0c%2F67%2Fe482a6744b44b5112187cbe158e7%2Fseptiembre-mes-testamento-2.jpg",
-      "published": "2026-09-10T23:26:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fc895c5bc3bb95",
-      "title": "Menor consumo pone presión a la inversión publicitaria en México",
-      "url": "https://expansion.mx/mercadotecnia/2026/09/10/publicidad-mexico-inversion-mundial-consumo-2027",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La inversión publicitaria crecerá 9.7% este año por el impulso del Mundial, pero expertos anticipan una caída de 7% en 2027 ante un menor dinamismo del consumo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/40667cd/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F00%2F83%2Fc71ad9454fc381bf32e4b5090d94%2Fxpa-web-summit-termometro-economia-ahp-094.JPG",
-      "published": "2026-09-10T23:13:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d7f572fe497351",
       "title": "Australia quiere atraer más mexicanos a sus universidades: estos son los perfiles que busca",
       "url": "https://www.altonivel.com.mx/australia-quiere-atraer-mas-mexicanos-a-sus-universidades-estos-son-los-perfiles-que-busca/",
@@ -1153,30 +1273,6 @@
       "summary": "En entrevista con ALTO NIVEL, el embajador de Australia en México, Crispin Conroy, explica la estrategia para atraer más estudiantes y talento mexicano hacia sectores como IA, ciencia de datos e ingeniería. The post Aust…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/mexico-australia.webp",
       "published": "2026-09-10T22:39:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "23ec904c4cfa6d",
-      "title": "La preventa del iPhone Duo está a días: cómo ser de los primeros en tener el teléfono plegable de Apple",
-      "url": "https://expansion.mx/tecnologia/2026/09/10/preventa-iphone-duo-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El iPhone Duo llegará a México con versiones de hasta 2 TB de almacenamiento y un precio que alcanza los 77,999 pesos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/dc5fcc3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa5%2F37%2Fdf0123094b21bc340a6d1977ad64%2F2-iphone-duo-gettyimages-2294365222.jpeg",
-      "published": "2026-09-10T22:35:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "78e27eb8a542c1",
-      "title": "Meta lanza Muse, una IA que puede entrar a tus apps y actuar en tu nombre",
-      "url": "https://expansion.mx/tecnologia/2026/09/10/muse-nuevo-agente-ia-meta",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El nuevo agente de Meta no se limita a responder preguntas, puede navegar por internet, conectarse a tus aplicaciones y ejecutar tareas en tu nombre.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/fcf93f3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8c%2F01%2Fcc64fbdf48b098e385fcf4f88262%2Fmuse-meta.jpg",
-      "published": "2026-09-10T22:00:29+00:00",
       "score": null,
       "tags": []
     },
@@ -1193,18 +1289,6 @@
       "tags": []
     },
     {
-      "id": "9fe61717401f9f",
-      "title": "¿Cuánto te costará preparar pozole para el 15 de septiembre? Profeco revela los precios",
-      "url": "https://expansion.mx/tendencias/2026/09/10/ingredientes-pozole-15-septiembre-barato-caro",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La Procuraduría Federal del Consumidor presentó una litsa con los ingredientes básicos de este platillo tradicional de los festejos patrios.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/2977569/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F47%2F37%2F599198824000821d02cdbe196b1a%2Fprecio-pozole-15-septiembre.jpg",
-      "published": "2026-09-10T21:55:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a8f2e9257eabe6",
       "title": "iOS 27 llega el 14 de septiembre: Estos son todos los iPhone que recibirán la actualización",
       "url": "https://www.fayerwayer.com/moviles/2026/09/10/ios-27-llega-el-14-de-septiembre-estos-son-todos-los-iphone-que-recibiran-la-actualizacion/",
@@ -1213,18 +1297,6 @@
       "summary": "Apple confirmó el despliegue de su nuevo sistema operativo para el próximo lunes 14 de septiembre.",
       "image": "https://www.fayerwayer.com/resizer/v2/AGWVJ2FWGBCSZGUE6WLVVN342Y.png?auth=7a03c9aa6e115e52f0f3543b12113c5e9bb73bb6bac160b58f6b1e8b17787328&smart=true&width=1778&height=1006",
       "published": "2026-09-10T21:38:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bf9519cd87b453",
-      "title": "El béisbol ya hizo el cambio que ahora la Liga MX busca para atraer inversión",
-      "url": "https://expansion.mx/empresas/2026/09/10/beisbol-hizo-cambio-que-liga-mx-busca-para-inversion",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La centralización de derechos, el crecimiento de las franquicias y el interés de los fondos están cambiando cuánto vale el deporte mexicano.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f3d5edb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F92%2F75%2F07ae92c440f3922835c4e2f74c84%2Fmikel-arriola.JPG",
-      "published": "2026-09-10T21:24:34+00:00",
       "score": null,
       "tags": []
     },
@@ -1241,30 +1313,6 @@
       "tags": []
     },
     {
-      "id": "57f2e67a73a6b1",
-      "title": "Adultos mayores son los ganadores del presupuesto 2027: prevén aumento para Pensiones del Bienestar",
-      "url": "https://expansion.mx/economia/2026/09/10/pensiones-bienestar-aumento-recursos-paquete-economico-2027",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a3f08a2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2Fba%2F7be3cba4429699edd6dc1da24039%2Fadultos-mayores-pension-bienestar.jpg",
-      "published": "2026-09-10T21:20:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ce11b4bbff82ce",
-      "title": "¿Ya no trabajas y quieres aumentar tu pensión? La Modalidad 40 del IMSS puede ser la mejor opción",
-      "url": "https://expansion.mx/finanzas-personales/2026/09/10/como-puedo-darme-alta-modalidad-40-imss",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La Modalidad 40 del IMSS ofrece la posibilidad de que los asegurados mantengan su derecho a obtener una pensión en el futuro.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8f32ae3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd0%2F80%2Fb44c7a9d42a9ac3a5051cddc3934%2Fafore-modalidad-40-imss.jpeg",
-      "published": "2026-09-10T21:11:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "03138c174b995c",
       "title": "Nasdaq cae 0.65% y el Dow Jones borra 316 puntos: hilan cuatro días en rojo por alza del crudo",
       "url": "https://www.altonivel.com.mx/nasdaq-cae-0-65-y-el-dow-jones-borra-316-puntos-hilan-cuatro-dias-en-rojo-por-alza-del-crudo/",
@@ -1277,30 +1325,6 @@
       "tags": []
     },
     {
-      "id": "83bbe5353f05d5",
-      "title": "Lo nuevo de Instagram te deja subir a tu perfil las fotos en las que te etiquetan",
-      "url": "https://hipertextual.com/mobile/instagram-fotos-etiquetadas-perfil-grid/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Instagram ha lanzado una nueva función que te permitirá añadir las fotos en las que apareces etiquetado directamente a tu perfil. Ahora, los usuarios podrán añadir a la cuadrícula cualquier foto que haya tomado otra pers…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/instagram.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-10T19:26:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9cf12c81898ae4",
-      "title": "Gemini por fin lanza su app de escritorio para Windows, con Gemini Spark y Omni integrados",
-      "url": "https://hipertextual.com/inteligencia-artificial/app-gemini-para-windows-ya-disponible/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Meses después de su lanzamiento en macOS, Gemini por fin estrena su app de escritorio para Windows. De esta manera, la IA de Google ahora dispone de un cliente nativo para el software de Microsoft y abre la puerta a un u…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-escritorio-windows-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-10T18:25:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9af6ae07d33643",
       "title": "“La mierda de perro merece más respeto”: Elon Musk explota tras la proyección del documental de HBO sobre su persona",
       "url": "https://www.fayerwayer.com/internet/2026/09/10/la-mierda-de-perro-merece-mas-respeto-elon-musk-explota-tras-la-proyeccion-del-documental-de-hbo-sobre-su-persona/",
@@ -1309,18 +1333,6 @@
       "summary": "Elon Musk arremete contra el documental de HBO dirigido por Alex Gibney. Revisa sus declaraciones.",
       "image": "https://www.fayerwayer.com/resizer/v2/E6TRH7SGDFHXZEXG7KBRIPRUNU.jpg?auth=a93e0fb579d6476d1b5124d412eb5bf1a844c754a15b6eedadf193fc7fb53bc7&smart=true&width=4679&height=3119",
       "published": "2026-09-10T18:14:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6f90ab4fa90ffe",
-      "title": "Android estrena una función más segura para gestionar tus contraseñas",
-      "url": "https://hipertextual.com/mobile/android-exportar-contrasenas-llaves-acceso/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Android ha habilitado una función que puede transferir tus contraseñas y llaves de acceso a cualquier aplicación de terceros en cuestión de segundos. Google anunció que a partir de hoy, los usuarios ya no tendrán que des…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/google-passwords.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-10T17:37:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1385,30 +1397,6 @@
       "tags": []
     },
     {
-      "id": "5f58da9b5d1c57",
-      "title": "¿Renovar o mantener el modelo anterior? Lo que cambia realmente entre el iPhone 18 Pro y el iPhone 17 Pro",
-      "url": "https://www.fayerwayer.com/moviles/2026/09/10/renovar-o-mantener-el-modelo-anterior-lo-que-cambia-realmente-entre-el-iphone-18-pro-y-el-iphone-17-pro/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Descubre la comparativa del iPhone 18 Pro frente al iPhone 17 Pro: cámara de apertura variable, chip A20 Pro, batería y precios en USD.",
-      "image": "https://www.fayerwayer.com/resizer/v2/74XHLPGXEBCIXLBLMVB4PSF2LA.jpg?auth=64f4060c7c2040c13383d126f9e2bbd5980c4c1337a455ed5d4269b36b4a5606&smart=true&width=1200&height=675",
-      "published": "2026-09-10T14:41:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "25de455c5d59ee",
-      "title": "iPhone Duo y el misterio de su pliegue “invisible”: La ingeniería de Apple para vencer al talón de Aquiles de los plegables",
-      "url": "https://www.fayerwayer.com/moviles/2026/09/10/iphone-duo-y-el-misterio-de-su-pliegue-invisible-la-ingenieria-de-apple-para-vencer-al-talon-de-aquiles-de-los-plegables/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Apple resolvió el histórico problema de la arruga central en los smartphones plegables.",
-      "image": "https://www.fayerwayer.com/resizer/v2/XSXV5HYJR5E3JBZQ6WZ4VWW4W4.jpg?auth=962330364480aee86d5bd5e396046e95b49a581e16c1a4ce21dd907f67378e9e&smart=true&width=1280&height=720",
-      "published": "2026-09-10T14:06:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9c7436c79bc751",
       "title": "iPhone 18 Pro Max frente a iPhone 17 Pro Max: estas son todas las diferencias",
       "url": "https://www.muycomputer.com/2026/09/10/iphone-18-pro-max-frente-a-iphone-17-pro-max-estas-son-todas-las-diferencias/",
@@ -1417,18 +1405,6 @@
       "summary": "Apple presentó ayer el iPhone 18 Pro Max, un smartphone tope de gama que lo tiene todo para convertirse en uno de los terminales más vendidos de la nueva generación de la compañía de la manzana. Si tienes un iPhone 17 Pr…",
       "image": null,
       "published": "2026-09-10T14:04:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9335721d78370e",
-      "title": "“Están jugando con nuestras vidas”: La dura denuncia de un exinvestigador sobre la carrera por la IA",
-      "url": "https://www.fayerwayer.com/internet/2026/09/10/estan-jugando-con-nuestras-vidas-la-dura-denuncia-de-un-exinvestigador-sobre-la-carrera-por-la-ia/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Tras trabajar en el desarrollo de GPT-4o, GPT-4.5 y Claude, el ingeniero Jacob Coxon dimitió denunciando una carrera sin freno hacia la superinteligencia.",
-      "image": "https://www.fayerwayer.com/resizer/v2/M753BWYACNCOJO2V2VPVIXR2WY.jpg?auth=cbaba575ac6be7cc1af30193a245a9de451cb6b90fb84bbd28b0c62cf0bddab0&smart=true&width=2362&height=1575",
-      "published": "2026-09-10T13:48:48+00:00",
       "score": null,
       "tags": []
     },
@@ -2189,6 +2165,102 @@
       "tags": []
     },
     {
+      "id": "375543f10dadb8",
+      "title": "La importancia de los vínculos afectivos en el aula",
+      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
+      "image": null,
+      "published": "2021-06-03T14:00:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30827e2938db33",
+      "title": "Click to English: un recurso visual para el inglés",
+      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
+      "image": null,
+      "published": "2021-05-20T14:00:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f4ddc6170c5ca",
+      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
+      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
+      "image": null,
+      "published": "2021-05-06T14:00:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "39f21b0066f705",
+      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
+      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
+      "image": null,
+      "published": "2021-04-29T14:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c25c9b27d8e08",
+      "title": "El papel del juego en el aprendizaje",
+      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
+      "image": null,
+      "published": "2021-04-15T14:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a27c862780854e",
+      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
+      "url": "http://blog.tiching.com/teuvo-sankila/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
+      "image": null,
+      "published": "2021-04-11T08:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e31f7e480ae193",
+      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
+      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
+      "image": null,
+      "published": "2021-04-07T14:00:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea1bfdcc24e134",
+      "title": "Evaluar para aprender: herramientas para la autoevaluación",
+      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
+      "image": null,
+      "published": "2021-03-17T15:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2197,6 +2269,30 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e8a4e92c6ff20",
+      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
+      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
+      "image": null,
+      "published": "2021-02-25T17:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f160c4352a3034",
+      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
+      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
+      "image": null,
+      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

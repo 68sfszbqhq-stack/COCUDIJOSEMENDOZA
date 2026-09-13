@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-09-13T03:31:48.796465+00:00",
-    "total": 177
+    "generated": "2026-09-13T11:12:39.080236+00:00",
+    "total": 187
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Después de dos años de pruebas de concepto con la inteligencia artificial, 2027 será el año en que las empresas tengan que demostrar un retorno de inversión real. The post De la teoría al ROI: Por qué la IA agéntica defi…",
       "image": null,
-      "published": "2026-09-13T03:31:47.308700+00:00",
+      "published": "2026-09-13T11:12:37.596202+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Al enfrentar la primera gran crisis de mi carrera como CEO, aprendí cómo la transparencia, la empatía y un liderazgo decisivo pueden transformar un mercado en crisis en uno próspero. The post Cómo sobreviví mi primera cr…",
       "image": null,
-      "published": "2026-09-13T03:31:47.308211+00:00",
+      "published": "2026-09-13T11:12:37.595862+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Una idea brillante es solo una pequeña parte de lo que hace exitosa a una empresa. El resto es tu capacidad para perseverar cuando las cosas no van como esperabas. The post El éxito no está en la idea, sino en la resilie…",
       "image": null,
-      "published": "2026-09-13T03:31:47.307746+00:00",
+      "published": "2026-09-13T11:12:37.595499+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La controversia rodea la afirmación de OpenAI de que a 10,000 agentes les tomó un fin de semana resolver uno de los seis problemas matemáticos de “un millón de dólares”. The post OpenAI dice que su IA acaba de resolver u…",
       "image": null,
-      "published": "2026-09-13T03:31:47.307254+00:00",
+      "published": "2026-09-13T11:12:37.595114+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Durante décadas construimos la industria de pagos alrededor de una pregunta bastante sencilla: ¿cuál es la mejor forma de mover dinero? The post El dinero ya no viaja por un solo camino: bienvenidos al mundo multi-rail a…",
       "image": null,
-      "published": "2026-09-13T03:31:47.306770+00:00",
+      "published": "2026-09-13T11:12:37.594723+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Domina estas tres sencillas técnicas para dejar una impresión duradera y amplificar tu impacto. The post El poder de tu personalidad: desarrolla estas 3 técnicas para lograr una influencia duradera appeared first on Entr…",
       "image": null,
-      "published": "2026-09-13T03:31:47.305143+00:00",
+      "published": "2026-09-13T11:12:37.593338+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Jacob Coxon dejó OpenAI por Anthropic debido a su reputación en el campo de la seguridad de IA. Ahora se retira de la industria. The post El investigador de Anthropic que renunció por miedo a la IA: “las cosas podrían sa…",
       "image": null,
-      "published": "2026-09-13T03:31:47.304677+00:00",
+      "published": "2026-09-13T11:12:37.592962+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "El nuevo tráiler de Artificial, la película de Luca Guadagnino sobre la salida y regreso de Sam Altman a OpenAI, reabre un episodio que dejó más que drama corporativo… The post El drama de la salida de Sam Altman de Open…",
       "image": null,
-      "published": "2026-09-13T03:31:47.304153+00:00",
+      "published": "2026-09-13T11:12:37.592618+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El rechazo es parte esencial del camino de cualquier startup, pues ofrece valiosas lecciones sobre resiliencia, estrategia y crecimiento, fortaleciendo tanto a los emprendedores como a sus proyectos. The post Por qué el …",
       "image": null,
-      "published": "2026-09-13T03:31:47.303654+00:00",
+      "published": "2026-09-13T11:12:37.592208+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,283 @@
       "category": "startup",
       "summary": "Hay algo empoderador — y, debo admitir, aterrador — en la idea de que nosotros mismos controlamos nuestras propias historias. Así es como ese sentido de propiedad impulsa la resiliencia. The post Aprendí el secreto de la…",
       "image": null,
-      "published": "2026-09-13T03:31:47.303102+00:00",
+      "published": "2026-09-13T11:12:37.591780+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "834943c54b59f6",
+      "title": "La crisis de la vivienda avanza a dos velocidades en España: la brecha de precios entre regiones se ha duplicado desde la pandemia",
+      "url": "https://www.xataka.com/magnet/crisis-vivienda-avanza-a-dos-velocidades-espana-brecha-precios-regiones-se-ha-duplicado-pandemia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Nos lo recuerda cada cierto tiempo el Centro de Investigaciones Sociológicas (CIS): si hay algo que nos quita el sueño a los españoles, más que la marcha de la economía, el desempleo, la migración, la corrupción o la san…",
+      "image": "https://i.blogs.es/c64069/david-gil-de-la-canal-oorq9nqrxck-unsplash/1024_2000.jpeg",
+      "published": "2026-09-13T11:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f99bddb42c89a1",
+      "title": "¿Windows o Linux? Esta prueba demuestra cuál es el más rápido",
+      "url": "https://hipertextual.com/software/linux-vs-windows-11-test-velocidad/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Windows 11 nunca se ha distinguido por ser un sistema operativo ligero, sobre todo cuando hablamos de ordenadores con recursos limitados. Esto ha provocado que muchos usuarios terminen por cambiar a Linux pensando que re…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-vs-linux-portada.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "88a16ad92f27c6",
+      "title": "Volver de vacaciones y encontrar las plantas secas por el calor no significa que hayan muerto: así se comprueba",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/volver-vacaciones-encontrar-plantas-secas-calor-no-significa-que-hayan-muerto-asi-se-comprueba",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Puede que este verano hayas ido a la playa , de festivales o de acampada. Quizás hayas conocido una nueva ciudad o simplemente hayas ido al pueblo de tu familia a desconectar como solo puedes hacer allí. Has podido pasar…",
+      "image": "https://i.blogs.es/0418c0/plantas-muertas/1024_2000.jpeg",
+      "published": "2026-09-13T10:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "962e8b4bce1d7c",
+      "title": "Los rivales chinos de Tesla encuentran una nueva motivación: fabricar robots humanoides asequibles para inundar el mercado",
+      "url": "https://www.xataka.com/robotica-e-ia/rivales-chinos-tesla-encuentran-nueva-motivacion-fabricar-robots-humanoides-asequibles-para-inundar-mercado",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hace cinco años, comprar un coche eléctrico chino era una rareza fuera del mercado nacional. Ahora, esas mismas marcas como BYD, Xpeng, Chery, Leapmotor, Geely o Xiaomi están plantando cara a Tesla y las compañías tradic…",
+      "image": "https://i.blogs.es/8185e2/original/1024_2000.jpeg",
+      "published": "2026-09-13T10:01:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "af0ec1ddf4ddfd",
+      "title": "He dejado de usar Google Maps en Android Auto por esta función tan buena de Waze",
+      "url": "https://hipertextual.com/tecnologia/he-dejado-de-usar-google-maps-en-android-auto-por-esta-funcion-tan-buena-de-waze/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Hacía años que estaba utilizando Google Maps en el móvil y también en el coche. Me gustaba la interfaz y, aunque la opción de alertas en carretera era mejorable, a mí me servía. Hace unas semanas cambié de opinión y en m…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Waze.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f32b89487b478a",
+      "title": "Sam’s Club vuelve a regalar papel higiénico Member’s Mark Ultra Strong de 40 rollos, si cumples este requisito",
+      "url": "https://www.merca20.com/sams-club-papel-higienico-gratis-members-mark-cupon-papelgratis/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-papel-higienico-gratis-members-mark-cupon-papelgratis",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Sam’s Club regala papel higiénico Member’s Mark Ultra Strong de 40 rollos en México. Conoce la compra mínima, cupón PAPELGRATIS y vigencia.",
+      "image": "https://files.merca20.com/uploads/2026/09/Sams-Club-vuelve-a-regalar-papel-higienico-Members-Mark-Ultra-Strong-de-40-rollos-si-cumples-este-requisito-.jpg",
+      "published": "2026-09-13T09:16:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "53c47237a9fab0",
+      "title": "The Witcher IV: diez novedades que están confirmadas",
+      "url": "https://www.muycomputer.com/2026/09/13/the-witcher-iv-diez-cosas-que-estan-confirmadas/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "The Witcher IV es uno de los juegos más importantes, y más esperados, de esta generación. CD Projekt Red está a cargo de su desarrollo, y sabemos que este va por buen camino por toda la información oficial que han ido da…",
+      "image": null,
+      "published": "2026-09-13T09:15:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f14d5cbb2e9ebb",
+      "title": "Las GPU están por las nubes: esta web ha cartografiado la subida de las RTX 50 y RX 9000 en 2026 y es demencial",
+      "url": "https://www.xataka.com/componentes/gpu-estan-nubes-esta-web-ha-cartografiado-subida-rtx-50-rx-9000-2026-demencial",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Tengo un compañero en Xataka (no revelaré el nombre) que a principios de año pidió componentes para montar un ordenador gaming. Algunos le llegaron rápidamente, pero otros como la GPU se demoraron meses. Él nos contaba a…",
+      "image": "https://i.blogs.es/80499d/captura-de-pantalla-2026-09-04-a-las-11.47.58/1024_2000.jpeg",
+      "published": "2026-09-13T09:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a033801483e3ea",
+      "title": "3 razones para ver ‘Susurran tu nombre’, la nueva película de Robert De Niro que triunfa en Netflix",
+      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-susurran-tu-nombre-la-nueva-pelicula-de-robert-de-niro-que-triunfa-en-netflix/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Netflix acaba de estrenar hace unos días la película Susurran tu nombre. Y su llegada a la plataforma no podía haber sido mejor. Desde que viera la luz, se ha situado como la número 1 en el ranking de películas más vista…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Susurran-tu-nombre.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T09:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f446e2782fe294",
+      "title": "Resultados Liga MX y tabla de posiciones: Cruz Azul vence al América; así va la Jornada 8 y quién puede ser líder",
+      "url": "https://www.merca20.com/resultados-liga-mx-y-tabla-de-posiciones-cruz-azul-vence-al-america-asi-va-la-jornada-8-y-quien-puede-ser-lider/?utm_source=rss&utm_medium=rss&utm_campaign=resultados-liga-mx-y-tabla-de-posiciones-cruz-azul-vence-al-america-asi-va-la-jornada-8-y-quien-puede-ser-lider",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Resultados Liga MX y tabla de posiciones del Apertura 2026: Cruz Azul venció 4-3 al América, Toluca tomó el liderato y Chivas puede superarlo.",
+      "image": "https://files.merca20.com/uploads/2026/09/Resultados-Liga-MX-y-tabla-de-posiciones-Cruz-Azul-vence-al-America-asi-va-la-Jornada-8-y-quien-puede-ser-lider-2.jpg",
+      "published": "2026-09-13T08:56:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0bea2fb1c949b4",
+      "title": "¿Elijo los AirPods 4 o me espero a los AirPods 5? Los ponemos frente a frente para ver cuáles merecen la pena",
+      "url": "https://www.xataka.com/seleccion/elijo-airpods-4-me-espero-a-airpods-5-ponemos-frente-a-frente-para-ver-cuales-merecen-pena",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Apple ha presentado un buen surtido de dispositivos durante su último evento, y pese a que las miradas estaban puestas, sobre todo, en los iPhone 18 Pro y Pro Max , así como en el iPhone Duo , los de Cupertino también ha…",
+      "image": "https://i.blogs.es/64184e/airpods-4-vs-airpods-5/1024_2000.jpeg",
+      "published": "2026-09-13T08:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5fc6ad8f6c2f0e",
+      "title": "70 años de carrera espacial, explicados en tres gráficos: quién lanza más, desde dónde y con qué materiales",
+      "url": "https://www.xataka.com/espacio/70-anos-carrera-espacial-explicados-tres-graficos-quien-lanza-donde-que-materiales",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 1969, el hombre llegó a la luna en el Apolo 11: Estados Unidos marcaba un tanto decisivo en su rivalidad con la URSS dentro del contexto de la Guerra Fría. Es solo un hito (¡uno importantísimo!) dentro de la carrera e…",
+      "image": "https://i.blogs.es/995866/spacio/1024_2000.jpeg",
+      "published": "2026-09-13T08:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2ccdd54d2ab5a0",
+      "title": "La nueva IA de IBM y la NASA es de código abierto y promete revolucionar la exploración lunar",
+      "url": "https://hipertextual.com/inteligencia-artificial/nasa-ibm-inteligencia-artificial-luna/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La NASA e IBM han lanzado un nuevo modelo de inteligencia artificial que va a revolucionar el modo de explorar la Luna. El trabajo en conjunto entre la agencia especial estadounidense y la tecnológica ha arrojado como re…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/nasa-jlV2k_Fx0fc-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T08:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "889fa78ecc19fb",
+      "title": "Mientras Starbucks prepara su colección de Snoopy para Halloween, Costco ya tiene el Snoopy navideño en tiendas",
+      "url": "https://www.merca20.com/mientras-starbucks-prepara-su-coleccion-de-snoopy-para-halloween-costco-ya-tiene-el-snoopy-navideno-en-tiendas/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-starbucks-prepara-su-coleccion-de-snoopy-para-halloween-costco-ya-tiene-el-snoopy-navideno-en-tiendas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El producto pertenece a la categoría de decoración navideña de Costco y forma parte de la oferta de temporada de la cadena.",
+      "image": "https://files.merca20.com/uploads/2026/09/SNOOPY-COSTCO-STRABUCKS.jpg",
+      "published": "2026-09-13T07:46:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "38db9c6454e4d0",
+      "title": "Alemania fue la gran potencia europea del automóvil. Ahora cada vez más fabricantes tienen claro que es el lugar a evitar",
+      "url": "https://www.xataka.com/movilidad/alemania-fue-gran-potencia-europea-automovil-ahora-cada-vez-fabricantes-tienen-claro-que-lugar-a-evitar-1",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "\"Alemania es el lugar donde se inventó el coche\". Las palabras son de la Verbandes der Automobilindustrie (VDA) , una de las múltiples asociaciones alemanas de la industria del automóvil. La declaración, desde luego, es …",
+      "image": "https://i.blogs.es/f96ae8/db2024fa00064_large/1024_2000.jpeg",
+      "published": "2026-09-13T07:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "12e02d75ce32bb",
+      "title": "\"Debemos frenar el ritmo\". Dario Amodei avisa de que una IA podría tomar el control de internet en menos de un año",
+      "url": "https://www.xataka.com/robotica-e-ia/debemos-frenar-ritmo-dario-amodei-avisa-que-ia-podria-tomar-control-internet-ano",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Dario Amodei cambia de idea. El CEO de Anthropic se ha pronunciado sobre el ritmo de mejora y los avances de la inteligencia artificial pidiendo que se pise el freno por una cuestión de seguridad. Allá por 2023, Amodei d…",
+      "image": "https://i.blogs.es/54c60a/chatgpt-image-13-sept-2026-07_28_29/1024_2000.jpeg",
+      "published": "2026-09-13T07:22:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5bf50ad6ac6397",
+      "title": "Liquidación extrema en Walmart: carriola Joie de $4,500 termina en solo $800, incluye silla para auto y protector solar, resistente al agua",
+      "url": "https://www.merca20.com/liquidacion-extrema-en-walmart-carriola-joie-de-4500-termina-en-solo-800-incluye-silla-para-auto-y-protector-solar-resistente-al-agua/?utm_source=rss&utm_medium=rss&utm_campaign=liquidacion-extrema-en-walmart-carriola-joie-de-4500-termina-en-solo-800-incluye-silla-para-auto-y-protector-solar-resistente-al-agua",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Consumidora encuentra en Walmart una carriola Joie Muze LX que, según relata, costaba $4,500 y logra comprarla por solo $800; mostró el ticket.",
+      "image": "https://files.merca20.com/uploads/2026/09/Liquidacion-extrema-en-Walmart-carriola-Joie-de-4500-termina-en-solo-800-incluye-silla-para-auto-y-protector-solar-resistente-al-agua-.jpg",
+      "published": "2026-09-13T07:10:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a2f4493f7dbc47",
+      "title": "El emulador de PS5 KyTyPS5 ya mueve Demon´s Souls Remake a 18 FPS",
+      "url": "https://www.muycomputer.com/2026/09/13/el-emulador-de-ps5-kytyps5-ya-mueve-demons-souls-remake-a-18-fps/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Gracias a los últimos avances y mejoras que ha recibido KyTyPS5, un emulador de PS5, este es capaz de mover Demon´s Souls Remake a entre 10 y 18 FPS. Sí, ya sé que ese nivel de rendimiento está todavía muy lejos de los d…",
+      "image": null,
+      "published": "2026-09-13T07:03:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3a386c9d09b28c",
+      "title": "Quién es quién en Mal de amores de Netflix: Estos personajes sí existieron en la Revolución Mexicana",
+      "url": "https://www.merca20.com/mal-de-amores-netflix-personajes-reales-revolucion-mexicana/?utm_source=rss&utm_medium=rss&utm_campaign=mal-de-amores-netflix-personajes-reales-revolucion-mexicana",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Madero y Aquiles Serdán existieron realmente? Conoce quién es quién en Mal de amores de Netflix y qué personajes pertenecen a la historia de México.",
+      "image": "https://files.merca20.com/uploads/2026/09/Quien-es-quien-en-Mal-de-amores-de-Netflix-Estos-personajes-si-existieron-en-la-Revolucion-Mexicana-.jpg",
+      "published": "2026-09-13T07:00:32+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6126e6e3bb098d",
+      "title": "9 usos prácticos del aprendizaje guiado de Gemini para aprender a hacer cualquier cosa",
+      "url": "https://hipertextual.com/guias/ejemplos-usos-practicos-aprendizaje-guiado-gemini/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Los asistentes de IA se han convertido en una inestimable ayuda para obtener respuestas a cualquier duda o inquietud que tengamos. Antes, lo que no sabías lo buscabas en Google o similares. Ahora, herramientas como ChatG…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Robot-Profesor-Pizarra-Clase-Tutor.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T07:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f3be40b2817fe9",
+      "title": "Freidora de aire Oster de 25 litros se remata en $807 en Walmart; tiene 5 formas de cocinar y recubrimiento antiadherente DiamondForce",
+      "url": "https://www.merca20.com/freidora-de-aire-oster-de-25-litros-se-remata-en-walmart-en-807-tiene-5-formas-de-cocinar-y-recubrimiento-antiadherente-diamondforce/?utm_source=rss&utm_medium=rss&utm_campaign=freidora-de-aire-oster-de-25-litros-se-remata-en-walmart-en-807-tiene-5-formas-de-cocinar-y-recubrimiento-antiadherente-diamondforce",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Consumidora encuentra en Walmart un horno con freidora de aire Oster de 25 litros por $807; costaba $2,690. Conoce modelo, código y características.",
+      "image": "https://files.merca20.com/uploads/2026/09/El-horno-con-freidora-de-aire-Oster-de-25-litros-aparecio-en-el-verificador-de-Walmart-por-807-frente-a-los-2690-mostrados-inicialmente.-Foto-Instagram-de-@paolairaisrc-y-@alexvlogstc-.jpg",
+      "published": "2026-09-13T06:30:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "380189b794d2ca",
+      "title": "Coppel remata lavadora Mabe automática de 19 kg en color blanco; tiene 11 ciclos de lavado y tapa de vidrio templado",
+      "url": "https://www.merca20.com/coppel-remata-lavadora-mabe-automatica-de-19-kg-en-color-blanco-tiene-11-ciclos-de-lavado-y-tapa-de-vidrio-templado/?utm_source=rss&utm_medium=rss&utm_campaign=coppel-remata-lavadora-mabe-automatica-de-19-kg-en-color-blanco-tiene-11-ciclos-de-lavado-y-tapa-de-vidrio-templado",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Coppel tiene en oferta una lavadora Mabe automática de 19 kg que puede ser una opción para quienes buscan renovar este electrodoméstico sin pagar el precio original",
+      "image": "https://files.merca20.com/uploads/2026/09/canva-alt-lavadora-mabe.jpg",
+      "published": "2026-09-13T06:18:51+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b118c4973d9de8",
+      "title": "Bodega Aurrera remata motocicleta urbana Vento Onyx 250 negra 2027; alcanza 130 km/h y tiene alarma antirrobo",
+      "url": "https://www.merca20.com/bodega-aurrera-remata-motocicleta-urbana-vento-onyx-250-negra-2027-alcanza-130-km-h-y-tiene-alarma-antirrobo/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-remata-motocicleta-urbana-vento-onyx-250-negra-2027-alcanza-130-km-h-y-tiene-alarma-antirrobo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La motocicleta Vento Onyx 250 2027 utiliza un motor de 250 cc enfriado por aire que desarrolla hasta 18 hp",
+      "image": "https://files.merca20.com/uploads/2026/09/canva-alt-bodega-vento-moto.jpg",
+      "published": "2026-09-13T03:49:34+00:00",
       "score": null,
       "tags": []
     },
@@ -185,18 +461,6 @@
       "tags": []
     },
     {
-      "id": "3a386c9d09b28c",
-      "title": "Quién es quién en Mal de amores de Netflix: Estos personajes sí existieron en la Revolución Mexicana",
-      "url": "https://www.merca20.com/mal-de-amores-netflix-personajes-reales-revolucion-mexicana/?utm_source=rss&utm_medium=rss&utm_campaign=mal-de-amores-netflix-personajes-reales-revolucion-mexicana",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "¿Madero y Aquiles Serdán existieron realmente? Conoce quién es quién en Mal de amores de Netflix y qué personajes pertenecen a la historia de México.",
-      "image": "https://files.merca20.com/uploads/2026/09/Quien-es-quien-en-Mal-de-amores-de-Netflix-Estos-personajes-si-existieron-en-la-Revolucion-Mexicana-.jpg",
-      "published": "2026-09-12T22:55:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8cea71f82b59c4",
       "title": "Toluca vs. Atlas: Dónde y a qué hora ver el partido EN VIVO",
       "url": "https://www.merca20.com/toluca-vs-atlas-donde-y-a-que-hora-ver-el-partido-en-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=toluca-vs-atlas-donde-y-a-que-hora-ver-el-partido-en-vivo",
@@ -205,18 +469,6 @@
       "summary": "Toluca recibirá la tarde de este sábado a Atlas en el Estadio Nemesio Diez, como parte de la Jornada 8 de la Liga MX",
       "image": "https://files.merca20.com/uploads/2026/09/Toluca-vs.-Atlas-Gemini-AI.jpg",
       "published": "2026-09-12T22:26:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "dae90b1391b7ba",
-      "title": "¿Abren los bancos el 15 y 16 de septiembre? No todos operan igual",
-      "url": "https://expansion.mx/finanzas-personales/2026/09/12/abren-los-bancos-el-15-y-16-de-septiembre",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Cajeros y sucursales no tendrán las mismas opciones para los clientes durante estas fechas patrias.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/bf7be61/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1a%2Fd1%2Fff3e2a41488cb198b83b9658bf56%2Fbanco.jpeg",
-      "published": "2026-09-12T21:27:33+00:00",
       "score": null,
       "tags": []
     },
@@ -241,30 +493,6 @@
       "summary": "México recibe una señal favorable de Washington, mientras Canadá enfrenta nuevos reclamos durante la revisión del acuerdo comercial.",
       "image": "https://cdn-3.expansion.mx/dims4/default/97d0040/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F2e%2F10c2df8d43eaaa38efff80c00747%2Fdonald-trump.jpg",
       "published": "2026-09-12T19:45:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0524c085541276",
-      "title": "Cruz Azul vs. América: Dónde y a qué hora ver el partido GRATIS y EN VIVO",
-      "url": "https://www.merca20.com/cruz-azul-vs-america-donde-y-a-que-hora-ver-el-partido-gratis-y-en-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=cruz-azul-vs-america-donde-y-a-que-hora-ver-el-partido-gratis-y-en-vivo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Cruz Azul y América se encontrarán nuevamente en la cancha del Estadio Banorte para disputar la edición 206 del Clásico Joven",
-      "image": "https://files.merca20.com/uploads/2026/09/Cruz-Azul-vs.-America-Gemini-AI.jpg",
-      "published": "2026-09-12T19:34:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b15589d2f0a408",
-      "title": "Sam’s regala café, jamón, atún, leche, queso, galletas, aceite, jabón y papel higiénico: fechas de la promoción",
-      "url": "https://www.merca20.com/sams-regala-cafe-jamon-atun-leche-queso-galletas-aceite-jabon-y-papel-higienico-fechas-de-la-promocion/?utm_source=rss&utm_medium=rss&utm_campaign=sams-regala-cafe-jamon-atun-leche-queso-galletas-aceite-jabon-y-papel-higienico-fechas-de-la-promocion",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Sam's Club mantiene una promoción semanal con la que busca reforzar su estrategia de mayoreo entre socios",
-      "image": "https://files.merca20.com/uploads/2026/09/sams-club_.jpg",
-      "published": "2026-09-12T19:11:55+00:00",
       "score": null,
       "tags": []
     },
@@ -298,21 +526,9 @@
       "url": "https://www.xataka.com/ecologia-y-naturaleza/1997-liberaron-1-541-alces-unas-viejas-minas-carbon-a-cielo-abierto-30-anos-despues-hay-manada-13-000",
       "source": "Xataka",
       "category": "tech-ia",
-      "summary": "Hubo un tiempo en el que los alces (orientales) desaparecieron por completo de Kentucky: el último fue tiroteado en Pensilvania el 1 de septiembre de 1877, como recogen registros históricos . Precisamente la caza y la pé…",
-      "image": "https://i.blogs.es/dbbcbf/alce/1024_2000.jpeg",
+      "summary": "Hubo un tiempo en el que los alces (concretamente, el alce del este o wapití oriental ) desaparecieron por completo de Kentucky: el último fue tiroteado en Pensilvania el 1 de septiembre de 1877, como recogen registros h…",
+      "image": "https://i.blogs.es/1919ab/gemini_generated_image_22udxs22udxs22ud/1024_2000.jpeg",
       "published": "2026-09-12T18:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5ebb0e7e12ecd9",
-      "title": "Fiestas Patrias 2026: Confirman alcoholímetro en CDMX; ¿de cuánto serán las multas?",
-      "url": "https://www.merca20.com/fiestas-patrias-2026-confirman-alcoholimetro-en-cdmx-de-cuanto-seran-las-multas/?utm_source=rss&utm_medium=rss&utm_campaign=fiestas-patrias-2026-confirman-alcoholimetro-en-cdmx-de-cuanto-seran-las-multas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El alcoholímetro se desplegará durante varios días y mantendrá vigilancia permanente en distintos puntos de la CDMX",
-      "image": "https://files.merca20.com/uploads/2026/09/alcoholimetro-CDMX.jpg",
-      "published": "2026-09-12T18:29:01+00:00",
       "score": null,
       "tags": []
     },
@@ -337,18 +553,6 @@
       "summary": "Si eres fanático del género, ya lo sabes: Las series de terror se han convertido en un fenómeno a gran escala. En parte porque el streaming les ha brindado un nuevo impulso. Pero además, porque lejos de depender exclusiv…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Series-de-terror-23.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
       "published": "2026-09-12T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6694195bffe781",
-      "title": "Pensión Bienestar confirma suspensión de pagos en septiembre: ¿qué día y por qué?",
-      "url": "https://www.merca20.com/pension-bienestar-confirma-suspension-de-pagos-en-septiembre-que-dia-y-por-que/?utm_source=rss&utm_medium=rss&utm_campaign=pension-bienestar-confirma-suspension-de-pagos-en-septiembre-que-dia-y-por-que",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los beneficiarios de la Pensión Bienestar deberán tomar en cuenta esta fecha antes de acudir al Banco del Bienestar o esperar el depósito",
-      "image": "https://files.merca20.com/uploads/2025/11/Pension-del-Bienestar-¿cuando-es-el-ultimo-pago-de-2025-para-adultos-mayores0A.jpg",
-      "published": "2026-09-12T17:37:17+00:00",
       "score": null,
       "tags": []
     },
@@ -385,30 +589,6 @@
       "summary": "Cuando la pelea entre Tom Cruise y Brad Pitt se hizo viral, muchos usuarios imaginaron que una película hecha completamente con IA estaba a nada de hacerse realidad. Aunque OpenAI y otras empresas occidentales dejaron de…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/beyond-wukong-china-00.jpg?fit=1024%2C556&quality=70&strip=all&ssl=1",
       "published": "2026-09-12T17:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "335208ea96ef19",
-      "title": "La casa del dragón temporada 4: Cuándo se estrena en HBO",
-      "url": "https://www.merca20.com/la-casa-del-dragon-temporada-4-cuando-se-estrena-en-hbo/?utm_source=rss&utm_medium=rss&utm_campaign=la-casa-del-dragon-temporada-4-cuando-se-estrena-en-hbo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La temporada 4 de La Casa del Dragón retomará la historia donde terminó la tercera, que concluyó con muertes, traiciones y revelaciones",
-      "image": "https://files.merca20.com/uploads/2026/08/La-Casa-del-Dragon.jpg",
-      "published": "2026-09-12T16:41:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "20efbb05899a43",
-      "title": "Claudia Sheinbaum confirma aumento en pago de la Pensión del Bienestar 2027",
-      "url": "https://www.merca20.com/claudia-sheinbaum-confirma-aumento-en-pago-de-la-pension-del-bienestar-2027/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-sheinbaum-confirma-aumento-en-pago-de-la-pension-del-bienestar-2027",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Claudia Sheinbaum confirmó que la Pensión Bienestar aumentará en 2027. Conoce qué dice el Gobierno, cuánto podría subir y qué aún no está confirmado.",
-      "image": "https://files.merca20.com/uploads/2026/09/Claudia-Sheinbaum-confirma-aumento-en-la-Pension-del-Bienestar-2027-.jpg",
-      "published": "2026-09-12T16:37:56+00:00",
       "score": null,
       "tags": []
     },
@@ -461,18 +641,6 @@
       "tags": []
     },
     {
-      "id": "3ca6b2e134f3d5",
-      "title": "Festival del Pan Dulce 2026: ¿hasta cuándo estará en CDMX?",
-      "url": "https://www.merca20.com/festival-del-pan-dulce-2026-hasta-cuando-estara-en-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=festival-del-pan-dulce-2026-hasta-cuando-estara-en-cdmx",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El Festival del Pan Dulce Mexicano reunirá a productores de distintas regiones, para mostrar la variedad de una tradición panadera mexicana",
-      "image": "https://files.merca20.com/uploads/2026/09/pan-dulce-Gemini-AI.jpg",
-      "published": "2026-09-12T15:33:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6ef847a3fa0abe",
       "title": "China ya está enviando miles de robots de reparto a Europa: cargan 20 kilos y trabajan más de 12 horas seguidas",
       "url": "https://www.xataka.com/robotica-e-ia/china-esta-enviando-miles-robots-reparto-a-europa-cargan-20-kilos-trabajan-12-horas-seguidas",
@@ -481,30 +649,6 @@
       "summary": "No es ningún secreto que, para China, los robots son una prioridad absoluta dentro de su estrategia industrial y de innovación para los próximos años: su 15º Plan Quinquenal , con objetivos que llegan hasta 2030, da buen…",
       "image": "https://i.blogs.es/d9d888/gemini_generated_image_6kpbki6kpbki6kpb-1-/1024_2000.jpeg",
       "published": "2026-09-12T15:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f56f34356ab66c",
-      "title": "Es el reloj más potente de Apple (y el más caro): todo lo que cambia del Watch Ultra 4 frente al Ultra 3",
-      "url": "https://www.xataka.com/seleccion/reloj-potente-apple-caro-todo-que-cambia-watch-ultra-4-frente-al-ultra-3",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando Apple lanza nuevos dispositivos, no siempre es sencillo ver dónde están los cambios más importantes. Ya os los hemos contado sobre los iPhone Pro y Pro Max , incluso del Apple Watch Series 12. En esta ocasión nos …",
-      "image": "https://i.blogs.es/14cf0d/apple-watch-ultra-vs/1024_2000.jpeg",
-      "published": "2026-09-12T15:17:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e1f8be4c42e461",
-      "title": "El origen del archicelebrado menú del día en España: un \"menú turístico\" impulsado por el franquismo en 1964",
-      "url": "https://www.xataka.com/magnet/origen-archicelebrado-menu-dia-espana-menu-turistico-impulsado-franquismo-1964",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Más allá de sectores, mercados o países, la mayoría de negocios del mundo tienen algo en común: sueñan con las codiciadas \"tres B\". Productos \"buenos, bonitos y baratos\", la santa trinidad del mundo empresarial. En Españ…",
-      "image": "https://i.blogs.es/825114/alain-rouiller-hu1ovobfwuo-unsplash/1024_2000.jpeg",
-      "published": "2026-09-12T15:01:00+00:00",
       "score": null,
       "tags": []
     },
@@ -521,30 +665,6 @@
       "tags": []
     },
     {
-      "id": "673b4ac9808a9a",
-      "title": "La NASA quiere aterrizar en el polo sur lunar. El piloto de Artemis II dice que es una mala idea",
-      "url": "https://www.xataka.com/espacio/nasa-quiere-aterrizar-polo-sur-lunar-piloto-artemis-ii-dice-que-mala-idea",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La próxima misión del programa Artemis, Artemis III , tendrá como objetivo ensayar las maniobras de acoplamiento con los vehículos lunares de Blue Origin y SpaceX. En Artemis IV, en cambio, habrá llegado por fin el momen…",
-      "image": "https://i.blogs.es/79e2c7/victor-glover-artemis-ii/1024_2000.jpeg",
-      "published": "2026-09-12T14:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "cfd981356a1680",
-      "title": "El turismo masivo ha disparado el número de pisos turísticos 'minpaku' en Japón. En Tokio ya han empezado a prohibirlos",
-      "url": "https://www.xataka.com/magnet/turismo-masivo-ha-disparado-numero-pisos-turisticos-minpaku-japon-tokio-han-empezado-a-prohibirlos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Sus calles repletas de neones, torres y la intensa vida nocturna del barrio de Kabukichō han convertido a Shinjuku , uno de los distritos de Tokio, en un imán para turistas. Llegan de todas las partes del mundo y se aloj…",
-      "image": "https://i.blogs.es/fc632d/teodor-kuduschiev-9kzgspi5nl4-unsplash/1024_2000.jpeg",
-      "published": "2026-09-12T14:01:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0ac7e46cf2a870",
       "title": "Tiene una sola temporada y es la mejor adaptación de Stephen King de la década: te decimos todo sobre la serie de HBO Max que deberías ver",
       "url": "https://hipertextual.com/cine-television/tiene-una-sola-temporada-y-es-la-mejor-adaptacion-de-stephen-king-de-la-decada-te-decimos-todo-sobre-la-serie-de-hbo-max-que-deberias-ver/",
@@ -557,30 +677,6 @@
       "tags": []
     },
     {
-      "id": "9f7c968ba2aa52",
-      "title": "Las baterías están empezando a revolucionar las redes eléctricas de muchos países: el ejemplo de Texas es solo el primero",
-      "url": "https://www.xataka.com/energia/baterias-estan-empezando-a-revolucionar-redes-electricas-muchos-paises-ejemplo-texas-solo-primero",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Texas está a punto de cerrar su verano más exigente de la historia a nivel eléctrico y no ha pasado nada. Allá por 2023, en pleno y tórrido verano, el operador eléctrico de la red texana (ERCOT) tuvo que pedir hasta seis…",
-      "image": "https://i.blogs.es/aa5608/gemini_generated_image_fe310ofe310ofe31/1024_2000.jpeg",
-      "published": "2026-09-12T13:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "448665212b807f",
-      "title": "Tu corazón, tus pupilas y hasta tus pasos: todo lo que de verdad se sincroniza cuando pasas tiempo con alguien",
-      "url": "https://www.xataka.com/medicina-y-salud/tu-corazon-tus-pupilas-tus-pasos-todo-que-verdad-se-sincroniza-cuando-pasas-tiempo-alguien",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Puede que alguna vez hayas leído u oído eso de que las personas que viven juntas pueden sincronizar sus menstruaciones. Incluso si menstruas, puede que alguna vez hayas creído que te estaba pasando a ti. Sin embargo, no …",
-      "image": "https://i.blogs.es/a4ecb5/sincronia/1024_2000.jpeg",
-      "published": "2026-09-12T13:01:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "86e893a7931b49",
       "title": "Lo que debes recordar si quieres ver ‘Prácticamente magia 2’ con Nicole Kidman y Sandra Bullock",
       "url": "https://hipertextual.com/cine-television/lo-que-debes-recordar-si-quieres-ver-practicamente-magia-2-con-nicole-kidman-y-sandra-bullock/",
@@ -589,30 +685,6 @@
       "summary": "Prácticamente magia 2 llega al cine después de 28 años de la película original, estrenada en 1998. Y lo hace con la promesa de no solo explorar en el querido universo original. También, el de mostrar nuevas facetas de su…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Practicamente-Magia-Hipertextual.jpeg?fit=1024%2C575&quality=70&strip=all&ssl=1",
       "published": "2026-09-12T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b0a105b7456c65",
-      "title": "Australia regala tres horas de electricidad al día cuando sobra energía solar. Si España quiere lo mismo, hay algo que debe tener en cuenta",
-      "url": "https://www.xataka.com/energia/australia-regala-tres-horas-electricidad-al-dia-cuando-sobra-energia-solar-espana-quiere-hay-algo-que-debe-tener-cuenta",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Debido a la mayor intensidad de la radiación solar, las horas centrales del día son el momento en el que las placas solares producen más electricidad. Sin embargo, la mayor parte del consumo en los hogares se hace por la…",
-      "image": "https://i.blogs.es/1f4994/shanjir-h-photo4life-au-h5j56dfllko-unsplash/1024_2000.jpeg",
-      "published": "2026-09-12T12:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2a7cf5b69f210f",
-      "title": "Los nuevos iPhone 18 Pro y 18 Pro Max ya se pueden reservar en España: dónde comprarlos hoy antes de que se agoten",
-      "url": "https://www.xataka.com/seleccion/nuevos-iphone-18-pro-18-pro-max-se-pueden-reservar-espana-donde-comprarlos-hoy-se-agoten",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La espera ha terminado. Tras la presentación oficial de Apple, ya se pueden reservar en España los nuevos iPhone 18 Pro . Si no quieres quedarte sin el tuyo para el día de lanzamiento oficial de venta en las tiendas ( 18…",
-      "image": "https://i.blogs.es/9352c7/reserva-iphone-18-pro-y-iphone-18-pro-max-1-/1024_2000.jpeg",
-      "published": "2026-09-12T12:17:00+00:00",
       "score": null,
       "tags": []
     },
@@ -689,18 +761,6 @@
       "tags": []
     },
     {
-      "id": "6d4c90b207fe38",
-      "title": "He acabado con los problemas de almacenamiento en mi Amazon Fire TV Stick: te cuento cómo",
-      "url": "https://hipertextual.com/tecnologia/he-acabado-con-los-problemas-de-almacenamiento-en-mi-amazon-fire-tv-stick-te-cuento-como/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El Amazon Fire TV lleva años siendo el referente en el mercado y un gran dispositivo, pero tiene un problema. Cuando lo utilizas durante años, su almacenamiento acaba pasando factura. Apps, archivos y datos que no sabes …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Amazon-Fire-TV.jpg?fit=1024%2C642&quality=70&strip=all&ssl=1",
-      "published": "2026-09-12T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2b1ea6fe50104e",
       "title": "El visor Project Phoenix de Meta se deja ver antes de Connect",
       "url": "https://www.muycomputer.com/2026/09/12/el-visor-project-phoenix-de-meta-se-deja-ver-antes-de-connect/",
@@ -709,18 +769,6 @@
       "summary": "Project Phoenix empieza a dejar de ser uno de esos proyectos de Meta de los que sabemos mucho por rumores, pero que todavía cuesta imaginar como producto real. A menos de dos semanas de Meta Connect, han aparecido las pr…",
       "image": null,
       "published": "2026-09-12T07:04:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ba4086927c93b1",
-      "title": "Gemini Notebook (NotebookLM) versus Gemini: cuál deberías usar en cada situación",
-      "url": "https://hipertextual.com/guias/para-que-sirve-gemini-gemini-notebook-cual-elegir/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Desde que Google presentó Gemini en diciembre de 2023, este nombre nos ha acompañado en todo momento y se ha extendido a casi todo el ecosistema de productos y servicios de Google. Gemini es el nombre del modelo de IA de…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-Gemini-Notebook-Centro-Datos-Google.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-09-12T07:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -881,18 +929,6 @@
       "tags": []
     },
     {
-      "id": "2aba99da46a168",
-      "title": "El creador de ‘VisionQuest’ explica por qué Ultrón aparece en forma humana: «No es por presupuesto»",
-      "url": "https://hipertextual.com/cine-television/creador-visionquest-james-spader-ultron-forma-humana/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "VisionQuest promete ser una propuesta interesante para expandir el arco argumental de Visión tras los eventos de Avengers: Infinity (2018) y WandaVision (2021). Además, todo apunta a que será la última serie live-action …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Ultron-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-11T21:10:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "80d6908e62d2ca",
       "title": "¿Game Pass o contratar apps por separado? Hicimos la cuenta de cuánto te costará ver la NFL en vivo en México",
       "url": "https://expansion.mx/tendencias/2026/09/11/game-pass-apps-separado-cuanto-costara-ver-nfl-vivo-mexico",
@@ -913,18 +949,6 @@
       "summary": "El Nasdaq, Dow Jones y S&P 500 subieron este viernes tras el dato de inflación de Estados Unidos, aunque los tres índices terminaron la semana con pérdidas. The post Dow Jones suma 509 puntos, pero cierra su peor caída s…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/03/economia-global-y-dow-jones.webp",
       "published": "2026-09-11T20:19:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5abed3d27c8941",
-      "title": "Meta filtra por error sus nuevas gafas de realidad mixta que sustituirán al Quest Pro",
-      "url": "https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-especificaciones/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Meta ha filtrado sus próximas gafas de realidad aumentada. La última actualización del firmware de Horizon OS incluye imágenes que muestran el diseño de Project Phoenix, un visor premium de realidad aumentada que prepara…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/ray-ban-meta-mark-zuckerberg.jpg?fit=1024%2C658&quality=70&strip=all&ssl=1",
-      "published": "2026-09-11T20:15:00+00:00",
       "score": null,
       "tags": []
     },
@@ -989,6 +1013,18 @@
       "tags": []
     },
     {
+      "id": "782f78cea7a5bc",
+      "title": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
+      "url": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d7d011d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc3%2F9d%2F6677975f4815b41b3082ca7e4246%2Fgeely-influencia-estados-unidos-ford.png",
+      "published": "2026-09-11T19:32:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "d8d5ad2ebc5396",
       "title": "¿Por qué Trump y los inversionistas podrían ‘pegar el grito’ con la próxima reunión de la Fed?",
       "url": "https://www.altonivel.com.mx/por-que-trump-y-los-inversionistas-podrian-pegar-el-grito-con-la-proxima-reunion-de-la-fed/",
@@ -1009,18 +1045,6 @@
       "summary": "¡Un nuevo habitante llegó a Chapultepec! Se trata de una cría de lince rojo, cuyo nacimiento marca un hito en la conservación de esta especie nativa de la CDMX. The post Nace primer lince rojo en Chapultepec: esto sabemo…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/nace-primer-lince-rojo-en-chapultepec-cdmx-primera-vez-cria-cachorro-bebe.webp",
       "published": "2026-09-11T19:00:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f1e2d9b13bcea2",
-      "title": "Sobrecostos y retrasos: así se rompió la relación entre PlayStation y Kojima por ‘PHYSINT’",
-      "url": "https://hipertextual.com/videojuegos/motivos-ruptura-hideo-kojima-playstation-physint/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La ruptura entre PlayStation y Hideo Kojima, que derivó en el traspaso de PHYSINT a manos de Xbox para su publicación y distribución, sigue dando que hablar. Un nuevo reporte de Jason Schreier, de Bloomberg, ha arrojado …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/HR0krK2boAAwAO3.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-11T19:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1397,18 +1421,6 @@
       "tags": []
     },
     {
-      "id": "147a2cff3a89eb",
-      "title": "ASUS Zenbook 14: tres plataformas, OLED y solo 1,1 kg",
-      "url": "https://www.muycomputer.com/2026/09/10/asus-zenbook-14-tres-plataformas-oled-y-solo-11-kg/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "El ASUS Zenbook 14 llega a España con una propuesta poco habitual dentro de un mismo ultraportátil: mantener prácticamente intacto el concepto de producto y permitir que el usuario elija entre tres plataformas muy distin…",
-      "image": null,
-      "published": "2026-09-10T16:49:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "31cb366c087107",
       "title": "¿La batería de la Switch 2 de The Legend of Zelda será extraíble? La duda que se posicionó en Internet",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/09/10/la-bateria-de-la-switch-2-de-the-legend-of-zelda-sera-extraible-la-duda-que-se-posiciono-en-internet/",
@@ -1417,18 +1429,6 @@
       "summary": "A diferencia del modelo estándar Switch 2 V2 que llegará a Europa, la edición especial del 40.º aniversario de The Legend of Zelda mantendrá el diseño...",
       "image": "https://www.fayerwayer.com/resizer/v2/G62ASGXHINHDTDWV5J5UJQTL7I.png?auth=9abae1304b3898bdae371127ed655208ea6a559740d47386a41a36930250fd3d&smart=true&width=2552&height=1312",
       "published": "2026-09-10T16:44:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9c7436c79bc751",
-      "title": "iPhone 18 Pro Max frente a iPhone 17 Pro Max: estas son todas las diferencias",
-      "url": "https://www.muycomputer.com/2026/09/10/iphone-18-pro-max-frente-a-iphone-17-pro-max-estas-son-todas-las-diferencias/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Apple presentó ayer el iPhone 18 Pro Max, un smartphone tope de gama que lo tiene todo para convertirse en uno de los terminales más vendidos de la nueva generación de la compañía de la manzana. Si tienes un iPhone 17 Pr…",
-      "image": null,
-      "published": "2026-09-10T14:04:54+00:00",
       "score": null,
       "tags": []
     },
@@ -2117,6 +2117,102 @@
       "tags": []
     },
     {
+      "id": "375543f10dadb8",
+      "title": "La importancia de los vínculos afectivos en el aula",
+      "url": "http://blog.tiching.com/la-importancia-los-vinculos-afectivos-aula/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Las evidencias neuro-científicas de los últimos años confirman que sin vínculo afectivo no es posible el aprendizaje. Los niños y […]",
+      "image": null,
+      "published": "2021-06-03T14:00:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30827e2938db33",
+      "title": "Click to English: un recurso visual para el inglés",
+      "url": "http://blog.tiching.com/click-to-english-recurso-visual-ingles/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "¿Qué es el CLICK? Es una presentación de Google Slides por la que se puede navegar con un simple clic. […]",
+      "image": null,
+      "published": "2021-05-20T14:00:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1f4ddc6170c5ca",
+      "title": "La autonomía y la autorregulación para un aprendizaje activo en entornos online sobrevenidos",
+      "url": "http://blog.tiching.com/la-autonomia-y-la-autorregulacion-para-un-aprendizaje-activo-en-entornos-online-sobrevenidos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Cuando hablamos de aprendizaje activo hablamos, como dice Héctor Ruíz Martín, de un aprendizaje cognitivamente activo, más allá de aprender haciendo, […]",
+      "image": null,
+      "published": "2021-05-06T14:00:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "39f21b0066f705",
+      "title": "¿Conoces las ventajas de la Gamificación y las herramientas para iniciarte en ella?",
+      "url": "http://blog.tiching.com/conoces-las-ventajas-la-gamificacion-las-herramientas-iniciarte-2/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En un mundo cada vez más globalizado y en el que se abren paso las nuevas tecnologías, están surgiendo nuevas […]",
+      "image": null,
+      "published": "2021-04-29T14:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c25c9b27d8e08",
+      "title": "El papel del juego en el aprendizaje",
+      "url": "http://blog.tiching.com/el-papel-del-juego-en-el-aprendizaje/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La utilización del juego como metodología de formación en las aulas facilita el aprendizaje de la materia, permitiendo que el […]",
+      "image": null,
+      "published": "2021-04-15T14:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a27c862780854e",
+      "title": "Teuvo Sankila: “Los docentes deberían poder elegir sus propias herramientas de trabajo y los materiales de aprendizaje”",
+      "url": "http://blog.tiching.com/teuvo-sankila/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "Entrevistamos a Teuvo Sankila, director de ediciones de Otava Learning y experto en el cambio educativo, para hablar sobre Tuhattaituri, […]",
+      "image": null,
+      "published": "2021-04-11T08:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e31f7e480ae193",
+      "title": "IX Edición de los Premios Nacionales de Cortometrajes de Educación Vial: ¡La seguridad vial sí es cosa de niños!",
+      "url": "http://blog.tiching.com/ix-edicion-de-los-premios-nacionales-de-cortometrajes-de-educacion-vial-la-seguridad-vial-si-es-cosa-de-ninos/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La seguridad vial es un factor fundamental en la vida de todos los ciudadanos, independientemente de su edad. Aunque los […]",
+      "image": null,
+      "published": "2021-04-07T14:00:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea1bfdcc24e134",
+      "title": "Evaluar para aprender: herramientas para la autoevaluación",
+      "url": "http://blog.tiching.com/evaluar-para-aprender-herramientas-para-la-autoevaluacion/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La autoevaluación está cobrando cada vez mayor importancia. ¡Te ofrecemos un excelente recurso gratuito elaborado por Tekman! El confinamiento simplemente […]",
+      "image": null,
+      "published": "2021-03-17T15:00:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "2f407c0af061b1",
       "title": "Protegido: Prueba de vídeo",
       "url": "https://intef.es/prueba-de-video/",
@@ -2125,6 +2221,30 @@
       "summary": "No hay extracto porque es una entrada protegida.",
       "image": null,
       "published": "2021-03-11T10:26:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e8a4e92c6ff20",
+      "title": "Proceso reflexivo en la formación de ciudadanía global pospandemia",
+      "url": "http://blog.tiching.com/proceso-reflexivo-la-formacion-ciudadania-global-pospandemia/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "La propuesta de este artículo considera que las estrategias pedagógicas más que nunca deben tener presente el proceso reflexivo como […]",
+      "image": null,
+      "published": "2021-02-25T17:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f160c4352a3034",
+      "title": "8 razones por las que aprender a tocar música desde pequeño es beneficioso",
+      "url": "http://blog.tiching.com/8-razones-las-aprender-tocar-musica-desde-pequeno-beneficioso/",
+      "source": "Tiching Blog",
+      "category": "educacion",
+      "summary": "En este post, te presentaremos las 8 razones por las que aprender a tocar música desde pequeño resulta beneficioso. Aprender […]",
+      "image": null,
+      "published": "2021-02-11T15:00:26+00:00",
       "score": null,
       "tags": []
     }

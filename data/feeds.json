@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-09-13T11:12:39.080236+00:00",
+    "generated": "2026-09-13T15:43:29.577916+00:00",
     "total": 187
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Después de dos años de pruebas de concepto con la inteligencia artificial, 2027 será el año en que las empresas tengan que demostrar un retorno de inversión real. The post De la teoría al ROI: Por qué la IA agéntica defi…",
       "image": null,
-      "published": "2026-09-13T11:12:37.596202+00:00",
+      "published": "2026-09-13T15:43:27.978512+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Al enfrentar la primera gran crisis de mi carrera como CEO, aprendí cómo la transparencia, la empatía y un liderazgo decisivo pueden transformar un mercado en crisis en uno próspero. The post Cómo sobreviví mi primera cr…",
       "image": null,
-      "published": "2026-09-13T11:12:37.595862+00:00",
+      "published": "2026-09-13T15:43:27.978277+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Una idea brillante es solo una pequeña parte de lo que hace exitosa a una empresa. El resto es tu capacidad para perseverar cuando las cosas no van como esperabas. The post El éxito no está en la idea, sino en la resilie…",
       "image": null,
-      "published": "2026-09-13T11:12:37.595499+00:00",
+      "published": "2026-09-13T15:43:27.978006+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La controversia rodea la afirmación de OpenAI de que a 10,000 agentes les tomó un fin de semana resolver uno de los seis problemas matemáticos de “un millón de dólares”. The post OpenAI dice que su IA acaba de resolver u…",
       "image": null,
-      "published": "2026-09-13T11:12:37.595114+00:00",
+      "published": "2026-09-13T15:43:27.977757+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Durante décadas construimos la industria de pagos alrededor de una pregunta bastante sencilla: ¿cuál es la mejor forma de mover dinero? The post El dinero ya no viaja por un solo camino: bienvenidos al mundo multi-rail a…",
       "image": null,
-      "published": "2026-09-13T11:12:37.594723+00:00",
+      "published": "2026-09-13T15:43:27.977496+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Domina estas tres sencillas técnicas para dejar una impresión duradera y amplificar tu impacto. The post El poder de tu personalidad: desarrolla estas 3 técnicas para lograr una influencia duradera appeared first on Entr…",
       "image": null,
-      "published": "2026-09-13T11:12:37.593338+00:00",
+      "published": "2026-09-13T15:43:27.976363+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Jacob Coxon dejó OpenAI por Anthropic debido a su reputación en el campo de la seguridad de IA. Ahora se retira de la industria. The post El investigador de Anthropic que renunció por miedo a la IA: “las cosas podrían sa…",
       "image": null,
-      "published": "2026-09-13T11:12:37.592962+00:00",
+      "published": "2026-09-13T15:43:27.976084+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "El nuevo tráiler de Artificial, la película de Luca Guadagnino sobre la salida y regreso de Sam Altman a OpenAI, reabre un episodio que dejó más que drama corporativo… The post El drama de la salida de Sam Altman de Open…",
       "image": null,
-      "published": "2026-09-13T11:12:37.592618+00:00",
+      "published": "2026-09-13T15:43:27.975835+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El rechazo es parte esencial del camino de cualquier startup, pues ofrece valiosas lecciones sobre resiliencia, estrategia y crecimiento, fortaleciendo tanto a los emprendedores como a sus proyectos. The post Por qué el …",
       "image": null,
-      "published": "2026-09-13T11:12:37.592208+00:00",
+      "published": "2026-09-13T15:43:27.975570+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,211 @@
       "category": "startup",
       "summary": "Hay algo empoderador — y, debo admitir, aterrador — en la idea de que nosotros mismos controlamos nuestras propias historias. Así es como ese sentido de propiedad impulsa la resiliencia. The post Aprendí el secreto de la…",
       "image": null,
-      "published": "2026-09-13T11:12:37.591780+00:00",
+      "published": "2026-09-13T15:43:27.975275+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "34dc6d8a5104b4",
+      "title": "El tren Móstoles-Navalcarnero jamás ha transportado a ningún pasajero: 162 millones para un tren fantasma que sigue ahí",
+      "url": "https://www.xataka.com/magnet/tren-mostoles-navalcarnero-jamas-ha-transportado-a-ningun-pasajero-162-millones-para-tren-fantasma-que-sigue-ahi",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hay trenes que llegan tarde (y pasa en todas partes , aunque en Japón lo llevan mejor); hay otros que están monopolizados . Y hay trenes que directamente nunca salieron de la estación: el de Móstoles a Navalcarnero todav…",
+      "image": "https://i.blogs.es/76396a/navalcarnero/1024_2000.jpeg",
+      "published": "2026-09-13T15:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1d3772e0b13695",
+      "title": "Con permiso del Ultra, ¿es el Apple Watch Series 12 uno de los mejores relojes de 2026? Lo comparamos con dos de sus rivales",
+      "url": "https://www.xataka.com/seleccion/permiso-ultra-apple-watch-series-12-uno-mejores-relojes-2026-comparamos-dos-sus-rivales",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Dicen que las comparativas son odiosas, pero sin ellas se vuelve complicado elegir un dispositivo cuando barajamos varios de ellos. Apple hizo oficial hace unos días su Apple Watch Series 12 con novedades interesantes qu…",
+      "image": "https://i.blogs.es/ea5c20/vs-galaxy-watch9-huawei-watch-gt-7-pro-series-12/1024_2000.jpeg",
+      "published": "2026-09-13T15:17:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8d8c2b60d9105b",
+      "title": "Luis de la Fuente no para de acumular títulos y luce como alguien con 20 años menos, pero la ciencia dice que no deberías imitar sus hábitos",
+      "url": "https://www.xataka.com/medicina-y-salud/luis-fuente-no-para-acumular-titulos-luce-como-alguien-20-anos-ciencia-dice-que-no-deberias-imitar-sus-habitos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si conviertes a la Selección Española de Fútbol Masculino en campeona de Europa y del Mundo y con 65 años luces el cuerpo de alguien de 40 que pasa muchas horas en el gimnasio, no es raro que muchas personas quieran ser …",
+      "image": "https://i.blogs.es/a3ecaa/luis-de-la-fuente/1024_2000.jpeg",
+      "published": "2026-09-13T15:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d031a9c036abe9",
+      "title": "5 películas de Marvel que no sirvieron para nada",
+      "url": "https://hipertextual.com/cine-television/5-peliculas-de-marvel-que-no-sirvieron-para-nada/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El Universo Cinematográfico de Marvel navega aguas turbulentas desde el cierre de la saga del Infinito. Todo debido a la ambición de seguir siendo un éxito total en cines y, además, brindar contenido a la naciente plataf…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/02/vengadores-endgame-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f1998e290dd41e",
+      "title": "México quiere abrirle camino al tequila en un país de 1,400 millones de personas",
+      "url": "https://www.altonivel.com.mx/mexico-quiere-abrirle-camino-al-tequila-en-un-pais-de-1400-millones-de-personas/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La CNIT busca que el tequila sea prioridad en un acuerdo comercial parcial entre México e India. La industria ve potencial para colocar a ese país entre sus 10 mayores mercados hacia 2030. The post México quiere abrirle …",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/05/tequila-mezcal-jpg.webp",
+      "published": "2026-09-13T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f98a58acee86d3",
+      "title": "El mundo se obsesionó con el chocolate Dubái. En realidad fue un anticipo de algo mayor: la \"pistachización\" de la alimentación",
+      "url": "https://www.xataka.com/magnet/mundo-se-obsesiono-chocolate-dubai-realidad-fue-anticipo-algo-mayor-pistachizacion-alimentacion",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si solías moverte por TikTok en 2024 (o sigues haciéndolo a día de hoy) seguramente sabrás de sobra qué es \"el chocolate Dubái\" , las celebérrimas tabletas elaboradas con cacao, kadayif y pistachos. Desde que una influen…",
+      "image": "https://i.blogs.es/402ecb/brenan-greene-kiw6supupvk-unsplash/1024_2000.jpeg",
+      "published": "2026-09-13T14:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1118e7a4d7050f",
+      "title": "WhatsApp permitirá limitar ciertos chats al teléfono principal",
+      "url": "https://www.muycomputer.com/2026/09/13/whatsapp-permitira-limitar-ciertos-chats-al-telefono-principal/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "WhatsApp trabaja en una nueva capa de privacidad para aquellas conversaciones que queramos mantener especialmente controladas. La función se llama por ahora Restricted Chat y permitirá limitar un chat al teléfono princip…",
+      "image": null,
+      "published": "2026-09-13T14:03:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c0c6bb0e26b35f",
+      "title": "Tomar el café o el té demasiado caliente puede triplicar el riesgo de cáncer de esófago. La clave está en la temperatura",
+      "url": "https://www.xataka.com/medicina-y-salud/tomar-cafe-te-demasiado-caliente-puede-triplicar-riesgo-cancer-esofago-clave-esta-temperatura",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "A día de hoy, el aumento en la preocupación por nuestra salud ha hecho que poco a poco sepamos mucho más sobre aquellos elementos de nuestra vida cotidiana que nos pueden generar una enfermedad como el cáncer. Y aquí las…",
+      "image": "https://i.blogs.es/90020b/bebida-caliente/1024_2000.jpeg",
+      "published": "2026-09-13T14:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "eeba5d2fca1d42",
+      "title": "Esta película de terror prohibida se estrenó hace 18 años, aterrorizó al mundo y la puedes ver en streaming",
+      "url": "https://hipertextual.com/cine-television/esta-pelicula-de-terror-prohibida-se-estreno-hace-18-anos-aterrorizo-al-mundo-y-la-puedes-ver-en-streaming/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "¿Qué convierte a una película de terror en una joya de culto? Es una pregunta habitual en el género. Pero además, una para la que hay múltiples respuestas. De su relevancia en el tiempo hasta el hecho de que la cinta en …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Terror-2026-2.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fdf36085f2c126",
+      "title": "El país más rico de la Tierra se está quedando sin agua, literalmente",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/pais-rico-tierra-se-esta-quedando-agua-literalmente",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El río Colorado es la vaca lechera del Norte de América. Tras 2.333 kilómetros de recorrido, atraviesa el suroeste de Estados Unidos y el noroeste de México antes de desembocar en el Pacífico. En su curso por EEUU abaste…",
+      "image": "https://i.blogs.es/7b0b82/jc-falcon-xte9rlffoq0-unsplash/1024_2000.jpeg",
+      "published": "2026-09-13T13:17:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2bbfa16bb2be4e",
+      "title": "En 1879, un cartero empezó a recoger las piedras que aparecían en su camino: 33 años después, su jardín albergaba un descomunal palacio",
+      "url": "https://www.xataka.com/magnet/1879-cartero-empezo-a-recoger-piedras-que-aparecian-su-camino-33-anos-despues-su-jardin-albergaba-descomunal-palacio",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La historia de Ferdinand Cheval tiene algo de fábula: durante una jornada de trabajo aparentemente rutinaria, un cartero francés tropezó con una piedra, se la guardó y terminó dedicando buena parte de su vida a convertir…",
+      "image": "https://i.blogs.es/71da82/9247096846_443f30a74e_k/1024_2000.jpeg",
+      "published": "2026-09-13T13:01:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b915ccece217d9",
+      "title": "Quién es Nathan Fielder, el creador del documental viral sobre Elizabeth Holmes",
+      "url": "https://hipertextual.com/cine-television/quien-es-nathan-fielder-el-creador-del-documental-viral-sobre-elizabeth-holmes/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Hace solo unos días, el mundo se quedó atónito con el primer tráiler del documental You can see everything (Puedes verlo todo en español). Y es que en él reaparecía Elizabeth Holmes, la exempresaria y reconocida celebrid…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Nathan-Fielder-you-can-see-everything.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c80a5a8857cc24",
+      "title": "Google mapeó el cerebro de una mosca y la comunidad hizo lo que tenía que hacer: entrenarla para jugar a Doom y a Super Mario",
+      "url": "https://www.xataka.com/investigacion/google-mapeo-cerebro-mosca-comunidad-hizo-que-tenia-que-hacer-entrenarla-para-jugar-a-doom-a-super-mario",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Todavía no comprendemos el cerebro humano en su totalidad y es por eso que seguimos estudiando el de otros animales para intentar aplicar lo aprendido en el nuestro. En ese camino, Google acaba de publicar el mapa neuron…",
+      "image": "https://i.blogs.es/378981/captura-de-pantalla-2026-09-11-a-las-13.11.11/1024_2000.png",
+      "published": "2026-09-13T12:31:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6945f0ceee20c9",
+      "title": "Vuelta al cole 2026/27: apps y servicios gratis para estudiantes y profesores",
+      "url": "https://www.xataka.com/basics/vuelta-al-cole-2026-27-apps-servicios-gratis-para-estudiantes-profesores",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Te traemos una recopilación de herramientas para estudiantes y profesores , de forma que puedas tener un más productivo comienzo del nuevo curso. Se trata de una colección en la que hemos intentado que todas las alternat…",
+      "image": "https://i.blogs.es/5c5a84/apps-estudiar/1024_2000.jpeg",
+      "published": "2026-09-13T12:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1358160fd8c7f2",
+      "title": "‘Prácticamente magia 2’ (★★★☆☆) es una secuela mediocre sin nada que aportar a la original",
+      "url": "https://hipertextual.com/cine-television/practicamente-magia-2-%e2%98%85%e2%98%85%e2%98%85%e2%98%86%e2%98%86-es-una-secuela-mediocre-sin-nada-que-aportar-a-la-original/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Prácticamente magia 2 intenta ser muy parecida al clásico pop de 1998. De hecho, lo intenta tanto que buena parte de sus mejores partes son referencias a la icónica película de finales del siglo pasado. Pero a cambio, no…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/P%C2%B4ractical-magic-2.jpg?fit=1024%2C577&quality=70&strip=all&ssl=1",
+      "published": "2026-09-13T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ab1bc0b2f1bf3f",
+      "title": "La era de las toolbars: cuando Internet Explorer se quedó sin sitio para Internet",
+      "url": "https://www.muycomputer.com/2026/09/13/la-era-de-las-toolbars-cuando-internet-explorer-se-quedo-sin-sitio-para-internet/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Hubo un tiempo en el que abrir Internet Explorer podía convertirse en una pequeña aventura arqueológica. Primero aparecía la barra del navegador. Después la de Google. Luego Yahoo!, Ask Jeeves, eBay, Alexa, quizá alguna …",
+      "image": null,
+      "published": "2026-09-13T11:36:32+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1270dc958980ec",
+      "title": "En 1957 Francia necesitaba un camión imposible para el desierto. La solución fue el Berliet T100, un camión gigantesco que terminó en fracaso",
+      "url": "https://www.xataka.com/movilidad/1957-francia-necesitaba-camion-imposible-para-desierto-solucion-fue-berliet-t100-camion-gigantesco-que-termino-fracaso",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 1957, un fabricante de camiones francés construyó algo tan sobredimensionado que hacía que cualquier vehículo aparcado a su lado pareciera un juguete. Hablamos del Berliet T100 que, durante un tiempo, ostentó el títul…",
+      "image": "https://i.blogs.es/c79152/t100-el-oued-1959/1024_2000.jpeg",
+      "published": "2026-09-13T11:31:00+00:00",
       "score": null,
       "tags": []
     },
@@ -257,18 +461,6 @@
       "tags": []
     },
     {
-      "id": "5fc6ad8f6c2f0e",
-      "title": "70 años de carrera espacial, explicados en tres gráficos: quién lanza más, desde dónde y con qué materiales",
-      "url": "https://www.xataka.com/espacio/70-anos-carrera-espacial-explicados-tres-graficos-quien-lanza-donde-que-materiales",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En 1969, el hombre llegó a la luna en el Apolo 11: Estados Unidos marcaba un tanto decisivo en su rivalidad con la URSS dentro del contexto de la Guerra Fría. Es solo un hito (¡uno importantísimo!) dentro de la carrera e…",
-      "image": "https://i.blogs.es/995866/spacio/1024_2000.jpeg",
-      "published": "2026-09-13T08:01:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2ccdd54d2ab5a0",
       "title": "La nueva IA de IBM y la NASA es de código abierto y promete revolucionar la exploración lunar",
       "url": "https://hipertextual.com/inteligencia-artificial/nasa-ibm-inteligencia-artificial-luna/",
@@ -289,30 +481,6 @@
       "summary": "El producto pertenece a la categoría de decoración navideña de Costco y forma parte de la oferta de temporada de la cadena.",
       "image": "https://files.merca20.com/uploads/2026/09/SNOOPY-COSTCO-STRABUCKS.jpg",
       "published": "2026-09-13T07:46:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "38db9c6454e4d0",
-      "title": "Alemania fue la gran potencia europea del automóvil. Ahora cada vez más fabricantes tienen claro que es el lugar a evitar",
-      "url": "https://www.xataka.com/movilidad/alemania-fue-gran-potencia-europea-automovil-ahora-cada-vez-fabricantes-tienen-claro-que-lugar-a-evitar-1",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "\"Alemania es el lugar donde se inventó el coche\". Las palabras son de la Verbandes der Automobilindustrie (VDA) , una de las múltiples asociaciones alemanas de la industria del automóvil. La declaración, desde luego, es …",
-      "image": "https://i.blogs.es/f96ae8/db2024fa00064_large/1024_2000.jpeg",
-      "published": "2026-09-13T07:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "12e02d75ce32bb",
-      "title": "\"Debemos frenar el ritmo\". Dario Amodei avisa de que una IA podría tomar el control de internet en menos de un año",
-      "url": "https://www.xataka.com/robotica-e-ia/debemos-frenar-ritmo-dario-amodei-avisa-que-ia-podria-tomar-control-internet-ano",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Dario Amodei cambia de idea. El CEO de Anthropic se ha pronunciado sobre el ritmo de mejora y los avances de la inteligencia artificial pidiendo que se pise el freno por una cuestión de seguridad. Allá por 2023, Amodei d…",
-      "image": "https://i.blogs.es/54c60a/chatgpt-image-13-sept-2026-07_28_29/1024_2000.jpeg",
-      "published": "2026-09-13T07:22:38+00:00",
       "score": null,
       "tags": []
     },
@@ -473,6 +641,18 @@
       "tags": []
     },
     {
+      "id": "dae90b1391b7ba",
+      "title": "¿Abren los bancos el 15 y 16 de septiembre? No todos operan igual",
+      "url": "https://expansion.mx/finanzas-personales/2026/09/12/abren-los-bancos-el-15-y-16-de-septiembre",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Cajeros y sucursales no tendrán las mismas opciones para los clientes durante estas fechas patrias.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/bf7be61/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1a%2Fd1%2Fff3e2a41488cb198b83b9658bf56%2Fbanco.jpeg",
+      "published": "2026-09-12T21:27:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "04fac0a38556b4",
       "title": "Café del Dr. Simi: precios y cuántas sucursales hay en México",
       "url": "https://www.merca20.com/cafe-del-dr-simi-precios-y-cuantas-sucursales-hay-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=cafe-del-dr-simi-precios-y-cuantas-sucursales-hay-en-mexico",
@@ -521,30 +701,6 @@
       "tags": []
     },
     {
-      "id": "082a7c300dde4b",
-      "title": "En 1997 liberaron 1.541 alces en unas viejas minas de carbón a cielo abierto. 30 años después, hay una manada de 13.000",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/1997-liberaron-1-541-alces-unas-viejas-minas-carbon-a-cielo-abierto-30-anos-despues-hay-manada-13-000",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hubo un tiempo en el que los alces (concretamente, el alce del este o wapití oriental ) desaparecieron por completo de Kentucky: el último fue tiroteado en Pensilvania el 1 de septiembre de 1877, como recogen registros h…",
-      "image": "https://i.blogs.es/1919ab/gemini_generated_image_22udxs22udxs22ud/1024_2000.jpeg",
-      "published": "2026-09-12T18:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "18eaedffeccbd6",
-      "title": "Parecía una simple lata oxidada en medio de una colina. Dentro había un tesoro con el que poderse comprar un piso en Madrid",
-      "url": "https://www.xataka.com/magnet/parecia-simple-lata-oxidada-medio-colina-dentro-habia-tesoro-que-poderse-comprar-piso-madrid",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si acostumbras a pasear por la naturaleza, seguro que en algún momento te has encontrado basura mientras das una vuelta en pleno monte. Soy de esas personas que acostumbra a torcer el morro mientras me quejo de lo guarra…",
-      "image": "https://i.blogs.es/5efd58/gemini_generated_image_fcfu4dfcfu4dfcfu/1024_2000.jpeg",
-      "published": "2026-09-12T18:01:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c4059c092216b6",
       "title": "Las 5 series de terror del año que todo fan debería ver",
       "url": "https://hipertextual.com/cine-television/las-5-series-de-terror-del-ano-que-todo-fan-deberia-ver/",
@@ -553,30 +709,6 @@
       "summary": "Si eres fanático del género, ya lo sabes: Las series de terror se han convertido en un fenómeno a gran escala. En parte porque el streaming les ha brindado un nuevo impulso. Pero además, porque lejos de depender exclusiv…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Series-de-terror-23.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
       "published": "2026-09-12T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "37a413fbd8de34",
-      "title": "Los chips chinos para la IA apuntaban a ser una bombona de oxígeno para la industria. Ahora ese oxígeno es un 50% más caro",
-      "url": "https://www.xataka.com/componentes/chips-chinos-para-ia-apuntaban-a-ser-bombona-oxigeno-para-industria-ahora-ese-oxigeno-50-caro",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En la guerra por convertirse en la punta de lanza de los chips para la inteligencia artificial, China tiene varios aspirantes dispuestos a plantar cara a Nvidia. El país cuenta con una hoja de ruta para convertirse en la…",
-      "image": "https://i.blogs.es/012279/original/1024_2000.jpeg",
-      "published": "2026-09-12T17:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "eb03107b5679a9",
-      "title": "Bajar la tapa al tirar de la cadena no es la solución definitiva: esto es lo que dice la ciencia sobre los aerosoles del inodoro",
-      "url": "https://www.xataka.com/medicina-y-salud/bajar-tapa-al-tirar-cadena-no-solucion-definitiva-esto-que-dice-ciencia-aerosoles-inodoro",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Uno de los consejos más importantes que escuchamos con respecto a la higiene de nuestro hogar es lo importante que es bajar la tapa del inodoro antes de tirar de la cadena. Y la idea es bastante sencilla, porque se busca…",
-      "image": "https://i.blogs.es/5c3843/inodoro/1024_2000.jpeg",
-      "published": "2026-09-12T17:01:00+00:00",
       "score": null,
       "tags": []
     },
@@ -605,30 +737,6 @@
       "tags": []
     },
     {
-      "id": "efd55a17c5fca1",
-      "title": "Nepal tiene una nueva atracción en Google Maps. La casa verde que sobrevivió a la riada cuyo secreto está enterrado bajo tierra",
-      "url": "https://www.xataka.com/magnet/nepal-tiene-nueva-atraccion-google-maps-casa-verde-que-sobrevivio-a-riada-cuyo-secreto-esta-enterrado-tierra",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En medio de un paisaje arrasado por la riada en Nepal , una imagen terminó haciéndose viral : una casa verde permanecía en pie mientras buena parte de lo que había a su alrededor había desaparecido. La vivienda de la fam…",
-      "image": "https://i.blogs.es/ad1452/nepal-flood-turquoise-green-house-090226-4eeff92fd8f04edabb1f58036e0c30e8/1024_2000.jpeg",
-      "published": "2026-09-12T16:31:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3861e4832fa8c6",
-      "title": "En 1987, Costa Rica había perdido la mitad de su bosque. Hoy es el ejemplo mundial en revertir la deforestación",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/1987-costa-rica-habia-perdido-mitad-su-bosque-hoy-ejemplo-mundial-revertir-deforestacion",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En 1940, Costa Rica era un auténtico vergel: el 75% del país estaba cubierto de bosque tropical . En 1987, esa cobertura forestal se había desplomado hasta apenas un 21%. Casi medio siglo de devastadora deforestación que…",
-      "image": "https://i.blogs.es/c4445e/etienne-delorieux-e5sp18o40ya-unsplash/1024_2000.jpeg",
-      "published": "2026-09-12T16:01:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c46bc28b264a26",
       "title": "Esta herramienta te ayuda a desarrollar apps de Windows en 30 minutos (y es gratis)",
       "url": "https://hipertextual.com/inteligencia-artificial/windows11-apps-nativas-ia/",
@@ -637,18 +745,6 @@
       "summary": "Microsoft ha publicado una guía que cambia las reglas del juego para quienes quieren programar aplicaciones nativas de Windows 11. Como parte de su estrategia para mejorar el sistema operativo, la compañía lanzó un docum…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/app-windows-11-desarrollo-apps.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-12T16:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6ef847a3fa0abe",
-      "title": "China ya está enviando miles de robots de reparto a Europa: cargan 20 kilos y trabajan más de 12 horas seguidas",
-      "url": "https://www.xataka.com/robotica-e-ia/china-esta-enviando-miles-robots-reparto-a-europa-cargan-20-kilos-trabajan-12-horas-seguidas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "No es ningún secreto que, para China, los robots son una prioridad absoluta dentro de su estrategia industrial y de innovación para los próximos años: su 15º Plan Quinquenal , con objetivos que llegan hasta 2030, da buen…",
-      "image": "https://i.blogs.es/d9d888/gemini_generated_image_6kpbki6kpbki6kpb-1-/1024_2000.jpeg",
-      "published": "2026-09-12T15:31:00+00:00",
       "score": null,
       "tags": []
     },
@@ -689,30 +785,6 @@
       "tags": []
     },
     {
-      "id": "0fc35e96d152c2",
-      "title": "5 razones por las que ‘Silo’ es la mejor serie de ciencia ficción del año",
-      "url": "https://hipertextual.com/cine-television/5-razones-por-las-que-silo-es-la-mejor-serie-de-ciencia-ficcion-del-ano/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Silo de Apple TV estrenó el cierre de su tercera temporada dejando algo muy claro. No es solo una de las mejores series de ciencia ficción de la plataforma de los de Cupertino, que ya es un logro considerable. También es…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Silo.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-12T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c16ded533d95f3",
-      "title": "Apple te acaba de regalar un año gratuito de este servicio si tienes un iPhone 14 o superior",
-      "url": "https://hipertextual.com/apple/apple-te-acaba-de-regalar-un-ano-gratuito-de-este-servicio-si-tienes-un-iphone-14-o-superior/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo, Apple ha vuelto a renovar uno de sus servicios más populares en todo el mundo. No por descargas, más bien por utilidad. Y lo mejor es que, si tienes un iPho…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/iphone-17.jpg?fit=1024%2C650&quality=70&strip=all&ssl=1",
-      "published": "2026-09-12T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a69a3db6abf0d0",
       "title": "He probado el SPC WUUM ONE, un móvil para niños en el que se pueden elegir las funciones",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/analisis-spc-wuum-one/",
@@ -725,18 +797,6 @@
       "tags": []
     },
     {
-      "id": "ebd026ed147352",
-      "title": "5 series de Netflix muy buenas, cortas y perfectas para ver en un fin de semana",
-      "url": "https://hipertextual.com/cine-television/5-series-de-netflix-muy-buenas-cortas-y-perfectas-para-ver-en-un-fin-de-semana/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "A día de hoy ya es de sobra sabido que el catálogo de Netflix está compuesto por muchos títulos de un nivel medio, por decirlo suavemente. La plataforma de streaming siempre ha incentivado la cantidad por encima de la ca…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Netflix-series.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-12T10:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "845610071a8588",
       "title": "Guía de GPUs integradas: equivalencias actualizadas a 2026",
       "url": "https://www.muycomputer.com/2026/09/12/guia-de-gpus-integradas-equivalencias-actualizadas-a-2026/",
@@ -745,18 +805,6 @@
       "summary": "Las GPUs integradas han vivido una evolución muy importante en los últimos diez años. En su primera etapa, el rendimiento que eran capaces de ofrecer era tan bajo que no podían mover juegos dentro de su generación de for…",
       "image": null,
       "published": "2026-09-12T09:10:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "834d0f8b661753",
-      "title": "Estas son los 3 mejores motivos para comprarte el iPhone 18 Pro este año",
-      "url": "https://hipertextual.com/apple/estas-son-los-3-mejores-motivos-para-comprarte-el-iphone-18-pro-este-ano/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Apple ha presentado oficialmente los iPhone 18 Pro y Pro Max y, como cada año, son muchos los que dudan en si optar por este modelo o esperar a una próxima generación. Este año, además, el nuevo iPhone Duo ha eclipsado u…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/iphone-18-pro.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-12T09:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1009,18 +1057,6 @@
       "summary": "Adelma González Ríos explica cómo la marca busca combinar casi un siglo de historia con innovación, tecnología y nuevas ocasiones de consumo. The post ¿Cómo se reinventa una marca de casi 100 años? Helados Holanda revela…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/adelma-gonzalez-rios-helados-holanda.webp",
       "published": "2026-09-11T19:35:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "782f78cea7a5bc",
-      "title": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
-      "url": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d7d011d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc3%2F9d%2F6677975f4815b41b3082ca7e4246%2Fgeely-influencia-estados-unidos-ford.png",
-      "published": "2026-09-11T19:32:12+00:00",
       "score": null,
       "tags": []
     },
@@ -1301,18 +1337,6 @@
       "tags": []
     },
     {
-      "id": "76ace9cf57c276",
-      "title": "Gemini da el salto al escritorio de Windows",
-      "url": "https://www.muycomputer.com/2026/09/11/gemini-da-el-salto-al-escritorio-de-windows/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Gemini ya tiene aplicación de escritorio para Windows. Google ha llevado su asistente de inteligencia artificial a Windows 10 y Windows 11, después de estrenarlo anteriormente en macOS, con una propuesta pensada para red…",
-      "image": null,
-      "published": "2026-09-11T06:03:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0caa92ea55d6c4",
       "title": "Día Internacional de Acción contra la Migraña: el papel de la Psicología en su abordaje integral",
       "url": "https://www.infocop.es/dia-internacional-de-accion-contra-la-migrana-el-papel-de-la-psicologia-en-su-abordaje-integral/",
@@ -1381,30 +1405,6 @@
       "summary": "En entrevista con ALTO NIVEL, el embajador de Australia en México, Crispin Conroy, explica la estrategia para atraer más estudiantes y talento mexicano hacia sectores como IA, ciencia de datos e ingeniería. The post Aust…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/mexico-australia.webp",
       "published": "2026-09-10T22:39:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0f6376f9ed8c6d",
-      "title": "Línea 12 del metro cerrará 5 días: ¿qué estaciones estarán fuera de servicio y qué alternativas habrá?",
-      "url": "https://www.altonivel.com.mx/linea-12-del-metro-cerrara-5-dias-que-estaciones-estaran-fuera-de-servicio-y-que-alternativas-habra/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El Metro cerrará nueve estaciones de la Línea 12 del 12 al 16 de septiembre para sustituir un aparato de vía y realizar trabajos de mantenimiento. The post Línea 12 del metro cerrará 5 días: ¿qué estaciones estarán fuera…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2023/01/reapertura-linea-12-metro-jpg.webp",
-      "published": "2026-09-10T21:22:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e62765a50f5a8c",
-      "title": "CUDA 13.4 conecta Windows on Arm, RTX Spark y Rubin",
-      "url": "https://www.muycomputer.com/2026/09/10/cuda-13-4-conecta-windows-on-arm-rtx-spark-y-rubin/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "CUDA 13.4 ya está disponible y llega con dos novedades especialmente importantes para el futuro inmediato de la plataforma de NVIDIA: soporte para desarrollar aplicaciones CUDA sobre Windows on Arm y acceso preliminar a …",
-      "image": null,
-      "published": "2026-09-10T17:34:07+00:00",
       "score": null,
       "tags": []
     },

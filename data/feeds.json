@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-09-13T20:25:04.872187+00:00",
-    "total": 158
+    "generated": "2026-09-14T03:42:06.590712+00:00",
+    "total": 173
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Después de dos años de pruebas de concepto con la inteligencia artificial, 2027 será el año en que las empresas tengan que demostrar un retorno de inversión real. The post De la teoría al ROI: Por qué la IA agéntica defi…",
       "image": null,
-      "published": "2026-09-13T20:25:03.303475+00:00",
+      "published": "2026-09-14T03:42:05.025157+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Al enfrentar la primera gran crisis de mi carrera como CEO, aprendí cómo la transparencia, la empatía y un liderazgo decisivo pueden transformar un mercado en crisis en uno próspero. The post Cómo sobreviví mi primera cr…",
       "image": null,
-      "published": "2026-09-13T20:25:03.303199+00:00",
+      "published": "2026-09-14T03:42:05.024712+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Una idea brillante es solo una pequeña parte de lo que hace exitosa a una empresa. El resto es tu capacidad para perseverar cuando las cosas no van como esperabas. The post El éxito no está en la idea, sino en la resilie…",
       "image": null,
-      "published": "2026-09-13T20:25:03.302914+00:00",
+      "published": "2026-09-14T03:42:05.024240+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La controversia rodea la afirmación de OpenAI de que a 10,000 agentes les tomó un fin de semana resolver uno de los seis problemas matemáticos de “un millón de dólares”. The post OpenAI dice que su IA acaba de resolver u…",
       "image": null,
-      "published": "2026-09-13T20:25:03.302647+00:00",
+      "published": "2026-09-14T03:42:05.023787+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Durante décadas construimos la industria de pagos alrededor de una pregunta bastante sencilla: ¿cuál es la mejor forma de mover dinero? The post El dinero ya no viaja por un solo camino: bienvenidos al mundo multi-rail a…",
       "image": null,
-      "published": "2026-09-13T20:25:03.302355+00:00",
+      "published": "2026-09-14T03:42:05.023292+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Domina estas tres sencillas técnicas para dejar una impresión duradera y amplificar tu impacto. The post El poder de tu personalidad: desarrolla estas 3 técnicas para lograr una influencia duradera appeared first on Entr…",
       "image": null,
-      "published": "2026-09-13T20:25:03.301999+00:00",
+      "published": "2026-09-14T03:42:05.021840+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Jacob Coxon dejó OpenAI por Anthropic debido a su reputación en el campo de la seguridad de IA. Ahora se retira de la industria. The post El investigador de Anthropic que renunció por miedo a la IA: “las cosas podrían sa…",
       "image": null,
-      "published": "2026-09-13T20:25:03.300647+00:00",
+      "published": "2026-09-14T03:42:05.021350+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "El nuevo tráiler de Artificial, la película de Luca Guadagnino sobre la salida y regreso de Sam Altman a OpenAI, reabre un episodio que dejó más que drama corporativo… The post El drama de la salida de Sam Altman de Open…",
       "image": null,
-      "published": "2026-09-13T20:25:03.300349+00:00",
+      "published": "2026-09-14T03:42:05.020882+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "El rechazo es parte esencial del camino de cualquier startup, pues ofrece valiosas lecciones sobre resiliencia, estrategia y crecimiento, fortaleciendo tanto a los emprendedores como a sus proyectos. The post Por qué el …",
       "image": null,
-      "published": "2026-09-13T20:25:03.300026+00:00",
+      "published": "2026-09-14T03:42:05.020357+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,91 @@
       "category": "startup",
       "summary": "Hay algo empoderador — y, debo admitir, aterrador — en la idea de que nosotros mismos controlamos nuestras propias historias. Así es como ese sentido de propiedad impulsa la resiliencia. The post Aprendí el secreto de la…",
       "image": null,
-      "published": "2026-09-13T20:25:03.299689+00:00",
+      "published": "2026-09-14T03:42:05.019856+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e713ef11f25f99",
+      "title": "Xbox vs PlayStation y Nintendo: el comercial del bebé que ganó Cannes y fue prohibido en TV",
+      "url": "https://www.merca20.com/xbox-playstation-nintendo-comercial-prohibido/?utm_source=rss&utm_medium=rss&utm_campaign=xbox-playstation-nintendo-comercial-prohibido",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Xbox lanzó en 2002 el polémico comercial “Champagne”: un bebé envejece en segundos antes de caer en una tumba. Recibió 136 quejas, fue retirado de la TV británica y ganó un Gold Lion en Cannes.",
+      "image": "https://files.merca20.com/uploads/2026/09/Xbox-lanzo-a-un-bebe-por-una-ventana-en-este-comercial-gano-un-Leon-de-Oro-en-Cannes-y-fue-prohibido-en-TV-.jpg",
+      "published": "2026-09-14T03:36:02+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c60d88f851c10",
+      "title": "2026 Emmy Awards: Where and What Time to Watch the LIVE Broadcast",
+      "url": "https://www.merca20.com/2026-emmy-awards-where-and-what-time-to-watch-the-live-broadcast/?utm_source=rss&utm_medium=rss&utm_campaign=2026-emmy-awards-where-and-what-time-to-watch-the-live-broadcast",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "The 2026 Emmy Awards will bring together some of the biggest names in television for a ceremony that promises plenty of memorable moments",
+      "image": "https://files.merca20.com/uploads/2026/09/Emmy-Awards.jpg",
+      "published": "2026-09-14T00:50:02+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8f613efce116eb",
+      "title": "BTS Hits Theaters With Live Concert Broadcasts: Dates and How to Get Tickets",
+      "url": "https://www.merca20.com/bts-hits-theaters-with-live-concert-broadcasts-dates-and-how-to-get-tickets/?utm_source=rss&utm_medium=rss&utm_campaign=bts-hits-theaters-with-live-concert-broadcasts-dates-and-how-to-get-tickets",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "The South Korean group will bring part of its BTS World Tour ‘Arirang’ to movie theaters in several countries around the world",
+      "image": "https://files.merca20.com/uploads/2026/03/BTS-CONCIERTO-NETFLIX.jpg",
+      "published": "2026-09-14T00:30:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "329e63498a67e2",
+      "title": "Premios Emmy 2026: Dónde y a qué hora ver la transmisión EN VIVO desde México",
+      "url": "https://www.merca20.com/premios-emmy-2026-donde-y-a-que-hora-ver-la-transmision-en-vivo-desde-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=premios-emmy-2026-donde-y-a-que-hora-ver-la-transmision-en-vivo-desde-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Los Premios Emmy 2026 reunirán a grandes figuras de la pantalla, en una ceremonia que promete momentos memorables",
+      "image": "https://files.merca20.com/uploads/2025/07/2025-Emmy-Awards-Complete-list-of-nominees.jpg",
+      "published": "2026-09-13T23:36:59+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2d4582ba6adb24",
+      "title": "BTS llega a Cinépolis y Cinemex con transmisiones en vivo de sus conciertos: fechas y cómo conseguir boletos",
+      "url": "https://www.merca20.com/bts-llega-a-cinepolis-y-cinemex-con-transmisiones-en-vivo-de-sus-conciertos-fechas-y-como-conseguir-boletos/?utm_source=rss&utm_medium=rss&utm_campaign=bts-llega-a-cinepolis-y-cinemex-con-transmisiones-en-vivo-de-sus-conciertos-fechas-y-como-conseguir-boletos",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La agrupación surcoreana llevará parte de su BTS World Tour ‘Arirang’ hasta las salas de cines en varios países del mundo",
+      "image": "https://files.merca20.com/uploads/2026/03/BTS-CONCIERTO-NETFLIX.jpg",
+      "published": "2026-09-13T22:44:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ff803bae45f847",
+      "title": "Chivas vs. Pumas: dónde y a qué hora ver el partido EN VIVO",
+      "url": "https://www.merca20.com/chivas-vs-pumas-donde-y-a-que-hora-ver-el-partido-en-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=chivas-vs-pumas-donde-y-a-que-hora-ver-el-partido-en-vivo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Chivas y Pumas se enfrentarán esta noche en el Estadio Akron, como parte de los duelos de la Jornada 8 de la Liga MX",
+      "image": "https://files.merca20.com/uploads/2026/04/Chivas-vs.-Pumas-Gemini-AI.jpg",
+      "published": "2026-09-13T22:00:02+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bcac6e174c66b6",
+      "title": "Por qué recomiendan colgar una hoja de laurel en la puerta y para qué sirve",
+      "url": "https://www.merca20.com/por-que-recomiendan-colgar-una-hoja-de-laurel-en-la-puerta-y-para-que-sirve/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-recomiendan-colgar-una-hoja-de-laurel-en-la-puerta-y-para-que-sirve",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Colgar una hoja de laurel en la puerta se considera, dentro de algunos rituales populares, una forma simbólica de protección",
+      "image": "https://files.merca20.com/uploads/2026/09/colgar-una-hoja-de-laurel-en-la-puerta-Gemini-AI.jpg",
+      "published": "2026-09-13T20:44:04+00:00",
       "score": null,
       "tags": []
     },
@@ -425,6 +509,18 @@
       "tags": []
     },
     {
+      "id": "f1998e290dd41e",
+      "title": "México quiere abrirle camino al tequila en un país de 1,400 millones de personas",
+      "url": "https://www.altonivel.com.mx/mexico-quiere-abrirle-camino-al-tequila-en-un-pais-de-1400-millones-de-personas/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La CNIT busca que el tequila sea prioridad en un acuerdo comercial parcial entre México e India. La industria ve potencial para colocar a ese país entre sus 10 mayores mercados hacia 2030. The post México quiere abrirle …",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/05/tequila-mezcal-jpg.webp",
+      "published": "2026-09-13T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "f98a58acee86d3",
       "title": "El mundo se obsesionó con el chocolate Dubái. En realidad fue un anticipo de algo mayor: la \"pistachización\" de la alimentación",
       "url": "https://www.xataka.com/magnet/mundo-se-obsesiono-chocolate-dubai-realidad-fue-anticipo-algo-mayor-pistachizacion-alimentacion",
@@ -569,18 +665,6 @@
       "tags": []
     },
     {
-      "id": "f32b89487b478a",
-      "title": "Sam’s Club vuelve a regalar papel higiénico Member’s Mark Ultra Strong de 40 rollos, si cumples este requisito",
-      "url": "https://www.merca20.com/sams-club-papel-higienico-gratis-members-mark-cupon-papelgratis/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-papel-higienico-gratis-members-mark-cupon-papelgratis",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Sam’s Club regala papel higiénico Member’s Mark Ultra Strong de 40 rollos en México. Conoce la compra mínima, cupón PAPELGRATIS y vigencia.",
-      "image": "https://files.merca20.com/uploads/2026/09/Sams-Club-vuelve-a-regalar-papel-higienico-Members-Mark-Ultra-Strong-de-40-rollos-si-cumples-este-requisito-.jpg",
-      "published": "2026-09-13T09:16:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "53c47237a9fab0",
       "title": "The Witcher IV: diez novedades que están confirmadas",
       "url": "https://www.muycomputer.com/2026/09/13/the-witcher-iv-diez-cosas-que-estan-confirmadas/",
@@ -605,18 +689,6 @@
       "tags": []
     },
     {
-      "id": "f446e2782fe294",
-      "title": "Resultados Liga MX y tabla de posiciones: Cruz Azul vence al América; así va la Jornada 8 y quién puede ser líder",
-      "url": "https://www.merca20.com/resultados-liga-mx-y-tabla-de-posiciones-cruz-azul-vence-al-america-asi-va-la-jornada-8-y-quien-puede-ser-lider/?utm_source=rss&utm_medium=rss&utm_campaign=resultados-liga-mx-y-tabla-de-posiciones-cruz-azul-vence-al-america-asi-va-la-jornada-8-y-quien-puede-ser-lider",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Resultados Liga MX y tabla de posiciones del Apertura 2026: Cruz Azul venció 4-3 al América, Toluca tomó el liderato y Chivas puede superarlo.",
-      "image": "https://files.merca20.com/uploads/2026/09/Resultados-Liga-MX-y-tabla-de-posiciones-Cruz-Azul-vence-al-America-asi-va-la-Jornada-8-y-quien-puede-ser-lider-2.jpg",
-      "published": "2026-09-13T08:56:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2ccdd54d2ab5a0",
       "title": "La nueva IA de IBM y la NASA es de código abierto y promete revolucionar la exploración lunar",
       "url": "https://hipertextual.com/inteligencia-artificial/nasa-ibm-inteligencia-artificial-luna/",
@@ -625,42 +697,6 @@
       "summary": "La NASA e IBM han lanzado un nuevo modelo de inteligencia artificial que va a revolucionar el modo de explorar la Luna. El trabajo en conjunto entre la agencia especial estadounidense y la tecnológica ha arrojado como re…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/nasa-jlV2k_Fx0fc-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-13T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "889fa78ecc19fb",
-      "title": "Mientras Starbucks prepara su colección de Snoopy para Halloween, Costco ya tiene el Snoopy navideño en tiendas",
-      "url": "https://www.merca20.com/mientras-starbucks-prepara-su-coleccion-de-snoopy-para-halloween-costco-ya-tiene-el-snoopy-navideno-en-tiendas/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-starbucks-prepara-su-coleccion-de-snoopy-para-halloween-costco-ya-tiene-el-snoopy-navideno-en-tiendas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El producto pertenece a la categoría de decoración navideña de Costco y forma parte de la oferta de temporada de la cadena.",
-      "image": "https://files.merca20.com/uploads/2026/09/SNOOPY-COSTCO-STRABUCKS.jpg",
-      "published": "2026-09-13T07:46:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4cdc3a8eaf6048",
-      "title": "Soriana lanza folleto de Fiestas Patrias 2026 con descuentos de hasta 50%; estará vigente del 11 al 17 de septiembre",
-      "url": "https://www.merca20.com/soriana-lanza-folleto-de-fiestas-patrias-2026-con-descuentos-de-hasta-50-estara-vigente-del-11-al-17-de-septiembre/?utm_source=rss&utm_medium=rss&utm_campaign=soriana-lanza-folleto-de-fiestas-patrias-2026-con-descuentos-de-hasta-50-estara-vigente-del-11-al-17-de-septiembre",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Este 11 de septiembre, Soriana lanzó su nuevo folleto “En México Oferta Se Dice”, una campaña que se suma a las celebraciones de las Fiestas Patrias 2026 y que estará vigente hasta el jueves 17 de septiembre",
-      "image": "https://files.merca20.com/uploads/2026/09/soriana-fiestas-patrias-2026.jpg",
-      "published": "2026-09-13T07:22:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5bf50ad6ac6397",
-      "title": "Liquidación extrema en Walmart: carriola Joie de $4,500 termina en solo $800, incluye silla para auto y protector solar, resistente al agua",
-      "url": "https://www.merca20.com/liquidacion-extrema-en-walmart-carriola-joie-de-4500-termina-en-solo-800-incluye-silla-para-auto-y-protector-solar-resistente-al-agua/?utm_source=rss&utm_medium=rss&utm_campaign=liquidacion-extrema-en-walmart-carriola-joie-de-4500-termina-en-solo-800-incluye-silla-para-auto-y-protector-solar-resistente-al-agua",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Consumidora encuentra en Walmart una carriola Joie Muze LX que, según relata, costaba $4,500 y logra comprarla por solo $800; mostró el ticket.",
-      "image": "https://files.merca20.com/uploads/2026/09/Liquidacion-extrema-en-Walmart-carriola-Joie-de-4500-termina-en-solo-800-incluye-silla-para-auto-y-protector-solar-resistente-al-agua-.jpg",
-      "published": "2026-09-13T07:10:15+00:00",
       "score": null,
       "tags": []
     },
@@ -677,18 +713,6 @@
       "tags": []
     },
     {
-      "id": "3a386c9d09b28c",
-      "title": "Quién es quién en Mal de amores de Netflix: Estos personajes sí existieron en la Revolución Mexicana",
-      "url": "https://www.merca20.com/mal-de-amores-netflix-personajes-reales-revolucion-mexicana/?utm_source=rss&utm_medium=rss&utm_campaign=mal-de-amores-netflix-personajes-reales-revolucion-mexicana",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "¿Madero y Aquiles Serdán existieron realmente? Conoce quién es quién en Mal de amores de Netflix y qué personajes pertenecen a la historia de México.",
-      "image": "https://files.merca20.com/uploads/2026/09/Quien-es-quien-en-Mal-de-amores-de-Netflix-Estos-personajes-si-existieron-en-la-Revolucion-Mexicana-.jpg",
-      "published": "2026-09-13T07:00:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6126e6e3bb098d",
       "title": "9 usos prácticos del aprendizaje guiado de Gemini para aprender a hacer cualquier cosa",
       "url": "https://hipertextual.com/guias/ejemplos-usos-practicos-aprendizaje-guiado-gemini/",
@@ -697,18 +721,6 @@
       "summary": "Los asistentes de IA se han convertido en una inestimable ayuda para obtener respuestas a cualquier duda o inquietud que tengamos. Antes, lo que no sabías lo buscabas en Google o similares. Ahora, herramientas como ChatG…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Robot-Profesor-Pizarra-Clase-Tutor.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
       "published": "2026-09-13T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f3be40b2817fe9",
-      "title": "Freidora de aire Oster de 25 litros se remata en $807 en Walmart; tiene 5 formas de cocinar y recubrimiento antiadherente DiamondForce",
-      "url": "https://www.merca20.com/freidora-de-aire-oster-de-25-litros-se-remata-en-walmart-en-807-tiene-5-formas-de-cocinar-y-recubrimiento-antiadherente-diamondforce/?utm_source=rss&utm_medium=rss&utm_campaign=freidora-de-aire-oster-de-25-litros-se-remata-en-walmart-en-807-tiene-5-formas-de-cocinar-y-recubrimiento-antiadherente-diamondforce",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Consumidora encuentra en Walmart un horno con freidora de aire Oster de 25 litros por $807; costaba $2,690. Conoce modelo, código y características.",
-      "image": "https://files.merca20.com/uploads/2026/09/El-horno-con-freidora-de-aire-Oster-de-25-litros-aparecio-en-el-verificador-de-Walmart-por-807-frente-a-los-2690-mostrados-inicialmente.-Foto-Instagram-de-@paolairaisrc-y-@alexvlogstc-.jpg",
-      "published": "2026-09-13T06:30:52+00:00",
       "score": null,
       "tags": []
     },
@@ -733,6 +745,18 @@
       "summary": "México recibe una señal favorable de Washington, mientras Canadá enfrenta nuevos reclamos durante la revisión del acuerdo comercial.",
       "image": "https://cdn-3.expansion.mx/dims4/default/97d0040/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F2e%2F10c2df8d43eaaa38efff80c00747%2Fdonald-trump.jpg",
       "published": "2026-09-12T19:45:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0a9a59145526cc",
+      "title": "Dario Amodei, CEO de Anthropic, pide reducir la velocidad de la IA: ¿por qué cambió de opinión?",
+      "url": "https://www.altonivel.com.mx/dario-amodei-ceo-de-anthropic-pide-reducir-la-velocidad-de-la-ia-por-que-cambio-de-opinion/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Anthropic propone reducir el ritmo de avance de la IA para ganar tiempo y mejorar la seguridad, sin detener el desarrollo tecnológico. The post Dario Amodei, CEO de Anthropic, pide reducir la velocidad de la IA: ¿por qué…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/06/anthropic.webp",
+      "published": "2026-09-12T18:52:24+00:00",
       "score": null,
       "tags": []
     },
@@ -977,6 +1001,18 @@
       "tags": []
     },
     {
+      "id": "4479a4473f4915",
+      "title": "¿Puedes perder la herencia por no cuidar a tus padres? Esto quieren cambiar en CDMX",
+      "url": "https://www.altonivel.com.mx/puedes-perder-la-herencia-por-no-cuidar-a-tus-padres-esto-quieren-cambiar-en-cdmx/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Una propuesta en el Congreso capitalino busca crear un registro de personas que hayan abandonado a adultos mayores y excluirlas de futuras herencias. The post ¿Puedes perder la herencia por no cuidar a tus padres? Esto q…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/cuidar-a-tu-padres.webp",
+      "published": "2026-09-11T21:16:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "80d6908e62d2ca",
       "title": "¿Game Pass o contratar apps por separado? Hicimos la cuenta de cuánto te costará ver la NFL en vivo en México",
       "url": "https://expansion.mx/tendencias/2026/09/11/game-pass-apps-separado-cuanto-costara-ver-nfl-vivo-mexico",
@@ -985,6 +1021,54 @@
       "summary": "La NFL está de regreso, pero la forma de disfrutar del futbol americano en México ha cambiado. Estas son las opciones disponibles para los aficionados.",
       "image": "https://cdn-3.expansion.mx/dims4/default/ab98c73/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8c%2F8b%2Ff9e615844f8998e81aadc39a841e%2Fgame-pass-apps-donde-ver-nfl-2026-1.jpeg",
       "published": "2026-09-11T20:39:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f476237bcbb18d",
+      "title": "Dow Jones suma 509 puntos, pero cierra su peor caída semanal desde marzo",
+      "url": "https://www.altonivel.com.mx/dow-jones-suma-509-puntos-pero-cierra-su-peor-caida-semanal-desde-marzo/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El Nasdaq, Dow Jones y S&P 500 subieron este viernes tras el dato de inflación de Estados Unidos, aunque los tres índices terminaron la semana con pérdidas. The post Dow Jones suma 509 puntos, pero cierra su peor caída s…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/03/economia-global-y-dow-jones.webp",
+      "published": "2026-09-11T20:19:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7fa9fedea87931",
+      "title": "Vuelos, alojamiento y curso gratis en Madrid: esta convocatoria acepta mexicanos",
+      "url": "https://www.altonivel.com.mx/becas-mexicanos-2026-2027-santander-ie-university-ia-espana/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Mexicanos pueden postular a programas gratuitos de inteligencia artificial, emprendimiento y posgrado. Hay convocatorias con 2,000 plazas, viajes pagados a Madrid y becas que pueden cubrir hasta 100% de matrícula y manut…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/becas-mexicanos-2026-2027-santander-ie-university-ia-espana.webp",
+      "published": "2026-09-11T20:11:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c30869e4033a14",
+      "title": "Consejo Coordinador Empresarial advierte sobre la deuda de México y pide preservar el grado de inversión",
+      "url": "https://www.altonivel.com.mx/consejo-coordinador-empresarial-advierte-sobre-la-deuda-de-mexico-y-pide-preservar-el-grado-de-inversion/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Tras conocer el Paquete Económico 2027, el sector privado pidió mayor eficiencia del gasto, reglas fiscales claras y soluciones para las empresas del Estado. The post Consejo Coordinador Empresarial advierte sobre la deu…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/07/deuda-publica-de-mexico-crece.webp",
+      "published": "2026-09-11T20:07:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3abdb0fe64af49",
+      "title": "La Suprema Corte permite preparar alimentos con cannabis para autoconsumo",
+      "url": "https://www.altonivel.com.mx/la-suprema-corte-permite-preparar-alimentos-con-cannabis-para-autoconsumo/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La Suprema Corte determinó que las autorizaciones para autoconsumo de cannabis pueden incluir su preparación en alimentos, siempre que no se comercialicen. The post La Suprema Corte permite preparar alimentos con cannabi…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/alimentos-con-cannabis.webp",
+      "published": "2026-09-11T19:53:35+00:00",
       "score": null,
       "tags": []
     },
@@ -1001,6 +1085,54 @@
       "tags": []
     },
     {
+      "id": "9e0c9659b1374a",
+      "title": "¿Cómo se reinventa una marca de casi 100 años? Helados Holanda revela su estrategia",
+      "url": "https://www.altonivel.com.mx/helados-holanda-100-anos-adelma-gonzalez-magnum-ice-cream-company/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Adelma González Ríos explica cómo la marca busca combinar casi un siglo de historia con innovación, tecnología y nuevas ocasiones de consumo. The post ¿Cómo se reinventa una marca de casi 100 años? Helados Holanda revela…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/adelma-gonzalez-rios-helados-holanda.webp",
+      "published": "2026-09-11T19:35:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d8d5ad2ebc5396",
+      "title": "¿Por qué Trump y los inversionistas podrían ‘pegar el grito’ con la próxima reunión de la Fed?",
+      "url": "https://www.altonivel.com.mx/por-que-trump-y-los-inversionistas-podrian-pegar-el-grito-con-la-proxima-reunion-de-la-fed/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El mercado elevó hasta alrededor de 85% la probabilidad de un alza de tasas de la Fed el 16 de septiembre, en contra de la preferencia de Donald Trump por un dinero más barato. The post ¿Por qué Trump y los inversionista…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/reunion-de-la-fed.webp",
+      "published": "2026-09-11T19:12:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ebb2d1f4255224",
+      "title": "Nace primer lince rojo en Chapultepec: esto sabemos del ‘bebé’ que marca un hito",
+      "url": "https://www.altonivel.com.mx/nace-primer-lince-rojo-en-chapultepec-cdmx-primera-vez-cria-cachorro-bebe-hito/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "¡Un nuevo habitante llegó a Chapultepec! Se trata de una cría de lince rojo, cuyo nacimiento marca un hito en la conservación de esta especie nativa de la CDMX. The post Nace primer lince rojo en Chapultepec: esto sabemo…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/nace-primer-lince-rojo-en-chapultepec-cdmx-primera-vez-cria-cachorro-bebe.webp",
+      "published": "2026-09-11T19:00:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3cd8e0d6ada62f",
+      "title": "Nu ya llegó a Estados Unidos y México está entre sus primeros destinos para enviar dinero",
+      "url": "https://www.altonivel.com.mx/nu-ya-llego-a-estados-unidos-y-mexico-esta-entre-sus-primeros-destinos-para-enviar-dinero/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Nu inició operaciones en Estados Unidos y presentó una cuenta multidivisa que permitirá a sus clientes enviar dinero a países como México, Brasil y Colombia. The post Nu ya llegó a Estados Unidos y México está entre sus …",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/nu-estados-unidos.webp",
+      "published": "2026-09-11T18:41:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "d2878c2ea8e601",
       "title": "Mythos 5 ya está en manos de ENISA, aunque Anthropic ya va por Mythos 5.1",
       "url": "https://www.muycomputer.com/2026/09/11/mythos-5-ya-esta-en-manos-de-enisa-aunque-anthropic-ya-va-por-mythos-5-1/",
@@ -1009,6 +1141,18 @@
       "summary": "Mythos 5 ya está siendo probado por ENISA, la agencia de ciberseguridad de la Unión Europea, después de varios meses de negociaciones con Anthropic. La noticia es importante porque permite a una institución europea evalu…",
       "image": null,
       "published": "2026-09-11T17:45:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "259dff66dc8bff",
+      "title": "25 años después del 11-S, ¿qué mundo nos dejó aquel día?",
+      "url": "https://www.altonivel.com.mx/25-anos-despues-del-11-s-que-mundo-nos-dejo-aquel-dia/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El 11-S transformó la seguridad, la guerra, la vigilancia y la relación entre ciudadanos y Estado. Quienes éramos niños entonces crecimos dentro de esas consecuencias. The post 25 años después del 11-S, ¿qué mundo nos de…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/9-11-s.webp",
+      "published": "2026-09-11T16:47:36+00:00",
       "score": null,
       "tags": []
     },
@@ -1045,6 +1189,18 @@
       "summary": "La confianza dejó de ser un concepto abstracto para las organizaciones. Hoy es un activo que se puede medir, y que pesa directamente en si un cliente elige quedarse, si un profesional quiere trabajar ahí, o si el negocio…",
       "image": null,
       "published": "2026-09-11T16:05:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5ecedfd3f6cd1c",
+      "title": "Inflación en Estados Unidos se mantiene en 3.4%: el 87% del mercado apuesta por un alza de tasas",
+      "url": "https://www.altonivel.com.mx/inflacion-en-estados-unidos-se-mantiene-en-3-4-el-87-del-mercado-apuesta-por-un-alza-de-tasas/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La inflación de Estados Unidos se mantuvo en 3.4% en agosto, mientras el mercado asigna 87% de probabilidad a un alza de 25 puntos base de la Fed la próxima semana. The post Inflación en Estados Unidos se mantiene en 3.4…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/07/inflacion-pce.webp",
+      "published": "2026-09-11T15:12:16+00:00",
       "score": null,
       "tags": []
     },
@@ -1189,6 +1345,30 @@
       "summary": "La Terapia de Aceptación y Compromiso puede mejorar la calidad de vida y reducir los síntomas de ansiedad y depresión en personas con enfermedades terminales. Estos beneficios pueden mantenerse entre uno y nueve meses de…",
       "image": null,
       "published": "2026-09-11T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "549cf6eb7a053d",
+      "title": "Diversidad en las empresas: el costo de ocultar el talento LGBTQ",
+      "url": "https://www.altonivel.com.mx/diversidad-en-las-empresas-el-costo-de-ocultar-el-talento-lgbtq/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La diversidad en los puestos directivos no solo plantea una cuestión de inclusión: también puede incidir en el talento, la innovación y los resultados empresariales. The post Diversidad en las empresas: el costo de ocult…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/diversidad-lgbt.webp",
+      "published": "2026-09-11T02:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d7f572fe497351",
+      "title": "Australia quiere atraer más mexicanos a sus universidades: estos son los perfiles que busca",
+      "url": "https://www.altonivel.com.mx/australia-quiere-atraer-mas-mexicanos-a-sus-universidades-estos-son-los-perfiles-que-busca/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "En entrevista con ALTO NIVEL, el embajador de Australia en México, Crispin Conroy, explica la estrategia para atraer más estudiantes y talento mexicano hacia sectores como IA, ciencia de datos e ingeniería. The post Aust…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/mexico-australia.webp",
+      "published": "2026-09-10T22:39:33+00:00",
       "score": null,
       "tags": []
     },

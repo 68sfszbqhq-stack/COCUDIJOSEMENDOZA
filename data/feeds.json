@@ -1,21 +1,9 @@
 {
   "meta": {
-    "generated": "2026-09-16T20:57:01.784102+00:00",
+    "generated": "2026-09-17T03:44:46.923117+00:00",
     "total": 197
   },
   "items": [
-    {
-      "id": "e636db7bb1ad19",
-      "title": "¿Qué está pasando con la IA? Elon Musk y Sam Altman apoyan a Dario Amodei, CEO de Anthropic, para frenar su desarrollo",
-      "url": "https://spanish.entrepreneur.com/noticias/que-esta-pasando-con-la-ia-elon-musk-y-sam-altman-apoyan-a-dario-amodei-ceo-de-anthropic-para-frenar-su-desarrollo",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Varios de los grandes líderes de inteligencia artificial coinciden en que es necesario ralentizar su desarrollo para garantizar la seguridad. The post ¿Qué está pasando con la IA? Elon Musk y Sam Altman apoyan a Dario Am…",
-      "image": null,
-      "published": "2026-09-16T20:57:00.078738+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "3e0e421f19971a",
       "title": "La guerra de los perks: ¿las empresas están gastando millones en beneficios que no funcionan?",
@@ -24,7 +12,7 @@
       "category": "startup",
       "summary": "¿Realmente funcionan los costosos beneficios laborales? Todavía se debate si los “perks” de las empresas mejoran el bienestar y la productividad o si solo son una estrategia de marketing sin impacto real. The post La gue…",
       "image": null,
-      "published": "2026-09-16T20:57:00.078467+00:00",
+      "published": "2026-09-17T03:44:45.531814+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +24,7 @@
       "category": "startup",
       "summary": "En una época en la que muchos emprendedores alcanzan el éxito financiero sin encontrar verdadera satisfacción, el propósito personal se ha convertido en una pieza clave del liderazgo moderno. The post He trabajado con de…",
       "image": null,
-      "published": "2026-09-16T20:57:00.078186+00:00",
+      "published": "2026-09-17T03:44:45.531347+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +36,7 @@
       "category": "startup",
       "summary": "El síndrome del impostor hace que incluso los emprendedores más exitosos duden de sí mismos, cuestionen sus habilidades y teman ser \"descubiertos\". Pero superarlo comienza con estas estrategias prácticas que todo emprend…",
       "image": null,
-      "published": "2026-09-16T20:57:00.077853+00:00",
+      "published": "2026-09-17T03:44:45.530855+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +48,7 @@
       "category": "startup",
       "summary": "Hoy todo mundo quiere digitalizar y automatizar, pero ¿qué pasaría si la clave estuviera en encender la parte espiritual de una empresa? The post ¿Tu empresa necesita estrategia o necesita que te enciendas? appeared firs…",
       "image": null,
-      "published": "2026-09-16T20:57:00.077560+00:00",
+      "published": "2026-09-17T03:44:45.530390+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +60,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial ya no se queda en la pantalla: robots, drones y vehículos autónomos empiezan a moverse por fábricas, calles y edificios. The post La IA está cambiando el trabajo de los robots y las industrias …",
       "image": null,
-      "published": "2026-09-16T20:57:00.076257+00:00",
+      "published": "2026-09-17T03:44:45.529871+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +72,7 @@
       "category": "startup",
       "summary": "A lo largo de los años he revisado miles de currículums impresionantes, pero una de las lecciones más importantes que he aprendido es que la inteligencia sin inteligencia emocional puede ser perjudicial para tu equipo y …",
       "image": null,
-      "published": "2026-09-16T20:57:00.075957+00:00",
+      "published": "2026-09-17T03:44:45.528446+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +84,7 @@
       "category": "startup",
       "summary": "Priorizar el equilibrio entre el trabajo y la vida personal no solo es bueno para tu salud mental, sino también para el crecimiento a largo plazo. The post No tienes que renunciar a tus ambiciones profesionales por tu vi…",
       "image": null,
-      "published": "2026-09-16T20:57:00.075649+00:00",
+      "published": "2026-09-17T03:44:45.527916+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +96,7 @@
       "category": "startup",
       "summary": "La productividad individual no se traduce automáticamente en productividad organizacional: solo se convierte en ventaja competitiva cuando el conocimiento que genera una persona se documenta, se comparte y modifica la fo…",
       "image": null,
-      "published": "2026-09-16T20:57:00.075356+00:00",
+      "published": "2026-09-17T03:44:45.527444+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +108,271 @@
       "category": "startup",
       "summary": "Muchas veces nos enfocamos en la oratoria y las habilidades interpersonales, pero ¿qué hay del poder de la palabra escrita en el liderazgo? Aquí te explicamos por qué dominar esta habilidad subestimada es un gran diferen…",
       "image": null,
-      "published": "2026-09-16T20:57:00.075013+00:00",
+      "published": "2026-09-17T03:44:45.526957+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6d3ed13d96090e",
+      "title": "Por qué las mejores ideas de negocio vienen de quienes no estás escuchando",
+      "url": "https://spanish.entrepreneur.com/emprendedores/por-que-las-mejores-ideas-de-negocio-vienen-de-quienes-no-estas-escuchando",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "La innovación no surge de llenar la sala de juntas de expertos, sino de escuchar a quienes no estás tomando en cuenta. The post Por qué las mejores ideas de negocio vienen de quienes no estás escuchando appeared first on…",
+      "image": null,
+      "published": "2026-09-17T03:44:45.526421+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "082db5212cc41d",
+      "title": "Batman Day 2026: ¿Cuáles son todas las películas que existen de Batman?",
+      "url": "https://www.merca20.com/batman-day-2026-cuales-son-todas-las-peliculas-que-existen-de-batman/?utm_source=rss&utm_medium=rss&utm_campaign=batman-day-2026-cuales-son-todas-las-peliculas-que-existen-de-batman",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Todo lo que tienes que saber el Batman Day y cuándo se va a festejar durante 2025 en México así como las películas del Caballero de la noche",
+      "image": "https://files.merca20.com/uploads/2025/09/Batman.jpg",
+      "published": "2026-09-17T03:13:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "819786e19643bd",
+      "title": "SpaceX llega a la BMV y lleva su marca al mercado mexicano",
+      "url": "https://www.merca20.com/spacex-llega-a-la-bmv-y-lleva-su-marca-al-mercado-mexicano/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-llega-a-la-bmv-y-lleva-su-marca-al-mercado-mexicano",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "SpaceX llegó a la Bolsa Mexicana de Valores (BMV) y amplió la presencia de su negocio aeroespacial en el mercado mexicano",
+      "image": "https://files.merca20.com/uploads/2026/09/spacex-bolsa-mexicana-valores.jpg",
+      "published": "2026-09-17T03:12:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "95356c6a245cb0",
+      "title": "Suspenden clases jueves 17 y viernes 18 de septiembre en escuelas SEP, quiénes regresan hasta el lunes 21",
+      "url": "https://www.merca20.com/suspenden-clases-jueves-17-y-viernes-18-de-septiembre-en-escuelas-sep-quienes-regresan-hasta-el-lunes-21/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-clases-jueves-17-y-viernes-18-de-septiembre-en-escuelas-sep-quienes-regresan-hasta-el-lunes-21",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Consulta si hay clases este jueves 17 de septiembre de 2026 en CDMX y otros estados. La SEP marca regreso general, aunque ya hay excepciones.",
+      "image": "https://files.merca20.com/uploads/2026/09/Suspenden-clases-jueves-17-y-viernes-18-de-septiembre-en-escuelas-SEP-asi-queda-el-calendario-en-Mexico-.jpg",
+      "published": "2026-09-17T03:11:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "51fd62891fc2cd",
+      "title": "¿Cuándo es el Batman Day 2026 y por qué se celebra en esa fecha?",
+      "url": "https://www.merca20.com/cuando-es-el-batman-day-2026-y-por-que-se-celebra-en-esa-fecha/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-es-el-batman-day-2026-y-por-que-se-celebra-en-esa-fecha",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Todo lo que debes saber sobre cuándo se celebra el Batman Day en México y un poco acerca de la historia del personaje más popular",
+      "image": "https://files.merca20.com/uploads/2025/09/Batman-HBO-Max.jpg",
+      "published": "2026-09-17T03:10:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "125247c4f2b219",
+      "title": "La mejor película de Timburton regresa a las salas de cine de México previo al Día de muertos 2026",
+      "url": "https://www.merca20.com/la-mejor-pelicula-de-timburton-regresa-a-las-salas-de-cine-de-mexico-previo-al-dia-de-muertos-2026/?utm_source=rss&utm_medium=rss&utm_campaign=la-mejor-pelicula-de-timburton-regresa-a-las-salas-de-cine-de-mexico-previo-al-dia-de-muertos-2026",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Te contamos todo lo que debes saber sobre el reestreno del El Cadáver de la novia",
+      "image": "https://files.merca20.com/uploads/2025/10/El-Cadaver-de-la-novia.jpg",
+      "published": "2026-09-17T03:07:51+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3f1533342d4b34",
+      "title": "Coraline y la puerta secreta regresa las salas de cine: Qué días y en que cine estará disponible",
+      "url": "https://www.merca20.com/coraline-y-la-puerta-secreta-regresa-las-salas-de-cine-que-dias-y-en-que-cine-estara-disponible/?utm_source=rss&utm_medium=rss&utm_campaign=coraline-y-la-puerta-secreta-regresa-las-salas-de-cine-que-dias-y-en-que-cine-estara-disponible",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Coraline y la puerta secreta esta siendo un éxito en taquilla a pesar de tener más de 15 años de haber salido en los cines",
+      "image": "https://files.merca20.com/uploads/2026/09/Coraline-laika.jpg",
+      "published": "2026-09-17T03:05:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6c4106a255ce9e",
+      "title": "Coca-Cola sorprende con una lata de Luis Miguel por sus 100 años en México; así luce",
+      "url": "https://www.merca20.com/coca-cola-sorprende-con-una-lata-de-luis-miguel-por-sus-100-anos-en-mexico-asi-luce/?utm_source=rss&utm_medium=rss&utm_campaign=coca-cola-sorprende-con-una-lata-de-luis-miguel-por-sus-100-anos-en-mexico-asi-luce",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La colaboración entre Coca-Cola y Luis Miguel vuelve a poner la nostalgia en el centro de una estrategia de marketing que conecta distintas generaciones de consumidores.",
+      "image": "https://files.merca20.com/uploads/2026/07/coca-cola-luis-miguel.jpg",
+      "published": "2026-09-17T00:35:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f23c28b4728eff",
+      "title": "Evolución de Juguetes Mi Alegría, del Juego de Química a su collab con Hello Kitty y robots solares",
+      "url": "https://www.merca20.com/evolucion-de-juguetes-mi-alegria-del-juego-de-quimica-a-su-collab-con-hello-kitty-y-robots-solares/?utm_source=rss&utm_medium=rss&utm_campaign=evolucion-de-juguetes-mi-alegria-del-juego-de-quimica-a-su-collab-con-hello-kitty-y-robots-solares",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Qué pasó con Juguetes Mi Alegría? La histórica marca mexicana pasó del Juego de Química y el Hornito a Hello Kitty y robots solares.",
+      "image": "https://files.merca20.com/uploads/2026/09/Evolucion-de-Juguetes-Mi-Alegria-del-Juego-de-Quimica-a-su-collab-con-Hello-Kitty-y-robots-solares-.jpg",
+      "published": "2026-09-17T00:05:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d50aeb2e4f952f",
+      "title": "PepsiCo mueve su cuenta global de medios de Omnicom a Publicis tras 25 años de relación",
+      "url": "https://expansion.mx/mercadotecnia/2026/09/16/pepsico-cambia-agencia-medios-publicis-omnicom",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Publicis asumirá la operación global de medios de PepsiCo, mientras Omnicom conservará proyectos creativos, deportivos y de relaciones públicas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2f6db11/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4f%2F49%2F35aa926e4c7795e76875cbc33d8b%2Fpepsico-cambia-agencia-medios-publicis.jpg",
+      "published": "2026-09-17T00:04:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "95195b89ad24da",
+      "title": "Murió Vicente López Rodea, presidente de La Costeña y referente de la industria de conservas en México",
+      "url": "https://expansion.mx/empresas/2026/09/16/muere-vicente-lopez-rodea-presidente-la-costena",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El empresario encabezaba el consejo del grupo alimentario fundado por su padre en 1923 y ocupó un lugar entre los 100 empresarios más importantes de México.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/88baf78/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5f%2Fdd%2F9ab104d64e78862bfc9095a8a50a%2Fvicente-lopez-rodea-presidente-la-costena.jpg",
+      "published": "2026-09-16T23:52:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "508b3ed92ec224",
+      "title": "Así usa el retail la inteligencia artificial para analizar el comportamiento de sus clientes",
+      "url": "https://ilifebelt.com/asi-usa-el-retail-la-inteligencia-artificial-para-analizar-el-comportamiento-de-sus-clientes/2026/09/",
+      "source": "iLifebelt",
+      "category": "startup",
+      "summary": "Las cámaras instaladas en las tiendas están dejando de utilizarse únicamente para vigilar instalaciones o registrar incidentes. La analítica de video y la inteligencia artificial permiten obtener información sobre el flu…",
+      "image": null,
+      "published": "2026-09-16T22:50:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "69709111d534db",
+      "title": "¿Faltan terapeutas varones?",
+      "url": "https://www.psyciencia.com/que-pasara-cuando-no-hayan-terapeutas-varones/",
+      "source": "Psyciencia",
+      "category": "psicologia",
+      "summary": "Leí recientemente un reportaje de Pamela Paul para The Wall Street Journal que argumenta que la psicología se ha convertido en una profesión dominada por mujeres y su impacto en…",
+      "image": null,
+      "published": "2026-09-16T22:32:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1a26785f08dfa9",
+      "title": "Cannes Lions prepara un cambio que llevará su modelo mucho más allá de Francia",
+      "url": "https://www.merca20.com/expansion-global-lions-cannes-lions/?utm_source=rss&utm_medium=rss&utm_campaign=expansion-global-lions-cannes-lions",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La organización de los premios más famosos de la industria presentó una transformación internacional que comenzará en 2026 y sumará nuevos nombres, ciudades y formatos a su ecosistema global. Qué pasará con Cannes Lions …",
+      "image": "https://files.merca20.com/uploads/2026/09/bigstock-Closed-Up-Of-Gold-Cannes-Lion-287615317.jpg",
+      "published": "2026-09-16T22:21:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0191db2aed2776",
+      "title": "Fiestas Patrias 2026: prevén derrama de 39,600 millones de pesos en septiembre; estos negocios concentran el gasto",
+      "url": "https://www.merca20.com/fiestas-patrias-2026-derrama-economica-septiembre-concanaco/?utm_source=rss&utm_medium=rss&utm_campaign=fiestas-patrias-2026-derrama-economica-septiembre-concanaco",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Concanaco estima una derrama de 39,600 millones de pesos durante septiembre de este 2026. Conoce qué negocios reciben el gasto de las Fiestas Patrias.",
+      "image": "https://files.merca20.com/uploads/2026/09/Fiestas-Patrias-2026-preven-derrama-de-39600-millones-de-pesos-en-septiembre-estos-negocios-concentran-el-gasto-.jpg",
+      "published": "2026-09-16T22:13:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7d003b22856883",
+      "title": "Chocó y temblor: La ciencia detrás del enjambre sísmico en Colombia",
+      "url": "https://www.fayerwayer.com/ciencia/2026/09/16/choco-y-temblor-la-ciencia-detras-del-enjambre-sismico-en-colombia/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Tras el terremoto de magnitud 7,4 y la serie de temblores en Istmina, el Servicio Geológico Colombiano explica por qué liberar energía no evita un gran...",
+      "image": "https://www.fayerwayer.com/resizer/v2/XSHCRTNREFD4RFAZQXXGBYM24I.jpg?auth=40d082fd2d5a0e820b7a28c56eb81464cbd10d62397613ecb84c764278786f40&smart=true&width=1920&height=1280",
+      "published": "2026-09-16T22:02:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9e574df9716481",
+      "title": "La UE propone prohibir las redes sociales a menores de 13 años y multar a las plataformas",
+      "url": "https://expansion.mx/mundo/2026/09/16/ue-prohibe-redes-sociales-menores-13",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El plan permitiría cuentas supervisadas entre los 13 y 14 años y también alcanzaría a plataformas de video, chatbots de IA y juegos en línea.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b946682/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0a%2F1b%2F0b45bc174a7ab21bedb3f874c47f%2Funion-europea-redes-sociales-menores-ursula-von-der-leyen.jpg%20.jpg",
+      "published": "2026-09-16T21:54:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "513042979ba681",
+      "title": "Premios Emmy: “Entregamos los Emmy a seres humanos, no a algo creado por una máquina”",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/09/16/premios-emmy-entregamos-los-emmy-a-seres-humanos-no-a-algo-creado-por-una-maquina/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Cris Abrego y Maury McIntyre, líderes de la Academia de la Televisión, abordaron la actualización de las reglas sobre IA.",
+      "image": "https://www.fayerwayer.com/resizer/v2/6HBTHKYEABH5RHYT2QOGCQPNKM.jpg?auth=0c240df2a9abe3425d8ddbac21f63472076b373e4e479d55cc25913d023d3926&smart=true&width=2500&height=1661",
+      "published": "2026-09-16T21:53:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1fd98622bda65b",
+      "title": "¿Revive el Xserve? Apple volvería a fabricar servidores para aprovechar el furor por la IA",
+      "url": "https://hipertextual.com/apple/xserve-apple-podria-volver-a-fabricar-servidores-ia/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Apple podría volver a fabricar servidores para terceros, aprovechando el furor por la inteligencia artificial generativa. Según reporta The Information, los de Cupertino verían con buenos ojos la posibilidad de regresar …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Xserve-2.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-16T21:49:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c46b61896dced5",
+      "title": "Climatización: Cómo responder con tecnología a las temperaturas extremas en LatAm",
+      "url": "https://www.fayerwayer.com/internet/2026/09/16/climatizacion-como-responder-con-tecnologia-a-las-temperaturas-extremas-en-latam/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Frente al récord de calor registrado en España y el impacto térmico en Latinoamérica —incluyendo las heladas en México—, analizamos soluciones tecnológicas",
+      "image": "https://www.fayerwayer.com/resizer/v2/RJTVFUC42JF6NND7IKKDPK6KTY.png?auth=14309e36916ec90594e09b9fce9590ebc9e241565aaeec54e24c6c66db7b92e7&smart=true&width=1726&height=1288",
+      "published": "2026-09-16T21:42:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fb9a351cb1d655",
+      "title": "Dow Jones pierde 631 puntos tras decisión de la Fed; S&P 500 baja 0.45%",
+      "url": "https://www.altonivel.com.mx/dow-jones-pierde-631-puntos-tras-decision-de-la-fed-sp-500-baja-0-45/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Wall Street cerró con pérdidas después de que la Fed elevó las tasas por primera vez desde 2023 y dejó abierta la posibilidad de otro aumento este año. The post Dow Jones pierde 631 puntos tras decisión de la Fed; S&P 50…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/05/index-dow-jones.webp",
+      "published": "2026-09-16T21:06:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c446e1f130a105",
+      "title": "\"Perdí 'Terminator' ese día\": por qué Edward Furlong no volvió a ser John Connor en la tercera película",
+      "url": "https://www.xataka.com/cine-y-tv/perdi-terminator-ese-dia-que-edward-furlong-no-volvio-a-ser-john-connor-tercera-pelicula",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 1991, James Cameron eligió a Edward Furlong para dar vida a un papel mítico: el de John Connor en ' Terminator 2: El juicio final '. Doce años después llegaba la tercera entrega de la saga, pero el actor no repitió y …",
+      "image": "https://i.blogs.es/29e0c8/image-2-/1024_2000.jpeg",
+      "published": "2026-09-16T21:00:12+00:00",
       "score": null,
       "tags": []
     },
@@ -133,6 +385,18 @@
       "summary": "OpenAI describe sus anuncios como una herramienta para llegar a consumidores mientras exploran, comparan y toman decisiones dentro de una misma experiencia conversacional.",
       "image": "https://files.merca20.com/uploads/2026/04/CHATGPT-IMAGES-20.jpg",
       "published": "2026-09-16T20:20:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b0700d8ef1463c",
+      "title": "Empresas de EU pactan proyectos de petróleo y oro en Venezuela con apoyo de Donald Trump",
+      "url": "https://expansion.mx/mundo/2026/09/16/empresas-eu-petroleo-oro-venezuela-trump",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Continental Resources negocia operar un bloque con 30,000 millones de barriles, mientras Heeney Capital obtiene derechos sobre una mina de oro.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ca2ec77/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F77%2Fa7%2Fa249fe98488f9b87714cdbc53ea1%2Fcontinental-resources-pdvsa-petroleo-venezuela.jpg",
+      "published": "2026-09-16T20:04:09+00:00",
       "score": null,
       "tags": []
     },
@@ -193,6 +457,18 @@
       "summary": "Tras este 16 de septiembre, a 2026 solo le quedan dos descansos obligatorios en México. Revisa cuándo caen y planea tus vacaciones de fin de año.",
       "image": "https://files.merca20.com/uploads/2026/09/16-de-septiembre-y-que-otros-dias-festivos-que-le-quedan-al-2026-la-idea-es-para-que-vayas-planeando-tu-cierre-de-ano-ok.jpg",
       "published": "2026-09-16T19:19:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a047d6bf0b39d0",
+      "title": "La Fed sube la tasa de interés hasta el 4% ante presiones inflacionarias y anticipa más aumentos",
+      "url": "https://expansion.mx/economia/2026/09/16/fed-sube-tasas-interes-2026-inflacion",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Luego de más de tres años, la Reserva Federal subió su tasa a un rango de 3.75% a 4% por unanimidad, a fin de frenar la inflación y llevarla a su objetivo del 2%.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ea58012/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9b%2F40%2Fb0c1c02c4a368d69d9905aa218c7%2Ffed-sube-tasa-interes-kevin-warsh.jpg",
+      "published": "2026-09-16T19:16:29+00:00",
       "score": null,
       "tags": []
     },
@@ -269,6 +545,30 @@
       "tags": []
     },
     {
+      "id": "339988cbc51f89",
+      "title": "McDonald’s agotó 453,000 menús de BTS y ahora apuesta por los fans de One Piece y KPop Demon Hunters",
+      "url": "https://expansion.mx/mercadotecnia/2026/09/16/mcdonalds-fandoms-bts-one-piece-kpop-demon-hunters",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La cadena está combinando menús temáticos, coleccionables y contenido exclusivo para convertir a las comunidades del entretenimiento en tráfico y ventas.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/fe098e8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2a%2F8e%2F6161bac24564be8eb9aeaacacd7d%2Fmcdonalds-kpop-demon-hunters-menu-huntrix.jpg",
+      "published": "2026-09-16T18:07:57+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ba7d5c426b54cc",
+      "title": "Anker soundcore Liberty 5 Pro Max: ¿vale la pena tener una pantalla en el estuche de tus audífonos?",
+      "url": "https://expansion.mx/tecnologia/2026/09/16/anker-soundcore-liberty-5-pro-max-review",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los Anker Soundcore Liberty 5 Pro Max combinan cancelación de ruido, audio espacial y un estuche con pantalla que permite controlar funciones sin sacar el celular.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/f7460b1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6b%2F03%2F695242824123bcf1a350748afb0e%2Fwhatsapp-image-2026-09-15-at-2.39.34%20PM.jpeg",
+      "published": "2026-09-16T18:01:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "a6e75201290c1b",
       "title": "La última moda para ligar es dejar de ducharse. La ciencia tiene malas noticias para sus defensores",
       "url": "https://www.xataka.com/medicina-y-salud/ultima-moda-para-ligar-dejar-ducharse-ciencia-tiene-malas-noticias-para-sus-defensores",
@@ -277,18 +577,6 @@
       "summary": "Las redes sociales siempre traen algo que no dejan de sorprendernos, y lo último está puesto en la higiene personal y en su interferencia a la hora de ligar con otras personas. Esto es lo que se llama \"pheromone maxxing\"…",
       "image": "https://i.blogs.es/11544d/ligar-/1024_2000.jpeg",
       "published": "2026-09-16T18:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "220c85379a7c8f",
-      "title": "National Cheeseburger Day: Where to find the best food deals",
-      "url": "https://www.merca20.com/national-cheeseburger-day-where-to-find-the-best-food-deals/?utm_source=rss&utm_medium=rss&utm_campaign=national-cheeseburger-day-where-to-find-the-best-food-deals",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "National Cheeseburger Day 2026 will bring special deals from several restaurant chains, including free burgers and discounts",
-      "image": "https://files.merca20.com/uploads/2026/09/National-Cheeseburger-Day-Gemini-AI.jpg",
-      "published": "2026-09-16T18:00:10+00:00",
       "score": null,
       "tags": []
     },
@@ -329,18 +617,6 @@
       "tags": []
     },
     {
-      "id": "29b27df06d62a4",
-      "title": "La estrategia de OpenAI revela qué espera una empresa de IA de sus socios creativos",
-      "url": "https://www.merca20.com/la-estrategia-de-openai-revela-que-espera-una-empresa-de-ia-de-sus-socios-creativos/?utm_source=rss&utm_medium=rss&utm_campaign=la-estrategia-de-openai-revela-que-espera-una-empresa-de-ia-de-sus-socios-creativos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La estructura revela un cambio importante para la industria, donde el socio creativo deja de ser únicamente quien desarrolla una campaña y empieza a participar en un sistema donde contexto, intención, creatividad y medic…",
-      "image": "https://files.merca20.com/uploads/2026/05/bigstock-Illustrative-Editorial-Of-Open-471726905-3-scaled.jpg",
-      "published": "2026-09-16T17:41:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "280a205345251c",
       "title": "Este piso de Ibiza se vende a mitad de precio, pero hay un problema: nadie puede entrar a verlo",
       "url": "https://www.xataka.com/magnet/este-piso-ibiza-se-vende-a-mitad-precio-hay-problema-nadie-puede-entrar-a-verlo",
@@ -349,18 +625,6 @@
       "summary": "¿Cómo se venden los pisos ocupados y qué riesgo asume quien los compra? Hay quien cree que adquirirlos es como intentar comprar una casa encantada, solo que el fantasma tiene DNI, no paga ni la hipoteca ni la comunidad. …",
       "image": "https://i.blogs.es/1dfdb8/captura-de-pantalla-2026-09-16-a-las-12.37.00/1024_2000.jpeg",
       "published": "2026-09-16T17:30:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0255f12d398188",
-      "title": "Nadia Comaneci, gimnasta olímpica: “Cuando alguien me decía que las niñas no podían hacer algo, no lo entendía como un límite, sino como un impulso”",
-      "url": "https://www.merca20.com/nadia-comaneci-gimnasta-olimpica-cuando-alguien-me-decia-que-las-ninas-no-podian-hacer-algo-no-lo-entendia-como-un-limite-sino-como-un-impulso/?utm_source=rss&utm_medium=rss&utm_campaign=nadia-comaneci-gimnasta-olimpica-cuando-alguien-me-decia-que-las-ninas-no-podian-hacer-algo-no-lo-entendia-como-un-limite-sino-como-un-impulso",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Nadia Comaneci tenía 14 años cuando compitió en barras asimétricas durante los Juegos Olímpicos de Montreal.",
-      "image": "https://files.merca20.com/uploads/2026/09/NADIA-COMANECI_GEMINI.jpg",
-      "published": "2026-09-16T17:13:39+00:00",
       "score": null,
       "tags": []
     },
@@ -377,18 +641,6 @@
       "tags": []
     },
     {
-      "id": "7417e133222137",
-      "title": "Muñeco Mystery Action de KPop Demon Hunters: Cuánto cuesta y dónde comprar la figura de Saja Boys",
-      "url": "https://www.merca20.com/muneco-mystery-action-de-kpop-demon-hunters-cuanto-cuesta-y-donde-comprar-la-figura-de-saja-boys/?utm_source=rss&utm_medium=rss&utm_campaign=muneco-mystery-action-de-kpop-demon-hunters-cuanto-cuesta-y-donde-comprar-la-figura-de-saja-boys",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Mystery, uno de los integrantes de Saja Boys, llega en una figura de acción que recrea su característico estilo “Soda Pop”",
-      "image": "https://files.merca20.com/uploads/2026/09/Mystery-Action-KPop-Demon-Hunters-2.jpg",
-      "published": "2026-09-16T17:00:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "72d21799b7d258",
       "title": "El diésel se ha vuelto a disparar en todo el mundo aunque el crudo no esté en máximos: la clave está en las refinerías",
       "url": "https://www.xataka.com/movilidad/diesel-se-ha-vuelto-a-disparar-todo-mundo-crudo-no-este-maximos-clave-esta-refinerias",
@@ -401,14 +653,14 @@
       "tags": []
     },
     {
-      "id": "c2eed6437015b3",
-      "title": "Samsung lanza One UI 9: la estrategia de IA que llevará nuevas funciones a más Galaxy",
-      "url": "https://www.merca20.com/samsung-lanza-one-ui-9-la-estrategia-de-ia-que-llevara-nuevas-funciones-a-mas-galaxy/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-lanza-one-ui-9-la-estrategia-de-ia-que-llevara-nuevas-funciones-a-mas-galaxy",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Samsung comenzó el despliegue oficial de One UI 9, una actualización con la que la compañía busca llevar Galaxy AI a más dispositivos",
-      "image": "https://files.merca20.com/uploads/2026/09/samsung-one-9.jpg",
-      "published": "2026-09-16T16:53:58+00:00",
+      "id": "15025cac89ffba",
+      "title": "Demócratas del Senado frenan la ley de criptomonedas por las inversiones de Trump en el sector",
+      "url": "https://www.altonivel.com.mx/democratas-del-senado-frenan-la-ley-de-criptomonedas-por-las-inversiones-de-trump-en-el-sector/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El Senado de Estados Unidos rechazó avanzar con la Ley de Claridad, luego de que demócratas cuestionaran posibles conflictos de interés relacionados con Trump. The post Demócratas del Senado frenan la ley de criptomoneda…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/05/trump-media-invertir-en-bitcoin.webp",
+      "published": "2026-09-16T17:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -425,6 +677,18 @@
       "tags": []
     },
     {
+      "id": "17db745f38443f",
+      "title": "NFL Semana 2: estos son los 3 partidos que no te puedes perder y los lugares dónde van a pasar",
+      "url": "https://expansion.mx/tendencias/2026/09/16/nfl-semana-2-partidos-no-te-puedes-perder",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La Semana 2 de la NFL arranca este jueves y tendrá partidos hasta el lunes. Consulta los horarios de los 16 juegos y dónde seguir los encuentros con transmisión confirmada.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7ca32e8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F01%2F19%2Fseattle-nfl-2-reuters.jpg",
+      "published": "2026-09-16T16:41:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "5ce907e3382aad",
       "title": "Pasó 680 días en Marruecos y siguió cobrando su pensión en España. La Justicia acaba de confirmar las consecuencias: 32.857 euros",
       "url": "https://www.xataka.com/empresas-y-economia/paso-680-dias-marruecos-siguio-cobrando-su-pension-justicia-acaba-confirmar-consecuencias-32-857-euros",
@@ -433,18 +697,6 @@
       "summary": "Una pensionista de 77 años viajaba a Marruecos con frecuencia. Se quedaba semanas, a veces meses, y volvía cuando le convenía. Durante todo ese tiempo, la mujer recibía puntualmente su pensión y, durante años, nadie en l…",
       "image": "https://i.blogs.es/e03303/pension-marruecos/1024_2000.jpeg",
       "published": "2026-09-16T16:30:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8ec0a8dd112bd1",
-      "title": "Starbucks supera las 41 mil cafeterías y prepara entre 600 y 650 nuevas aperturas durante 2026",
-      "url": "https://www.merca20.com/starbucks-supera-las-41-mil-cafeterias-y-prepara-entre-600-y-650-nuevas-aperturas-durante-2026/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-supera-las-41-mil-cafeterias-y-prepara-entre-600-y-650-nuevas-aperturas-durante-2026",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Starbucks superó las 41 mil cafeterías y mantiene su plan de sumar entre 600 y 650 aperturas netas en 2026, impulsadas por el negocio internacional",
-      "image": "https://files.merca20.com/uploads/2026/09/STARBUCKS_LAURA-ISLAS_MERCA20.jpg",
-      "published": "2026-09-16T16:20:48+00:00",
       "score": null,
       "tags": []
     },
@@ -469,18 +721,6 @@
       "summary": "Las empresas formales ya inician con estrategias para monitorear y no terminar en las listas negras del SAT ante los cambios contra las factureras.",
       "image": "https://cdn-3.expansion.mx/dims4/default/bf53c05/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F87%2F16%2Ff4b2e7bc4ffe94be5fb537e1cb85%2Fistock-2252359837.jpeg",
       "published": "2026-09-16T16:01:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3c9ddcc10d9e99",
-      "title": "Inter Miami vs. Cruz Azul: Where and When to Watch the Match LIVE",
-      "url": "https://www.merca20.com/inter-miami-vs-cruz-azul-where-and-when-to-watch-the-match-live/?utm_source=rss&utm_medium=rss&utm_campaign=inter-miami-vs-cruz-azul-where-and-when-to-watch-the-match-live",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The 2026 Campeones Cup will be played at Nu Stadium in Miami, Florida, where Inter Miami plays its home games",
-      "image": "https://files.merca20.com/uploads/2026/08/Inter-Miami-vs.-Cruz-Azul-Gemini-AI.jpg",
-      "published": "2026-09-16T16:00:36+00:00",
       "score": null,
       "tags": []
     },
@@ -521,18 +761,6 @@
       "tags": []
     },
     {
-      "id": "edd71b87fd99ae",
-      "title": "Los CMOs necesitan sistemas que conviertan cada campaña en aprendizaje",
-      "url": "https://www.merca20.com/los-cmos-necesitan-sistemas-que-conviertan-cada-campana-en-aprendizaje/?utm_source=rss&utm_medium=rss&utm_campaign=los-cmos-necesitan-sistemas-que-conviertan-cada-campana-en-aprendizaje",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Una campaña que no alcanza el objetivo inicial no necesariamente representa un fracaso si permite descartar una hipótesis con suficiente evidencia.",
-      "image": "https://files.merca20.com/uploads/2026/09/bigstock-Ideas-Thoughts-Knowledge-Intel-77299412.jpg",
-      "published": "2026-09-16T15:32:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "02957deca37705",
       "title": "Cancelado Tapapiés, el festival de tapas de Lavapiés, por su propio éxito: \"Algunos bares pequeños pueden verse obligados a cerrar\"",
       "url": "https://www.xataka.com/magnet/cancelado-tapapies-festival-tapas-lavapies-su-propio-exito-algunos-bares-pequenos-pueden-verse-obligados-a-cerrar",
@@ -553,18 +781,6 @@
       "summary": "Hace solo unos días conocíamos que fuerzas hutíes habían atacado con drones el oleoducto estratégico que atraviesa Arabia Saudí y sus consecuencias no se han hecho esperar. Con esta infraestructura en reparación, el mayo…",
       "image": "https://i.blogs.es/9794c4/pexels-mumtaz-niazi-18390768-36502591/1024_2000.jpeg",
       "published": "2026-09-16T15:16:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3528374b36442f",
-      "title": "KPop Demon Hunters Mystery Action Figure: How Much It Costs and Where to Buy the Saja Boys Doll",
-      "url": "https://www.merca20.com/kpop-demon-hunters-mystery-action-figure-how-much-it-costs-and-where-to-buy-the-saja-boys-doll/?utm_source=rss&utm_medium=rss&utm_campaign=kpop-demon-hunters-mystery-action-figure-how-much-it-costs-and-where-to-buy-the-saja-boys-doll",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Mystery, one of the members of the Saja Boys, arrives as an action figure that recreates his signature “Soda Pop” look",
-      "image": "https://files.merca20.com/uploads/2026/09/Mystery-Action-KPop-Demon-Hunters-1.jpg",
-      "published": "2026-09-16T15:00:30+00:00",
       "score": null,
       "tags": []
     },
@@ -593,18 +809,6 @@
       "tags": []
     },
     {
-      "id": "df75722993b510",
-      "title": "Aldi lanza esta aspiradora sin cables por 59,99 euros el próximo sábado 19 de septiembre: con luz verde y varios accesorios",
-      "url": "https://www.xataka.com/seleccion/aldi-lanza-esta-aspiradora-cables-59-99-euros-luz-verde-varios-accesorios-59-99-euros",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Conseguir que la casa esté limpia sin invertir demasiado esfuerzo ni presupuesto es un objetivo recurrente y las aspiradoras de tipo escoba se han posicionado como la herramienta estrella para lograrlo. Sin embargo, much…",
-      "image": "https://i.blogs.es/be1750/aspiradora-sin-cables-aldi-1-/1024_2000.jpeg",
-      "published": "2026-09-16T14:46:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "040bdc8cbda4d0",
       "title": "Carlos Slim lleva su fortuna de México a España con inversiones millonarias en construcción, banca y futbol",
       "url": "https://expansion.mx/empresas/2026/09/16/carlos-slim-inversiones-millonarias-en-espana",
@@ -613,18 +817,6 @@
       "summary": "FCC, Realia, Metrovacesa, Prisa y Real Oviedo forman parte del mapa empresarial que el magnate mexicano ha construido en la península ibérica.",
       "image": "https://cdn-3.expansion.mx/dims4/default/985b962/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8e%2F24%2Fd8007d3a4d6f8a64bebf72997e14%2F14-afp-20260526-b44e8fq-v1-highres-mexicoeconomy.jpeg",
       "published": "2026-09-16T14:22:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "192093f58ce0a1",
-      "title": "¿Cómo comprarán los consumidores en 2027? El CNMD analizará los cambios que desafían a las marcas",
-      "url": "https://www.merca20.com/como-compraran-los-consumidores-en-2027-el-cnmd-analizara-los-cambios-que-desafian-a-las-marcas/?utm_source=rss&utm_medium=rss&utm_campaign=como-compraran-los-consumidores-en-2027-el-cnmd-analizara-los-cambios-que-desafian-a-las-marcas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El CNMD 2026 reunirá a especialistas responsables de analizar las tendencias que definirán el marketing durante el próximo año",
-      "image": "https://files.merca20.com/uploads/2026/07/cnmd-2026-geely.jpg",
-      "published": "2026-09-16T14:20:51+00:00",
       "score": null,
       "tags": []
     },
@@ -881,54 +1073,6 @@
       "tags": []
     },
     {
-      "id": "c3a9f395c901c4",
-      "title": "¿Qué tiene que ver Robert Kraft ante la polémica salida de Macklemore de la gira de Ed Sheeran?",
-      "url": "https://expansion.mx/tendencias/2026/09/15/robert-kraft-polemica-salida-macklemore-gira-ed-sheeran",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La gira del cantante británico por Estados Unidos se ha visto envuelta en polémica por la supuesta conducta \"antisemita\" de uno de sus teloneros.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/56ead33/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2F14%2Fe1c673b84f0c8b23baa1db6ccaae%2Frobert-kraft-ed-sheeran-macklemore-palestina.jpg",
-      "published": "2026-09-16T00:17:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fae4a293b9d93f",
-      "title": "Telmex, Totalplay y Megacable estos son sus paquetes de internet y telefonía desde 389 pesos",
-      "url": "https://expansion.mx/empresas/2026/09/15/telmex-totalplay-megacable-paquetes-internet-telefonia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Además de la velocidad de conexión, los paquetes incluyen distintas combinaciones de telefonía, televisión y plataformas de streaming.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c21077e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2012%2F08%2F12%2Finternet.jpg",
-      "published": "2026-09-16T00:06:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4817422eb75542",
-      "title": "Volkswagen y Ford hicieron estos autos para celebrar la Independencia de México, y hoy son casi imposibles de encontrar",
-      "url": "https://expansion.mx/empresas/2026/09/15/volkswagen-ford-autos-para-celebrar-independencia-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Sus carrocerías esconden una historia poco conocida de Volkswagen y Ford que quedó plasmada en dos ediciones especiales para el mercado mexicano.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/eb9d3e6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F75%2F51%2F7b9f810645bba28c175fda3fe5a6%2Fjetta-fiesta-bicentenario.jpeg",
-      "published": "2026-09-15T23:04:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8cd0c8e380dc16",
-      "title": "¿Vas a recibir dinero? Tu cuenta bancaria podría tener un límite que no conoces",
-      "url": "https://expansion.mx/finanzas-personales/2026/09/15/recibir-dinero-cuenta-bancaria-tiene-limite-no-conoces",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Conocer el nivel de la cuenta permite identificar cuánto dinero puede recibirse durante el mes y evitar sorpresas al momento de recibir un depósito.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c6e49cf/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb7%2F66%2F66024db34d81ac6b4de784217255%2Fhand-holding-smartphone.jpg",
-      "published": "2026-09-15T21:51:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "73a77073244136",
       "title": "Gemini Notebook (NotebookLM) suma una de las funciones más útiles para estudiar",
       "url": "https://hipertextual.com/inteligencia-artificial/gemini-notebook-nuevas-funciones-notebooklm/",
@@ -937,54 +1081,6 @@
       "summary": "Gemini Notebook ha lanzado una actualización que mejora el estudio con la inteligencia artificial. La aplicación, anteriormente conocida como NotebookLM, añadió nuevas herramientas para las sesiones de repaso, las cuales…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/gemini-notebook.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-15T21:47:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5dcce222565b3b",
-      "title": "Arena México: la historia de la “Catedral” que convirtió a la lucha libre en un símbolo nacional",
-      "url": "https://expansion.mx/tendencias/2026/09/15/arena-mexico-historia-catedral-lucha-libre-simbolo-nacional",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La Arena México se ha consolidado en uno de los recintos deportivos más importantes del país, siendo referente de la lucha libre.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e05fab5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F40%2F06%2F37ed7e3147c29fccf2e7410f315c%2Fhistoria-arena-mexico-catedral-2.jpeg",
-      "published": "2026-09-15T21:44:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d4acfb94fc46a7",
-      "title": "¿Qué es y para qué sirve la credencial blanca que el IMSS otorga a jubilados?",
-      "url": "https://expansion.mx/finanzas-personales/2026/09/15/que-es-para-que-sirve-credencial-blanca-imss-jubilados",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La \"credencial blanca\" del IMSS ofrece diferentes beneficios a los pensionados, como acceso a determinados servicios.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/bd7ec15/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1d%2Fa4%2Ffb53a171430e81b6b400402842d9%2Fcredencial-blanca-pension-imss.jpeg",
-      "published": "2026-09-15T21:43:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e1f3fa8cd43433",
-      "title": "Anthropic y OpenAI no quieren salvar al mundo de la IA, quieren eliminar su competencia",
-      "url": "https://expansion.mx/tecnologia/2026/09/15/anthropic-openai-no-salvar-ia-quieren-eliminar-competencia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "De acuerdo con especialistas, las advertencias en torno a los peligros de la Inteligencia Artificial no son altruismo, sino que se trata de una estrategia para obstaculizar a nuevas empresas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f0f04c1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb9%2Fe2%2Fe7b7dc37492f814a54b59181212d%2Fopenai-anthropic-salvar-al.mundo.jpeg",
-      "published": "2026-09-15T21:00:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0ae81f8a7274f2",
-      "title": "El hardware de ASUS Business se convierte en un aliado para la ciberseguridad",
-      "url": "https://expansion.mx/tendencias/2026/09/15/el-hardware-de-asus-business-es-un-aliado-en-ciberseguridad",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El blindaje de datos es una prioridad estratégica de ciberseguridad para las empresas en México y el uso de equipos especializados, como las ASUS Expert Series, contribuye a evitar filtraciones.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/dddd9c3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1f%2F5f%2F3691fb17414e9dde96377a9484ae%2Fasus-expertbook-ultra.jpg",
-      "published": "2026-09-15T20:34:16+00:00",
       "score": null,
       "tags": []
     },
@@ -1057,18 +1153,6 @@
       "summary": "Durante años, Facebook, Instagram y WhatsApp han acostumbrado a sus usuarios a una relación bastante sencilla: entrar, utilizar sus funciones principales y no pagar directamente por ello. Ese modelo sigue intacto, pero a…",
       "image": null,
       "published": "2026-09-15T17:49:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "290a6d69be3528",
-      "title": "Amazon promete reactivar la función más usada de los Fire TV con Android",
-      "url": "https://hipertextual.com/tecnologia/amazon-reactivara-sideloading-apps-fire-tv-android/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Buenas noticias si tienes un Fire TV con Fire OS, el sistema operativo basado en Android. Amazon ha confirmado que una próxima actualización reactivará la característica más usada de este tipo de dispositivos. Nos referi…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/fire-tv-2.jpg?fit=1024%2C642&quality=70&strip=all&ssl=1",
-      "published": "2026-09-15T17:32:08+00:00",
       "score": null,
       "tags": []
     },
@@ -1457,30 +1541,6 @@
       "tags": []
     },
     {
-      "id": "342ddf8be056c0",
-      "title": "Jumex y Tetra Pak cambian la receta: así son sus nuevas apuestas por bebidas sin azúcar añadida",
-      "url": "https://www.altonivel.com.mx/jumex-nectar-sin-azucar-anadida-libre-sellos/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Jumex amplía su apuesta por bebidas sin azúcar añadida con una nueva línea de néctares desarrollada junto con Tetra Pak y disponible en mango, manzana y durazno. The post Jumex y Tetra Pak cambian la receta: así son sus …",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/jumex-nectar-sin-azucar-anadida-libre-sellos.webp",
-      "published": "2026-09-14T18:55:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3cb6fc4550ad6f",
-      "title": "Una inversión de 330 mdd muestra hacia dónde quiere ir la industria de Ciudad Juárez",
-      "url": "https://www.altonivel.com.mx/ciudad-juarez-nearshoring-manufactura-avanzada-semiconductores-maquila/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Los cruces de Ysleta, El Paso y Santa Teresa movilizaron alrededor de 172,600 millones de dólares en mercancías durante 2025. The post Una inversión de 330 mdd muestra hacia dónde quiere ir la industria de Ciudad Juárez …",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/09/ciudad-juarez-nearshoring-manufactura-avanzada-semiconductores-maquila.webp",
-      "published": "2026-09-14T18:55:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6ebc47de45fbf1",
       "title": "IA en marketing: la paradoja entre eficiencia y confianza del consumidor",
       "url": "https://ilifebelt.com/ia-en-marketing-la-paradoja-entre-eficiencia-y-confianza-del-consumidor/2026/09/",
@@ -1625,18 +1685,6 @@
       "tags": []
     },
     {
-      "id": "100789052c8412",
-      "title": "Ecuador vs Venezuela se enfrentan por un lugar en la final del Mundial de Comidas de Ibai",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/09/13/ecuador-vs-venezuela-se-enfrentan-por-un-lugar-en-la-final-del-mundial-de-comidas-de-ibai/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Ecuador vs Venezuela se enfrentan por un lugar en la final del Mundial de Comidas de Ibai",
-      "image": "https://www.fayerwayer.com/resizer/v2/62EGSUWSSRAWVAWMRMLHKAG2N4.png?auth=16481b89fdb8ae857a4169d2139e92186e114684442e724ca1c519833aa09b91&smart=true&width=429&height=323",
-      "published": "2026-09-13T17:36:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2fda157bd5b8a8",
       "title": "Qué hacer con los dispositivos electrónicos que ya no utilizamos: reutilizar, reparar, vender o donar",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/dispositivos-electronicos-que-ya-no-utilizamos/",
@@ -1693,30 +1741,6 @@
       "summary": "Las startups ganadoras ahora tendrán la oportunidad de probar sus desarrollos en centros comerciales de Colombia, Chile y Perú.",
       "image": "https://www.fayerwayer.com/resizer/v2/YBDQQAIO65CERAUJCDRS7EPIVQ.png?auth=16ded58e4dfc8b57268238d60073105c076e1261de1a3c70696c722c5ee48d75&smart=true&width=1920&height=1080",
       "published": "2026-09-11T19:10:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6a3a3d2e483c72",
-      "title": "El regreso de las brujas Owens: Sandra Bullock y Nicole Kidman hablan de ‘Prácticamente Magia 2′",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/09/11/el-regreso-de-las-brujas-owens-sandra-bullock-y-nicole-kidman-hablan-de-practicamente-magia-2/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "A casi 30 años del estreno de la primera película, Sandra Bullock y Nicole Kidman regresan como las hermanas brujas Owens en 'Prácticamente Magia 2'.",
-      "image": "https://www.fayerwayer.com/resizer/v2/RFAOGXOPYVEIXDUPCKXLCGCTKI.jpeg?auth=a3a636bbc9fd36da148135ed07f47bc0d1e0549b12b57bc55acfacf1beb6e28e&smart=true&width=4096&height=1789",
-      "published": "2026-09-11T18:47:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "392b5d47f9bc7d",
-      "title": "GTA VI: ¿Se jugará mejor en PlayStation 6 o en PC?",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/09/11/gta-vi-se-jugara-mejor-en-playstation-6-o-en-pc/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "GTA VI: ¿se jugará mejor en PlayStation 6 o PC? Potencia, rendimiento y futuro",
-      "image": "https://www.fayerwayer.com/resizer/v2/WAJXIHEVBNAXZFZBIRQLHX6N7E.png?auth=5cae316f78834b237ab6c3635e5551040ca8e950c3458bf8479fe90c71dacf1e&smart=true&width=844&height=468",
-      "published": "2026-09-11T17:53:43+00:00",
       "score": null,
       "tags": []
     },
@@ -1789,18 +1813,6 @@
       "summary": "Por qué el marketing digital con IA está desplazando al buscador tradicional Durante más de una década, el buscador tradicional fue la columna vertebral de la conversión publicitaria. Ese modelo empieza a mostrar señales…",
       "image": null,
       "published": "2026-09-09T21:59:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "15dc37d284586c",
-      "title": "IA, influencia y reputación: la nueva ecuación que redefine la comunicación",
-      "url": "https://ilifebelt.com/ia-influencia-y-reputacion-la-nueva-ecuacion-que-redefine-la-comunicacion/2026/09/",
-      "source": "iLifebelt",
-      "category": "startup",
-      "summary": "Por qué la reputación y la influencia ya no se miden por audiencia Durante años, la influencia se midió con números: seguidores, impactos, alcance. Ese criterio ya no alcanza. Hoy la visibilidad tiene que venir acompañad…",
-      "image": null,
-      "published": "2026-09-09T21:38:52+00:00",
       "score": null,
       "tags": []
     },
@@ -1981,18 +1993,6 @@
       "summary": "Hace unos días me encontré este video en Instagram. Me sacó una buena carcajada, pero también me hizo reflexionar sobre la diferencia entre la intención y el efecto de las…",
       "image": null,
       "published": "2026-08-27T17:50:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b95037af4376ab",
-      "title": "Clase grabada: ACT en niños y adolescentes con Geraldine Panelli",
-      "url": "https://www.psyciencia.com/clase-grabada-act-en-ninos-y-adolescentes-con-geraldine-panelli/",
-      "source": "Psyciencia",
-      "category": "psicologia",
-      "summary": "En la clase grabada vas a ver los fundamentos de ACT aplicados al trabajo con niños y adolescentes, cómo se expresan los procesos de flexibilidad psicológica en cada etapa del…",
-      "image": null,
-      "published": "2026-08-27T16:59:37+00:00",
       "score": null,
       "tags": []
     },

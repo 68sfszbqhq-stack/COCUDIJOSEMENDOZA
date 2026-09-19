@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-09-19T10:25:34.465463+00:00",
-    "total": 179
+    "generated": "2026-09-19T15:28:37.567632+00:00",
+    "total": 178
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Muchas veces nos enfocamos en la oratoria y las habilidades interpersonales, pero ¿qué hay del poder de la palabra escrita en el liderazgo? Aquí te explicamos por qué dominar esta habilidad subestimada es un gran diferen…",
       "image": null,
-      "published": "2026-09-19T10:25:32.963757+00:00",
+      "published": "2026-09-19T15:28:36.046429+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La innovación no surge de llenar la sala de juntas de expertos, sino de escuchar a quienes no estás tomando en cuenta. The post Por qué las mejores ideas de negocio vienen de quienes no estás escuchando appeared first on…",
       "image": null,
-      "published": "2026-09-19T10:25:32.963279+00:00",
+      "published": "2026-09-19T15:28:36.046154+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "La mayoría de los líderes no se dan cuenta de dónde está fallando su impacto... hasta que es demasiado tarde. Aquí hay una forma sencilla de detectarlo en tiempo real. The post Las 3 preguntas que uso para auditar mi lid…",
       "image": null,
-      "published": "2026-09-19T10:25:32.962823+00:00",
+      "published": "2026-09-19T15:28:36.045878+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Los emprendedores están descubriendo que el verdadero reto ya no es la velocidad de producción, sino destacar en un panorama donde todo empieza a sonar igual. The post Ahora todos tienen acceso a la IA. Esto es lo que re…",
       "image": null,
-      "published": "2026-09-19T10:25:32.962337+00:00",
+      "published": "2026-09-19T15:28:36.045585+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La capital de México es considerada como uno de los principales epicentros tecnológicos en la región, gracias a la inversión y al fomento de la innovación. The post La Ciudad de México quiere llevar a otro nivel su apues…",
       "image": null,
-      "published": "2026-09-19T10:25:32.961855+00:00",
+      "published": "2026-09-19T15:28:36.045291+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Evalúa tu preparación frente a los tres pilares clave del éxito como solopreneur. The post ¿Tienes lo necesario para ser un solopreneur? Responde estas 3 preguntas antes de dar el salto appeared first on Entrepreneur en …",
       "image": null,
-      "published": "2026-09-19T10:25:32.960236+00:00",
+      "published": "2026-09-19T15:28:36.044109+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "La mayoría de los emprendedores saben cómo establecer metas, pero pocos saben cómo hacer una pausa, reflexionar y asegurarse de que esas metas realmente se alineen con la vida que quieren. The post 3 preguntas que te dar…",
       "image": null,
-      "published": "2026-09-19T10:25:32.959761+00:00",
+      "published": "2026-09-19T15:28:36.043815+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Al contratar líderes, es importante reconocer que beneficios superficiales como los sofás cómodos y la kombucha no garantizan el éxito organizacional. En cambio, alinear el liderazgo con los valores fundamentales de la e…",
       "image": null,
-      "published": "2026-09-19T10:25:32.959235+00:00",
+      "published": "2026-09-19T15:28:36.043515+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Algunos segmentos avanzan a doble dígito y otros casi no se mueven. Las cifras muestran dónde está la oportunidad y qué separa a los negocios que duran. The post Qué separa a los negocios y productos de wellness que dura…",
       "image": null,
-      "published": "2026-09-19T10:25:32.958756+00:00",
+      "published": "2026-09-19T15:28:36.043210+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,175 @@
       "category": "startup",
       "summary": "La infraestructura de pagos en México ya resolvió la velocidad. Lo que viene es integrarla tanto a otras experiencias que el acto de pagar deje de sentirse como un paso aparte. The post Pagos invisibles: la siguiente eta…",
       "image": null,
-      "published": "2026-09-19T10:25:32.958191+00:00",
+      "published": "2026-09-19T15:28:36.042876+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "772c5e3304d032",
+      "title": "Llevamos décadas intentando almacenar la energía solar para utilizarla de noche. Resulta que hay otra opción: hacer que nunca deje de recibir luz",
+      "url": "https://www.xataka.com/energia/llevamos-decadas-intentando-almacenar-energia-solar-para-utilizarla-noche-resulta-que-hay-otra-opcion-hacer-que-nunca-deje-recibir-luz",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Durante décadas hemos tratado de resolver el gran problema de la energía solar de una manera bastante intuitiva: producir todo lo posible mientras brilla el Sol, almacenar el excedente y recuperarlo cuando llega la noche…",
+      "image": "https://i.blogs.es/77a1f7/panels-electricity-order-sunlight/1024_2000.jpeg",
+      "published": "2026-09-19T15:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "030744c3fc8e0d",
+      "title": "La polémica de ‘Coyote vs. Acme’ explicada paso a paso antes que veas la película",
+      "url": "https://hipertextual.com/cine-television/la-polemica-de-coyote-vs-acme-explicada-paso-a-paso-antes-que-veas-la-pelicula/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Coyote vs. Acme fue un éxito modesto del verano en una buena parte del mundo y ahora llega a España, precedida de buenas críticas. Pero además, la cinta, que lleva el mundo de los míticos Looney Tunes a un siguiente nive…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/coyote-vs-acme.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6b9a7076ed84cc",
+      "title": "Plutón lleva 20 años sin ser un planeta. Según este periodista científico, fue lo mejor que le pudo pasar al Sistema Solar",
+      "url": "https://www.xataka.com/espacio/pluton-lleva-20-anos-ser-planeta-este-periodista-cientifico-fue-mejor-que-le-pudo-pasar-al-sistema-solar",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "20 años después de su cambio de estatus, sigue habiendo muchas personas que consideran que degradar a Plutón de planeta a planeta enano fue un error. Incluso hay peticiones de change.org para devolverle el título que un …",
+      "image": "https://i.blogs.es/58c50a/planetas-enanos-pluton/1024_2000.jpeg",
+      "published": "2026-09-19T14:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3b034490abfb5e",
+      "title": "Motorola Moto Tag 2, análisis: un accesorio imprescindible para los que siempre pierden las llaves. Y también para los que no",
+      "url": "https://www.xataka.com/analisis/motorola-moto-tag-2-analisis-caracteristicas-precio-especificaciones",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Me parece bastante curioso que, a estas alturas del partido, la pregunta más habitual en mi círculo de amigos siga siendo la de “¿qué móvil me compro por menos de XXX euros?” y no la de “¿qué gadget existe que me puede h…",
+      "image": "https://i.blogs.es/4f4df1/moto-tag-2/1024_2000.jpeg",
+      "published": "2026-09-19T14:00:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "92b93dd1d99fd2",
+      "title": "El final de ‘Resident Evil’ de Zach Cregger, explicado: ¿quién sobrevive a la matanza?",
+      "url": "https://hipertextual.com/cine-television/el-final-de-resident-evil-de-zach-cregger-explicado-quien-sobrevive-a-la-matanza/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Resident Evil de Zach Cregger es tanto una estupenda película de terror como una adaptación de la saga de Capcom que rinde homenaje al juego. Pero además, hace algo que ninguna de las películas anteriores basadas en la f…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Rvil-23-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "97211697a1ee11",
+      "title": "La IA no solo genera vídeos sueltos: en China acaba de producir una serie entera",
+      "url": "https://www.xataka.com/cine-y-tv/ia-no-solo-genera-videos-sueltos-china-acaba-producir-serie-entera",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Mientras Hollywood trata de esconder que está usando IA en multitud de películas y el rechazo crece entre los actores , en China se han lanzado a los brazos de la IA generativa y ya tienen la primera serie de televisión …",
+      "image": "https://i.blogs.es/05e608/firefly-quiero-que-hagas-upscale-para-que-la-imagen-mida-1000px-de-a/1024_2000.jpeg",
+      "published": "2026-09-19T13:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "35e2cfb374ddd6",
+      "title": "La lectura no solo mejora tu vocabulario: también puede subir tus notas de matemáticas",
+      "url": "https://www.xataka.com/medicina-y-salud/lectura-no-solo-mejora-tu-vocabulario-tambien-puede-subir-tus-notas-matematicas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Todos sabemos que leer es beneficioso , aunque no lo pongamos en práctica tanto como nos gustaría. Sin embargo, si intentamos buscar hueco en nuestras ajetreadas vidas para el ejercicio físico, porque sabemos que es buen…",
+      "image": "https://i.blogs.es/dfff1f/leer-por-placer/1024_2000.jpeg",
+      "published": "2026-09-19T13:00:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "43f8412b0ce31c",
+      "title": "¿Tiene ‘Resident Evil’ escena post-créditos?",
+      "url": "https://hipertextual.com/cine-television/tiene-resident-evil-escena-post-creditos/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La nueva película de Resident Evil acaba de llegar por fin a los cines de la mano del director Zach Cregger (Weapons, Barbarian). El proyecto atraía la atención de los fans porque, a pesar de ser la octava entrega de la …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Evil-post-creditos.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "95ac3ac27dbfb7",
+      "title": "A falta de árboles, buena es su sombra: un estudiante alemán ha inventado un textil que da sombra, respira y deja pasar viento y lluvia",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/a-falta-arboles-buena-su-sombra-estudiante-aleman-ha-inventado-textil-que-da-sombra-respira-deja-pasar-viento-lluvia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Con el cambio climático desatado y unas ciudades convertidas en hornos en verano gracias, entre otras cosas, al asfalto y su efecto térmico y la ausencia de espacios verdes, a un estudiante alemán se le ha ocurrido algo …",
+      "image": "https://i.blogs.es/27dc06/sense/1024_2000.jpeg",
+      "published": "2026-09-19T12:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "67fb0b3ece6acd",
+      "title": "‘Resident Evil’ (★★★★½) es la mejor adaptación del videojuego hasta ahora",
+      "url": "https://hipertextual.com/cine-television/resident-evil-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%c2%bd-es-la-mejor-adaptacion-del-videojuego-hasta-ahora/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Cualquier adaptación de Resident Evil tiene un problema que enfrentar de origen. Las más de una docena de películas previas que ya forman parte de la cultura popular y que se han debatido hasta el cansancio durante más d…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Evil-movie.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8cb2065045ce9a",
+      "title": "¿Pueden las baterías usadas del coche eléctrico tener una segunda vida como almacenamiento de renovables? Asturias dice sí",
+      "url": "https://www.xataka.com/energia/pueden-baterias-gastadas-vehiculo-electrico-tener-segunda-vida-como-almacenamiento-energia-renovable-asturias-dice-que",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Una batería puede haber dejado de ser lo bastante buena para un coche eléctrico y, sin embargo, todavía tener mucha vida por delante. El informe de la Fundación Asturiana de la Energía (FAEN) Recuperación de materiales e…",
+      "image": "https://i.blogs.es/891d29/kumpan-electric-30d7430ywf4-unsplash/1024_2000.jpeg",
+      "published": "2026-09-19T11:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fa522d2563c106",
+      "title": "Hace 20 años, alguien pensó en unir Ponferrada y Ourense con la autovía A-76. Hoy tiene un total de cero metros abiertos al tráfico",
+      "url": "https://www.xataka.com/movilidad/hace-20-anos-alguien-penso-unir-ponferrada-ourense-autovia-a-76-hoy-tiene-total-cero-metros-abiertos-al-trafico",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "A Ponferrada y Ourense las separan poco más de 150 kilómetros, más de dos horas de coche por una vieja carretera nacional y una promesa que dura ya 20 años. Porque desde que en el año 2004 se decidiera que ya era hora de…",
+      "image": "https://i.blogs.es/95f5ce/n-120_en_vilasobroso-_mondariz/1024_2000.jpeg",
+      "published": "2026-09-19T11:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5370359b97c21b",
+      "title": "5 cosas que debes saber sobre la muy esperada versión de ‘Resident Evil’ de Zach Cregger",
+      "url": "https://hipertextual.com/cine-television/5-cosas-que-debes-saber-sobre-la-muy-esperada-version-de-resident-evil-de-zach-cregger/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Resident Evil de Zach Cregger se enfrenta a un problema de origen. A la fecha, hay 11 películas basadas en la franquicia de juegos, divididas entre acción real y animación CGI. Por lo que la más reciente versión debe int…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Rvil-23-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e0f4349a0106c9",
+      "title": "Antes que Rosalía estuvo Francisca, la aragonesa que retrató la revista Time y todo el mundo se rifaba",
+      "url": "https://www.xataka.com/magnet/rosalia-estuvo-francisca-aragonesa-que-retrato-revista-time-todo-mundo-se-rifaba",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Era, más que la Rosalía de la época, algo así como una Jennifer López en su apogeo sumando el capital de Lady Gaga. El rey Alfonso XIII la admiraba en público, algo un tanto arriesgado sabiendo que la Iglesia y media Esp…",
+      "image": "https://i.blogs.es/522d72/diva/1024_2000.jpeg",
+      "published": "2026-09-19T10:30:11+00:00",
       "score": null,
       "tags": []
     },
@@ -229,18 +397,6 @@
       "summary": "Hay un perfil de usuario para el que el debate entre portabilidad y tamaño de pantalla siempre ha tenido una respuesta incómoda. El que trabaja con líneas de tiempo en editores de vídeo, con capas en editores gráficos o …",
       "image": "https://i.blogs.es/eb3156/lg-gram-chocolate-2026-xataka-analisis-13/1024_2000.jpeg",
       "published": "2026-09-19T08:30:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "43d901a300a4a9",
-      "title": "No hay marca de móviles que sea eterna, por muy exitosa que sea: así ha cambiado la cuota de mercado en casi 20 años",
-      "url": "https://www.xataka.com/moviles/no-hay-marca-moviles-que-sea-eterna-exitosa-que-sea-asi-ha-cambiado-cuota-mercado-casi-20-anos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Mi primer móvil fue el mítico Alcatel One Touch Easy , lo recuerdo con mucho cariño y alegría porque fue un buen terminal para los estándares de la época. De hecho, después tuve otro de esa misma marca que era tremendame…",
-      "image": "https://i.blogs.es/2008f8/mooooo/1024_2000.jpeg",
-      "published": "2026-09-19T08:00:13+00:00",
       "score": null,
       "tags": []
     },
@@ -377,18 +533,6 @@
       "tags": []
     },
     {
-      "id": "3fe1b0d7c4a606",
-      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 19 de septiembre",
-      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-19-septiembre",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Este fin de semana entra de nuevo en funcionamiento la normativa del Hoy No Circula sabatino, un marco regulatorio mediante el cual la Secretaría de Medio Ambiente de la Ciudad de México ( SEDEMA ) restringe el tráfico p…",
-      "image": "https://i.blogs.es/27dade/gabor-papp-_ewzhzk-bha-unsplash/1024_2000.jpeg",
-      "published": "2026-09-19T03:00:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "90efd433640863",
       "title": "Mary Kay convierte cafeterías en probadores de maquillaje para acercarse a la Gen Z en 10 ciudades",
       "url": "https://www.merca20.com/mary-kay-convierte-cafeterias-en-probadores-de-maquillaje-para-acercarse-a-la-gen-z-en-10-ciudades/?utm_source=rss&utm_medium=rss&utm_campaign=mary-kay-convierte-cafeterias-en-probadores-de-maquillaje-para-acercarse-a-la-gen-z-en-10-ciudades",
@@ -401,6 +545,54 @@
       "tags": []
     },
     {
+      "id": "0043c8e080d124",
+      "title": "Tim Hortons reta a Starbucks con tazas de Halloween y se adelanta al vaso de Snoopy",
+      "url": "https://expansion.mx/mercadotecnia/2026/09/18/tim-hortons-starbucks-coleccionables-halloween",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Tim Hortons se adelantó a Starbucks con sus tazas de Halloween, mientras ambas cadenas convierten la escasez y los coleccionables en una estrategia para disputar visitas y consumo en sus cafeterías.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/72e41d5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffb%2F0c%2Fdea07ff4493aa1974713e4a3cd90%2Ftim-hortons-starbucks-coleccionables-halloween-snoopy.jpg",
+      "published": "2026-09-19T00:04:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c1df72d5734c7d",
+      "title": "Hacienda continúa con baja de impuestos a gasolinas, diésel va por segunda semana con cero IEPS",
+      "url": "https://expansion.mx/economia/2026/09/18/hacienda-baja-impuestos-gasolinas-diesel-cero-ieps",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Del 19 al 25 de septiembre, se otorgará un descuento o estímulo fiscal de 100% a la cuota IEPS que se cobra al diésel, mayormente utilizado para el movimiento masivo de personas y mercancías.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/49a5aaf/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F76%2F8b%2Feb871b534e5b9cb1833a6be37dfe%2F8-ieps-gasolina-566377-aumento-precio-gasolina-impreso.jpeg",
+      "published": "2026-09-19T00:00:14+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ec8f27572367f9",
+      "title": "Trump anuncia acuerdo por Groenlandia: “otorga a Estados Unidos el control permanente sobre la seguridad”",
+      "url": "https://expansion.mx/mundo/2026/09/18/trump-acuerdo-groenlandia-control-seguridad-eu",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La Casa Blanca habla de una nueva etapa para Groenlandia, con mayor presencia militar de EU y restricciones a sus adversarios, mientras Dinamarca defiende la soberanía del territorio.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1d72463/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe1%2F72%2F50cae9464118b6718e2974e76219%2Ftrump-elimina-limites-contaminantes-de-centrales-electricas.jpg",
+      "published": "2026-09-18T23:24:42+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1cd06eefb32d96",
+      "title": "No solo Mbappé: estas figuras del deporte también rompieron con Nike y cambiaron de marca",
+      "url": "https://expansion.mx/tendencias/2026/09/18/no-solo-mbappe-otras-figuras-deporte-dejaron-nike",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Harry Kane, Simone Biles y Roger Federer son solo algunas de las figuras del deporte global que han dejado a la marca \"de la palomita\".",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6d5830c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F82%2F23%2Fd17eb79d4d6587f7e2785706446c%2Fdeportistas-nike-mbappe-1.jpeg",
+      "published": "2026-09-18T23:22:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "a464910cab1001",
       "title": "OFICIAL: SEP prohíbe el uso de celulares en primaria y secundaria; Mario Delgado anuncia nuevas reglas",
       "url": "https://www.merca20.com/oficial-sep-prohibe-el-uso-de-celulares-en-primaria-y-secundaria-mario-delgado-anuncia-nuevas-reglas/?utm_source=rss&utm_medium=rss&utm_campaign=oficial-sep-prohibe-el-uso-de-celulares-en-primaria-y-secundaria-mario-delgado-anuncia-nuevas-reglas",
@@ -409,6 +601,18 @@
       "summary": "De acuerdo con el anuncio del secretario de Educación Pública, Mario Delgado, la nueva regulación comenzará a partir de octubre de 2026",
       "image": "https://files.merca20.com/uploads/2026/09/sep-no-celulares.jpg",
       "published": "2026-09-18T23:12:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "11e3704ffe7e5f",
+      "title": "Bancos y Sofomes tienen liquidez, pero las pymes pisan el freno al crédito",
+      "url": "https://expansion.mx/economia/2026/09/18/bancos-sofomes-liquidez-pymes-credito",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El crédito a pymes pierde dinamismo pese a la liquidez de bancos y Sofomes. Menor inversión, informalidad y desorden financiero frenan una mayor colocación.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e2fd1e3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc1%2F48%2F5edaa5ea4e1e8409ca18fad09da1%2Ffile-00000000ca8081f9968a28c316812cb8.png",
+      "published": "2026-09-18T22:45:18+00:00",
       "score": null,
       "tags": []
     },
@@ -437,6 +641,18 @@
       "tags": []
     },
     {
+      "id": "b4a98566a51915",
+      "title": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
+      "url": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4dd09ec/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3e%2Fa5%2Fb09671a948ac88f1fa49d54965c6%2Ftotis-costena-tienda.jpg",
+      "published": "2026-09-18T21:41:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "c19f1c4df672a7",
       "title": "Fraude interno en América Latina: por qué auditar no basta para prevenirlo",
       "url": "https://www.altonivel.com.mx/fraude-empresarial-america-latina-auditorias-denuncias-prevencion/",
@@ -461,6 +677,18 @@
       "tags": []
     },
     {
+      "id": "6af92f39354dca",
+      "title": "¿Cuándo será el equinoccio de otoño en México? Los días serán más cortos a partir de esta fecha",
+      "url": "https://expansion.mx/tendencias/2026/09/18/cuando-sera-equinoccio-otono-mexico-dias-mas-cortos-fecha",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La temporada de verano está llegando a su fin y pronto comenzará el otoño, lo que significa que los días serán más cortos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2fa15d3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb8%2F99%2Fabf081ea404b85a2630a2df826d5%2Fequinoccio-otono-mexico-1.jpeg",
+      "published": "2026-09-18T20:45:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "44c5b5645488ce",
       "title": "Es oficial: ‘Guerra Mundial Z’ tendrá secuela con el regreso de Brad Pitt",
       "url": "https://hipertextual.com/cine-television/guerra-mundial-z-secuela-brad-pitt-edward-berger/",
@@ -469,18 +697,6 @@
       "summary": "Guerra Mundial Z, la película de zombies de 2013, finalmente tendrá una secuela con el regreso de Brad Pitt en el rol protagónico. Según reportan Deadline y Variety, Paramount ha llegado a un acuerdo con el actor para vo…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/World-War-Z-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-18T20:39:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4816fccfccc8bc",
-      "title": "\"Quizá lo deje todo y me dedique a hacer anime el resto de mi vida\": Michael B. Jordan tiene más de un proyecto de anime en marcha",
-      "url": "https://www.xataka.com/cine-y-tv/quiza-deje-todo-me-dedique-a-hacer-anime-resto-mi-vida-michael-b-jordan-tiene-proyecto-anime-marcha",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "No es ningún secreto que Michael B. Jordan es un enamorado del anime. Ha hablado abiertamente de su pasión por series icónicas como ' Dragon Ball ', ' Hunter x Hunter ' y ' Naruto ', y por películas tan celebradas como '…",
-      "image": "https://i.blogs.es/36e230/1366_2000/1024_2000.jpeg",
-      "published": "2026-09-18T20:30:12+00:00",
       "score": null,
       "tags": []
     },
@@ -617,18 +833,6 @@
       "tags": []
     },
     {
-      "id": "6ed0e444d6db71",
-      "title": "Cuatro de cada diez webs usan WordPress. Su cofundador acaba de enfrentarse a una rebelión dentro de su propia empresa",
-      "url": "https://www.xataka.com/empresas-y-economia/cuatro-cada-diez-webs-usan-wordpress-su-cofundador-acaba-enfrentarse-a-rebelion-dentro-su-propia-empresa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Quizá recuerdes lo que ocurrió en OpenAI a finales de 2023. Su consejo destituyó de forma fulminante a Sam Altman como CEO y, apenas unos días después, Altman estaba otra vez al frente de la compañía mientras OpenAI reco…",
-      "image": "https://i.blogs.es/730064/matt-mullenweg/1024_2000.jpeg",
-      "published": "2026-09-18T19:00:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d714605b162803",
       "title": "¿Qué pasó con la Combi? La Volkswagen que todos conocían y que desapareció de las calles de México",
       "url": "https://expansion.mx/empresas/2026/09/18/combi-historia-camioneta-volkswagen-conquisto-mexico",
@@ -653,18 +857,6 @@
       "tags": []
     },
     {
-      "id": "046cca55904ef2",
-      "title": "Expulsar a los alumnos por mal comportamiento no funciona como pensábamos. La ciencia propone otra vía",
-      "url": "https://www.xataka.com/investigacion/expulsar-a-alumnos-mal-comportamiento-no-funciona-como-pensabamos-ciencia-propone-otra-via",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Con la llegada de septiembre, las clases de nuestros centros educativos vuelven a tener vida con un nuevo curso escolar al que exprimir al máximo. Pero con este también llegan los problemas de comportamiento que pueden e…",
-      "image": "https://i.blogs.es/59bc23/estudiante/1024_2000.jpeg",
-      "published": "2026-09-18T18:30:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ac53b26ea0aa5c",
       "title": "La serie de ‘Far Cry’ toma forma y anuncia nuevos fichajes",
       "url": "https://hipertextual.com/cine-television/serie-far-cry-nuevos-fichajes/",
@@ -673,18 +865,6 @@
       "summary": "La serie live-action de Far Cry avanza a paso firme con su desarrollo, confirmando un nuevo lote de protagonistas. El proyecto de FX, que se emitirá a nivel internacional a través de Disney+ y Hulu, ha sumado cinco ficha…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/06/far-cry-6-scaled.jpeg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-18T18:30:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "59740cf392dca5",
-      "title": "La IA amenaza millones de empleos de oficina. Los fondos de inversión han encontrado dónde refugiarse: fontaneros y electricistas",
-      "url": "https://www.xataka.com/empresas-y-economia/ia-amenaza-millones-empleos-oficina-fondos-inversion-han-encontrado-donde-refugiarse-fontaneros-electricistas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Habitualmente hablamos de la IA y su impacto en el mercado laboral en términos negativos en alusión a los millones de puestos de trabajo que se espera que esta tecnología desplazará ( no eliminará ) en el futuro. Sin emb…",
-      "image": "https://i.blogs.es/451d49/raze-solar-gxlplg3_vf4-unsplash/1024_2000.jpeg",
-      "published": "2026-09-18T18:16:34+00:00",
       "score": null,
       "tags": []
     },
@@ -713,18 +893,6 @@
       "tags": []
     },
     {
-      "id": "92824cc050a9ac",
-      "title": "Si alguien tenía el sueño de vivir en una ciudad en la Luna, un estudio acaba de mandarlo por los aires",
-      "url": "https://www.xataka.com/espacio/alguien-tenia-sueno-vivir-ciudad-luna-estudio-acaba-mandarlo-aires-ninguna-ciudad-sobreviviria-siglo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La primera vez que se encontró agua en la Luna, aunque fuese solo en forma de hielo, fue una grandísima noticia. Significaba que, si un día los humanos la colonizan, podrían obtener agua para subsistir. Con el tiempo y l…",
-      "image": "https://i.blogs.es/d2744d/ciudad-en-la-luna/1024_2000.jpeg",
-      "published": "2026-09-18T18:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cc62d1552b058a",
       "title": "Meta lleva su IA a tu Mac y ya puede leer tus archivos y correos",
       "url": "https://hipertextual.com/inteligencia-artificial/muse-mac-agente-ia-meta/",
@@ -733,18 +901,6 @@
       "summary": "A unos días de debutar en los dispositivos móviles, el agente de IA de Meta llega a la Mac para controlar tu equipo. Mark Zuckerberg confirmó que Muse ya tiene app oficial para Mac que se puede descargar gratis desde la …",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/muse-mac-portada-scaled.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
       "published": "2026-09-18T17:43:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "11fa73b7e99550",
-      "title": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
-      "url": "https://www.xataka.com/robotica-e-ia/mayor-robo-laboral-historia-asi-describian-microsoft-uso-articulos-prensa-para-entrenar-ia-siguieron-haciendolo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "A finales de 2023, el New York Times demandó a OpenAI y Microsoft acusándolas de usar sus artículos para entrenar modelos de IA sin haber obtenido autorización y tampoco haberles compensado de ninguna manera. Se acabaron…",
-      "image": "https://i.blogs.es/e00345/grigorii-shcheglov-xk_kbbwgr4a-unsplash/1024_2000.jpeg",
-      "published": "2026-09-18T17:30:12+00:00",
       "score": null,
       "tags": []
     },
@@ -779,20 +935,8 @@
       "source": "Expansión",
       "category": "coaching",
       "summary": "Los principales modelos de inteligencia artificial chinos generan en conjunto alrededor de 10,700 millones de dólares en ingresos recurrentes anuales, frente a los más de 100,000 millones que suman OpenAI y Anthropic.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/37c2ccf/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2Fe5%2F2d75d25c482f9d2b047e0443d8d5%2Fia-modelos-chinos.contra-eu.jpg",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d3100c4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa1%2F96%2F7ba6574841de9649640c2927c16a%2Fistock-2265786458.jpeg",
       "published": "2026-09-18T17:00:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5648c523ceea40",
-      "title": "Las minas en Marruecos tienen un gigantesco sistema de almacenamiento con baterías LFP: 125 MWh para no depender del sol",
-      "url": "https://www.xataka.com/energia/minas-marruecos-tienen-gigantesco-sistema-almacenamiento-baterias-lfp-125-mwh-para-no-depender-sol",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Marruecos acaba de poner en marcha un gigantesco sistema de almacenamiento de energía que utiliza baterías de fosfato de hierro y litio (LFP), siendo el primer proyecto de este tipo y escala que se construye en el país. …",
-      "image": "https://i.blogs.es/a91475/bateria_upscayl_2x_realesrgan-x4plus/1024_2000.png",
-      "published": "2026-09-18T17:00:13+00:00",
       "score": null,
       "tags": []
     },
@@ -845,18 +989,6 @@
       "tags": []
     },
     {
-      "id": "0bf0f60c648f3a",
-      "title": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
-      "url": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5710ff3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6f%2F08%2Fb7f5a1e844e286179ce4a5504e05%2F10-tren-mexico-queretaro-1063986-trabajos-tren-mexico-web-1.jpeg",
-      "published": "2026-09-18T15:53:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8f5f65356b388c",
       "title": "Saudi Aramco suspende envíos de crudo a Europa tras ataque a oleoducto en Arabia Saudita",
       "url": "https://www.altonivel.com.mx/saudi-aramco-suspende-envios-de-crudo-a-europa-tras-ataque-a-oleoducto-en-arabia-saudita/",
@@ -865,18 +997,6 @@
       "summary": "Saudi Aramco suspenderá en octubre los envíos de crudo a al menos dos clientes europeos tras el ataque con drones que dañó el oleoducto Este-Oeste. The post Saudi Aramco suspende envíos de crudo a Europa tras ataque a ol…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/06/ARAMCO.webp",
       "published": "2026-09-18T15:34:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ebe2b1f1900a65",
-      "title": "“No hace falta un diseñador, yo lo resuelvo con IA”: por qué las pymes apuestan por diseños genéricos de ChatGPT",
-      "url": "https://expansion.mx/tecnologia/2026/09/18/carteles-rotulos-pequenos-negocios-usan-chatgpt-publicidad",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La tecnología permite a los pequeños negocios crear imágenes para sus redes con menor costo, pero su uso masivo también puede hacer que los contenidos pierdan diferenciación y credibilidad.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/49a18a1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F10%2Feb%2F03e694884ffc864b04d12cd214b9%2Fpymes-chatgpt-imagenes-ia-diseno.jpg.png",
-      "published": "2026-09-18T15:33:21+00:00",
       "score": null,
       "tags": []
     },
@@ -917,30 +1037,6 @@
       "tags": []
     },
     {
-      "id": "c5580acafac48f",
-      "title": "¿Quién es el dueño de On, la marca que le quitó a Nike a Kylian Mbappé para entrar al futbol mundial?",
-      "url": "https://expansion.mx/tendencias/2026/09/18/quien-es-el-dueno-de-on-marca-que-ficho-a-mbappe",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La firma suiza nació con una manguera de jardín, creció con Roger Federer y ahora busca competir en una industria dominada por Nike y Adidas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/0ddaf26/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F57%2F72%2F4f5022a14d64a131883ebc5d64f7%2Fkylian-mbappe-marca-on.jpg",
-      "published": "2026-09-18T14:42:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fb2ec94edf8139",
-      "title": "Warren Buffett deja la presidencia de Berkshire Hathaway: ¿quién tomará las riendas del imperio de 1 billón de dólares?",
-      "url": "https://expansion.mx/empresas/2026/09/18/warren-buffett-deja-la-presidencia-de-berkshire-hathaway",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La salida de Buffett completa una transición histórica en Berkshire y abre la pregunta sobre cómo se repartirá el poder en el conglomerado.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/586cce9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F98%2F8c%2F81b7b2944abc8bc833adffda6714%2Fwarren-buffet-se-retira.jpg",
-      "published": "2026-09-18T14:05:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "aa0cbe7cbfdd4c",
       "title": "Control Resonant: análisis técnico con trazado de trayectorias, DLSS 4.5 y rendimiento en una GeForce RTX 5090",
       "url": "https://www.muycomputer.com/2026/09/18/control-resonant-analisis-tecnico-con-trazado-de-trayectorias-dlss-4-5-y-rendimiento-en-una-geforce-rtx-5090/",
@@ -949,30 +1045,6 @@
       "summary": "Control Resonant es uno de los juegos más esperados del año. Su lanzamiento está marcado para el 24 de septiembre, pero he tenido la oportunidad de jugarlo antes de su debut oficial, y he querido aprovechar la oportunida…",
       "image": null,
       "published": "2026-09-18T13:00:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6428f636d3f09b",
-      "title": "Los jóvenes beben menos alcohol y las tequileras ajustan estrategias para frenar la caída en sus ventas",
-      "url": "https://expansion.mx/empresas/2026/09/18/jovenes-beben-menos-alcohol-tequileras-ajustan-estrategias",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las marcas enfrentan a consumidores que reducen su ingesta y las han llevado a replantear productos, ocasiones y precios.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/25965b9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F13%2Fd7%2F0daa7c784157b20bd828190b33e6%2Fjovenes-beben-menos-tequila.jpeg",
-      "published": "2026-09-18T11:55:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "914fe9c7a660d1",
-      "title": "Con la Ley de Economía Digital, Sheinbaum quiere disminuir el uso de efectivo en México y 'despertar' a Codi y DiMo",
-      "url": "https://expansion.mx/economia/2026/09/18/sheinbaum-ley-economia-digital-pagos-codi-dimo",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El gobierno determinará en qué sectores de la economía no se aceptarán pagos con dinero físico. Especialistas advierten posibles riesgos en prevención de lavado de dinero y ejecución.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/696219a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff5%2F55%2Ff6432a19408ca5bbda5f637d0674%2Fcodi-pagos-digitales-mexico.jpeg",
-      "published": "2026-09-18T11:30:24+00:00",
       "score": null,
       "tags": []
     },
@@ -1037,30 +1109,6 @@
       "tags": []
     },
     {
-      "id": "ee59923ff74ca9",
-      "title": "Sorprendentes primeras imágenes de ‘Las Crónicas de Narnia: El sobrino del mago’, de la directora de ‘Barbie’ y con Meryl Streep como Aslan",
-      "url": "https://hipertextual.com/cine-television/sorprendentes-primeras-imagenes-de-las-cronicas-de-narnia-el-sobrino-del-mago-de-la-directora-de-barbie-y-con-meryl-streep-como-aslan/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Greta Gerwig, la directora de Barbie, ya está lista para volver a los cines y lo hará nada menos que con Las Crónicas de Narnia: El sobrino del mago. La cineasta adaptará la novela, precuela de El león, la bruja y el arm…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Las-cronicas-de-Narnia.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-18T08:13:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7bfc1878a8368f",
-      "title": "‘Tiempo de Victoria’ (★★★½☆), poderoso drama bélico del momento que cambió la Segunda Guerra Mundial",
-      "url": "https://hipertextual.com/cine-television/tiempo-de-victoria-critica/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Cada año se estrena en cines un potente drama sobre la Segunda Guerra Mundial que inevitablemente lleva al público a los cines. Y esta vez el turno es para Tiempo de Victoria, producción británica con Andrew Scott y Bren…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Tiempo-de-Victoria.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-18T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f6b15cc4ecf168",
       "title": "GTA VI The Album: Rockstar no te dará copia física del juego, pero te cobrará hasta 125 dólares por CDs y vinilos de música",
       "url": "https://www.muycomputer.com/2026/09/18/gta-vi-the-album-rockstar-no-te-dara-copia-fisica-del-juego-pero-te-cobrara-hasta-125-dolares-por-cds-y-vinilos-de-musica/",
@@ -1073,18 +1121,6 @@
       "tags": []
     },
     {
-      "id": "2f0f0f114b39a5",
-      "title": "‘En la zona gris’ (★★½☆☆), Henry Cavill, Jake Gyllenhaal y Eiza González salvan la última gamberrada de Guy Ritchie",
-      "url": "https://hipertextual.com/cine-television/en-la-zona-gris-critica/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Durante un tiempo, Guy Ritchie era sinónimo de calidad indiscutible. Su estilo único y frenético, su capacidad para dominar la cámara y los tempos y sus adictivas historias hacían de el un seguro cinematográfico. Y con l…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/En-la-zona-gris.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-18T07:00:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b4762c7a36564e",
       "title": "OpenAI crea un sistema para revelar fallos de alineamiento de sus modelos",
       "url": "https://www.muycomputer.com/2026/09/18/openai-crea-un-sistema-para-revelar-fallos-de-alineamiento-de-sus-modelos/",
@@ -1093,18 +1129,6 @@
       "summary": "Un modelo de inteligencia artificial puede superar miles de pruebas y, aun así, encontrar en una situación concreta un camino que nadie había previsto. Puede ocultar información, utilizar una herramienta sin permiso o bu…",
       "image": null,
       "published": "2026-09-18T06:03:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "85f3c2f4c6a2b5",
-      "title": "‘Coyote vs. ACME’ (★★★★☆), la divertidísima película que Warner Bros. no quería que vieras",
-      "url": "https://hipertextual.com/cine-television/coyote-vs-acme-critica/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Por fin se estrena en cines Coyote vs. ACME, la nueva película de los Looney Toones que mezcla animación con imagen real. Y digo por fin porque durante mucho tiempo parecía que jamás llegaríamos a verla. Porque aunque el…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Coyote-vs-ACME.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-18T06:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1157,18 +1181,6 @@
       "tags": []
     },
     {
-      "id": "df3d1dff04b6d0",
-      "title": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
-      "url": "https://expansion.mx/empresas/2026/09/17/femsa-oxxo-imperio-negocios-estados-unidos-europa",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/4478c23/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0d%2F82%2F730005ac433989612baedb67922b%2Foxxo.jpeg",
-      "published": "2026-09-18T01:38:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6ceb57f50a818b",
       "title": "México enfrenta el reto de convertir la inversión extranjera directa en nuevos proyectos",
       "url": "https://www.altonivel.com.mx/mexico-enfrenta-el-reto-de-convertir-la-inversion-extranjera-directa-en-nuevos-proyectos/",
@@ -1201,18 +1213,6 @@
       "summary": "La Fed elevó su tasa a 3.75%-4%, mientras Banxico mantiene la suya en 6.50%, reduciendo el diferencial que durante años favoreció al peso mexicano. The post ¿Adiós al superpeso? Diferencial entre la Fed y Banxico cae a m…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/06/peso-dolar-1-jpg.webp",
       "published": "2026-09-17T20:00:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "18ffd902a2bb0c",
-      "title": "Microsoft critica a Anthropic por tratar a Claude como una persona que «sufre»",
-      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-ai-critica-anthropic-bienestar-modelos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "El jefe de inteligencia artificial de Microsoft ha cuestionado a Anthropic y su idea de que Claude podría tener consciencia. Mustafa Suleyman se pronunció sobre la polémica que gira en torno a los modelos más poderosos d…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/08/apple-irobot.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-17T18:13:10+00:00",
       "score": null,
       "tags": []
     },
@@ -1369,18 +1369,6 @@
       "summary": "Una investigación reveló que el sistema ACR y las fallas de software permiten a las pantallas registrar conversaciones, escanear redes WiFi y rastrear...",
       "image": "https://www.fayerwayer.com/resizer/v2/BXVQPPGSQJGYJC37BMARWZDLAY.jpeg?auth=1e3f81ea4fbda530393bec2bf650febad2a03496d219739c738a42c4407ca410&smart=true&width=1200&height=896",
       "published": "2026-09-17T13:44:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ac9325073cc48b",
-      "title": "Irán golpea a EE.UU. y su tecnología militar: Imágenes que confirman la destrucción de un radar AWACS E-3 y sistemas THAAD",
-      "url": "https://www.fayerwayer.com/internet/2026/09/17/iran-golpea-a-eeuu-y-su-tecnologia-militar-imagenes-que-confirman-la-destruccion-de-un-radar-awacs-e-3-y-sistemas-thaad/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Análisis tecnológico de las imágenes filtradas de bases militares de EE.UU. en Medio Oriente. Falla de radares E-3, THAAD y precisión de municiones iraníes",
-      "image": "https://www.fayerwayer.com/resizer/v2/KTOCWEOTXFBFZM3N6DRQMV6YHM.png?auth=0f6a2373fd9bab680f9f81888dce53675012420bd30353d4c68ded6455ce5f7c&smart=true&width=1226&height=690",
-      "published": "2026-09-17T12:59:10+00:00",
       "score": null,
       "tags": []
     },

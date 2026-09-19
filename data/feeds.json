@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-09-19T03:27:40.994988+00:00",
-    "total": 188
+    "generated": "2026-09-19T10:25:34.465463+00:00",
+    "total": 179
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Muchas veces nos enfocamos en la oratoria y las habilidades interpersonales, pero ¿qué hay del poder de la palabra escrita en el liderazgo? Aquí te explicamos por qué dominar esta habilidad subestimada es un gran diferen…",
       "image": null,
-      "published": "2026-09-19T03:27:39.437750+00:00",
+      "published": "2026-09-19T10:25:32.963757+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La innovación no surge de llenar la sala de juntas de expertos, sino de escuchar a quienes no estás tomando en cuenta. The post Por qué las mejores ideas de negocio vienen de quienes no estás escuchando appeared first on…",
       "image": null,
-      "published": "2026-09-19T03:27:39.437479+00:00",
+      "published": "2026-09-19T10:25:32.963279+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "La mayoría de los líderes no se dan cuenta de dónde está fallando su impacto... hasta que es demasiado tarde. Aquí hay una forma sencilla de detectarlo en tiempo real. The post Las 3 preguntas que uso para auditar mi lid…",
       "image": null,
-      "published": "2026-09-19T03:27:39.437193+00:00",
+      "published": "2026-09-19T10:25:32.962823+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Los emprendedores están descubriendo que el verdadero reto ya no es la velocidad de producción, sino destacar en un panorama donde todo empieza a sonar igual. The post Ahora todos tienen acceso a la IA. Esto es lo que re…",
       "image": null,
-      "published": "2026-09-19T03:27:39.436851+00:00",
+      "published": "2026-09-19T10:25:32.962337+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La capital de México es considerada como uno de los principales epicentros tecnológicos en la región, gracias a la inversión y al fomento de la innovación. The post La Ciudad de México quiere llevar a otro nivel su apues…",
       "image": null,
-      "published": "2026-09-19T03:27:39.436562+00:00",
+      "published": "2026-09-19T10:25:32.961855+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Evalúa tu preparación frente a los tres pilares clave del éxito como solopreneur. The post ¿Tienes lo necesario para ser un solopreneur? Responde estas 3 preguntas antes de dar el salto appeared first on Entrepreneur en …",
       "image": null,
-      "published": "2026-09-19T03:27:39.435301+00:00",
+      "published": "2026-09-19T10:25:32.960236+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "La mayoría de los emprendedores saben cómo establecer metas, pero pocos saben cómo hacer una pausa, reflexionar y asegurarse de que esas metas realmente se alineen con la vida que quieren. The post 3 preguntas que te dar…",
       "image": null,
-      "published": "2026-09-19T03:27:39.434993+00:00",
+      "published": "2026-09-19T10:25:32.959761+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Al contratar líderes, es importante reconocer que beneficios superficiales como los sofás cómodos y la kombucha no garantizan el éxito organizacional. En cambio, alinear el liderazgo con los valores fundamentales de la e…",
       "image": null,
-      "published": "2026-09-19T03:27:39.434671+00:00",
+      "published": "2026-09-19T10:25:32.959235+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Algunos segmentos avanzan a doble dígito y otros casi no se mueven. Las cifras muestran dónde está la oportunidad y qué separa a los negocios que duran. The post Qué separa a los negocios y productos de wellness que dura…",
       "image": null,
-      "published": "2026-09-19T03:27:39.434360+00:00",
+      "published": "2026-09-19T10:25:32.958756+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,259 @@
       "category": "startup",
       "summary": "La infraestructura de pagos en México ya resolvió la velocidad. Lo que viene es integrarla tanto a otras experiencias que el acto de pagar deje de sentirse como un paso aparte. The post Pagos invisibles: la siguiente eta…",
       "image": null,
-      "published": "2026-09-19T03:27:39.434019+00:00",
+      "published": "2026-09-19T10:25:32.958191+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c632c063e55383",
+      "title": "La batería más famosa de BYD tiene un nuevo destino: los trenes que mueven minas en China",
+      "url": "https://www.xataka.com/movilidad/bateria-famosa-byd-tiene-nuevo-destino-trenes-que-mueven-minas-china",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Una de las grandes bazas de los coches eléctricos de BYD son sus baterías tipo blade , que ya han demostrado su rendimiento, velocidad de carga o incluso rizar el rizo y cargarse rápidamente incluso en condiciones desfav…",
+      "image": "https://i.blogs.es/3e91ed/blade/1024_2000.jpeg",
+      "published": "2026-09-19T10:16:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "51d05a26014a60",
+      "title": "Durante años, los restaurantes abrazaron los móviles en la mesa. Ahora una idea está ganando fuerza: son los nuevos cigarrillos",
+      "url": "https://www.xataka.com/magnet/durante-anos-restaurantes-abrazaron-moviles-mesa-ahora-idea-esta-ganando-fuerza-nuevos-cigarrillos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Durante años, sacar el móvil en un restaurante pasó de ser una rareza a formar parte del propio ritual de comer fuera: fotografiar el plato, responder un mensaje, mirar Instagram o grabar un vídeo antes de coger el tened…",
+      "image": "https://i.blogs.es/8ebae1/bracelets-camera-cellphone-close-up-a6dce574f720a9f3ea807590861b5a58/1024_2000.jpeg",
+      "published": "2026-09-19T10:00:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a23927a4ae3fa1",
+      "title": "WhatsApp te va a pedir una contraseña para entrar: deja lo que estás haciendo y configúrala en menos de 1 minuto",
+      "url": "https://hipertextual.com/tecnologia/whatsapp-te-va-a-pedir-una-contrasena-para-entrar-deja-lo-que-estas-haciendo-y-configurala-en-menos-de-1-minuto/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "WhatsApp acaba de cambiar una dinámica clave en la app que debes conocer. La ha anunciado hoy mismo a través de su canal de novedades, y es probable que al abrir la app te haya saltado el mensaje. Si lo has visto y has p…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/whatsapp-silencio-.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ce239057ebae05",
+      "title": "Aragón se está llenando de centros de datos, así que la Universidad de Zaragoza ha lanzado 39 cursos para nutrir los datacenters",
+      "url": "https://www.xataka.com/robotica-e-ia/aragon-se-esta-llenando-centros-datos-asi-que-universidad-zaragoza-ha-lanzado-39-cursos-para-nutrir-datacenters",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Empieza el curso y como es habitual en estas fechas, las universidades traen novedades académicas. En el caso de la Universidad de Zaragoza, llegan con una orientación clara : formar personal para los centros de datos. L…",
+      "image": "https://i.blogs.es/32956d/data/1024_2000.jpeg",
+      "published": "2026-09-19T09:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d43304e2ebf396",
+      "title": "GameNative mejora Steam en Android y ya mueve GTA V y RDR2",
+      "url": "https://www.muycomputer.com/2026/09/19/gamenative-mejora-steam-en-android-y-ya-mueve-gta-v-y-rdr2/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Conseguir que un juego de PC funcione en Android ya supone resolver suficientes piezas como para que cualquier elemento adicional pueda convertirse en otro pequeño muro. Y los juegos modernos suelen traer unos cuantos: S…",
+      "image": null,
+      "published": "2026-09-19T09:04:51+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "812f1e40026322",
+      "title": "La IA está creando millonarios a un ritmo frenético en Silicon Valley. El problema es que muchos no saben qué hacer con su dinero",
+      "url": "https://www.xataka.com/empresas-y-economia/ia-esta-creando-millonarios-a-ritmo-frenetico-silicon-valley-problema-que-muchos-no-saben-que-hacer-su-dinero",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Michia Rohrssen creció viendo sufrir a su madre por un coche que no podían arreglar. A veces tampoco había dinero para comer ni para pagar el alquiler. Con 31 años recién cumplidos, Rohrssen vendió Prodigy, la empresa de…",
+      "image": "https://i.blogs.es/7faaad/danka-peter-l0o1rfqupuy-unsplash/1024_2000.jpeg",
+      "published": "2026-09-19T09:00:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8e155663e9239d",
+      "title": "Con este simple truco puedes instalar Windows 11 sin una cuenta de Microsoft",
+      "url": "https://hipertextual.com/software/truco-instalar-windows-11-sin-cuenta-microsoft/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Usar Windows 11 sin una cuenta de Microsoft se está volviendo casi imposible. Microsoft lleva meses cerrando cualquier hueco que permita instalar el sistema operativo a la vieja usanza, con una cuenta local de administra…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-11.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T09:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a10df136e3a98c",
+      "title": "Las mejores ofertas de El Corte Inglés durante sus Súper Tecnoprecios, hoy 19 de septiembre",
+      "url": "https://www.xataka.com/seleccion/mejores-ofertas-corte-ingles-durante-sus-super-tecnoprecios-hoy-19-septiembre",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Corte Inglés está celebrando unos nuevos Súper Tecnoprecios con ofertas muy interesantes en electrónica. Por ello, en este artículo vamos a repasar los mejores chollos que estarán disponibles durante el fin de semana,…",
+      "image": "https://i.blogs.es/c674ae/el-corte-ingles/1024_2000.jpeg",
+      "published": "2026-09-19T08:46:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "dd9424df9eebf4",
+      "title": "LG gram Pro Chocolate, análisis: el gram que por fin se atreve a no ser gris",
+      "url": "https://www.xataka.com/analisis/lg-gram-pro-chocolate-analisis-caracteristicas-precio-especificaciones",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hay un perfil de usuario para el que el debate entre portabilidad y tamaño de pantalla siempre ha tenido una respuesta incómoda. El que trabaja con líneas de tiempo en editores de vídeo, con capas en editores gráficos o …",
+      "image": "https://i.blogs.es/eb3156/lg-gram-chocolate-2026-xataka-analisis-13/1024_2000.jpeg",
+      "published": "2026-09-19T08:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "43d901a300a4a9",
+      "title": "No hay marca de móviles que sea eterna, por muy exitosa que sea: así ha cambiado la cuota de mercado en casi 20 años",
+      "url": "https://www.xataka.com/moviles/no-hay-marca-moviles-que-sea-eterna-exitosa-que-sea-asi-ha-cambiado-cuota-mercado-casi-20-anos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Mi primer móvil fue el mítico Alcatel One Touch Easy , lo recuerdo con mucho cariño y alegría porque fue un buen terminal para los estándares de la época. De hecho, después tuve otro de esa misma marca que era tremendame…",
+      "image": "https://i.blogs.es/2008f8/mooooo/1024_2000.jpeg",
+      "published": "2026-09-19T08:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4270707ee2e998",
+      "title": "Mucho ojo con este nuevo malware: puede instalar extensiones de Chrome y robar todos tus datos",
+      "url": "https://hipertextual.com/seguridad/nuevo-malware-kremlin-instala-extensiones-de-chrome-y-roba-tus-datos/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Un nuevo malware llamado KREMLIN está causando estragos, pues instala extensiones de Chrome sin que te des cuenta y roba tus datos. Según se reporta, el software malicioso procede de Brasil y en el último tiempo expandió…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/malware-chrome.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T08:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0a473db7ff1c03",
+      "title": "Creality K2 Combo, análisis: robustez y calidad multicolor al alcance de todos",
+      "url": "https://www.muycomputer.com/2026/09/19/creality-k2-combo-analisis/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "La impresión 3D ha cambiado por completo en muy poco tiempo. Lo que antes era un pasatiempo complejo que requería montar piezas a mano, pelearse con la calibración y tener bastantes conocimientos técnicos, hoy es una tec…",
+      "image": null,
+      "published": "2026-09-19T07:02:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "de4e146a45f479",
+      "title": "El escáner definitivo para saber qué esconde cualquier página web",
+      "url": "https://hipertextual.com/guias/escanear-analizar-paginas-web-web-check-seguridad/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Internet es un inmenso e inabarcable espacio virtual en el que miles de millones de personas interactúan con máquinas, bots y otras personas. Y como ocurre en el mundo físico, hay lugares que todos recomiendan visitar y …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Laptop-Escaner-Paginas-Web-Internet.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-09-19T07:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b19850abba70d0",
+      "title": "Batman Day 2026: Dónde ver Batman: El Caballero de la noche, la mejor película calificada de Nolan",
+      "url": "https://www.merca20.com/batman-day-2026-donde-ver-batman-el-caballero-de-la-noche-la-mejor-pelicula-calificada-de-nolan/?utm_source=rss&utm_medium=rss&utm_campaign=batman-day-2026-donde-ver-batman-el-caballero-de-la-noche-la-mejor-pelicula-calificada-de-nolan",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Conoce cuál es la mejor película de Batman para que puedas maratonear a gusto durante El Batman Day: 2025",
+      "image": "https://files.merca20.com/uploads/2024/09/Batman-Day.jpg",
+      "published": "2026-09-19T05:54:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2052fe62036bc0",
+      "title": "Cómo activar el detector de sismos en el celular antes del Mega Simulacro México 2026, explicación fácil",
+      "url": "https://www.merca20.com/como-activar-el-detector-de-sismos-en-el-celular-antes-del-mega-simulacro-mexico-2026-explicacion-facil/?utm_source=rss&utm_medium=rss&utm_campaign=como-activar-el-detector-de-sismos-en-el-celular-antes-del-mega-simulacro-mexico-2026-explicacion-facil",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Aprende a instalar y configurar SASSLA en iPhone o Android. Revisa los permisos, la conexión a internet y la cobertura para recibir la alerta sísmica.",
+      "image": "https://files.merca20.com/uploads/2026/09/Como-activar-el-detector-de-sismos-en-el-celular-antes-del-Mega-SImulacro-Mexico-2026-explicacion-facil-.jpg",
+      "published": "2026-09-19T05:50:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6773e1d8d0cfc3",
+      "title": "Cuál es el mejor lugar para resguardarse durante un sismo, esto recomienda Protección Civil en México",
+      "url": "https://www.merca20.com/lugar-seguro-durante-sismo-proteccion-civil-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=lugar-seguro-durante-sismo-proteccion-civil-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Dónde resguardarte durante un sismo? Protección Civil explica cómo identificar una zona de menor riesgo en un edificio y qué hacer si estás en la calle.",
+      "image": "https://files.merca20.com/uploads/2026/09/Cual-es-el-mejor-lugar-para-resguardarse-durante-un-sismo-esto-recomienda-Proteccion-Civil-en-Mexico-.jpg",
+      "published": "2026-09-19T05:40:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7ad6b501594bf5",
+      "title": "Calendario Escolar SEP: Educación suspende clases el próximo 25 de septiembre y confirma el segundo puente de septiembre",
+      "url": "https://www.merca20.com/calendario-escolar-sep-educacion-suspende-clases-el-proximo-25-de-septiembre-y-confirma-el-segundo-puente-de-septiembre/?utm_source=rss&utm_medium=rss&utm_campaign=calendario-escolar-sep-educacion-suspende-clases-el-proximo-25-de-septiembre-y-confirma-el-segundo-puente-de-septiembre",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El ciclo escolar 2026-2027 comenzará el 31 de agosto y tendrá su primera suspensión el 16 de septiembre por el Día de la Independencia y la segunda el 25 de septiembre",
+      "image": "https://files.merca20.com/uploads/2026/09/Calendario-Escolar-SEP-GEMINI-IA.jpg",
+      "published": "2026-09-19T05:16:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c17ab7a124bad",
+      "title": "Servicio Geológico de Estados Unidos revela si existen personas que presienten terremotos",
+      "url": "https://www.merca20.com/personas-presienten-terremotos-sintomas-respuesta-cientificos-usgs/?utm_source=rss&utm_medium=rss&utm_campaign=personas-presienten-terremotos-sintomas-respuesta-cientificos-usgs",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El USGS responde si algunas personas pueden presentir terremotos y explica por qué los síntomas que describen no permiten anticipar un sismo.",
+      "image": "https://files.merca20.com/uploads/2026/09/Servicio-Geologico-de-Estados-Unidos-revela-si-existen-personas-que-presienten-terremotos-.jpg",
+      "published": "2026-09-19T05:08:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "479c5ba4157f0a",
+      "title": "Por qué los sismos no se pueden predecir, Servicio Geológico de Estados Unidos explica las 3 condiciones que nadie ha logrado cumplir",
+      "url": "https://www.merca20.com/se-puede-predecir-un-sismo-respuesta-cientificos-usgs/?utm_source=rss&utm_medium=rss&utm_campaign=se-puede-predecir-un-sismo-respuesta-cientificos-usgs",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Se puede predecir un sismo? El USGS explica por qué no basta con anunciar que temblará: una predicción debe acertar cuándo, dónde y con qué magnitud.",
+      "image": "https://files.merca20.com/uploads/2026/09/Por-que-los-sismos-no-se-pueden-predecir-Servicio-Geologico-de-Estados-Unidos-explica-las-3-condiciones-que-nadie-ha-logrado-cumplir-.jpg",
+      "published": "2026-09-19T04:37:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "128c03e921d811",
+      "title": "3,300 años después, la tumba de Nefertiti podría estar a centímetros de ser descubierta",
+      "url": "https://www.merca20.com/3300-anos-despues-la-tumba-de-nefertiti-podria-estar-a-centimetros-de-ser-descubierta/?utm_source=rss&utm_medium=rss&utm_campaign=3300-anos-despues-la-tumba-de-nefertiti-podria-estar-a-centimetros-de-ser-descubierta",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Detectan algo extraño bajo la tumba de Tutankamón: podría cambiar la historia de Egipto",
+      "image": "https://files.merca20.com/uploads/2026/09/tumba-nefertiti-gemini-ia.jpg",
+      "published": "2026-09-19T04:05:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "88455e966cfd20",
+      "title": "Científicos y geólogos de USGS responden si los animales pueden predecir terremotos",
+      "url": "https://www.merca20.com/animales-pueden-predecir-terremotos-respuesta-cientificos-usgs/?utm_source=rss&utm_medium=rss&utm_campaign=animales-pueden-predecir-terremotos-respuesta-cientificos-usgs",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El USGS explica qué perciben los animales antes de un terremoto y por qué sus reacciones todavía no permiten predecir cuándo ocurrirá un sismo.",
+      "image": "https://files.merca20.com/uploads/2026/09/Cientificos-y-geologos-de-USGS-responden-si-los-animales-pueden-predecir-terremotos-.jpg",
+      "published": "2026-09-19T03:50:01+00:00",
       "score": null,
       "tags": []
     },
@@ -401,30 +653,6 @@
       "tags": []
     },
     {
-      "id": "ef8cdac883d5af",
-      "title": "¿A qué hora y qué día llega Toy Story 5 a Disney Plus en México?",
-      "url": "https://www.merca20.com/a-que-hora-y-que-dia-llega-toy-story-5-a-disney-plus-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=a-que-hora-y-que-dia-llega-toy-story-5-a-disney-plus-en-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Pixar confirmó la fecha en la que Toy Story 5 llegará a Disney Plus, así que pronto podrás verla desde tu hogar",
-      "image": "https://files.merca20.com/uploads/2026/07/Toy-Story-5-1.2.jpg",
-      "published": "2026-09-18T18:45:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "54f59c16331bb2",
-      "title": "Hershey’s hace que todo salga mal en su nuevo comercial para vender chocolate como antídoto contra un mal día",
-      "url": "https://www.merca20.com/hersheys-nuevo-comercial-chocolate-mal-dia-india/?utm_source=rss&utm_medium=rss&utm_campaign=hersheys-nuevo-comercial-chocolate-mal-dia-india",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Hershey’s India y TBWA\\Lintas convierten una cadena de desgracias en un comercial donde el chocolate ofrece una pausa. Conoce la nueva campaña.",
-      "image": "https://files.merca20.com/uploads/2026/09/Hersheys-hace-que-todo-salga-mal-en-su-nuevo-comercial-para-vender-chocolate-como-antidoto-contra-un-mal-dia-.jpg",
-      "published": "2026-09-18T18:39:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "046cca55904ef2",
       "title": "Expulsar a los alumnos por mal comportamiento no funciona como pensábamos. La ciencia propone otra vía",
       "url": "https://www.xataka.com/investigacion/expulsar-a-alumnos-mal-comportamiento-no-funciona-como-pensabamos-ciencia-propone-otra-via",
@@ -445,42 +673,6 @@
       "summary": "La serie live-action de Far Cry avanza a paso firme con su desarrollo, confirmando un nuevo lote de protagonistas. El proyecto de FX, que se emitirá a nivel internacional a través de Disney+ y Hulu, ha sumado cinco ficha…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/06/far-cry-6-scaled.jpeg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-18T18:30:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4b785de207da49",
-      "title": "Maybelline liquida labiales, maquillaje, tinta para labios, corrector y gel de cejas: hay varios tonos y precios mínimos históricos",
-      "url": "https://www.merca20.com/maybelline-liquida-labiales-maquillaje-tinta-para-labios-corrector-y-gel-de-cejas-hay-varios-tonos-y-precios-minimos-historicos/?utm_source=rss&utm_medium=rss&utm_campaign=maybelline-liquida-labiales-maquillaje-tinta-para-labios-corrector-y-gel-de-cejas-hay-varios-tonos-y-precios-minimos-historicos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las ofertas de Maybelline en Mercado Libre pueden ser una buena oportunidad para comprar productos básicos de maquillaje a precios más bajos que los habituales",
-      "image": "https://files.merca20.com/uploads/2024/06/MAYBELLINE-Superstay-Matte-Ink.jpg",
-      "published": "2026-09-18T18:21:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e6091765e54733",
-      "title": "¿Checo Pérez llegará a McDonald’s? La foto que lo acerca a la marca y encendió las redes",
-      "url": "https://www.merca20.com/checo-perez-llegara-a-mcdonalds-la-foto-que-lo-acerca-a-la-marca-y-encendio-las-redes/?utm_source=rss&utm_medium=rss&utm_campaign=checo-perez-llegara-a-mcdonalds-la-foto-que-lo-acerca-a-la-marca-y-encendio-las-redes",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "McDonald’s volvió a generar conversación alrededor de la Fórmula 1 con una publicación que rápidamente llamó la atención de sus seguidores",
-      "image": "https://files.merca20.com/uploads/2026/09/MCDONALDS-CHECO-F1.jpg",
-      "published": "2026-09-18T18:21:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "19f7d4b53b80c8",
-      "title": "Mamá Lucha salió de la tienda para llevar la celebración y la emoción de la lucha libre a las familias durante los festejos patrios en Coyoacán",
-      "url": "https://www.merca20.com/mama-lucha-salio-de-la-tienda-para-llevar-la-celebracion-y-la-emocion-de-la-lucha-libre-a-las-familias-durante-los-festejos-patrios-en-coyoacan/?utm_source=rss&utm_medium=rss&utm_campaign=mama-lucha-salio-de-la-tienda-para-llevar-la-celebracion-y-la-emocion-de-la-lucha-libre-a-las-familias-durante-los-festejos-patrios-en-coyoacan",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Bodega Aurrera participó por primera vez en los festejos patrios organizados por la alcaldía Coyoacán, acercándose a las familias también fuera de sus tiendas.",
-      "image": "https://files.merca20.com/uploads/2020/09/Bodega-Aurrera-scaled.jpg",
-      "published": "2026-09-18T18:20:48+00:00",
       "score": null,
       "tags": []
     },
@@ -529,42 +721,6 @@
       "summary": "La primera vez que se encontró agua en la Luna, aunque fuese solo en forma de hielo, fue una grandísima noticia. Significaba que, si un día los humanos la colonizan, podrían obtener agua para subsistir. Con el tiempo y l…",
       "image": "https://i.blogs.es/d2744d/ciudad-en-la-luna/1024_2000.jpeg",
       "published": "2026-09-18T18:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4d4323c067860e",
-      "title": "Profeco analiza 24 marcas de bebidas energéticas  con cafeína en México y concluye cuál es la menos dañina y con más nutrientes",
-      "url": "https://www.merca20.com/profeco-analiza-24-marcas-de-bebidas-energeticas-con-cafeina-en-mexico-y-concluye-cual-es-la-menos-danina-y-con-mas-nutrientes/?utm_source=rss&utm_medium=rss&utm_campaign=profeco-analiza-24-marcas-de-bebidas-energeticas-con-cafeina-en-mexico-y-concluye-cual-es-la-menos-danina-y-con-mas-nutrientes",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Más de la mitad de las bebidas energéticas analizadas por Profeco rebasan el límite diario de azúcar recomendado",
-      "image": "https://files.merca20.com/uploads/2026/09/bebidas.jpg",
-      "published": "2026-09-18T17:55:36+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f83e9079247f4b",
-      "title": "Así es la nueva Geely Monjaro EM-i que llegará a México; características y lo que debes saber de esta SUV híbrida enchufable",
-      "url": "https://www.merca20.com/asi-es-la-nueva-geely-monjaro-em-i-que-llegara-a-mexico-caracteristicas-y-lo-que-debes-saber-de-esta-suv-hibrida-enchufable/?utm_source=rss&utm_medium=rss&utm_campaign=asi-es-la-nueva-geely-monjaro-em-i-que-llegara-a-mexico-caracteristicas-y-lo-que-debes-saber-de-esta-suv-hibrida-enchufable",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Geely prepara la llegada a México de Monjaro EM-i, una nueva SUV híbrida enchufable que amplía la oferta electrificada de la marca",
-      "image": "https://files.merca20.com/uploads/2026/09/GEELY-LLEGA-MEX.jpg",
-      "published": "2026-09-18T17:54:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1bced897201cd1",
-      "title": "La estrategia de marketing de Sony para revivir el PSP declarando la guerra a Nintendo Switch en portátiles",
-      "url": "https://www.merca20.com/la-estrategia-de-marketing-de-sony-para-revivir-el-psp-declarando-la-guerra-a-nintendo-switch-en-portatiles/?utm_source=rss&utm_medium=rss&utm_campaign=la-estrategia-de-marketing-de-sony-para-revivir-el-psp-declarando-la-guerra-a-nintendo-switch-en-portatiles",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "24 GB de RAM y chip de 3 nm: así sería la nueva PSP de Sony, aunque su precio no sería nada barato",
-      "image": "https://files.merca20.com/uploads/2026/09/PSP-3-IA-GEMINI.jpg",
-      "published": "2026-09-18T17:45:49+00:00",
       "score": null,
       "tags": []
     },
@@ -653,18 +809,6 @@
       "tags": []
     },
     {
-      "id": "404d44cbb2d285",
-      "title": "Este combo (disponible en Amazon) soluciona dos aspectos clave de Switch 2: mejora su ergonomía y la protege mientras no juegas",
-      "url": "https://www.xataka.com/seleccion/este-combo-disponible-amazon-soluciona-dos-aspectos-clave-switch-2-mejora-su-ergonomia-protege-no-juegas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Desde hace unas pocas semanas, comprar Nintendo Switch 2 es más caro: su PVP ha aumentado a 499,99 euros , aunque es fácil seguir encontrándola por debajo de esa cifra en muchas tiendas. Una consola muy interesante a amb…",
-      "image": "https://i.blogs.es/c4601a/switch-2-grips/1024_2000.jpeg",
-      "published": "2026-09-18T16:46:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ad77a149d732cc",
       "title": "RPCS3 consigue hasta un 37% más de rendimiento en GPUs NVIDIA",
       "url": "https://www.muycomputer.com/2026/09/18/rpcs3-consigue-hasta-un-37-mas-de-rendimiento-en-gpus-nvidia/",
@@ -689,18 +833,6 @@
       "tags": []
     },
     {
-      "id": "f6b7c8d0f16ae2",
-      "title": "'GTA VI': a dos meses de su salida, el juego de Rockstar ya muestra una de sus mayores limitaciones",
-      "url": "https://www.xataka.com/videojuegos/gta-vi-a-dos-meses-su-salida-juego-rockstar-muestra-sus-mayores-limitaciones",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "' GTA VI ' promete un mundo inmenso en el que Jason y Lucia podrán sembrar el caos juntos o por separado, al menos en teoría. Y es que a solo dos meses de su lanzamiento, Rockstar ha confirmado que esa libertad tendrá ci…",
-      "image": "https://i.blogs.es/862721/original/1024_2000.jpeg",
-      "published": "2026-09-18T16:30:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f292f4beaa9965",
       "title": "Rusia confisca Nestlé y deja sus marcas bajo control ruso; ¿qué pasará con Nescafé y KitKat?",
       "url": "https://expansion.mx/empresas/2026/09/18/rusia-confisca-nestle-que-pasara-con-nescafe-kitkat",
@@ -709,30 +841,6 @@
       "summary": "El decreto de Putin también alcanza a Auchan, Lemana Pro y FM Logistic, mientras Nestlé evalúa cómo proteger sus derechos en Rusia.",
       "image": "https://cdn-3.expansion.mx/dims4/default/3edbf66/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6e%2Fed%2F6bd63e584a3291675c5fbe1d9322%2Fvladimir-putin-rusia-nestle.jpg",
       "published": "2026-09-18T16:26:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fe1184465ab82c",
-      "title": "Un equipo de científicos de Chile acaba de descubrir el planeta más joven que se ha detectado jamás",
-      "url": "https://www.xataka.com/espacio/descubren-planeta-joven-jamas-visto-tiene-millon-anos-desafia-todo-que-creiamos-formacion-planetaria",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Un equipo de científicos de la Universidad Diego Portales, de Chile , acaba de descubrir el planeta más joven que se ha detectado jamás. Tiene menos de un millón de años, lo cual podría parecernos mucho, pero a escalas c…",
-      "image": "https://i.blogs.es/b396c9/elias-planetas-jovenes/1024_2000.jpeg",
-      "published": "2026-09-18T16:16:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "087fcf8a4e0ca7",
-      "title": "El alcohol está de capa caída y en Euskadi no creen que sea impedimento para divertirse: llegan las barras \"light\" a Bizkaia",
-      "url": "https://www.xataka.com/magnet/euskadi-apuesta-salir-fiesta-alcohol-llegan-barras-light-a-discotecas-bizkaia",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hace más de un año ya apuntábamos a una gran crisis del alcohol entre los jóvenes. Más allá de la presión social, esa vieja aliada , el bebercio tradicional está disminuyendo entre las generaciones actuales. Bajo este co…",
-      "image": "https://i.blogs.es/c39dd1/tardeo/1024_2000.jpeg",
-      "published": "2026-09-18T16:00:13+00:00",
       "score": null,
       "tags": []
     },
@@ -773,18 +881,6 @@
       "tags": []
     },
     {
-      "id": "db7c412053b8c7",
-      "title": "A medida que la desconfianza hacia Palantir se extiende por Europa, una empresa francesa quiere ser la alternativa",
-      "url": "https://www.xataka.com/seguridad/a-medida-que-desconfianza-palantir-se-extiende-europa-empresa-francesa-quiere-ser-alternativa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Palantir es el fabricante de software más enigmático de Silicon Valley. Según sus cuentas , vive un momento dulce, pero la empresa estadounidense fundada en 2004 por Peter Thiel y Alex Karp no es la que más simpatías y c…",
-      "image": "https://i.blogs.es/d8deda/chatgpt-image-18-sept-2026-11_51_35/1024_2000.png",
-      "published": "2026-09-18T15:30:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "5357417e79ab15",
       "title": "Warren Buffett deja la presidencia de Berkshire Hathaway; su hijo Howard lo sustituirá",
       "url": "https://www.altonivel.com.mx/warren-buffett-deja-la-presidencia-de-berkshire-hathaway-su-hijo-howard-lo-sustituira/",
@@ -809,18 +905,6 @@
       "tags": []
     },
     {
-      "id": "4484ba2c339d5b",
-      "title": "Bill Gates necesitaba talar cientos de árboles centenarios para hacer su mansión. Encontró un enemigo inesperado: el búho moteado",
-      "url": "https://www.xataka.com/empresas-y-economia/bill-gates-necesitaba-talar-cientos-arboles-centenarios-para-hacer-su-mansion-encontro-enemigo-inesperado-buho-moteado",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Corría el año 1990 y, según Forbes , Bill Gates ya era una de las personas más ricas del mundo con una fortuna estimada en más de 2.900 millones de dólares y un solar vacío en Medina, a orillas del lago Washington. Gates…",
-      "image": "https://i.blogs.es/8ca131/magnific_crea-una-imagen-pasa-la-i_79y16xsjal/1024_2000.jpeg",
-      "published": "2026-09-18T15:16:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c5253c0859780f",
       "title": "El CEO de Twitch se va de lengua y revela cuándo se lanza el multijugador de ‘GTA 6’",
       "url": "https://hipertextual.com/videojuegos/ceo-twitch-lanzamiento-multijugador-gta-6-2027/",
@@ -829,18 +913,6 @@
       "summary": "Faltan apenas dos meses para el lanzamiento de GTA 6 y la expectación de todos van en franco ascenso. Tras el vistazo extendido que se difundió a finales de agosto, los fanáticos están tachando los días para por fin pone…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Jason_and_Lucia_01-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-18T15:09:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d0e7f370798731",
-      "title": "\"Nos da para comprarnos un coche\": la polémica de lo que ganan las gimnastas españolas por ser campeonas del mundo",
-      "url": "https://www.xataka.com/magnet/nos-da-para-comprarnos-coche-polemica-que-ganan-gimnastas-espanolas-ser-campeonas-mundo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Tras 35 años de sequía, la gimnasia rítmica española logró conquistar en agosto el máximo título mundial en Frankfurt. Las atletas españolas no se colgaban el oro al cuello desde 1991, un logro que se redobla por otras d…",
-      "image": "https://i.blogs.es/e8d0b8/usar/1024_2000.png",
-      "published": "2026-09-18T15:00:13+00:00",
       "score": null,
       "tags": []
     },
@@ -1109,18 +1181,6 @@
       "tags": []
     },
     {
-      "id": "c77cbc5d94f459",
-      "title": "Estas son las áreas de la UNAM mejor posicionadas en el mundo, según el Shanghai Ranking 2026",
-      "url": "https://expansion.mx/carrera/2026/09/17/areas-unam-mejor-posicionadas-mundo-shanghai-ranking-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El ranking internacional evalúa disciplinas académicas específicas y considera indicadores de investigación, publicaciones, impacto científico y colaboración internacional.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/18bc097/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1c%2F15%2Fcc43c895414289373d800b5164be%2Fdescarga.jpg",
-      "published": "2026-09-18T00:34:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "74553effcb4ceb",
       "title": "S&P 500 y Nasdaq rebotan más de 1%; Dow Jones sube 316 puntos, a un día del alza de la Fed",
       "url": "https://www.altonivel.com.mx/sp-500-y-nasdaq-rebotan-mas-de-1-dow-jones-sube-316-puntos-a-un-dia-del-alza-de-la-fed/",
@@ -1177,18 +1237,6 @@
       "summary": "Borges, Kafka, Joyce, Pessoa y otros grandes autores nunca ganaron el Nobel. En esta nota de opinión, Andrés García Barrios comparte una reflexión sobre la literatura, la libertad y la exclusión. The post Opinión | Cosmo…",
       "image": null,
       "published": "2026-09-17T17:28:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a5266af14ec208",
-      "title": "Bungie desmiente los rumores: no piensa fusionar ‘Destiny’ y ‘Marathon’",
-      "url": "https://hipertextual.com/videojuegos/bungie-desmiente-los-rumores-no-piensa-fusionar-destiny-y-marathon/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Que Bungie está pasando por uno de los momentos más complejos de su historia, no es novedad. Tras la conclusión de Destiny 2 y con Marathon sin despegar del todo, los rumores sobre el futuro del estudio que pertenece a P…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/11/Destiny-2-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-17T17:12:55+00:00",
       "score": null,
       "tags": []
     },
@@ -1289,18 +1337,6 @@
       "tags": []
     },
     {
-      "id": "b84aa6a6c06261",
-      "title": "‘GTA 6’ no tendrá versión en físico, pero sí una banda sonora original en CD y vinilo",
-      "url": "https://hipertextual.com/videojuegos/gta-6-banda-sonora-cd-vinilo/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "GTA 6 no tendrá una versión en físico real, pues no llegará en disco sino que los compradores solo recibirán un código de descarga en la caja. Sin embargo, Rockstar Games sí va a lanzar Grand Theft Auto VI: The Album, un…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/gta-6-banda-sonora-2-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-17T14:51:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8bdc8cfefda53d",
       "title": "Nadie te puede dar paz",
       "url": "https://www.psyciencia.com/nadie-te-puede-dar-paz/",
@@ -1337,18 +1373,6 @@
       "tags": []
     },
     {
-      "id": "274d20a0b75f38",
-      "title": "‘Call of Duty: Modern Warfare 4’ lanza el brutal tráiler de la campaña, con Mads Mikkelsen como villano",
-      "url": "https://hipertextual.com/videojuegos/call-of-duty-modern-warfare-4-trailer-campana/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Call of Duty: Modern Warfare 4 acaba de presentar el tráiler de la campaña, que ofrece un vistazo más detallado a la historia de la nueva entrega desarrollada por Infinity Ward. El avance se reveló como parte de la parti…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Modern-warfare-4.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-17T13:12:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ac9325073cc48b",
       "title": "Irán golpea a EE.UU. y su tecnología militar: Imágenes que confirman la destrucción de un radar AWACS E-3 y sistemas THAAD",
       "url": "https://www.fayerwayer.com/internet/2026/09/17/iran-golpea-a-eeuu-y-su-tecnologia-militar-imagenes-que-confirman-la-destruccion-de-un-radar-awacs-e-3-y-sistemas-thaad/",
@@ -1357,30 +1381,6 @@
       "summary": "Análisis tecnológico de las imágenes filtradas de bases militares de EE.UU. en Medio Oriente. Falla de radares E-3, THAAD y precisión de municiones iraníes",
       "image": "https://www.fayerwayer.com/resizer/v2/KTOCWEOTXFBFZM3N6DRQMV6YHM.png?auth=0f6a2373fd9bab680f9f81888dce53675012420bd30353d4c68ded6455ce5f7c&smart=true&width=1226&height=690",
       "published": "2026-09-17T12:59:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d81ec07a3d45b4",
-      "title": "Las GeForce RTX 60 y Radeon RX 10000 no llegarán hasta 2028, ¿por qué?",
-      "url": "https://www.muycomputer.com/2026/09/17/las-geforce-rtx-60-y-radeon-rx-10000-no-llegaran-hasta-2028/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Teníamos informaciones que indicaban que el lanzamiento de las GeForce RTX 60 y Radeon RX 10000 podría tener lugar a finales de 2027, pero según Kepler_L2, una fuente muy fiable, tanto NVIDIA como AMD han decidido retras…",
-      "image": null,
-      "published": "2026-09-17T12:42:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "74d5b855946827",
-      "title": "Denuvo acepta su derrota y no le queda otra que demandar al «asesino de DRMs»",
-      "url": "https://www.muycomputer.com/2026/09/17/denuvo-acepta-su-derrota-y-no-le-queda-otra-que-demandar-al-asesino-de-drms/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Los que nos leéis habitualmente ya sabéis qué es Denuvo y por qué genera tanto rechazo entre los jugadores de PC. Para los que no lo tenéis claro un resumen sencillo: es un sistema de protección contra la piratería de ju…",
-      "image": null,
-      "published": "2026-09-17T11:21:21+00:00",
       "score": null,
       "tags": []
     },
@@ -1409,18 +1409,6 @@
       "tags": []
     },
     {
-      "id": "1a0e7cbc511d21",
-      "title": "Xiaomi presenta 4 nuevos móviles con una batería increíble a un precio imbatible",
-      "url": "https://hipertextual.com/mobile/redmi-note-17-series-xiaomi/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Xiaomi sigue a la carga renovando su gama media y, como suele ser costumbre por estas fechas, lo hace con una nueva serie completa que lleva gran parte de su tecnología al rango de precio más interesante. REDMI Note 17 S…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/REDMI-Note-17-Pro-5G_eye-care-display-scaled.jpeg?fit=1024%2C682&quality=70&strip=all&ssl=1",
-      "published": "2026-09-17T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f63f12307d39d0",
       "title": "‘Naturaliza’: recursos gratuitos para trabajar la economía circular y la sostenibilidad",
       "url": "https://www.educaciontrespuntocero.com/noticias/gestion-residuos-educacion-ambiental-naturaliza-ecoembes/",
@@ -1441,18 +1429,6 @@
       "summary": "El iPhone Duo era solo el comienzo. Vendrá una segunda tanda de iPhones, incluida una nueva versión del iPhone Air.",
       "image": "https://www.fayerwayer.com/resizer/v2/PS3OZEH2XVAUZMIY3FNTBE7E64.jpg?auth=702b8051ccced636f8485194b4b1c82f21693b0e625a52bf8a71e14741c7156f&smart=true&width=1200&height=800",
       "published": "2026-09-17T06:21:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9ec6083619422b",
-      "title": "¿Cuál es la diferencia entre la granadina roja y la granadina azul? Te explicamos la ciencia de un “Terremoto” perfecto",
-      "url": "https://www.fayerwayer.com/ciencia/2026/09/17/cual-es-la-diferencia-entre-la-granadina-roja-y-la-granadina-azul-te-explicamos-la-ciencia-de-un-terremoto-perfecto/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Descubre las diferencias en ingredientes, densidad y química entre la granadina roja y azul, y la fórmula científica para lograr el Terremoto perfecto.",
-      "image": "https://www.fayerwayer.com/resizer/v2/7B7G77U2MNDIBPP5RBGZUSGUHE.png?auth=fd6ec6c1a521bbde6dcc14c6fa9f395b6eb10d5c445d61e54aaec36d14ce0b51&smart=true&width=1428&height=796",
-      "published": "2026-09-17T06:08:50+00:00",
       "score": null,
       "tags": []
     },
@@ -1541,18 +1517,6 @@
       "tags": []
     },
     {
-      "id": "bfe51337e63e9f",
-      "title": "¿La IA se va a rebelar contra los humanos? Este es el riesgo real",
-      "url": "https://www.fayerwayer.com/internet/2026/09/17/la-ia-se-va-a-rebelar-contra-los-humanos-este-es-el-riesgo-real/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Experto de IBERO cuestiona el temor a perder el control de la IA y señala dónde está el peligro",
-      "image": "https://www.fayerwayer.com/resizer/v2/2F7KZTQUUZC3JKJQMFLS2X5LDM.png?auth=850b5862367879e2305f12e76580d936c896e8456b23f41e38c9ab46949d427e&smart=true&width=1672&height=941",
-      "published": "2026-09-16T22:33:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "69709111d534db",
       "title": "¿Faltan terapeutas varones?",
       "url": "https://www.psyciencia.com/que-pasara-cuando-no-hayan-terapeutas-varones/",
@@ -1561,66 +1525,6 @@
       "summary": "Leí recientemente un reportaje de Pamela Paul para The Wall Street Journal que argumenta que la psicología se ha convertido en una profesión dominada por mujeres y su impacto en…",
       "image": null,
       "published": "2026-09-16T22:32:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "90c70143a94dc8",
-      "title": "¿Te suspendieron la línea de celular? Así podrás reactivarla si termina en 2",
-      "url": "https://www.fayerwayer.com/moviles/2026/09/16/te-suspendieron-la-linea-de-celular-asi-podras-reactivarla-si-termina-en-2/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La suspensión podrá realizarse dentro de las 72 horas siguientes al primer minuto del 16 de septiembre",
-      "image": "https://www.fayerwayer.com/resizer/v2/J5ILEPO3XZHXHPW32R6VJKAYCE.jpg?auth=3bfd4010547ae4c054633db20b7e537cf7e0c41d8874da982727cb81114e0678&smart=true&width=1360&height=768",
-      "published": "2026-09-16T22:10:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "781cc0550f5cfa",
-      "title": "¿Quién se queda con tus redes al morir? CDMX busca decidir el futuro de tu vida digital",
-      "url": "https://www.fayerwayer.com/moviles/2026/09/16/quien-se-queda-con-tus-redes-al-morir-cdmx-busca-decidir-el-futuro-de-tu-vida-digital/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La propuesta plantea que cualquier persona pueda determinar anticipadamente si desea que sus cuentas y contenidos sean conservados",
-      "image": "https://www.fayerwayer.com/resizer/v2/AYZYVJYDGVBODOLVNMBWXC34ZU.png?auth=8f5bdc6db78c7e4bc33ecba722d02ba6973aba8371a976935bb6cd6ea279ed41&smart=true&width=2184&height=1234",
-      "published": "2026-09-16T21:55:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c633a482cbdfad",
-      "title": "Incendios forestales: qué hacer ante el humo y cómo actuar frente a una quemadura",
-      "url": "https://www.fayerwayer.com/ciencia/2026/09/16/incendios-forestales-que-hacer-ante-el-humo-y-como-actuar-frente-a-una-quemadura/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El humo de incendios forestales puede afectar la salud. Conoce cómo protegerte, qué hacer ante una quemadura y cuáles son las señales de alerta.",
-      "image": "https://www.fayerwayer.com/resizer/v2/4H6T26UUZFHDRMGVHGBDRA74YE.jpeg?auth=e1e1b9812f034c36724f509db99d12cad7b1416191224be2e460665e6ddb5dcf&smart=true&width=1280&height=720",
-      "published": "2026-09-16T20:55:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f4b8df7dc75736",
-      "title": "Del susto al fenómeno cultural: por qué el terror vive una nueva etapa",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/09/16/del-susto-al-fenomeno-cultural-por-que-el-terror-vive-una-nueva-etapa/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El terror atraviesa una nueva etapa y Resident Evil es una muestra de ello. La película de Zach Cregger llegará a los cines el 18 de septiembre de 2026.",
-      "image": "https://www.fayerwayer.com/resizer/v2/BYLHA7M5JVBF5AUEXMPXR3GI2U.jpg?auth=d30c9cb030baab023678b7227fcce9cae93c9dd474e6fb3c77c4de080e36db8b&smart=true&width=1005&height=670",
-      "published": "2026-09-16T20:25:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3e03e52ea3702b",
-      "title": "Escribió en ChatGPT cómo atacaría a su ex y el FBI fue alertado",
-      "url": "https://www.fayerwayer.com/internet/2026/09/16/escribio-en-chatgpt-como-atacaria-a-su-ex-y-el-fbi-fue-alertado/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Darren Zhou escribió en ChatGPT amenazas y planes contra su expareja. OpenAI alertó al FBI y el caso terminó ante la Justicia de Florida.",
-      "image": "https://www.fayerwayer.com/resizer/v2/T2LGLBVNH5CIVDBFQIU7VAGTGY.png?auth=4749de3fb6032e9f8c7138237126d46f1c8b11220a32a17f305e69a8867ddcd2&smart=true&width=634&height=398",
-      "published": "2026-09-16T18:45:49+00:00",
       "score": null,
       "tags": []
     },
@@ -1705,18 +1609,6 @@
       "summary": "Las situaciones de acoso que se producen durante congresos, reuniones profesionales y otras actividades de networking pueden tener consecuencias que van más allá del malestar inmediato. Según plantea un artículo publicad…",
       "image": null,
       "published": "2026-09-16T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "90bde3f0725988",
-      "title": "Tiktoker fue condenado a 16 años de prisión tras atropellar a una madre y su hija en Argentina",
-      "url": "https://www.fayerwayer.com/internet/2026/09/15/tiktoker-fue-condenado-a-16-anos-de-prision-tras-atropellar-a-una-madre-y-su-hija-en-argentina/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Agustín Gagliasso fue condenado en Rosario por la muerte de Tania Gandolfi y su hija Agustina García",
-      "image": "https://www.fayerwayer.com/resizer/v2/72OE6HDY3ZHN7ACO3VPVIYNKA4.png?auth=da4abd9f4855d2eb56c2cdaa0d054b0f7765eb48cacd8b11d33cd9eb64a06998&smart=true&width=495&height=284",
-      "published": "2026-09-15T23:06:25+00:00",
       "score": null,
       "tags": []
     },

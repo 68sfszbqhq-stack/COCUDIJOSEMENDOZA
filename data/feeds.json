@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-09-20T10:45:54.883985+00:00",
+    "generated": "2026-09-20T15:34:07.834886+00:00",
     "total": 172
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Muchas veces nos enfocamos en la oratoria y las habilidades interpersonales, pero ¿qué hay del poder de la palabra escrita en el liderazgo? Aquí te explicamos por qué dominar esta habilidad subestimada es un gran diferen…",
       "image": null,
-      "published": "2026-09-20T10:45:53.503610+00:00",
+      "published": "2026-09-20T15:34:06.223608+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La innovación no surge de llenar la sala de juntas de expertos, sino de escuchar a quienes no estás tomando en cuenta. The post Por qué las mejores ideas de negocio vienen de quienes no estás escuchando appeared first on…",
       "image": null,
-      "published": "2026-09-20T10:45:53.503237+00:00",
+      "published": "2026-09-20T15:34:06.223158+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "La mayoría de los líderes no se dan cuenta de dónde está fallando su impacto... hasta que es demasiado tarde. Aquí hay una forma sencilla de detectarlo en tiempo real. The post Las 3 preguntas que uso para auditar mi lid…",
       "image": null,
-      "published": "2026-09-20T10:45:53.502845+00:00",
+      "published": "2026-09-20T15:34:06.222653+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Los emprendedores están descubriendo que el verdadero reto ya no es la velocidad de producción, sino destacar en un panorama donde todo empieza a sonar igual. The post Ahora todos tienen acceso a la IA. Esto es lo que re…",
       "image": null,
-      "published": "2026-09-20T10:45:53.502420+00:00",
+      "published": "2026-09-20T15:34:06.222200+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La capital de México es considerada como uno de los principales epicentros tecnológicos en la región, gracias a la inversión y al fomento de la innovación. The post La Ciudad de México quiere llevar a otro nivel su apues…",
       "image": null,
-      "published": "2026-09-20T10:45:53.502019+00:00",
+      "published": "2026-09-20T15:34:06.221715+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Evalúa tu preparación frente a los tres pilares clave del éxito como solopreneur. The post ¿Tienes lo necesario para ser un solopreneur? Responde estas 3 preguntas antes de dar el salto appeared first on Entrepreneur en …",
       "image": null,
-      "published": "2026-09-20T10:45:53.501549+00:00",
+      "published": "2026-09-20T15:34:06.220261+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "La mayoría de los emprendedores saben cómo establecer metas, pero pocos saben cómo hacer una pausa, reflexionar y asegurarse de que esas metas realmente se alineen con la vida que quieren. The post 3 preguntas que te dar…",
       "image": null,
-      "published": "2026-09-20T10:45:53.500227+00:00",
+      "published": "2026-09-20T15:34:06.219769+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Al contratar líderes, es importante reconocer que beneficios superficiales como los sofás cómodos y la kombucha no garantizan el éxito organizacional. En cambio, alinear el liderazgo con los valores fundamentales de la e…",
       "image": null,
-      "published": "2026-09-20T10:45:53.499846+00:00",
+      "published": "2026-09-20T15:34:06.219301+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Algunos segmentos avanzan a doble dígito y otros casi no se mueven. Las cifras muestran dónde está la oportunidad y qué separa a los negocios que duran. The post Qué separa a los negocios y productos de wellness que dura…",
       "image": null,
-      "published": "2026-09-20T10:45:53.499427+00:00",
+      "published": "2026-09-20T15:34:06.218794+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,187 @@
       "category": "startup",
       "summary": "La infraestructura de pagos en México ya resolvió la velocidad. Lo que viene es integrarla tanto a otras experiencias que el acto de pagar deje de sentirse como un paso aparte. The post Pagos invisibles: la siguiente eta…",
       "image": null,
-      "published": "2026-09-20T10:45:53.498999+00:00",
+      "published": "2026-09-20T15:34:06.218296+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d46b429be2281d",
+      "title": "Es la película de terror más desconcertante del año (y de las más taquilleras) y la puedes ver en HBO Max",
+      "url": "https://hipertextual.com/cine-television/es-la-pelicula-de-terror-mas-desconcertante-del-ano-y-de-las-mas-taquilleras-y-la-puedes-ver-en-hbo-max/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La película de terror más desconcertante del año no proviene de una saga clásica ni tiene un monstruo con los colmillos llenos de sangre. De hecho, se basa en una creepypasta popular en Internet. Algo que hace a Backroom…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/The-Backrooms-Kane-Pixels-01.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-09-20T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3bebce34374c2f",
+      "title": "HEIF Heist, el ataque que empezó con una imagen y llegó hasta OpenAI",
+      "url": "https://www.muycomputer.com/2026/09/20/heif-heist-el-ataque-que-empezo-con-una-imagen-y-llego-hasta-openai/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Una imagen suele parecer uno de los contenidos más inofensivos que podemos subir a Internet. La vemos, la enviamos y seguimos adelante, mientras el servidor se ocupa por detrás de identificarla, convertirla o generar una…",
+      "image": null,
+      "published": "2026-09-20T14:05:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c9b6fc17a1d0b2",
+      "title": "¿Quieres hacer más repeticiones en el gimnasio? Llévate una barrita de chocolate, pero no te la comas",
+      "url": "https://www.xataka.com/medicina-y-salud/quieres-hacer-repeticiones-gimnasio-llevate-barrita-chocolate-no-te-comas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Se habla mucho de la creatina para tener más energía y poder hacer más repeticiones durante el ejercicio físico. ¿Pero y si ese mismo efecto se consiguiese con algo tan simple como oler chocolate? Según un estudio realiz…",
+      "image": "https://i.blogs.es/ad60b0/chocolate-gimnasio/1024_2000.jpeg",
+      "published": "2026-09-20T14:00:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7c2c281f184df5",
+      "title": "¿Qué es el horror incel? Todo sobre la controversia que películas como ‘Obsesión’ y ‘La acompañante’ llevaron a Hollywood",
+      "url": "https://hipertextual.com/cine-television/que-es-el-horror-incel-todo-sobre-la-controversia-que-peliculas-como-obsesion-y-la-acompanante-llevaron-a-hollywood/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El horror incel es quizás el subgénero más reciente del terror y, además, uno de los más controversiales. Razones no faltan. Transformar a la misoginia, el machismo y la subcultura incel en un monstruo a toda regla resul…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Horror-incel.jpg?fit=1024%2C791&quality=70&strip=all&ssl=1",
+      "published": "2026-09-20T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d3889fa436805d",
+      "title": "Este delfín ha encontrado una forma bastante repugnante de conseguir comida: hacer vomitar a sus presas",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/este-delfin-ha-encontrado-forma-bastante-repugnante-conseguir-comida-hacer-vomitar-a-sus-presas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Los delfines han sido vistos por muchos como seres marinos realmente pacíficos y muy adorables, pero la realidad es que cuentan con diferentes técnicas que no cumplen con esta idealización. Y uno de ellos, la verdad, es …",
+      "image": "https://i.blogs.es/0a8125/delfin/1024_2000.jpeg",
+      "published": "2026-09-20T13:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "417ad73881ae25",
+      "title": "Hacer turismo en un país y terminar visitando sus supermercados: la extraña fascinación de explorar otras cadenas",
+      "url": "https://www.xataka.com/magnet/cada-vez-viajeros-se-obsesionan-tipo-turismo-cuando-salen-su-pais-safaris-supermercado",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 2024 las autoridades de Fujikawaguchiko , un pueblo de Yamanashi, Japón, tuvieron que hacer algo muy poco común : tapar sus mejores vistas al Fuji. Si te situabas en una calle concreta podías obtener una panorámica fa…",
+      "image": "https://i.blogs.es/3ab183/siddhesh-mangela-g-95swyiybw-unsplash/1024_2000.jpeg",
+      "published": "2026-09-20T13:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d640e686ffb72d",
+      "title": "5 películas imperdibles para lo que queda de año",
+      "url": "https://hipertextual.com/cine-television/5-peliculas-imperdibles-para-lo-que-queda-de-ano/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Hay todavía cinco películas infaltables que ver en 2026. Eso, a pesar de que el año será recordado en el futuro como un hito en taquilla, críticas y estrenos. De hecho, en 2026 se ha consolidado una espectacular recupera…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/peliculas-mas-esperadas-del-ano.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-09-20T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1a99fc2a9407ca",
+      "title": "España está a punto de llenar la red de baterías: en 18 meses podría multiplicar su capacidad",
+      "url": "https://www.xataka.com/energia/espana-esta-a-punto-llenar-red-baterias-18-meses-podria-multiplicar-su-capacidad",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En un mundo que cada vez más pisa el acelerador de la transición energética , no solo importa generar energía renovable, sino también reservar su excedente para cuando sea necesario echar mano de ella. Sin embargo, la pr…",
+      "image": "https://i.blogs.es/c6de0c/sungrow-emea-itv-mc5s6cu-unsplash/1024_2000.jpeg",
+      "published": "2026-09-20T12:30:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d3c5514be2a67b",
+      "title": "Ucrania lleva cuatro años cazando rusos con drones. Ahora ha convertido el desierto de África en un nuevo frente de la guerra",
+      "url": "https://www.xataka.com/magnet/ucrania-lleva-cuatro-anos-cazando-rusos-drones-ahora-ha-convertido-desierto-africa-nuevo-frente-guerra",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Durante cuatro años de guerra, Ucrania ha convertido los drones en una de sus principales herramientas para localizar, vigilar y atacar a las fuerzas rusas. Ahora esa experiencia está empezando a viajar mucho más lejos d…",
+      "image": "https://i.blogs.es/b22f6b/punisher_drone_held_by_ukrainian_soldier-3/1024_2000.jpeg",
+      "published": "2026-09-20T12:00:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bfbec00b59bbba",
+      "title": "Tiene 10 episodios y es la serie de ciencia ficción más rara de Movistar+",
+      "url": "https://hipertextual.com/cine-television/tiene-10-episodios-y-es-la-serie-de-ciencia-ficcion-mas-rara-de-movistar/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La ciencia ficción suele ser sorprendente y por una razón. No deja de imaginar el mundo de las maneras más raras y curiosas posibles. Por lo que el género puede presumir que es capaz de indagar en todos los aspectos de l…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/La-mujer-miniatura.jpg?fit=1024%2C688&quality=70&strip=all&ssl=1",
+      "published": "2026-09-20T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3eb9487fd86823",
+      "title": "IA militar, alucinaciones y Juegos de Guerra… pero de verdad",
+      "url": "https://www.muycomputer.com/2026/09/20/ia-militar-alucinaciones-y-juegos-de-guerra-pero-de-verdad/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Hay películas cuya premisa envejece y otras que, décadas después, encuentran inesperados ecos en la realidad. Juegos de Guerra pertenece claramente al segundo grupo. En 1983 imaginaba un sistema informático capaz de conf…",
+      "image": null,
+      "published": "2026-09-20T11:32:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "084b6e536dd3ea",
+      "title": "Google ya permite a cualquier agente de IA que controle tu casa: así funciona Home MCP",
+      "url": "https://www.xataka.com/robotica-e-ia/google-permite-a-cualquier-agente-ia-que-controle-tu-casa-asi-funciona-home-mcp",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si quieres entregarle las llaves de tu hogar a los agentes de IA de Google, ahora puedes. Y es que la compañía ha habilitado una integración MCP para cualquier agente de IA, haciendo que Claude , Google Antigravity , Her…",
+      "image": "https://i.blogs.es/7e5402/google-mcp/1024_2000.jpeg",
+      "published": "2026-09-20T11:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e2adb84b6b1254",
+      "title": "En Japón están hartos de los turistas que se pierden en el monte Fuji. Así que empezará a cobrarles por los rescates",
+      "url": "https://www.xataka.com/magnet/japon-estan-hartos-turistas-que-se-pierden-monte-fuji-asi-que-empezara-a-cobrarles-rescates",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si te pierdes en el Fuji por recorrer sus senderos de forma imprudente e ignorando los consejos de las autoridades locales, paga. Esa es la filosofía que quiere aplicar la prefectura de Yamanashi, en Chūbu, una de las ad…",
+      "image": "https://i.blogs.es/aaa524/james-pere-yro7m-gdsf4-unsplash/1024_2000.jpeg",
+      "published": "2026-09-20T11:00:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ae1d9a0ab73d78",
+      "title": "3 películas modernas e infravaloradas sobre la Segunda Guerra Mundial que deberías ver",
+      "url": "https://hipertextual.com/cine-television/3-peliculas-modernas-e-infravaloradas-sobre-la-segunda-guerra-mundial-que-deberias-ver/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El cine sobre la Segunda Guerra Mundial siempre nos ha dejado grandes películas. El mayor conflicto bélico de la historia de la humanidad se convirtió irremediablemente en uno de los temas más interesantes para plasmar e…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Tiempo-de-Victoria-2.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-09-20T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "66e124e5312ab1",
+      "title": "La \"línea de visión\" más larga de todo el planeta: una fotografía real de Turquía vista a 500 kilómetros desde el Cáucaso",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/linea-vision-larga-todo-planeta-fotografia-real-turquia-vista-a-500-kilometros-caucaso",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Shkhara está en el Cáucaso, tiene 5.193 metros de altura, es la montaña más alta de Georgia y hace muga con Rusia. El Karagöl es una cadena montañosa turca situada en el noreste de Turquía, en la provincia de Giresun,…",
+      "image": "https://i.blogs.es/f1ce11/record/1024_2000.jpeg",
+      "published": "2026-09-20T10:46:10+00:00",
       "score": null,
       "tags": []
     },
@@ -156,6 +336,18 @@
       "category": "tech-ia",
       "summary": "Xiaomi se acaba de sacar de la manga uno de los productos más sorprendentes del año. Y sí, rivaliza directamente con varias secciones de IKEA. En otras palabras: es un mueble. Pero no uno cualquiera, sino uno pensado par…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Xiaomi-4.jpg?fit=1024%2C693&quality=70&strip=all&ssl=1",
+      "published": "2026-09-20T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f674e2a8298b83",
+      "title": "Viajar a Corea a través de los libros, 10 obras de literatura coreana que merece la pena leer",
+      "url": "https://www.educaciontrespuntocero.com/libros/literatura-coreana-libros/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "La literatura de este país asiático cuenta con historias que van desde el intimismo hasta el reflejo de la desigualdad o la presión social que existe en su sociedad. Te proponemos algunos de sus títulos principales.",
+      "image": null,
       "published": "2026-09-20T10:00:00+00:00",
       "score": null,
       "tags": []
@@ -253,18 +445,6 @@
       "summary": "La introducción de la tecla Copilot en los teclados de ordenadores con Windows 11 fue una decisión bastante polémica de Microsoft. Los productos de IA de la firma de Redmond no son particularmente populares entre el públ…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/03/copilot-1-scaled.jpg?fit=1024%2C570&quality=70&strip=all&ssl=1",
       "published": "2026-09-20T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "427ba07d52a1f4",
-      "title": "Los gatos callejeros estuvieron a punto de ser clasificados como especie invasora en Japón",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/gatos-callejeros-estuvieron-a-punto-ser-clasificados-como-especie-invasora-japon",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay más especies invasoras de las que pensamos , y algunas son directamente inimaginables porque llevamos viéndolas toda la vida. Simplemente, nos hemos acostumbrado. Sin ir más lejos, un animal tan mainstream y de andar…",
-      "image": "https://i.blogs.es/237932/gato/1024_2000.jpeg",
-      "published": "2026-09-20T07:30:12+00:00",
       "score": null,
       "tags": []
     },
@@ -449,42 +629,6 @@
       "tags": []
     },
     {
-      "id": "904b6f338864aa",
-      "title": "Un equipo de ingenieros ha descubierto que los posos de café sirven para hacer hormigón: casi un 30% más resistente",
-      "url": "https://www.xataka.com/materiales/equipo-ingenieros-ha-descubierto-que-posos-tu-cafe-sirven-para-hacer-hormigon-casi-30-resistente-sostenible",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cada mañana suelo pensar siempre en el desperdicio que significa tirar directamente los posos de café a la basura. Siempre me pregunto si se pueden utilizar de alguna forma. Afortunadamente, personas mucho más inteligent…",
-      "image": "https://i.blogs.es/4b9318/news-coffee-biochar-1220px/1024_2000.jpeg",
-      "published": "2026-09-19T19:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "79dd723e41c859",
-      "title": "Comprar péptidos para adelgazar por internet es sorprendentemente fácil. Nadie parece comprobar qué vas a hacer con ellos",
-      "url": "https://www.xataka.com/medicina-y-salud/comprar-peptidos-para-adelgazar-internet-sorprendentemente-facil-nadie-parece-comprobar-que-vas-a-hacer-ellos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La necesidad imperiosa de perder peso o mejorar el rendimiento deportivo ha hecho que las redes sociales se hayan llenado de consejos que engrandecen el uso de péptidos y moléculas que tienen una dudosa reputación a sus …",
-      "image": "https://i.blogs.es/201f38/peptidos/1024_2000.jpeg",
-      "published": "2026-09-19T18:30:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "85215eae0c9a45",
-      "title": "Los soldados de la Antigua Grecia eran auténticos portentos: 11 horas con una armadura de bronce de 3.500 años encima lo confirman",
-      "url": "https://www.xataka.com/magnet/soldados-antigua-grecia-eran-autenticos-portentos-11-horas-armadura-bronce-3-500-anos-encima-confirman",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Antes de nada, permitidnos la imprecisión histórica: la imagen que veis sobre estas líneas pertenece a la película '300', representa a los soldados de Esparta en la batalla de las Termópilas y su atuendo es más bien mini…",
-      "image": "https://i.blogs.es/e624de/gemini_generated_image_5drg8g5drg8g5drg/1024_2000.jpeg",
-      "published": "2026-09-19T18:00:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "1fda0a82f0059f",
       "title": "3 razones para ver ‘Monstruo: La historia de Lizzie Borden’ de Ryan Murphy en Netflix",
       "url": "https://hipertextual.com/cine-television/3-razones-para-ver-monstruo-la-historia-de-lizzie-borden-de-ryan-murphy-en-netflix/",
@@ -509,30 +653,6 @@
       "tags": []
     },
     {
-      "id": "e6abb892087b5f",
-      "title": "En 1931, los humanos abandonaron 4.000 ovejas en una isla remota. 40 años más tarde tuvieron que ir a eliminarlas porque su evolución era un peligro",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/1931-humanos-abandonaron-4-000-ovejas-isla-remota-40-anos-tarde-tuvieron-que-ir-a-eliminarlas-porque-su-evolucion-era-peligro",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando los últimos habitantes de una explotación ganadera abandonaron Campbell Island , dejaron atrás unas 4.000 ovejas. Durante las cuatro décadas siguientes, aquellos animales sobrevivieron sin pastores, esquileo ni se…",
-      "image": "https://i.blogs.es/271a2e/sheep-herd-grazing-pasture-d99f195cade1fd98d922d926abced8f8/1024_2000.jpeg",
-      "published": "2026-09-19T17:30:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9860537b6239c1",
-      "title": "No hace falta entrenar durante horas: 10 minutos de carrera suave ya tienen efectos en el cerebro",
-      "url": "https://www.xataka.com/medicina-y-salud/no-hace-falta-entrenar-durante-horas-10-minutos-carrera-suave-tienen-efectos-cerebro",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hacer ejercicio es un precepto que se ha convertido en algo prácticamente obligatorio para todos si queremos mantener una buena calidad de vida cuando se llegue a la tercera edad, pero la gran pregunta está en cuánto tie…",
-      "image": "https://i.blogs.es/fc668c/caminando-/1024_2000.jpeg",
-      "published": "2026-09-19T17:00:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ad5bb0eace17d9",
       "title": "La serie que tienes que ver si te gustan ‘El Padrino’ y ‘Los Soprano’: es buenísima y solo tiene 2 temporadas",
       "url": "https://hipertextual.com/cine-television/la-serie-que-tienes-que-ver-si-te-gustan-el-padrino-y-los-soprano-es-buenisima-y-solo-tiene-2-temporadas/",
@@ -545,18 +665,6 @@
       "tags": []
     },
     {
-      "id": "b45d0f865347ea",
-      "title": "México tiene tantísimas algas en sus playas que ha tenido una idea: convertir el sargazo en sandalias y cosméticos",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/mexico-tiene-tantisimas-algas-sus-playas-que-ha-tenido-idea-convertir-sargazo-sandalias-cosmeticos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "De vez en cuando, al ir a la playa, te encuentras con una hilera de algas varadas en la orilla, pero lo de los sargazos es otro nivel: oriundas del mar homónimo, ubicado al este de Florida, el sargazo pelágico se ha ido …",
-      "image": "https://i.blogs.es/38830a/sarga/1024_2000.jpeg",
-      "published": "2026-09-19T16:30:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b282129bdf16c3",
       "title": "10 millones de dispositivos y menos de cinco segundos, la carrera de SkyAlert ante un sismo",
       "url": "https://expansion.mx/tecnologia/2026/09/19/la-carrera-de-skyalert-ante-un-sismo",
@@ -565,18 +673,6 @@
       "summary": "Sensores, IA y computación en la nube trabajan en conjunto para detectar un sismo, analizar su posible impacto y distribuir una alerta a millones de dispositivos en cuestión de segundos.",
       "image": "https://cdn-3.expansion.mx/dims4/default/acc947b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6f%2Fdb%2Fc6f0cb5146acac05b1cd475d0533%2Fdatos-alerta-sismica.jpeg",
       "published": "2026-09-19T16:00:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "621964cf768e22",
-      "title": "En algunos pueblos de China un médico atiende a más de 2.000 personas. La IA empieza a convertirse en su segunda opinión",
-      "url": "https://www.xataka.com/aplicaciones/algunos-pueblos-china-medico-atiende-a-2-000-personas-ia-empieza-a-convertirse-su-segunda-opinion",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Me considero una afortunada: si pido cita para mi médica en mi pueblo, en menos de 48 horas suelo poder acudir a resolver cualquier dolencia. Sé que si la cita es con un especialista la cosa cambia y que en otras localiz…",
-      "image": "https://i.blogs.es/24de6d/chatgpt-image-16-sept-2026-17_34_20/1024_2000.jpeg",
-      "published": "2026-09-19T16:00:12+00:00",
       "score": null,
       "tags": []
     },
@@ -653,54 +749,6 @@
       "tags": []
     },
     {
-      "id": "43f8412b0ce31c",
-      "title": "¿Tiene ‘Resident Evil’ escena post-créditos?",
-      "url": "https://hipertextual.com/cine-television/tiene-resident-evil-escena-post-creditos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La nueva película de Resident Evil acaba de llegar por fin a los cines de la mano del director Zach Cregger (Weapons, Barbarian). El proyecto atraía la atención de los fans porque, a pesar de ser la octava entrega de la …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Evil-post-creditos.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-09-19T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "67fb0b3ece6acd",
-      "title": "‘Resident Evil’ (★★★★½) es la mejor adaptación del videojuego hasta ahora",
-      "url": "https://hipertextual.com/cine-television/resident-evil-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%c2%bd-es-la-mejor-adaptacion-del-videojuego-hasta-ahora/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Cualquier adaptación de Resident Evil tiene un problema que enfrentar de origen. Las más de una docena de películas previas que ya forman parte de la cultura popular y que se han debatido hasta el cansancio durante más d…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Evil-movie.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-19T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5370359b97c21b",
-      "title": "5 cosas que debes saber sobre la muy esperada versión de ‘Resident Evil’ de Zach Cregger",
-      "url": "https://hipertextual.com/cine-television/5-cosas-que-debes-saber-sobre-la-muy-esperada-version-de-resident-evil-de-zach-cregger/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Resident Evil de Zach Cregger se enfrenta a un problema de origen. A la fecha, hay 11 películas basadas en la franquicia de juegos, divididas entre acción real y animación CGI. Por lo que la más reciente versión debe int…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Resident-Rvil-23-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-09-19T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a23927a4ae3fa1",
-      "title": "WhatsApp te va a pedir una contraseña para entrar: deja lo que estás haciendo y configúrala en menos de 1 minuto",
-      "url": "https://hipertextual.com/tecnologia/whatsapp-te-va-a-pedir-una-contrasena-para-entrar-deja-lo-que-estas-haciendo-y-configurala-en-menos-de-1-minuto/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "WhatsApp acaba de cambiar una dinámica clave en la app que debes conocer. La ha anunciado hoy mismo a través de su canal de novedades, y es probable que al abrir la app te haya saltado el mensaje. Si lo has visto y has p…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/whatsapp-silencio-.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-09-19T10:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "92d36a517fcc23",
       "title": "He probado el Nothing Phone (4b) y los ear (3a): hay algo que Nothing hace mejor que casi todos sus rivales baratos",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/nothing-phone-4b-movil-adolescentes-ear-3/",
@@ -721,18 +769,6 @@
       "summary": "Conseguir que un juego de PC funcione en Android ya supone resolver suficientes piezas como para que cualquier elemento adicional pueda convertirse en otro pequeño muro. Y los juegos modernos suelen traer unos cuantos: S…",
       "image": null,
       "published": "2026-09-19T09:04:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8e155663e9239d",
-      "title": "Con este simple truco puedes instalar Windows 11 sin una cuenta de Microsoft",
-      "url": "https://hipertextual.com/software/truco-instalar-windows-11-sin-cuenta-microsoft/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Usar Windows 11 sin una cuenta de Microsoft se está volviendo casi imposible. Microsoft lleva meses cerrando cualquier hueco que permita instalar el sistema operativo a la vieja usanza, con una cuenta local de administra…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-11.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
-      "published": "2026-09-19T09:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1193,18 +1229,6 @@
       "tags": []
     },
     {
-      "id": "b4762c7a36564e",
-      "title": "OpenAI crea un sistema para revelar fallos de alineamiento de sus modelos",
-      "url": "https://www.muycomputer.com/2026/09/18/openai-crea-un-sistema-para-revelar-fallos-de-alineamiento-de-sus-modelos/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Un modelo de inteligencia artificial puede superar miles de pruebas y, aun así, encontrar en una situación concreta un camino que nadie había previsto. Puede ocultar información, utilizar una herramienta sin permiso o bu…",
-      "image": null,
-      "published": "2026-09-18T06:03:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a297275e4797e0",
       "title": "ForenPsy: un banco estandarizado de testimonios",
       "url": "https://www.infocop.es/forenpsy-un-banco-estandarizado-de-testimonios/",
@@ -1285,18 +1309,6 @@
       "summary": "La Fed elevó su tasa a 3.75%-4%, mientras Banxico mantiene la suya en 6.50%, reduciendo el diferencial que durante años favoreció al peso mexicano. The post ¿Adiós al superpeso? Diferencial entre la Fed y Banxico cae a m…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/06/peso-dolar-1-jpg.webp",
       "published": "2026-09-17T20:00:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bba66a52fdb42e",
-      "title": "Así se cuela música con IA en perfiles reales de Spotify",
-      "url": "https://www.muycomputer.com/2026/09/17/asi-se-cuela-musica-con-ia-en-perfiles-reales-de-spotify/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Publicar una canción en Internet nunca había sido tan sencillo. Un artista puede recurrir a un distribuidor digital y, desde un único lugar, colocar su música en Spotify, Apple Music, Amazon Music, Tidal y buena parte de…",
-      "image": null,
-      "published": "2026-09-17T17:32:57+00:00",
       "score": null,
       "tags": []
     },
@@ -1549,18 +1561,6 @@
       "summary": "Ayudan a comprender conceptos como la genética o el medioambiente de forma más dinámica. Elsa Vilabella Serrano, consultora en bienestar, ecología y creatividad, propone una ruta de lectura para acercar la Biología al al…",
       "image": null,
       "published": "2026-09-16T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6694d516936b50",
-      "title": "5 recursos para enseñar los terremotos en Primaria y aprender cómo actuar ante un seísmo",
-      "url": "https://www.educaciontrespuntocero.com/recursos/recursos-terremotos-en-primaria/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "Estos recursos ayudan al profesorado a explicar de forma sencilla por qué se producen los seísmos y a enseñar al alumnado cómo actuar si alguna vez vive uno.",
-      "image": null,
-      "published": "2026-09-16T07:00:00+00:00",
       "score": null,
       "tags": []
     },

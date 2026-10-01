@@ -385,6 +385,11 @@
             padding: 9px 20px; border-radius: 10px; font-weight: 700; font-size: 0.82rem; text-decoration: none;
         }
         #r-article { display: none; }
+        #r-embed { display: none; padding: 16px; }
+        #r-embed iframe { width: 100%; aspect-ratio: 16 / 9; min-height: 360px; border: 0; border-radius: 10px; background: #000; }
+        #r-embed-title { font-weight: 800; font-size: 1.1rem; margin-bottom: 4px; }
+        #r-embed-summary { font-size: 0.85rem; color: #666; margin-bottom: 12px; }
+        .embed-chip { display: inline-flex; width: fit-content; align-self: flex-start; align-items: center; gap: 4px; font-size: 0.62rem; font-weight: 700; color: #fff; background: #111; padding: 2px 8px; border-radius: 999px; margin-left: 6px; vertical-align: middle; }
 
         /* ══════════════════════════════════
            FAB + TOAST
@@ -611,6 +616,12 @@
                 <i class="fas fa-external-link-alt"></i> Abrir en nueva pestaña
             </a>
         </div>
+        <div id="r-embed">
+            <p id="r-embed-title"></p>
+            <p id="r-embed-summary"></p>
+            <iframe id="r-embed-frame" title="Contenido incrustado" loading="lazy"
+                    allow="autoplay; fullscreen; picture-in-picture; clipboard-write" allowfullscreen></iframe>
+        </div>
         <div id="r-article">
             <img id="r-hero" src="" alt="">
             <div id="r-body">
@@ -680,6 +691,15 @@
             <label class="ap-label">Resumen breve (opcional)</label>
             <textarea id="ap-summary" class="ap-input" rows="2"
                 placeholder="Una línea describiendo de qué trata el recurso."></textarea>
+        </div>
+
+        <div class="ap-field">
+            <label class="ap-label">Código de inserción (opcional)</label>
+            <textarea id="ap-embed" class="ap-input" rows="3"
+                placeholder='Pega aquí el código &lt;iframe ...&gt; que te da YouTube, Padlet, Genially, Canva o Google. También sirve el link de un video de YouTube.'></textarea>
+            <p style="font-size:0.7rem;color:#888;margin-top:4px;">
+                Si lo llenas, la tarjeta muestra el contenido funcionando dentro del PLN.
+            </p>
         </div>
 
         <div class="ap-field" style="display:flex;align-items:center;gap:10px;">
@@ -875,11 +895,12 @@ function featHTML(it) {
            <i class="fas fa-arrow-up" style="color:#F59E0B;font-size:0.6rem;"></i>
            <span>${it.score}</span>` : '';
 
-    return `<div class="feat" onclick="openReader(${args})" role="article" tabindex="0"
+    const click = it.embed ? `openEmbed('${es(it.id)}')` : `openReader(${args})`;
+    return `<div class="feat" onclick="${click}" role="article" tabindex="0"
                  aria-label="${eh(it.title)}">
         ${bgDiv}${bgImg}${logoInset}
         <div class="feat-overlay">
-            <span class="feat-badge" style="background:${cat.color}">${cat.label}</span>
+            <span class="feat-badge" style="background:${cat.color}">${cat.label}</span>${it.embed ? '<span class="embed-chip">▶ Incrustado</span>' : ''}
             ${summaryLine}
             <h2 class="feat-title">${eh(it.title)}</h2>
             <div class="feat-meta">
@@ -929,10 +950,11 @@ function secCardHTML(it) {
            <i class="fas fa-arrow-up" style="color:#F59E0B;font-size:0.58rem;"></i>
            <span>${it.score}</span>` : '';
 
-    return `<div class="sec-card" onclick="openReader(${args})" role="article" tabindex="0">
+    const click = it.embed ? `openEmbed('${es(it.id)}')` : `openReader(${args})`;
+    return `<div class="sec-card" onclick="${click}" role="article" tabindex="0">
         ${imgBlock}
         <div class="sec-body">
-            <span class="sec-badge" style="background:${cat.color}">${cat.label}</span>
+            <span class="sec-badge" style="background:${cat.color}">${cat.label}</span>${it.embed ? '<span class="embed-chip">▶ Incrustado</span>' : ''}
             <h3 class="sec-title">${eh(it.title)}</h3>
             ${summaryLine}
             <div class="sec-meta">
@@ -1033,6 +1055,8 @@ async function fetchProxy(url) {
 
 function closeReader() {
     document.getElementById('modal').classList.remove('open');
+    document.getElementById('r-embed').style.display = 'none';
+    document.getElementById('r-embed-frame').src = 'about:blank';
     document.body.style.overflow = '';
 }
 
@@ -1553,10 +1577,44 @@ function closeAdmin() {
 }
 
 function clearAdminForm() {
-    ['ap-title','ap-url','ap-source','ap-summary'].forEach(id => {
+    ['ap-title','ap-url','ap-source','ap-summary','ap-embed'].forEach(id => {
         document.getElementById(id).value = '';
     });
     document.getElementById('ap-direct').checked = false;
+}
+
+// Plataformas que se pueden incrustar. Solo se guarda la dirección (src), nunca el
+// código completo: así nadie puede colar un script en el PLN. Firestore aplica
+// la misma lista en firestore.rules; si agregas una aquí, agrégala también allá.
+const EMBED_OK = /^https:\/\/(www\.youtube\.com|www\.youtube-nocookie\.com|player\.vimeo\.com|padlet\.com|([a-z0-9-]+\.)?genially\.com|www\.canva\.com|docs\.google\.com|drive\.google\.com|wordwall\.net)\/\S*$/;
+
+function embedSrc(code) {
+    code = (code || '').trim();
+    if (!code) return '';
+    // Del código <iframe ... src="..."> nos quedamos solo con la dirección
+    const m = code.match(/src\s*=\s*["']([^"']+)["']/i);
+    let src = (m ? m[1] : code).replace(/&amp;/g, '&');
+    // Un link normal de YouTube se convierte a su versión para incrustar
+    const yt = src.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]{11})/);
+    if (yt) src = 'https://www.youtube.com/embed/' + yt[1];
+    return EMBED_OK.test(src) ? src : null;
+}
+
+function openEmbed(itemId) {
+    const it = allItems.find(i => i.id === itemId);
+    if (!it || !it.embed) return;
+    const cat = CATS[it.category] || CATS['tech-ia'];
+    document.getElementById('r-badge').textContent      = cat.label;
+    document.getElementById('r-badge').style.background = cat.color;
+    document.getElementById('r-source').textContent     = it.source;
+    document.getElementById('r-ext').href               = it.url;
+    ['r-loading','r-error','r-article'].forEach(id => document.getElementById(id).style.display = 'none');
+    document.getElementById('r-embed-title').textContent   = it.title;
+    document.getElementById('r-embed-summary').textContent = it.summary || '';
+    document.getElementById('r-embed-frame').src = it.embed;
+    document.getElementById('r-embed').style.display = 'block';
+    document.getElementById('modal').classList.add('open');
+    document.body.style.overflow = 'hidden';
 }
 
 async function addCustomCard() {
@@ -1566,9 +1624,14 @@ async function addCustomCard() {
     const summary = document.getElementById('ap-summary').value.trim();
     const cat     = document.getElementById('ap-cat').value;
     const direct  = document.getElementById('ap-direct').checked;
+    const embed   = embedSrc(document.getElementById('ap-embed').value);
 
     if (!title || !url) {
         alert('El título y la URL son obligatorios.');
+        return;
+    }
+    if (embed === null) {
+        alert('Ese código de inserción no es de una plataforma permitida (YouTube, Vimeo, Padlet, Genially, Canva, Google o Wordwall). Revisa que hayas copiado el código completo.');
         return;
     }
 
@@ -1592,7 +1655,14 @@ async function addCustomCard() {
         isLogo:    false,
         deleted:   false,
         _custom:   true,
+        passcode:  pass,
     };
+    if (embed) {
+        newItem.embed = embed;
+        // Los videos de YouTube traen su miniatura: la usamos como imagen de la tarjeta
+        const ytId = embed.match(/youtube(?:-nocookie)?\.com\/embed\/([\w-]{11})/);
+        if (ytId) newItem.image = `https://img.youtube.com/vi/${ytId[1]}/hqdefault.jpg`;
+    }
 
     try {
         const docRef = await db.collection('feed_custom_items').add(newItem);
@@ -1621,7 +1691,7 @@ async function deleteCustomCard(docId, itemId) {
     }
 
     try {
-        await db.collection('feed_custom_items').doc(docId).update({ deleted: true });
+        await db.collection('feed_custom_items').doc(docId).update({ deleted: true, passcode: pass });
         customItems = customItems.filter(i => i._docId !== docId);
         allItems    = allItems.filter(i => i.id !== itemId);
         refreshCustomList();

@@ -6,5 +6,31 @@ service cloud.firestore {
       allow create, update: if request.resource.data.passcode == "ClaveDocente2026";
       allow delete: if false;
     }
+
+    // Tarjetas que se agregan desde el Panel Docente del PLN Feed (pln-flipboard.html).
+    // La clave también está en la página, así que esto frena errores y curiosos,
+    // no a alguien decidido. Lo que sí protege de verdad es la lista de plataformas:
+    // `embed` solo puede ser una dirección de un sitio conocido, nunca código.
+    match /feed_custom_items/{item} {
+      allow read: if true;
+
+      allow create: if request.resource.data.passcode == "ClaveDocente2026"
+        && request.resource.data.keys().hasOnly(['id', 'title', 'url', 'source', 'category',
+             'summary', 'image', 'published', 'direct', 'isLogo', 'deleted', '_custom',
+             'passcode', 'embed'])
+        && request.resource.data.title is string
+        && request.resource.data.url is string
+        && request.resource.data.url.matches('https?://.*')
+        && request.resource.data.deleted == false
+        && (!('embed' in request.resource.data)
+            || request.resource.data.embed.matches('https://(www\\.youtube\\.com|www\\.youtube-nocookie\\.com|player\\.vimeo\\.com|padlet\\.com|([a-z0-9-]+\\.)?genially\\.com|www\\.canva\\.com|docs\\.google\\.com|drive\\.google\\.com|wordwall\\.net)/\\S*'));
+
+      // Eliminar es solo marcarla como borrada; no se puede editar otra cosa.
+      allow update: if request.resource.data.passcode == "ClaveDocente2026"
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['deleted', 'passcode'])
+        && request.resource.data.deleted == true;
+
+      allow delete: if false;
+    }
   }
 }

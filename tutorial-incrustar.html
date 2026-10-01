@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cómo incrustar contenido — PLN José Roberto Mendoza</title>
+    <meta name="description" content="Tutorial paso a paso para incrustar videos, Padlets, Genially y Canva en un PLN, una página web o Moodle usando el código de inserción.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Playfair+Display:wght@700;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --red: #E12828;
+            --red-dark: #B71C1C;
+            --ink: #111;
+            --muted: #555;
+            --soft: #f6f5f2;
+            --line: #e5e2dc;
+        }
+        * { box-sizing: border-box; }
+        body { margin: 0; font-family: 'Inter', sans-serif; color: var(--ink); background: #fff; line-height: 1.65; }
+        a { color: var(--red); }
+        header.top { background: #111; color: #fff; padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+        header.top a { color: #fff; text-decoration: none; font-size: 0.8rem; font-weight: 700; }
+        header.top .brand { font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: #bbb; }
+        main { max-width: 860px; margin: 0 auto; padding: 32px 20px 80px; }
+        .kicker { color: var(--red); font-weight: 700; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; }
+        h1 { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 3rem); line-height: 1.1; margin: 8px 0 16px; }
+        h2 { font-family: 'Playfair Display', serif; font-size: 1.6rem; margin: 48px 0 12px; padding-top: 12px; border-top: 3px solid var(--ink); }
+        h3 { font-size: 1.05rem; margin: 24px 0 8px; }
+        .lead { font-size: 1.1rem; color: var(--muted); }
+        .toc { background: var(--soft); border-radius: 12px; padding: 16px 20px; margin: 24px 0; }
+        .toc ol { margin: 8px 0 0; padding-left: 20px; }
+        .toc a { color: var(--ink); text-decoration: none; }
+        .toc a:hover { color: var(--red); }
+        pre, code { font-family: 'JetBrains Mono', monospace; }
+        pre { background: #111; color: #f3f3f3; padding: 16px; border-radius: 10px; overflow-x: auto; font-size: 0.82rem; line-height: 1.6; }
+        code.inline { background: var(--soft); padding: 1px 6px; border-radius: 4px; font-size: 0.85em; }
+        .attr { color: #7dd3fc; } .val { color: #fca5a5; } .tag { color: #86efac; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 12px 0; }
+        th, td { text-align: left; padding: 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+        th { background: var(--soft); }
+        td code { white-space: nowrap; }
+        .steps { counter-reset: paso; list-style: none; padding: 0; }
+        .steps li { counter-increment: paso; position: relative; padding: 0 0 14px 44px; }
+        .steps li::before { content: counter(paso); position: absolute; left: 0; top: 0; width: 30px; height: 30px; border-radius: 50%; background: var(--red); color: #fff; font-weight: 700; display: flex; align-items: center; justify-content: center; font-size: 0.85rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+        .card { border: 1px solid var(--line); border-radius: 12px; padding: 16px; }
+        .card h3 { margin-top: 0; }
+        .card .ico { font-size: 1.4rem; margin-bottom: 6px; }
+        .note { border-left: 4px solid var(--red); background: #fff5f5; padding: 12px 16px; border-radius: 0 10px 10px 0; margin: 16px 0; }
+        .frame { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 10px; overflow: hidden; background: #000; }
+        .frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+        .lab { border: 2px solid var(--ink); border-radius: 14px; padding: 18px; margin-top: 16px; }
+        .lab label { font-weight: 700; font-size: 0.85rem; display: block; margin: 12px 0 4px; }
+        .lab textarea, .lab input[type="number"] { width: 100%; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; padding: 10px; border: 1px solid var(--line); border-radius: 8px; }
+        .lab .row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+        .lab .check { display: flex; align-items: center; gap: 8px; margin-top: 12px; font-size: 0.9rem; }
+        .lab .msg { font-size: 0.85rem; margin: 10px 0; min-height: 1.2em; }
+        .lab .msg.error { color: var(--red-dark); font-weight: 600; }
+        #lab-out { white-space: pre-wrap; word-break: break-all; }
+        .lab #lab-preview { margin-top: 12px; background: var(--soft); border-radius: 10px; padding: 10px; overflow: auto; }
+        .lab #lab-preview iframe { border: 0; max-width: 100%; display: block; }
+        button.copy { background: var(--ink); color: #fff; border: 0; border-radius: 8px; padding: 8px 14px; font-weight: 700; cursor: pointer; font-size: 0.8rem; }
+        footer { max-width: 860px; margin: 0 auto; padding: 24px 20px 40px; font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--line); }
+    </style>
+</head>
+<body>
+
+<header class="top">
+    <span class="brand">PLN · José Roberto Mendoza</span>
+    <a href="index.html"><i class="fas fa-arrow-left"></i> Volver a mi PLN de Cultura Digital</a>
+</header>
+
+<main>
+    <p class="kicker">Tutorial · Código embebido</p>
+    <h1>Cómo incrustar un video, un Padlet o un Genially en tu PLN</h1>
+    <p class="lead">
+        Incrustar es meter el contenido de una plataforma dentro de otra para que funcione ahí mismo,
+        sin mandar a nadie a otra pestaña. Así funcionan los recursos de mi PLN de Cultura Digital, y lo mismo
+        sirve para una página web, un blog o tu curso en Moodle.
+    </p>
+
+    <nav class="toc" aria-label="Contenido">
+        <strong>En este tutorial</strong>
+        <ol>
+            <li><a href="#que-es">¿Qué es el código de inserción?</a></li>
+            <li><a href="#anatomia">Las partes del código, una por una</a></li>
+            <li><a href="#copiar">Dónde se copia en cada plataforma</a></li>
+            <li><a href="#pegar">Cómo lo pego en mi PLN (y en Moodle)</a></li>
+            <li><a href="#laboratorio">Laboratorio: personaliza un código</a></li>
+            <li><a href="#problemas">Cuando no funciona</a></li>
+        </ol>
+    </nav>
+
+    <h2 id="que-es">1. ¿Qué es el código de inserción?</h2>
+    <p>
+        Casi todas las plataformas tienen un botón <strong>Compartir</strong>. Ahí, además del link,
+        aparece una opción que se llama <strong>Insertar</strong>, <strong>Incrustar</strong> o
+        <strong>Embed</strong>. Al darle clic te dan un pedazo de código HTML que empieza con
+        <code class="inline">&lt;iframe</code>.
+    </p>
+    <p>
+        Un <em>iframe</em> es como una ventana: le dice a la página "aquí abre este otro sitio, de este tamaño".
+        La diferencia con un link es que el link manda al usuario a otro lado; el iframe trae el contenido
+        a donde ya está el usuario.
+    </p>
+    <div class="grid">
+        <div class="card">
+            <div class="ico">🔗</div>
+            <h3>Link</h3>
+            <p>Lleva a la persona a otra página. Sale de tu espacio y quizá ya no regresa.</p>
+        </div>
+        <div class="card">
+            <div class="ico">🪟</div>
+            <h3>Código de inserción</h3>
+            <p>Trae el contenido a tu página. El video se reproduce o el Padlet se usa sin salir de ahí.</p>
+        </div>
+    </div>
+
+    <h3>Así se ve uno funcionando</h3>
+    <p>Este video está incrustado con su código de YouTube. Es uno de los recursos que agregué a mi PLN:</p>
+    <div class="frame">
+        <iframe src="https://www.youtube.com/embed/wYqtxkW9-rg" title="Mentes Brillantes: Steve Jobs vs Bill Gates"
+                loading="lazy" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <h2 id="anatomia">2. Las partes del código, una por una</h2>
+    <p>Este es el código que da YouTube para un video. Se ve intimidante, pero solo tiene unas cuantas piezas:</p>
+<pre><span class="tag">&lt;iframe</span>
+  <span class="attr">width</span>=<span class="val">"560"</span>
+  <span class="attr">height</span>=<span class="val">"315"</span>
+  <span class="attr">src</span>=<span class="val">"https://www.youtube.com/embed/wYqtxkW9-rg?start=60"</span>
+  <span class="attr">title</span>=<span class="val">"Mentes Brillantes: Steve Jobs vs Bill Gates"</span>
+  <span class="attr">frameborder</span>=<span class="val">"0"</span>
+  <span class="attr">allow</span>=<span class="val">"autoplay; fullscreen; picture-in-picture"</span>
+  <span class="attr">allowfullscreen</span>&gt;
+<span class="tag">&lt;/iframe&gt;</span></pre>
+
+    <table>
+        <thead><tr><th>Parte</th><th>Qué hace</th><th>¿La puedo cambiar?</th></tr></thead>
+        <tbody>
+            <tr><td><code>src</code></td><td>La dirección del contenido. Es la pieza más importante: dice qué se va a mostrar.</td><td>No la inventes; cópiala de la plataforma. Lo que va después del <code>?</code> sí se ajusta (ver abajo).</td></tr>
+            <tr><td><code>width</code> y <code>height</code></td><td>El ancho y el alto en pixeles.</td><td>Sí. Para que se adapte al celular se puede usar <code>width="100%"</code>.</td></tr>
+            <tr><td><code>?start=60</code></td><td>En YouTube, el segundo en que empieza el video (60 = minuto 1).</td><td>Sí. Útil para mostrar solo la parte que importa para tu clase.</td></tr>
+            <tr><td><code>allowfullscreen</code></td><td>Permite ver el contenido en pantalla completa.</td><td>Sí. Si lo quitas, desaparece el botón de pantalla completa.</td></tr>
+            <tr><td><code>allow</code></td><td>Los permisos que le das: reproducir solo, pantalla completa, imagen en imagen, cámara o micrófono (Padlet los pide para grabar).</td><td>Sí, pero con cuidado: si quitas uno, esa función deja de servir.</td></tr>
+            <tr><td><code>title</code></td><td>El nombre del contenido. Lo leen los lectores de pantalla que usan personas ciegas.</td><td>Sí, y conviene ponerle un nombre claro.</td></tr>
+            <tr><td><code>frameborder</code> / <code>style</code></td><td>El borde y el aspecto de la ventana.</td><td>Sí. Es solo apariencia.</td></tr>
+        </tbody>
+    </table>
+    <div class="note">
+        <strong>La regla de oro:</strong> lo que va entre comillas después de <code>src=</code> es el contenido.
+        Todo lo demás es tamaño, permisos y apariencia. Por eso mi PLN solo guarda el <code>src</code> y arma el resto por su cuenta.
+    </div>
+
+    <h2 id="copiar">3. Dónde se copia en cada plataforma</h2>
+    <p>Los menús cambian un poco con el tiempo, pero la ruta casi siempre es <strong>Compartir → Insertar</strong>.</p>
+    <div class="grid">
+        <div class="card">
+            <div class="ico"><i class="fab fa-youtube" style="color:#FF0000"></i></div>
+            <h3>YouTube</h3>
+            <ol class="steps">
+                <li>Abre el video y da clic en <strong>Compartir</strong>.</li>
+                <li>Elige <strong>Insertar</strong> (el ícono <code>&lt;&gt;</code>).</li>
+                <li>Si quieres, marca <em>Empezar en</em> para elegir el minuto.</li>
+                <li>Da clic en <strong>Copiar</strong>.</li>
+            </ol>
+        </div>
+        <div class="card">
+            <div class="ico">🧱</div>
+            <h3>Padlet</h3>
+            <ol class="steps">
+                <li>Abre tu muro y da clic en <strong>Compartir</strong>.</li>
+                <li>Elige <strong>Insertar en tu blog o sitio web</strong>.</li>
+                <li>Copia el código.</li>
+                <li>Revisa que el muro no sea privado, o nadie lo podrá ver.</li>
+            </ol>
+        </div>
+        <div class="card">
+            <div class="ico">✨</div>
+            <h3>Genially</h3>
+            <ol class="steps">
+                <li>Abre tu creación y da clic en <strong>Compartir</strong>.</li>
+                <li>Ve a la pestaña <strong>Insertar</strong>.</li>
+                <li>Copia el código <em>iframe</em>.</li>
+                <li>Tu genially debe estar publicado.</li>
+            </ol>
+        </div>
+        <div class="card">
+            <div class="ico">🎨</div>
+            <h3>Canva</h3>
+            <ol class="steps">
+                <li>Abre tu diseño y da clic en <strong>Compartir</strong>.</li>
+                <li>Busca <strong>Insertar</strong> (a veces dentro de <em>Ver todo</em>).</li>
+                <li>Da clic en <strong>Insertar</strong> otra vez para generar el código.</li>
+                <li>Copia el <strong>código HTML para insertar</strong>.</li>
+            </ol>
+        </div>
+    </div>
+
+    <h2 id="pegar">4. Cómo lo pego en mi PLN (y en Moodle)</h2>
+    <h3>En mi PLN de Cultura Digital</h3>
+    <ol class="steps">
+        <li>Entra a mi <a href="index.html">PLN</a>, ve a la sección del PLN y presiona <strong>⚙️ Panel del Docente — Administrar Recursos</strong>.</li>
+        <li>En <strong>Agregar Recurso con Link</strong> elige el semestre y el tema, y escribe el nombre, el link y la plataforma.</li>
+        <li>En <strong>Código de inserción</strong> pega el código que copiaste. Con YouTube basta el link normal del video.</li>
+        <li>Presiona <strong>Guardar en Firebase</strong> y escribe la clave docente.</li>
+        <li>El recurso aparece en su tema con la etiqueta <strong>▶ Ver aquí</strong>. Al darle clic, el contenido se abre funcionando dentro del PLN, sin salir de la página.</li>
+    </ol>
+    <p>Mi <a href="pln-flipboard.html">PLN Feed</a> también acepta código de inserción desde su botón <strong>+</strong>.</p>
+    <div class="note">
+        Por seguridad, el PLN solo acepta contenido de YouTube, Vimeo, Padlet, Genially, Canva, Google (Docs, Forms, Drive) y Wordwall.
+        Si pegas algo de otro sitio, te avisa y no lo guarda. Esa misma lista la revisa también la base de datos.
+    </div>
+    <h3>En Moodle (o cualquier editor con botón HTML)</h3>
+    <ol class="steps">
+        <li>Edita la página, etiqueta o descripción donde quieres el contenido.</li>
+        <li>En la barra del editor busca el botón de <strong>código fuente</strong> (se ve como <code>&lt;/&gt;</code> o dice <em>HTML</em>).</li>
+        <li>Pega el código donde quieres que aparezca y vuelve a la vista normal.</li>
+        <li>Guarda y revisa la página como la vería un alumno.</li>
+    </ol>
+
+    <h2 id="laboratorio">5. Laboratorio: personaliza un código</h2>
+    <p>
+        Pega aquí un código de inserción (o el link de un video de YouTube) y juega con el tamaño,
+        el minuto de inicio y la pantalla completa. Abajo ves cómo cambia el código y el resultado al momento.
+        Nada se guarda.
+    </p>
+    <div class="lab">
+        <label for="lab-in">Tu código o link</label>
+        <textarea id="lab-in" rows="3">https://www.youtube.com/watch?v=wYqtxkW9-rg</textarea>
+        <div class="row">
+            <div><label for="lab-w">Ancho (px o %)</label><input type="text" id="lab-w" value="100%" style="width:100%;font-family:'JetBrains Mono',monospace;font-size:0.8rem;padding:10px;border:1px solid var(--line);border-radius:8px;"></div>
+            <div><label for="lab-h">Alto (px)</label><input type="number" id="lab-h" value="360" min="150" max="1200"></div>
+            <div><label for="lab-s">Empieza en el segundo (solo YouTube)</label><input type="number" id="lab-s" value="0" min="0"></div>
+        </div>
+        <label class="check"><input type="checkbox" id="lab-fs" checked> Permitir pantalla completa (<code>allowfullscreen</code>)</label>
+        <p id="lab-msg" class="msg"></p>
+        <label>Tu código personalizado</label>
+        <pre id="lab-out"></pre>
+        <button class="copy" id="lab-copy"><i class="fas fa-copy"></i> Copiar código</button>
+        <div id="lab-preview"></div>
+    </div>
+
+    <h2 id="problemas">6. Cuando no funciona</h2>
+    <table>
+        <thead><tr><th>Lo que pasa</th><th>Por qué</th><th>Qué hacer</th></tr></thead>
+        <tbody>
+            <tr><td>Sale un cuadro gris o "rechazó la conexión"</td><td>Ese sitio no se deja incrustar. Muchos periódicos, bancos y redes sociales lo bloquean a propósito.</td><td>Usa un link normal y deja vacío el código de inserción.</td></tr>
+            <tr><td>Pide iniciar sesión o dice "privado"</td><td>El contenido no está público.</td><td>Cambia la privacidad a "cualquiera con el enlace" o "no listado".</td></tr>
+            <tr><td>No aparece nada</td><td>Se copió el código incompleto o se pegó en la vista normal del editor y no en la de HTML.</td><td>Vuelve a copiarlo completo, desde <code>&lt;iframe</code> hasta <code>&lt;/iframe&gt;</code>.</td></tr>
+            <tr><td>Se ve diminuto o se sale en el celular</td><td>El tamaño está fijo en pixeles.</td><td>Cambia <code>width</code> a <code>100%</code>.</td></tr>
+            <tr><td>Mi PLN dice "plataforma no permitida"</td><td>El sitio no está en la lista segura.</td><td>Agrégalo como link normal, o pide que se sume a la lista.</td></tr>
+        </tbody>
+    </table>
+    <div class="note">
+        <strong>Pedir ayuda también es parte de la competencia.</strong> Si después de probar no sale, pregunta: al área de
+        Educación Virtual, a un colega o a tus propios alumnos. Muchas veces ellos ya lo resolvieron. Lo importante es
+        entender qué se cambió para poder hacerlo solo la próxima vez.
+    </div>
+</main>
+
+<footer>
+    Tutorial de José Roberto Mendoza Mendoza para la competencia 3.4 Programación, COCUDI 2026, IBERO Puebla.
+    Me apoyé en Claude (Anthropic) para programar el laboratorio y ordenar el texto; los pasos los probé en mi propio PLN.
+</footer>
+
+<script>
+// Misma lista que el Panel Docente del PLN y que firestore.rules.
+const EMBED_OK = /^https:\/\/(www\.youtube\.com|www\.youtube-nocookie\.com|player\.vimeo\.com|padlet\.com|([a-z0-9-]+\.)?genially\.com|www\.canva\.com|docs\.google\.com|drive\.google\.com|wordwall\.net)\/\S*$/;
+
+function srcDe(code) {
+    code = (code || '').trim();
+    if (!code) return '';
+    const m = code.match(/src\s*=\s*["']([^"']+)["']/i);
+    let src = (m ? m[1] : code).replace(/&amp;/g, '&');
+    const yt = src.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]{11})/);
+    if (yt) src = 'https://www.youtube.com/embed/' + yt[1];
+    return EMBED_OK.test(src) ? src : null;
+}
+
+const $ = (id) => document.getElementById(id);
+const escHTML = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+function actualizar() {
+    const msg = $('lab-msg'), out = $('lab-out'), prev = $('lab-preview');
+    let src = srcDe($('lab-in').value);
+    prev.innerHTML = '';
+    if (!src) {
+        msg.className = 'msg error';
+        msg.textContent = src === null
+            ? 'Ese código no es de una plataforma de la lista (YouTube, Vimeo, Padlet, Genially, Canva, Google o Wordwall).'
+            : 'Pega un código o un link para empezar.';
+        out.textContent = '';
+        return;
+    }
+    const inicio = parseInt($('lab-s').value, 10) || 0;
+    if (/youtube(-nocookie)?\.com\/embed\//.test(src)) {
+        const u = new URL(src);
+        if (inicio > 0) u.searchParams.set('start', inicio); else u.searchParams.delete('start');
+        src = u.toString();
+    }
+    const w = ($('lab-w').value.trim() || '100%').replace(/[^0-9%]/g, '') || '100%';
+    const h = Math.min(1200, Math.max(150, parseInt($('lab-h').value, 10) || 360));
+    const fs = $('lab-fs').checked;
+
+    const codigo = `<iframe width="${w}" height="${h}" src="${src}" title="Contenido incrustado" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"${fs ? ' allowfullscreen' : ''}></iframe>`;
+    out.textContent = codigo;
+    msg.className = 'msg';
+    msg.textContent = 'Listo. Cambia los valores y mira cómo se actualizan el código y la vista previa.';
+
+    // La vista previa se arma con propiedades, no pegando el texto como HTML.
+    const f = document.createElement('iframe');
+    f.src = src; f.width = w; f.height = h; f.title = 'Vista previa'; f.loading = 'lazy';
+    f.allow = 'autoplay; ' + (fs ? 'fullscreen; ' : '') + 'picture-in-picture';
+    if (fs) f.allowFullscreen = true;
+    prev.appendChild(f);
+}
+
+['lab-in', 'lab-w', 'lab-h', 'lab-s', 'lab-fs'].forEach(id => $(id).addEventListener('input', actualizar));
+$('lab-copy').addEventListener('click', async () => {
+    try {
+        await navigator.clipboard.writeText($('lab-out').textContent);
+        $('lab-copy').innerHTML = '<i class="fas fa-check"></i> Copiado';
+        setTimeout(() => $('lab-copy').innerHTML = '<i class="fas fa-copy"></i> Copiar código', 1500);
+    } catch (e) { /* sin permiso de portapapeles: el código queda a la vista para copiarlo a mano */ }
+});
+actualizar();
+</script>
+</body>
+</html>

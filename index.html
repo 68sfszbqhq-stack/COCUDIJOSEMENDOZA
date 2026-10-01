@@ -398,6 +398,11 @@
             margin-bottom: 6px;
         }
 
+        button.pln-resource-link { width: 100%; text-align: left; cursor: pointer; font-family: inherit; }
+        .pln-resource-link .badge-embed { background: #111; color: #fff; }
+        .embed-frame { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 12px; overflow: hidden; background: #000; }
+        .embed-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
         .pln-resource-link:hover {
             background: #EDF2F7;
             border-color: #CBD5E0;
@@ -792,6 +797,14 @@
                                     <input type="url" id="admin-resource-url" class="pln-input" placeholder="https://www.youtube.com/watch?v=...">
                                 </div>
                                 <div>
+                                    <label class="block text-xs font-bold text-gray-600 mb-1">Código de inserción (opcional)</label>
+                                    <textarea id="admin-resource-embed" class="pln-input h-20 font-mono text-xs" placeholder="Pega aquí el código <iframe ...> de YouTube, Padlet, Genially, Canva o Google. Con un video de YouTube basta el link."></textarea>
+                                    <p class="text-xs text-gray-500 mt-1">
+                                        Si lo llenas, el recurso se abre funcionando dentro del PLN.
+                                        <a href="tutorial-incrustar.html" target="_blank" class="text-red-700 font-bold">¿Dónde copio el código? Ver tutorial</a>
+                                    </p>
+                                </div>
+                                <div>
                                     <label class="block text-xs font-bold text-gray-600 mb-1">Plataforma</label>
                                     <select id="admin-resource-type" class="pln-input">
                                         <option value="yt">▶ YouTube (canal educativo)</option>
@@ -1108,6 +1121,8 @@
 
         function closeModal() {
             document.getElementById('modal').style.display = 'none';
+            // Vaciarlo detiene el video si había uno incrustado
+            document.getElementById('modal-body').innerHTML = '';
         }
 
         // --- CÓDIGO DE ADMINISTRACIÓN Y RENDERIZADO DE PLN CON FIREBASE ---
@@ -1410,7 +1425,15 @@
 
                 topics.forEach(topic => {
                     const purposesHtml = (topic.purposes || []).map(p => `<li>${p}</li>`).join('');
-                    const resourcesHtml = (topic.resources || []).map(res => {
+                    const resourcesHtml = (topic.resources || []).map((res, i) => {
+                        if (res.embed && EMBED_OK.test(res.embed)) {
+                            return `
+                            <button type="button" class="pln-resource-link" onclick="verIncrustado('${topic.id}', ${i})">
+                                <i class="fas fa-circle-play" style="width:14px;text-align:center"></i>
+                                <span style="flex:1">${res.name}</span>
+                                <span class="badge badge-embed">▶ Ver aquí</span>
+                            </button>`;
+                        }
                         const url = res.url || '#';
                         const target = url !== '#' ? 'target="_blank" rel="noopener"' : '';
                         const icon = getPlatformIcon(res.type);
@@ -1527,14 +1550,67 @@
             }
         }
 
+        // --- CONTENIDO INCRUSTADO ---
+        // Plataformas que se pueden incrustar. Solo se guarda la dirección (src),
+        // nunca el código completo, y se vuelve a revisar al mostrarla: así nadie
+        // puede colar un script en el PLN aunque escriba directo en Firebase.
+        const EMBED_OK = /^https:\/\/(www\.youtube\.com|www\.youtube-nocookie\.com|player\.vimeo\.com|padlet\.com|([a-z0-9-]+\.)?genially\.com|www\.canva\.com|docs\.google\.com|drive\.google\.com|wordwall\.net)\/\S*$/;
+
+        function embedSrc(code) {
+            code = (code || '').trim();
+            if (!code) return '';
+            const m = code.match(/src\s*=\s*["']([^"']+)["']/i);
+            let src = (m ? m[1] : code).replace(/&amp;/g, '&');
+            const yt = src.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]{11})/);
+            if (yt) src = 'https://www.youtube.com/embed/' + yt[1];
+            return EMBED_OK.test(src) ? src : null;
+        }
+
+        function verIncrustado(topicId, index) {
+            const topic = plnData.find(t => t.id === topicId);
+            const res = topic && topic.resources[index];
+            if (!res || !EMBED_OK.test(res.embed || '')) return;
+
+            const body = document.getElementById('modal-body');
+            body.innerHTML = '';
+            const h = document.createElement('h2');
+            h.className = 'text-2xl font-black text-red-700 mb-1 pr-8';
+            h.textContent = res.name;
+            const sub = document.createElement('p');
+            sub.className = 'text-sm text-gray-500 mb-4';
+            sub.textContent = topic.title;
+            const marco = document.createElement('div');
+            marco.className = 'embed-frame';
+            const f = document.createElement('iframe');
+            f.src = res.embed;
+            f.title = res.name;
+            f.allow = 'autoplay; fullscreen; picture-in-picture; clipboard-write';
+            f.allowFullscreen = true;
+            marco.appendChild(f);
+            body.append(h, sub, marco);
+            if (/^https?:\/\//.test(res.url || '')) {
+                const a = document.createElement('a');
+                a.href = res.url; a.target = '_blank'; a.rel = 'noopener';
+                a.className = 'inline-block mt-4 text-sm font-bold text-red-700';
+                a.textContent = 'Abrir en su sitio original ↗';
+                body.appendChild(a);
+            }
+            document.getElementById('modal').style.display = 'flex';
+        }
+
         async function addResource() {
             const topicId = document.getElementById('admin-select-topic').value;
             const name = document.getElementById('admin-resource-name').value.trim();
             const url = document.getElementById('admin-resource-url').value.trim();
             const type = document.getElementById('admin-resource-type').value;
+            const embed = embedSrc(document.getElementById('admin-resource-embed').value);
 
             if (!name || !url) {
                 alert('Por favor, completa el nombre y la URL del recurso.');
+                return;
+            }
+            if (embed === null) {
+                alert('Ese código de inserción no es de una plataforma permitida (YouTube, Vimeo, Padlet, Genially, Canva, Google o Wordwall). Revisa que hayas copiado el código completo.');
                 return;
             }
 
@@ -1543,7 +1619,9 @@
 
             const topic = plnData.find(t => t.id === topicId);
             if (topic) {
-                const updatedResources = [...topic.resources, { name, type, url }];
+                const nuevo = { name, type, url };
+                if (embed) nuevo.embed = embed;
+                const updatedResources = [...topic.resources, nuevo];
                 try {
                     await db.collection("pln_topics").doc(topicId).update({
                         resources: updatedResources,
@@ -1551,6 +1629,7 @@
                     });
                     document.getElementById('admin-resource-name').value = '';
                     document.getElementById('admin-resource-url').value = '';
+                    document.getElementById('admin-resource-embed').value = '';
                     alert('✅ Recurso agregado correctamente en Firestore.');
                 } catch (e) {
                     console.error(e);

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-10-01T22:24:37.467374+00:00",
-    "total": 197
+    "generated": "2026-10-02T04:23:28.019092+00:00",
+    "total": 198
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Un joven emprendedor reflexiona en torno a su primera ronda de inversión institucional y sobre el modo en que la inteligencia artificial está cambiando al venture capital latinoamericano y a las startups que financia. Th…",
       "image": null,
-      "published": "2026-10-01T22:24:35.920473+00:00",
+      "published": "2026-10-02T04:23:26.615021+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Muchas empresas presumen diversidad, pero siguen evaluando con una sola vara cultural. Cuando el “así trabajamos aquí” se convierte en regla, el talento distinto no crece: se adapta, se silencia o se va. The post Si “así…",
       "image": null,
-      "published": "2026-10-01T22:24:35.920222+00:00",
+      "published": "2026-10-02T04:23:26.614723+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "La mayoría de los ejecutivos siguen tratando a la IA como un simple gestor de tareas, pero el verdadero avance ocurre cuando construyes agentes que piensan como tú y operan de forma autónoma. The post El futuro es de qui…",
       "image": null,
-      "published": "2026-10-01T22:24:35.919974+00:00",
+      "published": "2026-10-02T04:23:26.614450+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Tener mejor disponibilidad no es solo algo deseable: es una poderosa herramienta para hacer crecer tu negocio. Descubre qué significa para tu empresa y cómo lograrla. The post La oportunidad de crecimiento que la mayoría…",
       "image": null,
-      "published": "2026-10-01T22:24:35.919707+00:00",
+      "published": "2026-10-02T04:23:26.614176+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Luego de que una serie de agentes de IA “escaparon de su contención”, Nvidia quiere ayudar a las empresas a mantener a los suyos con la correa corta. The post ¿Te preocupa que los agentes de inteligencia artificial destr…",
       "image": null,
-      "published": "2026-10-01T22:24:35.919455+00:00",
+      "published": "2026-10-02T04:23:26.613876+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Cuando lanzas tu primera empresa, la soledad viene incluida. Aprender a habitarla, en lugar de huir de ella, puede ser la habilidad más formativa de tus primeros años como fundador. The post La soledad no es tu enemiga —…",
       "image": null,
-      "published": "2026-10-01T22:24:35.918016+00:00",
+      "published": "2026-10-02T04:23:26.612483+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "La confianza no es innata; se puede desarrollar. Aquí te decimos cómo hacerlo. The post Cómo transformar la duda en éxito y fortalecer la confianza en tres pasos appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-10-01T22:24:35.917744+00:00",
+      "published": "2026-10-02T04:23:26.612183+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Para Warner Bros., “Coyote vs. Acme” dejó de encajar dentro de la estrategia que la compañía tenía para sus producciones. Para otros actores de la industria, sin embargo, la misma película tenía otro valor. The post Las …",
       "image": null,
-      "published": "2026-10-01T22:24:35.917500+00:00",
+      "published": "2026-10-02T04:23:26.611880+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Frecuentemente se considera a los emprendedores como personas arriesgadas, visionarias y expertas en detectar oportunidades. Sin embargo, muchos tienen dificultades para manejar sus finanzas. The post Los mayores errores…",
       "image": null,
-      "published": "2026-10-01T22:24:35.917234+00:00",
+      "published": "2026-10-02T04:23:26.611557+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,211 @@
       "category": "startup",
       "summary": "Cuando un trabajador tiene un problema con su jefe, algunos de los modelos de inteligencia artificial que utiliza como consejeros pueden terminar recomendándole que abandone el empleo. The post La IA debía ayudar a los t…",
       "image": null,
-      "published": "2026-10-01T22:24:35.916928+00:00",
+      "published": "2026-10-02T04:23:26.611223+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f4be1a7c26f4f9",
+      "title": "Volkswagen quería derrotar a China fabricando baterías en Valencia. Acaba de vender media empresa a un fabricante chino",
+      "url": "https://www.xataka.com/movilidad/volkswagen-queria-derrotar-a-china-fabricando-baterias-valencia-acaba-vender-media-empresa-a-fabricante-chino",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En febrero de 2022, Volkswagen confirmaba que levantaría una planta de baterías en Sagunto. Fue una grandísima noticia para quienes entren a trabajar en la fábrica pero también para los trabajadores de Volkswagen en el r…",
+      "image": "https://i.blogs.es/ec180e/db2023al00198_retina_2000/1024_2000.jpeg",
+      "published": "2026-10-02T04:01:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "34f5dc722bbdb5",
+      "title": "El COP y el Consejo General de Veterinarios exploran posibles sinergias entre ambas profesiones y nuevas vías de colaboración",
+      "url": "https://www.infocop.es/el-cop-y-el-consejo-general-de-veterinarios-exploran-posibles-sinergias-entre-ambas-profesiones-y-nuevas-vias-de-colaboracion/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Ayer, 1 de octubre, el COP se reunió con el Consejo General de Colegios de la Profesión Veterinaria de España, con el objetivo de explorar sinergias entre ambas profesiones e identificar retos (...) La entrada El COP y e…",
+      "image": null,
+      "published": "2026-10-02T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e6679d383bf20b",
+      "title": "Desinformación y fake news: la amenaza para la convivencia que va más allá de compartir información falsa",
+      "url": "https://www.infocop.es/desinformacion-y-fake-news-la-amenaza-para-la-convivencia-que-va-mas-alla-de-compartir-informacion-falsa/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "La Jornada “Desinformación, fake news y convivencia: una mirada desde la Psicología” ha analizado el impacto de las noticias y contenidos falsos que se comparten en múltiples canales (...) La entrada Desinformación y fak…",
+      "image": null,
+      "published": "2026-10-02T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9b438d9754f142",
+      "title": "Cerca de 322 millones de personas en todo el mundo viven con depresión, según datos actualizados de la OMS",
+      "url": "https://www.infocop.es/cerca-de-322-millones-de-personas-en-todo-el-mundo-viven-con-depresion-segun-datos-actualizados-de-la-oms/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Según datos actualizados de la OMS, aproximadamente, 322 millones de personas en todo el mundo viven con depresión (...) La entrada Cerca de 322 millones de personas en todo el mundo viven con depresión, según datos actu…",
+      "image": null,
+      "published": "2026-10-02T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "21b9800cacc3fb",
+      "title": "Hoy se celebra la III Jornada de Salud Mental en Contextos Educativos, que podrá seguirse en directo por streaming",
+      "url": "https://www.infocop.es/hoy-se-celebra-la-iii-jornada-de-salud-mental-en-contextos-educativos-que-podra-seguirse-en-directo-por-streaming/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Hoy, viernes 2 de octubre, se celebra la Jornada de Salud Mental en Contextos Educativos, que puedes seguir online, a través del canal de YouTube del COP (...) La entrada Hoy se celebra la III Jornada de Salud Mental en …",
+      "image": null,
+      "published": "2026-10-02T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e88801ab4ce220",
+      "title": "La depresión podría generar pérdidas económicas globales de unos 12 billones de dólares hasta 2050",
+      "url": "https://www.infocop.es/la-depresion-podria-generar-perdidas-economicas-globales-de-unos-12-billones-de-dolares-hasta-2050/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "La depresión podría ocasionar unas pérdidas acumuladas de, aproximadamente, 12 billones de dólares -a precios de 2024- en la economía mundial entre 2025 y 2050 (...) La entrada La depresión podría generar pérdidas económ…",
+      "image": null,
+      "published": "2026-10-02T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7a90905259695d",
+      "title": "Modalidades del IMSS que dan pensión en 2026, conoce cuáles solo ofrecen servicio médico",
+      "url": "https://www.merca20.com/modalidades-del-imss-que-dan-pension-en-2026-conoce-cuales-solo-ofrecen-servicio-medico/?utm_source=rss&utm_medium=rss&utm_campaign=modalidades-del-imss-que-dan-pension-en-2026-conoce-cuales-solo-ofrecen-servicio-medico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Conoce qué modalidades del IMSS permiten cotizar para pensión, cuáles solo ofrecen servicio médico y qué pasa con modalidades 40 y 33.",
+      "image": "https://files.merca20.com/uploads/2026/10/Modalidades-del-IMSS-que-dan-pension-en-2026-conoce-cuales-solo-ofrecen-servicio-medico-.jpg",
+      "published": "2026-10-02T01:29:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2de7e03a5e85e1",
+      "title": "Raising Cane’s to Open New Restaurants: Full List of Locations",
+      "url": "https://www.merca20.com/raising-canes-to-open-new-restaurants-full-list-of-locations/?utm_source=rss&utm_medium=rss&utm_campaign=raising-canes-to-open-new-restaurants-full-list-of-locations",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Raising Cane’s new restaurants will open this month in California, Georgia, Idaho, Michigan, Oregon, and Wisconsin",
+      "image": "https://files.merca20.com/uploads/2025/06/Raising-Canes-will-open-new-restaurants-in-the-United-States-Check-out-where-.jpg",
+      "published": "2026-10-01T23:39:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e2b0768ee54a56",
+      "title": "Gen Z y Alpha ya están juzgando la publicidad hecha con IA, ¿qué esperan de las marcas?",
+      "url": "https://www.merca20.com/gen-z-y-alpha-ya-estan-juzgando-la-publicidad-hecha-con-ia-que-esperan-de-las-marcas/?utm_source=rss&utm_medium=rss&utm_campaign=gen-z-y-alpha-ya-estan-juzgando-la-publicidad-hecha-con-ia-que-esperan-de-las-marcas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Si una campaña utiliza IA principalmente para producir más rápido o gastar menos, el consumidor puede no encontrar una razón para valorar ese contenido.",
+      "image": "https://files.merca20.com/uploads/2026/10/bigstock-219158644.jpg",
+      "published": "2026-10-01T23:28:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "080482d5825a00",
+      "title": "Amazon Ads Agent cambia la publicidad, así funciona la IA que crea y optimiza campañas",
+      "url": "https://www.merca20.com/amazon-ads-agent-cambia-la-publicidad-asi-funciona-la-ia-que-crea-y-optimiza-campanas/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-ads-agent-cambia-la-publicidad-asi-funciona-la-ia-que-crea-y-optimiza-campanas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Amazon presentó Ads Agent, una IA agéntica que permite crear, analizar y optimizar campañas publicitarias mediante conversaciones.",
+      "image": "https://files.merca20.com/uploads/2026/10/Amazon-Ads-Agent-cambia-la-publicidad-asi-funciona-la-IA-que-crea-y-optimiza-campanas-.jpg",
+      "published": "2026-10-01T23:27:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "702f248a4e9f0b",
+      "title": "Diógenes, filósofo griego, sobre el dinero: “La riqueza no consiste en tener muchas posesiones, sino en tener pocas necesidades”",
+      "url": "https://www.merca20.com/diogenes-filosofo-griego-sobre-el-dinero-la-riqueza-no-consiste-en-tener-muchas-posesiones-sino-en-tener-pocas-necesidades/?utm_source=rss&utm_medium=rss&utm_campaign=diogenes-filosofo-griego-sobre-el-dinero-la-riqueza-no-consiste-en-tener-muchas-posesiones-sino-en-tener-pocas-necesidades",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Para Diógenes, la riqueza no implica pensar en grandes cantidades de dinero, casas, objetos costosos o cuentas bancarias",
+      "image": "https://files.merca20.com/uploads/2026/08/Diogenes-Gemini-AI-1.jpg",
+      "published": "2026-10-01T23:11:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7d10cd6ffb1e88",
+      "title": "Suscripción Merca2.0 desde 29.1 pesos al mes: acceso ilimitado, estudios exclusivos y todo el contenido de marketing",
+      "url": "https://www.merca20.com/suscripcion-merca2-0-desde-29-1-pesos-al-mes-acceso-ilimitado-estudios-exclusivos-y-todo-el-contenido-de-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=suscripcion-merca2-0-desde-29-1-pesos-al-mes-acceso-ilimitado-estudios-exclusivos-y-todo-el-contenido-de-marketing",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Suscríbete a Merca2.0 desde 350 pesos al año, aproximadamente 29.1 pesos al mes, y obtén acceso ilimitado, estudios, infografías y contenido exclusivo",
+      "image": "https://files.merca20.com/uploads/2026/08/MERCA20-SUSCRIBETE.jpg",
+      "published": "2026-10-01T23:11:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "135533fb3466c2",
+      "title": "Chihuahua: Turismo médico dispara inversiones en hospitales, hoteles y servicios",
+      "url": "https://www.altonivel.com.mx/chihuahua-turismo-medico-dispara-inversiones-en-hospitales-hoteles-y-servicios/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Hospitales, hoteles, casas de recuperación, restaurantes y transporte forman una cadena de servicios que crece alrededor de los pacientes internacionales en Chihuahua y Ciudad Juárez. The post Chihuahua: Turismo médico d…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/torre.webp",
+      "published": "2026-10-01T22:52:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0c5130a3d3e29d",
+      "title": "¿Y el doblaje? En este formato llegará “Dragon Ball Super: Beerus” a Latinoamérica",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/01/y-el-doblaje-en-este-formato-llegara-dragon-ball-super-beerus-a-latinoamerica/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "¿Doblada o con subtítulos? El estreno de Dragon Ball Super: Beerus genera expectativa por el doblaje en la región.",
+      "image": "https://www.fayerwayer.com/resizer/v2/RQTPWOUGT5HSBJZOOUZHVXWHSI.jpg?auth=8f0c7c26f7da7df723e556f00fd153e100225e9b7c5276dd72509ed1486b359f&smart=true&width=1376&height=768",
+      "published": "2026-10-01T22:36:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0b9f01cac58ba8",
+      "title": "Messi adquiere el CD Eldense: qué negocios tiene fuera del fútbol y cómo los hizo crecer",
+      "url": "https://expansion.mx/tendencias/2026/10/01/messi-adquiere-cd-eldense-negocios-tiene-fuera-del-futbol",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La compra del club español añade una nueva pieza a una fortuna que Messi ha llevado del salario hacia activos, marcas e inversiones.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ace5b1c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2a%2F0e%2F4ed26f044f5ba230ead0ded80cf2%2Flionel-messi.jpg",
+      "published": "2026-10-01T22:26:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "de7d52afcd56f1",
+      "title": "Dairy Queen trae Tamagotchi a México, estos son los nuevos Blizzard y productos de edición limitada",
+      "url": "https://www.merca20.com/dairy-queen-trae-tamagotchi-a-mexico-estos-son-los-nuevos-blizzard-y-productos-de-edicion-limitada/?utm_source=rss&utm_medium=rss&utm_campaign=dairy-queen-trae-tamagotchi-a-mexico-estos-son-los-nuevos-blizzard-y-productos-de-edicion-limitada",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Dairy Queen celebra los 30 años de Tamagotchi en México con nuevos Blizzard, una malteada y un pastel; conoce los sabores y lanzamiento.",
+      "image": "https://files.merca20.com/uploads/2026/10/Dairy-Queen-trae-Tamagotchi-a-Mexico-estos-son-los-nuevos-Blizzard-y-productos-de-edicion-limitada-.jpg",
+      "published": "2026-10-01T22:24:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3cd3f78fb39409",
+      "title": "Diputados aplican cambios contra el huachicol fiscal y aprueban en Comisión la reforma a Ley Aduanera",
+      "url": "https://expansion.mx/economia/2026/10/01/diputados-reforma-ley-aduanera-contra-huachicol-fiscal",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El dictamen fue enviado a la Mesa Directiva de la Cámara de Diputados para que pueda ser discutida y votada en el pleno.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2b0f0bb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1f%2F92%2F5c4ef59843be88595cbedd26570c%2F10-aduanas-1.jpeg",
+      "published": "2026-10-01T22:23:13+00:00",
       "score": null,
       "tags": []
     },
@@ -161,6 +365,18 @@
       "tags": []
     },
     {
+      "id": "1a881c3a9bb89a",
+      "title": "What’s New on Netflix? Movies and Series Coming in October 2026",
+      "url": "https://www.merca20.com/whats-new-on-netflix-movies-and-series-coming-in-october-2026/?utm_source=rss&utm_medium=rss&utm_campaign=whats-new-on-netflix-movies-and-series-coming-in-october-2026",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Netflix’s new lineup for this month includes everything from horror movies for the Halloween season to new seasons of your favorite series",
+      "image": "https://files.merca20.com/uploads/2025/04/Whats-new-on-Netflix-Movies-and-series-coming-April-18-25-.jpg",
+      "published": "2026-10-01T22:00:50+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "54375605dc33b6",
       "title": "Bodega Aurrera remata Smart TV Hisense 40 pulgadas con resolución HD de 1920 x 1080 píxeles compatible con Google Assistant y Alexa ideal para ver la Champions League",
       "url": "https://www.merca20.com/bodega-aurrera-remata-smart-tv-hisense-40-pulgadas-con-resolucion-hd-de-1920-x-1080-pixeles-compatible-con-google-assistant-y-alexa-ideal-para-ver-la-champions-league/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-remata-smart-tv-hisense-40-pulgadas-con-resolucion-hd-de-1920-x-1080-pixeles-compatible-con-google-assistant-y-alexa-ideal-para-ver-la-champions-league",
@@ -197,6 +413,18 @@
       "tags": []
     },
     {
+      "id": "73469ae6a7ec68",
+      "title": "Mercado Libre remata taladro inalámbrico con 50% de descuento: incluye 2 baterías, cargador, brocas y punta de atornillar",
+      "url": "https://www.merca20.com/mercado-libre-remata-taladro-inalambrico-con-50-de-descuento-incluye-2-baterias-cargador-brocas-y-punta-de-atornillar/?utm_source=rss&utm_medium=rss&utm_campaign=mercado-libre-remata-taladro-inalambrico-con-50-de-descuento-incluye-2-baterias-cargador-brocas-y-punta-de-atornillar",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El Taladro Percutor Destornillador Inalámbrico Pointekx 21V cuenta con calificación de 4.8 de 5 estrellas y más de 900 opiniones, dos datos que pueden orientar a quienes revisan reseñas antes de comprar herramientas en l…",
+      "image": "https://files.merca20.com/uploads/2026/09/TALADRO-gemini-2026.jpg",
+      "published": "2026-10-01T21:25:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "4d053de63ee958",
       "title": "Dragon Ball Super: Beerus ya tiene fechas para Latinoamérica: Dónde y cuándo ver el anime en Crunchyroll y Netflix",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/10/01/dragon-ball-super-beerus-ya-tiene-fechas-para-latinoamerica-donde-y-cuando-ver-el-anime-en-crunchyroll-y-netflix/",
@@ -221,26 +449,26 @@
       "tags": []
     },
     {
-      "id": "204979a106d892",
-      "title": "Filtran el merchandising navideño de Coca-Cola en México y así luce su marketing de colección",
-      "url": "https://www.merca20.com/filtran-el-merchandising-navideno-de-coca-cola-en-mexico-y-asi-luce-su-marketing-de-coleccion/?utm_source=rss&utm_medium=rss&utm_campaign=filtran-el-merchandising-navideno-de-coca-cola-en-mexico-y-asi-luce-su-marketing-de-coleccion",
+      "id": "71ee0161b0cc78",
+      "title": "Mientras el Nokia 1100 se vende como objeto de colección en 2026, Apple se olvida del iPod Nano y apunta a una estrategia que replica a Samsung",
+      "url": "https://www.merca20.com/mientras-el-nokia-1100-se-vende-como-objeto-de-coleccion-en-2026-apple-se-olvida-del-ipod-nano-y-apunta-a-una-estrategia-que-replica-a-samsung/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-el-nokia-1100-se-vende-como-objeto-de-coleccion-en-2026-apple-se-olvida-del-ipod-nano-y-apunta-a-una-estrategia-que-replica-a-samsung",
       "source": "Merca 2.0",
       "category": "startup",
-      "summary": "La apuesta mantiene el enfoque de la marca en convertir sus elementos visuales en objetos coleccionables.",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Tyumen-Russia-october-391796468.jpg",
-      "published": "2026-10-01T21:13:57+00:00",
+      "summary": "El Nokia 1100 se ha convertido en una tendencia impulsada por la nostalgia; en el baúl de los recuerdos de los gadgets más queridos también se encuentra el iPod Nano, el versátil dispositivo que Steve Jobs presentó en se…",
+      "image": "https://files.merca20.com/uploads/2026/10/nokia-1100-ipod-nano-gemini-ai.jpg",
+      "published": "2026-10-01T21:17:40+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "dd408f4ede7d0b",
-      "title": "Bodega Aurrera remata iPhone 17 de 256 GB; cuenta con cámara frontal Center Stage y Ceramic Shield 2",
-      "url": "https://www.merca20.com/bodega-aurrera-remata-iphone-17-de-256-gb-cuenta-con-camara-frontal-center-stage-y-ceramic-shield-2/?utm_source=rss&utm_medium=rss&utm_campaign=bodega-aurrera-remata-iphone-17-de-256-gb-cuenta-con-camara-frontal-center-stage-y-ceramic-shield-2",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El iPhone 17 integra una pantalla de 6.3 pulgadas con tecnología ProMotion, capaz de alcanzar una frecuencia de actualización de hasta 120 Hz",
-      "image": "https://files.merca20.com/uploads/2026/10/BODEGA-AURRERA-IPHONE-17.jpg",
-      "published": "2026-10-01T21:10:05+00:00",
+      "id": "8eb7de20149365",
+      "title": "Así puedes convertir tu celular Android o iOS en una tarjeta para pagar sin efectivo",
+      "url": "https://expansion.mx/tecnologia/2026/10/01/como-pagar-con-celular-sin-tarjeta",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El teléfono puede ser tu aliado en distintas situaciones. Estas son las opciones para configurar un iPhone o Android y los bancos que son compatibles.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ec49424/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F35%2F10%2Fe4c92f79466691005e27cf7fdeee%2Fcomo-pagar-con-celular-iphone-android-apple-pay-google-wallet-2.png",
+      "published": "2026-10-01T21:11:00+00:00",
       "score": null,
       "tags": []
     },
@@ -257,42 +485,6 @@
       "tags": []
     },
     {
-      "id": "b62611e1c1ac45",
-      "title": "Starbucks lanzará el vaso de vidrio Snoopy edición limitada este 2 de octubre: ¿cómo lo puedes obtener y cuántas piezas habrá?",
-      "url": "https://www.merca20.com/starbucks-lanzara-el-vaso-de-vidrio-snoopy-edicion-limitada-este-2-de-octubre-como-lo-puedes-obtener-y-cuantas-piezas-habra/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-lanzara-el-vaso-de-vidrio-snoopy-edicion-limitada-este-2-de-octubre-como-lo-puedes-obtener-y-cuantas-piezas-habra",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El vaso de Snoopy no estará disponible mediante Starbucks Rewards Pickup ni Delivery. Además, no aplicará en bebidas embotelladas ni café del día",
-      "image": "https://files.merca20.com/uploads/2026/10/snoopy-vidrio-vaso-starebucks.jpg",
-      "published": "2026-10-01T20:49:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7fde74b975ece4",
-      "title": "Saturno y otros eventos astronómicos que podrás ver en México en octubre 2026",
-      "url": "https://www.merca20.com/saturno-y-otros-eventos-astronomicos-que-podras-ver-en-mexico-en-octubre-2026/?utm_source=rss&utm_medium=rss&utm_campaign=saturno-y-otros-eventos-astronomicos-que-podras-ver-en-mexico-en-octubre-2026",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Saturno tendrá su momento de mayor protagonismo en octubre, pero el calendario astronómico también incluye meteoros, conjunciones y acercamientos visibles desde México.",
-      "image": "https://files.merca20.com/uploads/2026/10/Saturno.jpg",
-      "published": "2026-10-01T20:45:50+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c83b2047aedd8b",
-      "title": "Christa Pike: ¿por qué sobrevivió a dos dosis letales en Tennessee?",
-      "url": "https://www.merca20.com/christa-pike-por-que-sobrevivio-a-dos-dosis-letales-en-tennessee/?utm_source=rss&utm_medium=rss&utm_campaign=christa-pike-por-que-sobrevivio-a-dos-dosis-letales-en-tennessee",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La ejecución fallida dejó preguntas sobre el procedimiento y la condición médica de Christa Pike, luego de recibir dos dosis de pentobarbital.",
-      "image": "https://files.merca20.com/uploads/2026/10/Pike.jpg",
-      "published": "2026-10-01T20:37:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d4c87a4b937ba8",
       "title": "S&P 500 sube 0.19% y el Dow Jones 0.04% mientras bonos tocan máximos no vistos desde 2002",
       "url": "https://www.altonivel.com.mx/sp-500-sube-0-19-y-el-dow-jones-0-04-mientras-bonos-tocan-maximos-no-vistos-desde-2002/",
@@ -301,30 +493,6 @@
       "summary": "El Dow Jones, el S&P 500 y el Nasdaq cerraron al alza en el inicio de octubre, mientras el petróleo subió casi 3% y el mercado espera el reporte de empleo de Estados Unidos. The post S&P 500 sube 0.19% y el Dow Jones 0.0…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/02/sp-500-1.webp",
       "published": "2026-10-01T20:36:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e4f8b369296853",
-      "title": "Mientras los consumidores mexicanos compran menos, Tiendas 3B acelera con ventas que crecen 20% frente al 1.8% de Walmart",
-      "url": "https://www.merca20.com/mientras-los-consumidores-mexicanos-compran-menos-tiendas-3b-acelera-con-ventas-que-crecen-20-frente-al-1-8-de-walmart/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-los-consumidores-mexicanos-compran-menos-tiendas-3b-acelera-con-ventas-que-crecen-20-frente-al-1-8-de-walmart",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El contraste entre Tiendas 3B y Walmart sugiere que el crecimiento del hard discount merece especial atención dentro del retail mexicano",
-      "image": "https://files.merca20.com/uploads/2026/03/tiendas-3b.jpg",
-      "published": "2026-10-01T20:21:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7a75bff288001b",
-      "title": "CMO y CEO, ¿están midiendo el éxito de marketing con las mismas métricas?",
-      "url": "https://www.merca20.com/cmo-y-ceo-estan-midiendo-el-exito-de-marketing-con-las-mismas-metricas/?utm_source=rss&utm_medium=rss&utm_campaign=cmo-y-ceo-estan-midiendo-el-exito-de-marketing-con-las-mismas-metricas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El crecimiento, los ingresos y el retorno de inversión ganan peso en la evaluación del marketing, pero todavía existe una brecha entre lo que los CMO consideran éxito y lo que espera la alta dirección.",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Analyst-Working-With-Business-451431687.jpg",
-      "published": "2026-10-01T20:20:42+00:00",
       "score": null,
       "tags": []
     },
@@ -353,38 +521,14 @@
       "tags": []
     },
     {
-      "id": "05ba3584a00b08",
-      "title": "Jóvenes Construyendo el Futuro abre lugares para recibir $9,582 al mes, aplica si no estudias ni trabajas",
-      "url": "https://www.merca20.com/jovenes-construyendo-futuro-octubre-2026-registro-cuanto-pagan/?utm_source=rss&utm_medium=rss&utm_campaign=jovenes-construyendo-futuro-octubre-2026-registro-cuanto-pagan",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Jóvenes Construyendo el Futuro abrió vinculaciones este mes de octubre; conoce requisitos y quién puede recibir $9,582 al mes.",
-      "image": "https://files.merca20.com/uploads/2026/10/Jovenes-Construyendo-el-Futuro-abre-en-octubre-2026-checa-como-postularte-para-recibir-9582-al-mes-.jpg",
-      "published": "2026-10-01T19:50:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "13157df947831d",
-      "title": "Taco Bell and Duolingo team up to celebrate National Taco Day",
-      "url": "https://www.merca20.com/taco-bell-and-duolingo-team-up-to-celebrate-national-taco-day/?utm_source=rss&utm_medium=rss&utm_campaign=taco-bell-and-duolingo-team-up-to-celebrate-national-taco-day",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Taco Bell and Duolingo’s National Taco Day celebration combines food, language learning, and signature elements from both brands",
-      "image": "https://files.merca20.com/uploads/2026/10/Taco-Bell-x-Duolingo.jpg",
-      "published": "2026-10-01T19:48:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b0b8b3ff0f128b",
-      "title": "Beca Rita Cetina primaria y secundaria 2026: ¿Cuál es la plataforma para hacer la segunda ronda de registro de aspirantes al programa?",
-      "url": "https://www.merca20.com/beca-rita-cetina-primaria-y-secundaria-2026-cual-es-la-plataforma-para-hacer-la-segunda-ronda-de-registro-de-aspirantes-al-programa/?utm_source=rss&utm_medium=rss&utm_campaign=beca-rita-cetina-primaria-y-secundaria-2026-cual-es-la-plataforma-para-hacer-la-segunda-ronda-de-registro-de-aspirantes-al-programa",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Conoce la segunda fecha de registro oficial de la Beca Rita Cetina para Primaria y Secundaria en octubre 2026",
-      "image": "https://files.merca20.com/uploads/2026/09/Beca-Rita-Cetina-2026-quien-recibe-los-2500-pesos-para-utiles-y-uniformes-y-en-que-puede-gastarlos-.jpg",
-      "published": "2026-10-01T19:45:28+00:00",
+      "id": "2d7f7d1ac75684",
+      "title": "Christa Pike recibió dos inyecciones letales, sobrevivió y su fallida ejecución reavivó el debate sobre la pena",
+      "url": "https://expansion.mx/mundo/2026/10/01/christa-pike-sobrevive-ejecucion-inyecciones-tennessee",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La ejecución de Christa Pike fracasó después de que sobreviviera a dos inyecciones letales en una prisión de Tennessee; el caso ha reavivado el debate sobre la pena de muerte.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9eea91c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F60%2Fc8%2F0056acce4989a3ac8aab3f829e02%2Fchrista-pike-sobrevive-dos-inyecciones-letales.jpg",
+      "published": "2026-10-01T19:41:19+00:00",
       "score": null,
       "tags": []
     },
@@ -421,6 +565,18 @@
       "summary": "Dragon Ball Super: Beerus confirma su llegada a Crunchyroll el 11 de octubre vía simulcast. Netflix también tendrá el anime, pero con un desfase.",
       "image": "https://www.fayerwayer.com/resizer/v2/O5HL3JF7JJBYBE5YFOPGJUKBB4.jpg?auth=21ec3a7b7730b3f03d04bec1b2bc36882725df04a9780609adb5851a81f42d9f&smart=true&width=1376&height=768",
       "published": "2026-10-01T19:08:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "91deb8fa94f24e",
+      "title": "Sucursales de Monte de Piedad abrirán a partir de esta fecha tras acabarse la huelga: ¿qué pasará con los empeños?",
+      "url": "https://expansion.mx/economia/2026/10/01/cuando-abren-sucursales-monte-piedad-fin-huelga",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La huelga de Nacional Monte de Piedad terminó este miércoles 30 de septiembre, por lo que se anunció a partir de cuándo los clientes podrán acudir a las sucursales.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4cf30eb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F04%2Fd8b17bf24a7f8ccd373820753b75%2Fmonte-de-piedad-967606-4160c6dc-6967-4001-b3b4-bea624092909-web.jpeg",
+      "published": "2026-10-01T19:04:45+00:00",
       "score": null,
       "tags": []
     },
@@ -509,13 +665,25 @@
       "tags": []
     },
     {
+      "id": "98aff05081b673",
+      "title": "Día del Café: café a 1 peso en OXXO y gratis en La Esperanza este 1 de octubre en CDMX",
+      "url": "https://expansion.mx/tendencias/2026/10/01/dia-del-cafe-promociones-cdmx",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Varias cadenas activaron beneficios por tiempo limitado; algunas requieren app, termo propio o una compra adicional para poder canjearlos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/363d8d4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3c%2Fd1%2Fb0d024924437afad9954481d3c85%2Fdia-del-cafe.png",
+      "published": "2026-10-01T18:18:36+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "f0d98641fd9df1",
       "title": "Lionel Messi ‘regresa’ al fútbol español profesional",
       "url": "https://www.altonivel.com.mx/messi-compra-cd-eldense-propietario-club-futbol-espana/",
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "El CD Eldense anunció oficialmente la adquisición del club por parte de Lionel Messi, aunque falta la autorización del CSD. The post Lionel Messi ‘regresa’ al fútbol español profesional appeared first on Alto Nivel .",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/messi-compra-cd-eldense-propietario-club-futbol-espana.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/messi-regresa-futbol-espanol.webp",
       "published": "2026-10-01T18:16:03+00:00",
       "score": null,
       "tags": []
@@ -653,6 +821,18 @@
       "tags": []
     },
     {
+      "id": "1a9d01625c6482",
+      "title": "El SAT perdió 4,600 millones de pesos en IVA e impuestos especiales por huachicol fiscal",
+      "url": "https://expansion.mx/economia/2026/10/01/huachicol-fiscal-sat-4600-millones-iva-impuestos-especiales",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Después de trabajo de 10 meses con Aduanas, la autoridad tributaria detectó 109,400 millones de litros de combustibles que no fueron declarados.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a01eba9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9a%2F12%2F0bf49af840f2bb887c91b0f0b220%2F8-ieps-gasolina-566377-aumento-precio-gasolina-impreso-1.jpeg",
+      "published": "2026-10-01T17:19:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "89dfd7ab5d2b4e",
       "title": "\"Queremos que vuelvas a sentir lo mismo que la primera vez que jugaste un 'Gears'\". Entrevista a dos de los directores de 'Gears of War E-Day'",
       "url": "https://www.xataka.com/videojuegos/queremos-que-vuelvas-a-sentir-primera-vez-que-jugaste-gears-entrevista-a-dos-directores-gears-of-war-e-day",
@@ -725,6 +905,18 @@
       "tags": []
     },
     {
+      "id": "d78d6c7b6d535a",
+      "title": "El peso mexicano toca un mínimo de más de 9 meses y cotiza en 18.42 por dólar",
+      "url": "https://expansion.mx/mercados/2026/10/01/tipo-de-cambio-hoy-1-octubre-2026-peso-minimo-dolar",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La moneda mexicana se ve presionada por disrupción de flujo de petróleo, inflación al alza y la demanda de coberturas en el mercado de divisas",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6f87b20/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F53%2F39%2Fe42521a54c45a2ea270bb9f811fd%2Fpeso-mexicano-dolar-superpeso-tipo-cambio-septiembre.png",
+      "published": "2026-10-01T16:46:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "318ef3ffc3dd5d",
       "title": "Mira el nuevo y emocionante tráiler de ‘VisionQuest’: Ultrón vuelve a las andadas",
       "url": "https://hipertextual.com/cine-television/nuevo-trailer-de-visionquest-ultron-vuelve-a-las-andadas/",
@@ -733,6 +925,18 @@
       "summary": "Cuando faltan muy pocos días para su debut en Disney+, Marvel ha lanzado un nuevo tráiler de VisionQuest. La nueva serie protagonizada por Paul Bettany y James Spader promete grandes emociones en un avance que no solo ex…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Visionquest-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-10-01T16:39:54+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "511068e8ad6bcc",
+      "title": "Usuarios abandonan el seguro de gastos médicos y buscan atención en el servicio público de salud",
+      "url": "https://expansion.mx/economia/2026/10/01/usuarios-cancelan-polizas-aumento-precio-gastos-medicos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El alza constante en primas e inflación médica agota el presupuesto de personas y empresas, reduciendo al límite las opciones para acceder a hospitales privados.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/066b875/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F92%2Fa3%2Fb285dcb44bbbac2ae8617cbd5094%2Fseguro-de-gastos-medicos.jpeg",
+      "published": "2026-10-01T16:36:17+00:00",
       "score": null,
       "tags": []
     },
@@ -785,6 +989,18 @@
       "tags": []
     },
     {
+      "id": "0023369a967833",
+      "title": "Liderazgo educativo desde el Tec de Monterrey",
+      "url": "https://expansion.mx/carrera/2026/10/01/liderazgo-educativo-desde-tec-monterrey",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La mentoría y el enfoque social cimentaron una carrera dedicada a transformar la educación superior a nivel internacional para Javier Reyes Altamirano, rector en la Universidad de Massachusetts Amherst",
+      "image": "https://cdn-3.expansion.mx/dims4/default/80b054b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2f%2F96%2F0257e78042c0b91a5956ae6cebb0%2Fprincipal-element-stills-066.png",
+      "published": "2026-10-01T16:00:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "8130c0fb8d63ca",
       "title": "Monte de Piedad vuelve tras 364 días de huelga: el reto ahora es recuperar clientes y sanear sus finanzas",
       "url": "https://www.altonivel.com.mx/monte-de-piedad-vuelve-tras-364-dias-de-huelga-el-reto-ahora-es-recuperar-clientes-y-sanear-sus-finanzas/",
@@ -829,18 +1045,6 @@
       "summary": "DeepSeek y Huawei han firmado una alianza en un terreno inhóspito. Juntas, estas dos compañías chinas están construyendo una alternativa al ecosistema de Nvidia. La compañía liderada por Jensen Huang domina el mercado de…",
       "image": "https://i.blogs.es/c6d4af/huaweiascend/1024_2000.jpeg",
       "published": "2026-10-01T15:45:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c4dc995f254328",
-      "title": "Silenciosamente, la riqueza se está concentrando en manos de grandes propietarios. Y el mejor ejemplo está en Galicia",
-      "url": "https://www.xataka.com/magnet/silenciosamente-riqueza-se-esta-concentrando-poco-a-poco-ciudades-espana-mejor-ejemplo-esta-galicia",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "A la hora de valorar la economía de un país solemos fijarnos en el PIB, su índice de productividad , el desempeño de la industria o los indicadores de desempleo. Sin embargo, ese batiburrillo de datos a menudo no respond…",
-      "image": "https://i.blogs.es/1710e3/jordi-vich-navarro-l0jppr3-uhy-u-2-/1024_2000.jpeg",
-      "published": "2026-10-01T15:31:22+00:00",
       "score": null,
       "tags": []
     },
@@ -961,18 +1165,6 @@
       "summary": "El 4 de noviembre Madrid reunirá a universidades internacionales para que estudiantes de Bachillerato conozcan sus programas, requisitos de acceso y opciones para continuar su formación en otros países.",
       "image": null,
       "published": "2026-10-01T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6edf524f3c6d5e",
-      "title": "Usuarios abandonan el seguro de gastos médicos y buscan atención en el servicio público de salud",
-      "url": "https://expansion.mx/economia/2026/10/01/usuarios-abandonan-el-seguro-de-gastos-medicos-y-buscan-atencion-en-el-servicio-publico-de-salud",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El alza constante en primas e inflación médica agota el presupuesto de personas y empresas, reduciendo al límite las opciones para acceder a hospitales privados.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/066b875/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F92%2Fa3%2Fb285dcb44bbbac2ae8617cbd5094%2Fseguro-de-gastos-medicos.jpeg",
-      "published": "2026-10-01T11:55:17+00:00",
       "score": null,
       "tags": []
     },
@@ -1217,42 +1409,6 @@
       "tags": []
     },
     {
-      "id": "2efddfe73e6ef6",
-      "title": "Termina la huelga en el Monte de Piedad, ¿cuándo abre y qué pasará con los empeños de los clientes?",
-      "url": "https://expansion.mx/economia/2026/09/30/termina-huelga-monte-piedad-cuando-abre-empenos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La huelga de Nacional Monte de Piedad terminó este 30 de septiembre, después de meses de negociaciones entre la institución y el sindicato.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/dbea817/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fee%2Fa5%2Fda35f8294a90b504b4b4e95752d6%2F2-monte-piedad-huelga-1063552-continua-huelga-nacional-monte-de-piedad-web.jpeg",
-      "published": "2026-10-01T01:25:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d5cadd813a6a28",
-      "title": "La aportación del ISR a los ingresos del gobierno disminuye por tercera vez y reporta su menor nivel desde 2021",
-      "url": "https://expansion.mx/economia/2026/09/30/isr-cae-tercera-vez-reporta-menor-nivel-desde-2021",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "De acuerdo con especialistas, la menor recaudación federal está reflejando el bajo crecimiento de la economía además de menores recursos por actos de fiscalización.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6d3095c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F91%2F13%2F87c264b243d7a4db6a29f4d5e5b5%2Fistock-2258902491.jpeg",
-      "published": "2026-10-01T00:07:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "09de3adb25f041",
-      "title": "México lleva al G20 dos frentes de tensión: presión sobre el acero y coerción en alimentos",
-      "url": "https://expansion.mx/economia/2026/09/30/mexico-g20-tension-acero-alimentos-ebrard",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Marcelo Ebrard puso sobre la mesa la sobrecapacidad, los subsidios y las diferencias entre productores de acero, además del riesgo de que los alimentos sean utilizados como instrumento de presión.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a0050a4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc3%2Fe1%2F158440ec4c5e9472f130f63ba917%2Fmexico-g20-acero-alimentos-ebrard.jpg",
-      "published": "2026-09-30T23:47:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0a4f407f2509d8",
       "title": "Entrenamiento en habilidades sociales: curso online para psicólogos",
       "url": "https://www.psyciencia.com/entrenamiento-en-habilidades-sociales-curso-online-para-psicologos/",
@@ -1261,54 +1417,6 @@
       "summary": "Decir que no, pedir ayuda, presentarse ante un grupo. Para muchos pacientes con fobia social o depresión, estas conductas no forman parte de su repertorio o aparecen con tanta ansiedad…",
       "image": null,
       "published": "2026-09-30T23:27:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0fac24024f7621",
-      "title": "J Balvin lanza sus Air Jordan 4 “Amazonas” con Nike y enciende el duelo con Bad Bunny y Adidas",
-      "url": "https://www.fayerwayer.com/sneakers/2026/09/30/j-balvin-lanza-sus-air-jordan-4-amazonas-con-nike-y-enciende-el-duelo-con-bad-bunny-y-adidas/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Todo sobre las nuevas Air Jordan 4 x J Balvin \"Amazonas\" de Nike: precio en dólares, fecha de lanzamiento y su duelo con la colaboración de Bad Bunny y...",
-      "image": "https://www.fayerwayer.com/resizer/v2/QTJA5T62YJDFTD6KVZBBIHZHSE.jpg?auth=d4d83762b905f056ef58b53374b7ba496bfd171c214612d2b3a3a60dae5b1fa2&smart=true&width=1376&height=768",
-      "published": "2026-09-30T23:16:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c4c790bc947859",
-      "title": "¿Cansado del clutch? Estos hatchback, sedanes y SUV automáticos son los más accesibles en México",
-      "url": "https://expansion.mx/empresas/2026/09/30/hatchback-sedanes-y-suv-automaticos-mas-accesibles-de-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Dejar atrás el clutch no necesariamente obliga a brincar a las versiones más caras. Entre los modelos de entrada hay diferencias importantes en precio, transmisión, seguridad y equipamiento.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e27e7f1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2F8c%2F882ade7941789cca39147c31bc47%2Fpalanca-carro-automatico.png",
-      "published": "2026-09-30T23:09:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3210c1b8de18e7",
-      "title": "La nueva Mazda CX-90 PHEV llega a México con tecnología híbrida enchufable",
-      "url": "https://expansion.mx/tendencias/2026/09/30/la-nueva-mazda-cx-90-phev-llega-a-mexico-con-tecnologia-hibrida-enchufable",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La SUV tope de gama del fabricante japonés incorpora tecnología PHEV, cargador dual portátil y seis años de garantía, incluida la batería.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f980a8e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F46%2F5e%2F49f3d7c0420dab88c5b12ca8ab32%2Fmazda-cx90-camioneta-phev-interiores-piel-negra-desktop-v1-06.jpg",
-      "published": "2026-09-30T22:50:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1f0f4f596be236",
-      "title": "México tiene DiMo y CoDi; Perú apuesta por Bim y un modelo que podría cambiar los pagos digitales",
-      "url": "https://expansion.mx/economia/2026/09/30/mexico-tiene-codi-peru-compartamos-banco-apuesta-bim",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Compartamos Banco llevó Bim a sus operaciones de crédito y ahora participa en un piloto que podría permitir pagar desde una billetera digital aunque el dinero esté en otro banco.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/1b7ff98/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6a%2F51%2F2455104d41918a1d1d2633c3d78d%2Fimage-20260930-165229-solo-cambia-su-expresin-a-algo-menos-feliz-un-poco-sin-las-banderas-de-per.jpg",
-      "published": "2026-09-30T22:12:07+00:00",
       "score": null,
       "tags": []
     },
@@ -1333,30 +1441,6 @@
       "summary": "Amazon ha actualizado su Fire TV Stick 4K con un nuevo modelo que incluye a Alexa+ y un mando rediseñado. La compañía lanzó la versión 2026 de uno de sus reproductores de streaming más populares, el cual llega con mejora…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/fire-tv-stick-4k-ftv-remote-hero-amazonnews-ck92916.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-09-30T21:40:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "979067f87d686c",
-      "title": "DeepSeek y Huawei unen fuerzas para reducir la dependencia de Nvidia en chips de IA",
-      "url": "https://expansion.mx/tecnologia/2026/09/30/deepseek-huawei-unen-fuerzas-reducir-dependencia-nvidia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "DeepSeek liberó herramientas de código abierto adaptadas a los chips Ascend de Huawei, en un intento por facilitar el desarrollo de inteligencia artificial sobre hardware chino.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/83a0b81/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F07%2F8b%2F6ade715346528d2f0848b6ce801d%2Fhuawei-vs-nvidia.jpg",
-      "published": "2026-09-30T21:37:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a785f728d592eb",
-      "title": "Cancelación de vuelos de Aeroméxico y Volaris al Aeropuerto de Tulum recrudece crisis turística en el destino",
-      "url": "https://expansion.mx/empresas/2026/09/30/tulum-aeromexico-volaris-suspenden-vuelos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La suspensión de vuelos de Aeroméxico y Volaris suma presión a Tulum, un destino que busca recuperar ocupación tras perder atractivo por sus precios y enfrentar mayor competencia internacional.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8351cde/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F08%2F32%2F074131a54aaf81416778ccbefabf%2Faeromexico-volaris-tulum-clean-v2.png",
-      "published": "2026-09-30T21:32:02+00:00",
       "score": null,
       "tags": []
     },
@@ -1393,18 +1477,6 @@
       "summary": "Tu marca puede tener buenas reseñas, un perfil cuidado en redes y menciones positivas en medios. Aun así, hay una conversación que probablemente no estás viendo. Ocurre en foros especializados, grupos temáticos y comunid…",
       "image": null,
       "published": "2026-09-30T20:44:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4e1240696d00bb",
-      "title": "Dow Jones pierde 443 puntos y el Nasdaq sube 0.26% tras datos de inflación y PIB",
-      "url": "https://www.altonivel.com.mx/dow-jones-pierde-443-puntos-y-el-nasdaq-sube-0-26-tras-datos-de-inflacion-y-pib/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El Dow Jones cayó 4.06% en septiembre y puso fin a una racha de cinco meses de ganancias, mientras el Nasdaq avanzó 2.45% y el S&P 500 retrocedió 0.2%. The post Dow Jones pierde 443 puntos y el Nasdaq sube 0.26% tras dat…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/06/dow-jones_caida.webp",
-      "published": "2026-09-30T20:07:25+00:00",
       "score": null,
       "tags": []
     },
@@ -1577,30 +1649,6 @@
       "tags": []
     },
     {
-      "id": "287432ed2c36f7",
-      "title": "Sobrevivir a una infidelidad: el papel de la Psicología para reparar el daño y reconstruir la confianza",
-      "url": "https://www.infocop.es/sobrevivir-a-una-infidelidad-el-papel-de-la-psicologia-para-reparar/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "¿Qué significa ser infiel? La respuesta, que nunca ha sido sencilla, se ha vuelto todavía más compleja en un contexto en el que las aplicaciones de citas, las redes sociales, las plataformas digitales y la inteligencia a…",
-      "image": null,
-      "published": "2026-09-30T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9ac6a1ce3de29f",
-      "title": "La activación conductual ofrece beneficios duraderos en el tratamiento de la depresión",
-      "url": "https://www.infocop.es/la-activacion-conductual-ofrece-beneficios-duraderos-en-el-tratamiento-de-la-depresion/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La activación conductual constituye un tratamiento eficaz para la depresión en personas adultas. Sus beneficios se mantienen hasta 12 meses después de la asignación al tratamiento. Además, presenta una eficacia comparabl…",
-      "image": null,
-      "published": "2026-09-30T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "181f32463a5552",
       "title": "La cafeína puede alterar la calidad del sueño aunque no impida dormir",
       "url": "https://www.psyciencia.com/la-cafeina-puede-alterar-la-calidad-del-sueno-aunque-no-impida-dormir/",
@@ -1705,42 +1753,6 @@
       "summary": "¡Buenos días! Este es el resumen diario de los artículos más importantes del día: Tabla de contenido El retiro de antidepresivos causa síntomas de abstinencia, no recaída Cuando alguien reduce…",
       "image": null,
       "published": "2026-09-29T04:51:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "94250d30cda01d",
-      "title": "Cuidar la salud mental también es cuidar el corazón, en el Día Mundial del Corazón",
-      "url": "https://www.infocop.es/cuidar-la-salud-mental-tambien-es-cuidar-el-corazon-en-el-dia-mundial-del-corazon/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La salud mental y la cardiovascular mantienen una estrecha relación que puede influir en la prevención, evolución y atención de las enfermedades cardiovasculares. El estrés crónico, la depresión y la ansiedad se asocian …",
-      "image": null,
-      "published": "2026-09-29T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e7d411bc4a171d",
-      "title": "La Psicología debe formar parte de la rehabilitación cardiovascular para atender las necesidades psicológicas y sociales",
-      "url": "https://www.infocop.es/la-psicologia-debe-formar-parte-de-la-rehabilitacion-cardiovascular-para-atender-las-necesidades-psicologicas-y-sociales/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La atención psicológica debería constituir un componente estándar de la rehabilitación cardiovascular, con profesionales de la Psicología adecuadamente formados e integrados en los equipos multidisciplinares (...) La ent…",
-      "image": null,
-      "published": "2026-09-29T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6754d4747c8d01",
-      "title": "La EFPA abre las nominaciones para sus Premios 2027 a la excelencia en Psicología",
-      "url": "https://www.infocop.es/la-efpa-abre-las-nominaciones-para-sus-premios-2027-a-la-excelencia-en-psicologia/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La Psicología europea vuelve a reconocer las contribuciones, los logros destacados y la dedicación dentro de la profesión. Los galardones distinguen diferentes trayectorias, desde aportaciones científicas y profesionales…",
-      "image": null,
-      "published": "2026-09-29T03:58:00+00:00",
       "score": null,
       "tags": []
     },

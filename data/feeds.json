@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-10-09T04:53:23.687204+00:00",
+    "generated": "2026-10-09T12:41:41.876013+00:00",
     "total": 199
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "579 millones de fincas en el mundo y miles de millones de dólares buscando cómo llegar a ellas. Por qué una agtech dejó de venderle al agricultor para poder crecer. The post El agro no se vende finca por finca: la apuest…",
       "image": null,
-      "published": "2026-10-09T04:53:22.200292+00:00",
+      "published": "2026-10-09T12:41:40.488476+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Un llamado a repensar las famosas “listas de habilidades del futuro” desde la perspectiva latinoamericana. The post No necesitamos más listas: necesitamos un lenguaje propio para el talento appeared first on Entrepreneur…",
       "image": null,
-      "published": "2026-10-09T04:53:22.199777+00:00",
+      "published": "2026-10-09T12:41:40.487989+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Hoy el riesgo no está en decidir mal; está en no decidir. En un entorno saturado de datos e inteligencia artificial, la ventaja competitiva es la velocidad con criterio. The post Cómo dejar de sobrepensar para hacer crec…",
       "image": null,
-      "published": "2026-10-09T04:53:22.199266+00:00",
+      "published": "2026-10-09T12:41:40.487531+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Durante décadas, cineastas y escritores han imaginado tecnologías que aún no existían y han creado versiones ficticias del futuro para que el público las viera. Hoy contamos con las herramientas para imaginarlo, crearlo …",
       "image": null,
-      "published": "2026-10-09T04:53:22.198783+00:00",
+      "published": "2026-10-09T12:41:40.487038+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial está pasando de responder preguntas a ejecutar procesos completos, conectándose con los sistemas y datos de las empresas para tomar decisiones y actuar de forma autónoma. The post Los agentes d…",
       "image": null,
-      "published": "2026-10-09T04:53:22.198308+00:00",
+      "published": "2026-10-09T12:41:40.486556+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "La pasión puede impulsar tu startup, pero son las ganancias las que la mantienen viva. The post Ama lo que haces, pero no dejes que hunda tu negocio. Aprende a mantener la pasión sin sacrificar la rentabilidad appeared f…",
       "image": null,
-      "published": "2026-10-09T04:53:22.196825+00:00",
+      "published": "2026-10-09T12:41:40.485072+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Los trucos tradicionales de gestión del tiempo no son suficientes para los líderes. Estas tres estrategias te ayudarán a concentrarte en lo que de verdad importa. The post No te falta tiempo: te falta enfoque. Aquí te de…",
       "image": null,
-      "published": "2026-10-09T04:53:22.196356+00:00",
+      "published": "2026-10-09T12:41:40.484602+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "He estudiado la ciencia de la conexión humana, y estas cinco frases funcionan de maravilla. The post ¿Quieres caerle bien a la gente? Solo di estas 5 frases mágicas appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-10-09T04:53:22.195838+00:00",
+      "published": "2026-10-09T12:41:40.484055+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "La certeza sobre el resultado es un pronóstico y los pronósticos fallan; la certeza de que seguirás ahí es lo que te permite encajar los golpes de emprender. The post Emprender con un ingenuo aire de certeza appeared fir…",
       "image": null,
-      "published": "2026-10-09T04:53:22.195354+00:00",
+      "published": "2026-10-09T12:41:40.483567+00:00",
       "score": null,
       "tags": []
     },
@@ -120,19 +120,583 @@
       "category": "startup",
       "summary": "Por qué es falso el mito de que “el cliente siempre va primero”. The post Por qué quedarte con malos clientes es el error más costoso que puedes cometer appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-10-09T04:53:22.194802+00:00",
+      "published": "2026-10-09T12:41:40.483007+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "144d6ad236a78b",
-      "title": "High-NA EUV todavía está llegando a las fábricas. ASML y Zeiss ya tienen un nombre para lo siguiente: Hyper-NA",
-      "url": "https://www.xataka.com/investigacion/high-na-euv-todavia-esta-llegando-a-fabricas-asml-zeiss-tienen-nombre-para-siguiente-hyper-na",
+      "id": "95cd71896d784d",
+      "title": "Irdeto lanza un nuevo Denuvo para bloquear el hypervisor",
+      "url": "https://www.muycomputer.com/2026/10/09/irdeto-lanza-un-nuevo-denuvo-para-bloquear-el-hypervisor/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Irdeto ha incluido un nuevo Denuvo en el videojuego Star Wars: Galactic Racer publicado esta semana. La actualización del DRM tiene como objetivo bloquear el método del Hypervisor que hasta ahora se usaba. El juego del g…",
+      "image": null,
+      "published": "2026-10-09T12:37:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7ffd6b8f69ecf7",
+      "title": "Lidl tiene (por 17,99 euros) este espumador con acabado pastel que prepara leche cremosa para café y cacao",
+      "url": "https://www.xataka.com/seleccion/lidl-tiene-17-99-euros-este-espumador-acabado-pastel-que-prepara-leche-cremosa-para-cafe-cacao",
       "source": "Xataka",
       "category": "tech-ia",
-      "summary": "En la industria de los semiconductores, llegar a una nueva generación tecnológica no significa detenerse a disfrutar del resultado. Las máquinas que permiten fabricar los circuitos más avanzados son el resultado de años …",
-      "image": "https://i.blogs.es/8907cd/asml_highna_cleanroom_veldhoven_068/1024_2000.jpeg",
-      "published": "2026-10-09T04:30:27+00:00",
+      "summary": "Lidl suele tener muchísimos productos en su sección Bazar, y lo bueno es que dicha sección se va renovando semanalmente, lo que nos deja con muchísimas novedades cada poco tiempo. Ahora mismo en su tienda online tenemos …",
+      "image": "https://i.blogs.es/f08093/lidl/1024_2000.jpeg",
+      "published": "2026-10-09T12:30:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "51e2a256d89d55",
+      "title": "Nike encuentra en Running una salida a su crisis: Vomero impulsa el negocio mientras Sportswear, Jordan y China frenan sus resultados",
+      "url": "https://www.merca20.com/nike-encuentra-en-running-una-salida-a-su-crisis-vomero-impulsa-el-negocio-mientras-sportswear-jordan-y-china-frenan-sus-resultados/?utm_source=rss&utm_medium=rss&utm_campaign=nike-encuentra-en-running-una-salida-a-su-crisis-vomero-impulsa-el-negocio-mientras-sportswear-jordan-y-china-frenan-sus-resultados",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Nike afirmó que prácticamente triplicó su participación en ese segmento durante el último año, respaldada principalmente por la fortaleza de la franquicia Vomero.",
+      "image": "https://files.merca20.com/uploads/2026/09/nike-vomero-cortesia-newsroom.jpg",
+      "published": "2026-10-09T12:20:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "da8776a5a533bd",
+      "title": "Pagos digitales: una oportunidad para ampliar la inclusión financiera en México",
+      "url": "https://expansion.mx/opinion/2026/10/09/pagos-digitales-una-oportunidad-para-ampliar-la-inclusion-financiera-en-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "México cuenta con infraestructura de pagos digitales capaz de transformar la economía; el reto es generar confianza, interoperabilidad y adopción para que sus beneficios lleguen a más personas y mipymes.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5cfd500/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1e%2Fe5%2F0fa0cc75431aa94cf2d65ed65018%2Fprosa-visa-antimonopolio.jpg",
+      "published": "2026-10-09T12:08:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a4acea413a800c",
+      "title": "México y Europa: La infraestructura como prueba de absorción",
+      "url": "https://expansion.mx/opinion/2026/10/09/mexico-y-europa-la-infraestructura-como-prueba-de-absorcion",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La infraestructura mexicana será uno de los primeros campos para medir si la nueva relación económica con Europa consigue transformar acuerdos comerciales en inversión, producción local y crecimiento.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/de6baec/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2F67%2Faa%2Fb55d89b44609a2415fa7508128a1%2Funion-europea-mexico-comercio-is-benguhan.jpg",
+      "published": "2026-10-09T12:03:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "41aacbe0484738",
+      "title": "¿La IA puede destruir la humanidad?",
+      "url": "https://expansion.mx/opinion/2026/10/08/la-ia-puede-destruir-la-humanidad",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Aunque la IA tiene un poder colosal, también convertirse en el más grande aliado para proteger la vida.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d8b80e8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9b%2Fac%2F9deafa614eb0b3a250a97a436a5c%2Fia-puede-destruir-humanidad.jpg",
+      "published": "2026-10-09T12:01:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5177a4151aac79",
+      "title": "El negocio de viajar para descansar se dispara: turismo wellness alcanzaría 1.38 billones de dólares en 2029",
+      "url": "https://www.merca20.com/el-negocio-de-viajar-para-descansar-se-dispara-turismo-wellness-alcanzaria-1-38-billones-de-dolares-en-2029/?utm_source=rss&utm_medium=rss&utm_campaign=el-negocio-de-viajar-para-descansar-se-dispara-turismo-wellness-alcanzaria-1-38-billones-de-dolares-en-2029",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Entre 2020 y 2024, la industria de turismo wellness o bienestar acumuló un crecimiento cercano a 173% y las proyecciones apuntan a que continuará expandiéndose",
+      "image": "https://files.merca20.com/uploads/2026/07/turismo-bienestar-gemini.jpg",
+      "published": "2026-10-09T12:00:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c42f1293177fba",
+      "title": "Cae un 40% la lámpara para mesita de noche inteligente que podrás controlar por el móvil y es compatible con Alexa",
+      "url": "https://www.xataka.com/seleccion/cae-40-lampara-para-mesita-noche-inteligente-que-podras-controlar-movil-compatible-alexa",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si quieres crear un ambiente acogedor en el dormitorio o el salón, no hará falta que hagas reformas en la electricidad e iluminación de tu hogar. Ahora, en Amazon, puedes comprar esta l ámpara para mesita de noche inteli…",
+      "image": "https://i.blogs.es/1d4f1f/lampara-de-mesa-govee/1024_2000.jpeg",
+      "published": "2026-10-09T12:00:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5877a4cc7c3069",
+      "title": "Unos astrónomos de Harvard han detectado una histórica señal de radio en el exoplaneta Beta Pictoris b",
+      "url": "https://www.xataka.com/espacio/primera-vez-hemos-detectado-ondas-radio-procedentes-exoplaneta-que-implica-eso-busqueda-vida",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Por primera vez, unos científicos han detectado ondas de radio procedentes de un planeta fuera de nuestro Sistema Solar. A menudo, la detección de ondas de radio en el espacio se relaciona con la vida extraterrestre inte…",
+      "image": "https://i.blogs.es/63f321/radio-exoplaneta/1024_2000.jpeg",
+      "published": "2026-10-09T12:00:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1b3d165bb7459e",
+      "title": "Anthropic ya incluye \"cláusulas de abuso contra Claude\" en sus términos de uso para proteger a sus modelos de IA",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-incluye-clausulas-abuso-claude-sus-terminos-uso-para-proteger-a-sus-modelos-ia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El bienestar de Claude importa. Al menos, le importa a Anthropic. Dario Amodei, el máximo responsable de este laboratorio, ha expresado en varias ocasiones su preocupación por los abusos a los que pueden ser sometidos su…",
+      "image": "https://i.blogs.es/401860/darioamodei/1024_2000.jpeg",
+      "published": "2026-10-09T11:58:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f3732b895221e1",
+      "title": "Baterías de BYD en Argentina: por qué el gigante chino mira al país para producir y exportar",
+      "url": "https://www.merca20.com/baterias-byd-argentina-fabrica-expansion-latinoamerica/?utm_source=rss&utm_medium=rss&utm_campaign=baterias-byd-argentina-fabrica-expansion-latinoamerica",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "BYD evalúa fabricar baterías de litio en Argentina mientras amplía su producción automotriz en Brasil. La posible inversión forma parte de su estrategia de crecimiento latinoamericano.",
+      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Electric-Car-Charging-Station-451942519-scaled.jpg",
+      "published": "2026-10-09T11:55:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bd7631d0909df8",
+      "title": "Fraude bancario imparable en México; clientes reclaman 11,213 mdp en el primer semestre de 2026",
+      "url": "https://expansion.mx/economia/2026/10/09/fraude-bancario-imparable-en-mexico-clientes-reclaman-11-213-mdp-en-el-primer-semestre-de-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las pérdidas equivalen a 7.5% de las utilidades bancarias de enero a junio. El sector financiero mantiene la alerta nacional para que la población no descargue apps ni proporcione datos personales",
+      "image": "https://cdn-3.expansion.mx/dims4/default/0c66f93/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2F47%2F85544757462aadfee5be5ec46bfc%2Ffraude-bancario-mexico-alerta-2026.jpg",
+      "published": "2026-10-09T11:55:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "862d0fd4adf279",
+      "title": "Volvo arranca producción de camiones en Nuevo León y exporta las primeras unidades a Canadá",
+      "url": "https://expansion.mx/empresas/2026/10/09/volvo-inicia-produccion-camiones-en-nuevo-leon-nueva-planta",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La nueva fábrica de Volvo en Nuevo León ya produjo sus primeros camiones y comenzó exportaciones de prueba a Canadá, mientras la compañía mantiene sus planes de abastecer al mercado estadounidense pese a los aranceles.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/218a4c5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd3%2F6b%2F78a6360146bc8fc6cba61694d805%2F6.jpeg",
+      "published": "2026-10-09T11:51:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3e7bfe5c634d08",
+      "title": "Seis usos de un pendrive USB más allá de almacenar archivos",
+      "url": "https://www.muycomputer.com/2026/10/09/seis-usos-de-un-pendrive-usb-mas-alla-de-almacenar-archivos/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "La gran mayoría de usuarios usan un pendrive USB para almacenamiento de archivos. Y es que estas memorias flash externas son ideales para ello teniendo en cuenta sus grandes ventajas: tienen un precio muy económico, un t…",
+      "image": null,
+      "published": "2026-10-09T11:44:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ac1c3efef12865",
+      "title": "Mientras Robert De Niro construyó un imperio de 46 hoteles sin usar su nombre como marca, Cristiano Ronaldo tomó el camino contrario y convirtió CR7 en un negocio hotelero",
+      "url": "https://www.merca20.com/mientras-robert-de-niro-construyo-un-imperio-de-46-hoteles-sin-usar-su-nombre-como-marca-cristiano-ronaldo-tomo-el-camino-contrario-y-convirtio-cr7-en-un-negocio-hotelero/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-robert-de-niro-construyo-un-imperio-de-46-hoteles-sin-usar-su-nombre-como-marca-cristiano-ronaldo-tomo-el-camino-contrario-y-convirtio-cr7-en-un-negocio-hotelero",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Robert De Niro desarrolló su negocio a partir de la gastronomía, en tanto que Cristiano Ronaldo aprovechó la fortaleza comercial de su marca personal",
+      "image": "https://files.merca20.com/uploads/2026/10/CRISTIANO-RONALDO-ROBERT-DENIRO-HOTELES.jpg",
+      "published": "2026-10-09T11:40:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1c411ad88b1510",
+      "title": "Hace un millón de años, los humanos venían a este lugar de Tarragona como quien va al supermercado. Los arqueólogos siguen encontrando cosas",
+      "url": "https://www.xataka.com/magnet/hace-millon-anos-humanos-venian-a-este-lugar-tarragona-como-quien-va-al-supermercado-arqueologos-siguen-encontrando-cosas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En La Canonja, a pocos kilómetros de Tarragona, hay un yacimiento que lleva dos décadas dando que hablar: el Barranc de la Boella . El IPHES-CERCA lo excava de forma sistemática desde 2007. Resulta interesante por varios…",
+      "image": "https://i.blogs.es/7a5158/foto-2/1024_2000.jpeg",
+      "published": "2026-10-09T11:30:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "476bca4202d80f",
+      "title": "YPF mueve US$ 430 millones en Argentina: qué hay detrás de su nueva apuesta",
+      "url": "https://www.merca20.com/compra-ypf-luz-430-millones-estrategia/?utm_source=rss&utm_medium=rss&utm_campaign=compra-ypf-luz-430-millones-estrategia",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "YPF acordó adquirir el 24,99% restante de YPF Luz por US$ 430 millones. La operación permite analizar su estrategia energética frente a Petrobras, Ecopetrol y Pemex.",
+      "image": "https://files.merca20.com/uploads/2026/10/bigstock-June-Buenos-Aires-Ar-478434179.jpg",
+      "published": "2026-10-09T11:24:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d4f060248a1e67",
+      "title": "Los drones ucranianos están consiguiendo lo que años de transición energética no lograron: que los rusos se lancen a la compra de coches eléctricos",
+      "url": "https://www.xataka.com/magnet/drones-ucranianos-estan-consiguiendo-que-anos-transicion-energetica-no-lograron-que-rusos-se-lancen-a-compra-coches-electricos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Rusia lleva años intentando impulsar el coche eléctrico con subvenciones, ventajas fiscales y nuevas estaciones de carga. Sin embargo, el mayor acelerador de esa transición ha llegado desde el cielo y tiene forma de dron…",
+      "image": "https://i.blogs.es/e42ceb/bomberos-combaten-incendio-de-vehiculos/1024_2000.png",
+      "published": "2026-10-09T11:00:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d51f96fd49798a",
+      "title": "Este móvil viene con vidrio tallado de Swarovski, incluye auriculares de regalo y ahora lo puedes comprar de oferta",
+      "url": "https://www.xataka.com/seleccion/este-movil-viene-vidrio-tallado-swarovski-incluye-auriculares-regalo-ahora-puedes-comprar-oferta",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "De vez en cuando vemos colaboraciones muy particulares con determinados móviles. Un buen ejemplo lo tenemos en el Poco X8 Pro de Iron Man , el Realme 16 Pro 5G de Harry Potter o, el más curioso, el Motorola Edge 70 con c…",
+      "image": "https://i.blogs.es/0e8099/motorola-edge-70/1024_2000.jpeg",
+      "published": "2026-10-09T10:46:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bbf857ef5344e7",
+      "title": "Pablo Picasso sobre la creatividad: “La inspiración existe, pero tiene que encontrarte trabajando”",
+      "url": "https://www.merca20.com/pablo-picasso-sobre-la-creatividad-la-inspiracion-existe-pero-tiene-que-encontrarte-trabajando/?utm_source=rss&utm_medium=rss&utm_campaign=pablo-picasso-sobre-la-creatividad-la-inspiracion-existe-pero-tiene-que-encontrarte-trabajando",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Pablo Ruiz Picasso nació el 25 de octubre de 1881 en Málaga, España. Desde pequeño mostró habilidades para el dibujo y recibió formación artística de su padre, quien también era pintor",
+      "image": "https://files.merca20.com/uploads/2026/10/pablo-picasso-gemini-ia.jpg",
+      "published": "2026-10-09T10:41:02+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9206fb66eed5bb",
+      "title": "Descuento de 300 euros en el mejor teléfono de Xiaomi que existe en este momento",
+      "url": "https://hipertextual.com/ofertas-descuentos/mejor-telefono-xiaomi/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Xiaomi lleva ya varios años en los que quiere alejarse de la imagen de marca de productos baratos. Ha subido el precio pero también la calidad. Un ejemplo son sus flagships donde vemos algunas características y especific…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/xiaomi-17t-6.jpg?fit=1024%2C668&quality=70&strip=all&ssl=1",
+      "published": "2026-10-09T10:37:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "04ba10dc57d4ee",
+      "title": "Beam es la nueva apuesta de EEUU para plantar cara a los modelos chinos de IA de pesos abiertos",
+      "url": "https://www.xataka.com/robotica-e-ia/beam-nueva-apuesta-eeuu-para-plantar-cara-a-modelos-chinos-ia-pesos-abiertos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Algunos modelos chinos, como DeepSeek, Qwen, GLM, Kimi o MiniMax, se han acercado mucho a las inteligencias artificiales (IA) más avanzadas estadounidenses en numerosas tareas. Sin embargo, la apuesta de China es diferen…",
+      "image": "https://i.blogs.es/ee8cd5/reflectionai/1024_2000.jpeg",
+      "published": "2026-10-09T10:30:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "aa87f81b8fbad5",
+      "title": "Las mejores ofertas de los Días Naranjas de PcComponentes",
+      "url": "https://www.muycomputer.com/2026/10/09/las-mejores-ofertas-de-los-dias-naranjas-de-pccomponentes/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Nos vamos de compras con la selección de ofertas de tecnología y electrónica que te ofrecemos cada viernes y que esta semana enfocamos a los Días Naranjas de PcComponentes. Y te recomendamos prestarle atención si necesit…",
+      "image": null,
+      "published": "2026-10-09T10:28:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b4b6ae1671c2e0",
+      "title": "María Montessori sobre la educación: “Ayudar a la vida, dejándola libre para desarrollarse, es la tarea básica del educador”",
+      "url": "https://www.merca20.com/maria-montessori-sobre-la-educacion-ayudar-a-la-vida-dejandola-libre-para-desarrollarse-es-la-tarea-basica-del-educador/?utm_source=rss&utm_medium=rss&utm_campaign=maria-montessori-sobre-la-educacion-ayudar-a-la-vida-dejandola-libre-para-desarrollarse-es-la-tarea-basica-del-educador",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La tarea del educador y maestro, según María Montessori, no consiste en hacer todo por el estudiante, sino en proporcionarle las herramientas para que pueda hacerlo cada vez con mayor independencia.",
+      "image": "https://files.merca20.com/uploads/2026/09/MARIA-MONTESSORI-GEMINI.jpg",
+      "published": "2026-10-09T10:21:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fc308d684a71ff",
+      "title": "Hoy en Lidl la solución para ahorrar en la factura de la luz sin cambiar de tarifa por menos de 8 euros",
+      "url": "https://www.xataka.com/seleccion/hoy-lidl-solucion-para-ahorrar-factura-luz-cambiar-tarifa-8-euros",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Recortar el importe de la factura de la luz no siempre pasa por cambiar de compañía eléctrica o hacer un gran desembolso en gadgets de domótica avanzada. Lidl tiene ahora una solución muy sencilla e intuitiva. Se trata d…",
+      "image": "https://i.blogs.es/db9578/lidl-28-/1024_2000.jpeg",
+      "published": "2026-10-09T10:16:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "61d0ceedeec8ef",
+      "title": "John Dewey, pedagogo: “La educación comienza con la vida y termina con la muerte”",
+      "url": "https://www.merca20.com/john-dewey-pedagogo-la-educacion-comienza-con-la-vida-y-termina-con-la-muerte/?utm_source=rss&utm_medium=rss&utm_campaign=john-dewey-pedagogo-la-educacion-comienza-con-la-vida-y-termina-con-la-muerte",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "John Dewey nació el 20 de octubre de 1859 en Burlington, Vermont, Estados Unidos. Estudió en la Universidad de Vermont",
+      "image": "https://files.merca20.com/uploads/2026/10/JOHN-DEWEY-gemini-ia.jpg",
+      "published": "2026-10-09T10:01:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a05e99dbc0c181",
+      "title": "Fernando García, guardia civil: “Dejar un carril de emergencias en cada atasco sería un caos total”",
+      "url": "https://www.xataka.com/movilidad/fernando-garcia-guardia-civil-dejar-carril-emergencias-cada-atasco-seria-caos-total",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El pasado 1 de octubre, el Reglamento de Circulación se reformó. La DGT y el Gobierno defienden que con los cambios introducidos se protege más al usuario vulnerable y, especialmente, a los motoristas, los usuarios de pa…",
+      "image": "https://i.blogs.es/e8f99b/detalle.jpg_793616401/1024_2000.jpeg",
+      "published": "2026-10-09T10:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5ad1423179abe5",
+      "title": "Cómo ha cambiado la gestión de los cobros y pagos en los centros educativos",
+      "url": "https://www.educaciontrespuntocero.com/noticias/gestion-de-pagos-en-centros-educativos/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Del efectivo y los recibos en papel a las plataformas digitales: la tecnología ha transformado la forma en que los centros educativos gestionan sus cobros y pagos.",
+      "image": null,
+      "published": "2026-10-09T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "abb529e5e518ac",
+      "title": "2026 no es buen año para estrenar hardware gaming, pero algunos PC (como este) siguen teniendo una relación calidad precio top",
+      "url": "https://www.xataka.com/seleccion/2026-no-buen-ano-para-estrenar-hardware-gaming-algunos-pc-como-este-siguen-teniendo-relacion-calidad-precio-top",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si desde finales del pasado año y durante todo lo que llevamos de 2026 nos hemos enfrentado a la compra de algún nuevo dispositivo electrónico, nos habremos dado con una realidad: casi todo sale más caro que antes y hay …",
+      "image": "https://i.blogs.es/03e00f/pccom-pc-gaming-oferta/1024_2000.jpeg",
+      "published": "2026-10-09T09:46:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7e34dd34f28558",
+      "title": "Los riesgos de ciberseguridad en la era de la IA se han multiplicado por 10, según JPMorgan",
+      "url": "https://www.xataka.com/seguridad/riesgos-ciberseguridad-era-ia-se-han-multiplicado-10-jpmorgan",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El nombre de Jamie Dimon puede que no os suene, pero se trata del consejero delegado de uno de los bancos más grandes del mundo: JPMorgan Chase. En una reciente entrevista en Bloomberg , Dimon ha reforzado el mensaje de …",
+      "image": "https://i.blogs.es/0c45fc/politico-gesticulando-en-collage-retro/1024_2000.png",
+      "published": "2026-10-09T09:30:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b3b7f4e3398947",
+      "title": "No sólo potencia: los nuevos cargadores UGREEN Nexode Pro incorporan pantalla, cable retráctil y posibilidad de carga en remoto",
+      "url": "https://hipertextual.com/brands/ugreen-nexode/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Ahora que estamos en verano, preparar la maleta para los viajes requiere meter dentro todos los cargadores y cables que necesitamos. Cargadores para uno o dos teléfonos, para el portátil, para el reloj… Al final una male…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Coffee-Shop-Two-People-Landscape.jpg?fit=1024%2C559&quality=70&strip=all&ssl=1",
+      "published": "2026-10-09T09:26:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2b4b9b78a90c8c",
+      "title": "Las nuevas Amazon Alexa Tablets ya se pueden precomprar: estos son sus precios y la fecha en la que llegarán a la tienda",
+      "url": "https://www.xataka.com/seleccion/nuevas-amazon-alexa-tablets-se-pueden-precomprar-estos-sus-precios-fecha-que-llegaran-a-tienda",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En una época en la que la venta de tablets ha caído , Amazon ha presentado una nueva hornada de modelos para diferentes bolsillos y usuarios. Las denominadas Amazon Alexa Tablets se presentaron ayer, 8 de octubre, y ya s…",
+      "image": "https://i.blogs.es/d4d552/amazon-alexa-tablet/1024_2000.jpeg",
+      "published": "2026-10-09T09:16:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "21f1329bcf7829",
+      "title": "Una estrella muerta ha dado a luz un planeta. Y puede que el Sol haga lo mismo en el futuro",
+      "url": "https://www.xataka.com/espacio/estrella-muerta-ha-dado-a-luz-planeta-puede-que-sol-haga-futuro",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Igual que el ave Fénix renació de sus cenizas, unos científicos de la Universidad de Warwick han descubierto un planeta que orbita una enana blanca y, posiblemente, nació de las cenizas de una gigante roja. Es un hallazg…",
+      "image": "https://i.blogs.es/bb5e48/planeta-fenix/1024_2000.jpeg",
+      "published": "2026-10-09T09:00:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "39c3a9c9b428dd",
+      "title": "En este colegio han creado su propia banda para aprender música y ¡hasta hacen conciertos!",
+      "url": "https://www.educaciontrespuntocero.com/experiencias/proyecto-aprender-musica-aula/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Los estudiantes del Colegio San José FEyE (Puertollano) componen y tocan sus propias canciones, convirtiendo el aprendizaje musical en una experiencia pública y colectiva. Nos lo cuenta el docente Rafael del Campo.",
+      "image": null,
+      "published": "2026-10-09T09:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "92fe0987afa43f",
+      "title": "Puedes hacerte con una licencia de Windows 11 LTSC desde solo 15 euros. Eso sí, ¿sabes qué versión es la mejor para ti?",
+      "url": "https://www.muycomputer.com/2026/10/09/puedes-hacerte-con-una-licencia-de-windows-11-ltsc-desde-solo-15-euros-eso-si-sabes-que-version-es-la-mejor-para-ti/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Elegir Windows 11 no consiste únicamente en decidir instalar el sistema operativo más reciente de Microsoft. También debemos escoger una edición, y no todas responden a las mismas necesidades. Aunque comparten una base c…",
+      "image": null,
+      "published": "2026-10-09T08:56:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c5684af6265154",
+      "title": "MediaMarkt está liquidando estas Nintendo Switch 2 y Switch OLED en su outlet, con chollos desde 184 euros",
+      "url": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-estas-nintendo-switch-2-switch-oled-su-outlet-chollos-184-euros",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hace unos meses que Nintendo Switch 2 cumplió su primer año de vida y, desde hace unas pocas semanas, comprarla es más cara : 499,99 euros, concretamente, tras la subida de Nintendo desde sus 469,99 euros originales. Sin…",
+      "image": "https://i.blogs.es/eea26f/switch-2-mediamarkt-outlet/1024_2000.jpeg",
+      "published": "2026-10-09T08:30:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5b29f7b50d752a",
+      "title": "Marvel anuncia su nueva serie live-action para Disney+: ya sabemos su título y cuándo se estrena",
+      "url": "https://hipertextual.com/cine-television/marvel-anuncia-su-nueva-serie-live-action-para-disney-ya-sabemos-su-titulo-y-cuando-se-estrena/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Aunque hace unos meses se confirmó que Marvel tenía intención de pisar el freno con sus series para Disney+, la compañía acaba de anunciar otra más. La Casa de las Ideas está a punto de estrenar VisionQuest, que llegará …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/Marvel-serie.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-10-09T08:15:59+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8ca441d2f0ae67",
+      "title": "Starbucks quiere comprar Chipotle, pero los analistas ven riesgos: el costo de fusionar dos gigantes que tienen negocios muy diferentes",
+      "url": "https://www.merca20.com/starbucks-quiere-comprar-chipotle-pero-los-analistas-ven-riesgos-el-costo-de-fusionar-dos-gigantes-que-tienen-negocios-muy-diferentes/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-quiere-comprar-chipotle-pero-los-analistas-ven-riesgos-el-costo-de-fusionar-dos-gigantes-que-tienen-negocios-muy-diferentes",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Starbucks estudia comprar Chipotle por más de 41 mil millones de dólares, pero analistas advierten riesgos financieros, costos elevados y diferencias entre ambos negocios",
+      "image": "https://files.merca20.com/uploads/2026/10/CHIPOTLE-STARBUCKS-gemini-ia.jpg",
+      "published": "2026-10-09T08:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e2e4091f87be0e",
+      "title": "La guía para docentes que explica cómo utilizar la IA de forma crítica y ética en el aula",
+      "url": "https://www.educaciontrespuntocero.com/noticias/integrar-la-ia-en-el-aula-sm/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Enseñar a usar la inteligencia artificial de manera crítica, responsable y ética es el objetivo del libro ‘Inteligencia artificial para docentes. Cómo fomentar su uso pedagógico y ético’, editado por SM.",
+      "image": null,
+      "published": "2026-10-09T08:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "229aff1b329acd",
+      "title": "RetroMarketing: ¿Te acuerdas de Dalay? El comercial que convirtió una marca en una expresión de los mexicanos",
+      "url": "https://www.merca20.com/retromarketing-te-acuerdas-de-dalay-el-comercial-que-convirtio-una-marca-en-una-expresion-de-los-mexicanos/?utm_source=rss&utm_medium=rss&utm_campaign=retromarketing-te-acuerdas-de-dalay-el-comercial-que-convirtio-una-marca-en-una-expresion-de-los-mexicanos",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "¿Recuerdas el comercial de Dalay? Conoce la historia de la publicidad que llevó el nombre de una marca a las conversaciones.",
+      "image": "https://files.merca20.com/uploads/2026/10/RetroMarketing-¿Te-acuerdas-de-Dalay-El-comercial-que-convirtio-una-marca-en-una-expresion-de-los-mexicanos-.jpg",
+      "published": "2026-10-09T07:55:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e9302f8f69d6dd",
+      "title": "Gráfica del día: Las mejores empresas del mundo en 2026",
+      "url": "https://www.merca20.com/grafica-del-dia-las-mejores-empresas-del-mundo-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grafica-del-dia-las-mejores-empresas-del-mundo-en-2026",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El ranking evalúa factores como la satisfacción de los empleados, el crecimiento de los ingresos y la sostenibilidad",
+      "image": "https://files.merca20.com/uploads/2026/10/Grafica-del-dia-Las-mejores-empresas-del-mundo-en-2026.jpeg",
+      "published": "2026-10-09T07:50:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "97bf37b87e1374",
+      "title": "Amazon presenta Alexa Tablet, cambio de rumbo total en su línea de tablets",
+      "url": "https://www.muycomputer.com/2026/10/09/amazon-presenta-alexa-tablet-cambio-de-rumbo-total-en-su-linea-de-tablets/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Amazon ha presentado Alexa Tablet, una nueva línea de tabletas electrónicas que llegan como centro de entretenimiento portátil en tres versiones (Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11 y Amazon Alexa Tablet 8…",
+      "image": null,
+      "published": "2026-10-09T07:48:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8bd8fd2c4f7726",
+      "title": "Las tienditas de la esquina mueven 49% del consumo masivo y desafían al retail moderno",
+      "url": "https://www.merca20.com/las-tienditas-de-la-esquina-mueven-49-del-consumo-masivo-y-desafian-al-retail-moderno/?utm_source=rss&utm_medium=rss&utm_campaign=las-tienditas-de-la-esquina-mueven-49-del-consumo-masivo-y-desafian-al-retail-moderno",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Las tienditas de la esquina mantienen un peso importante en el consumo mexicano",
+      "image": "https://files.merca20.com/uploads/2026/10/tiendita-esquina.mexico.jpg",
+      "published": "2026-10-09T07:40:54+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fcc8427df93379",
+      "title": "Por qué la IA, el comercio social y la TV están obligando a replantear los medios",
+      "url": "https://www.merca20.com/por-que-la-ia-el-comercio-social-y-la-tv-estan-obligando-a-replantear-los-medios/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-la-ia-el-comercio-social-y-la-tv-estan-obligando-a-replantear-los-medios",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Una estrategia de medios puede generar tráfico, impresiones y clics sin necesariamente garantizar que una marca sea considerada cuando el consumidor formule una pregunta directamente a una herramienta de IA.",
+      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Linking-entities-Network-net-121691153.jpg",
+      "published": "2026-10-09T07:00:53+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8b68df1b741c98",
+      "title": "Senado aprueba reforma contra explotación sexual infantil en hoteles y turismo",
+      "url": "https://www.altonivel.com.mx/hoteles-verificar-parentesco-menores-reforma-turismo-explotacion-sexual-infantil/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Prestadores turísticos deberán aplicar protocolos y solicitar documentos que acrediten parentesco, tutela, patria potestad o custodia. The post Senado aprueba reforma contra explotación sexual infantil en hoteles y turis…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/hoteles-verificar-parentesco-menores-reforma-turismo.webp",
+      "published": "2026-10-09T06:56:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "50563e478ee823",
+      "title": "De Brasil para el continente, la nueva ola de derecha desafía al progresismo",
+      "url": "https://www.merca20.com/de-brasil-para-el-continente-la-nueva-ola-de-derecha-desafia-al-progresismo/?utm_source=rss&utm_medium=rss&utm_campaign=de-brasil-para-el-continente-la-nueva-ola-de-derecha-desafia-al-progresismo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Bolsonaro quiere redemocratizar a Brasil.",
+      "image": "https://files.merca20.com/uploads/2024/04/Federico.jpeg",
+      "published": "2026-10-09T06:16:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3873a864edc010",
+      "title": "Las ventas mundiales de PCs se desploman un 20%",
+      "url": "https://www.muycomputer.com/2026/10/09/las-ventas-mundiales-de-pcs-se-desploman-un-20/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Las ventas mundiales de PCs cayeron un 20% en el tercer trimestre de 2026 frente al mismo trimestre del año anterior, según los datos de IDC. Una caída asombrosa que se corresponde con el MEMOpocalipsis que tiene estrang…",
+      "image": null,
+      "published": "2026-10-09T06:07:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3c74800d3404a3",
+      "title": "Mucho marketing, poca magia",
+      "url": "https://www.merca20.com/mucho-marketing-poca-magia/?utm_source=rss&utm_medium=rss&utm_campaign=mucho-marketing-poca-magia",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Digger y los límites de la mercadotecnia cinematográfica en el nuevo Hollywood.",
+      "image": "https://files.merca20.com/uploads/2023/06/Arturo-Mora-Columnista.jpeg",
+      "published": "2026-10-09T06:00:25+00:00",
       "score": null,
       "tags": []
     },
@@ -145,18 +709,6 @@
       "summary": "El COP Madrid celebró, a través de su Foro de Veteranía, una Jornada formativa dedicada a analizar la longevidad, la jubilación y los retos asociados a esta etapa vital desde una perspectiva integradora. La entrada El CO…",
       "image": null,
       "published": "2026-10-09T04:01:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a4dee4c5b7cd3c",
-      "title": "Que los días tengan 24 horas es una gran mentira que nos hemos contado para vivir más felices",
-      "url": "https://www.xataka.com/espacio/que-dias-tengan-24-horas-gran-mentira-que-nos-hemos-contado-para-vivir-felices",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Según el Diccionario de la lengua española , un día es el \"período de 24 horas, que corresponde aproximadamente al tiempo en que la Tierra da una vuelta completa sobre su eje\". La palabra clave es \"aproximadamente\". Nos …",
-      "image": "https://i.blogs.es/2542e3/photo-1777047023742-1607aeb1a5bb/1024_2000.jpeg",
-      "published": "2026-10-09T04:00:27+00:00",
       "score": null,
       "tags": []
     },
@@ -181,18 +733,6 @@
       "summary": "La sexualización del cuerpo de las mujeres continúa presente en la publicidad de alimentos y restauración. Junto a ella, persisten estereotipos que vinculan a las mujeres con la delgadez, las dietas y el control del peso…",
       "image": null,
       "published": "2026-10-09T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "cc4c7172150674",
-      "title": "Timberland lanza su colección edición limitada Día de Muertos 2026 este 12 de octubre",
-      "url": "https://www.merca20.com/timberland-lanza-su-coleccion-edicion-limitada-dia-de-muertos-2026-este-12-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=timberland-lanza-su-coleccion-edicion-limitada-dia-de-muertos-2026-este-12-de-octubre",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las colecciones inspiradas en el Día de Muertos se han convertido en una alternativa para las marcas que buscan conectar sus productos con elementos culturales",
-      "image": "https://files.merca20.com/uploads/2026/10/timberland-dia-de-muertos-2026.jpg",
-      "published": "2026-10-09T03:58:26+00:00",
       "score": null,
       "tags": []
     },
@@ -233,6 +773,30 @@
       "tags": []
     },
     {
+      "id": "c6d8311a15242e",
+      "title": "Nissan se suma a otras 9 marcas tradicionales que importan autos desde China para abastecer a México",
+      "url": "https://expansion.mx/empresas/2026/10/08/nissan-marcas-autos-china-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La automotriz japonesa estrenó la Frontier PRO PHEV, su primer modelo desarrollado y fabricado en China para exportación global. Chevrolet, Ford y Stellantis ya importan miles de unidades de ese país a México.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ccc950f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F81%2F36%2Feefd1cc24ad68e56c44179610d56%2Fnissan-marcas-importan-china.jpg",
+      "published": "2026-10-09T01:43:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0bbe6e5d407050",
+      "title": "AriZona cambia de cancha: de su famoso té a bebidas con 5% de alcohol para conquistar otro mercado",
+      "url": "https://expansion.mx/mercadotecnia/2026/10/08/arizona-te-bebidas-alcohol-conquistar-mercado",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "De las bebidas de consumo cotidiano a las preparadas con tequila, AriZona amplía las categorías en las que compite sin dejar de lado los sabores frutales que identifican a la marca.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/68aa6a4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F07%2F15%2Ff5a7bc614b0989bf923cd9db44ec%2Fdiseno-sin-titulo.png",
+      "published": "2026-10-09T01:27:43+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "041b3796e2a164",
       "title": "Semana Mundial del Espacio 2026: Por qué Google cambió su logo con la Nebulosa Rosebud y cómo Pikachu viajó al espacio",
       "url": "https://www.fayerwayer.com/espacio/2026/10/09/semana-mundial-del-espacio-2026-por-que-google-cambio-su-logo-con-la-nebulosa-rosebud-y-como-pikachu-viajo-al-espacio/",
@@ -257,18 +821,6 @@
       "tags": []
     },
     {
-      "id": "8f3f3987d8452e",
-      "title": "Semana Mundial del Espacio 2026 CDMX, eventos gratis y picnic espacial con música en vivo este 9 y 10 de octubre",
-      "url": "https://www.merca20.com/semana-mundial-del-espacio-2026-cdmx-eventos-gratis-y-picnic-espacial-con-musica-en-vivo-este-9-y-10-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=semana-mundial-del-espacio-2026-cdmx-eventos-gratis-y-picnic-espacial-con-musica-en-vivo-este-9-y-10-de-octubre",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Conoce los eventos de la Semana Mundial del Espacio 2026 en CDMX este 9 y 10 de octubre: telescopios, picnic espacial y más.",
-      "image": "https://files.merca20.com/uploads/2026/10/Semana-Mundial-del-Espacio-2026-CDMX-eventos-gratis-y-telescopios-este-viernes-9-y-sabado-10-de-octubre-.jpg",
-      "published": "2026-10-09T00:47:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fcbf69ae7200c6",
       "title": "Revelan la entrevista completa sobre GTA 6: Rob Nelson de Rockstar North detalla el sistema de relaciones, físicas y mecánicas con Jason y Lucia",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/10/09/revelan-la-entrevista-completa-sobre-gta-6-rob-nelson-de-rockstar-north-detalla-el-sistema-de-relaciones-fisicas-y-mecanicas-con-jason-y-lucia/",
@@ -281,50 +833,38 @@
       "tags": []
     },
     {
-      "id": "5805b434e21920",
-      "title": "Zendaya bailaba detrás de Selena Gomez en este comercial de Sears de 2009",
-      "url": "https://www.merca20.com/zendaya-bailaba-detras-de-selena-gomez-en-este-comercial-de-sears-de-2009/?utm_source=rss&utm_medium=rss&utm_campaign=zendaya-bailaba-detras-de-selena-gomez-en-este-comercial-de-sears-de-2009",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Antes de la fama mundial, Zendaya bailó detrás de Selena Gomez en un comercial de Sears de 2009; así combinaba la campaña música y moda.",
-      "image": "https://files.merca20.com/uploads/2026/10/Zendaya-bailaba-detras-de-Selena-Gomez-en-este-comercial-de-Sears-de-2009-.jpg",
-      "published": "2026-10-08T23:48:44+00:00",
+      "id": "9ea954b5ad06b6",
+      "title": "De Dr. Simi a Bienestar: las marcas que ahora tienen cafetería aunque su negocio original sea otro",
+      "url": "https://expansion.mx/mercadotecnia/2026/10/08/dr-simi-pato-bienestar-marcas-con-cafeteria-su-negocio-otro",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Mientras Café Simi y La Esperanza amplían su oferta comercial, Pato apostó por una cafetería temporal para promocionar un producto y Café del Bienestar busca acercar el café mexicano al consumidor.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/16b8de6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0b%2Fa6%2F40896d7b41bf9138f0e9c22dfc7c%2Fdescarga-4-puedes-mejorar-la-calidad-de-esta-imagen-sin-modif.jpg",
+      "published": "2026-10-08T23:50:22+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "06189284118929",
-      "title": "NIVEA sales fall, but Eucerin takes off and becomes Beiersdorf’s growth engine",
-      "url": "https://www.merca20.com/nivea-sales-fall-but-eucerin-takes-off-and-becomes-beiersdorfs-growth-engine/?utm_source=rss&utm_medium=rss&utm_campaign=nivea-sales-fall-but-eucerin-takes-off-and-becomes-beiersdorfs-growth-engine",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "NIVEA remains a giant within Beiersdorf, but it began 2026 with negative results",
-      "image": "https://files.merca20.com/uploads/2026/06/NIVEA-EUCERIN.jpg",
-      "published": "2026-10-08T23:40:28+00:00",
+      "id": "437ecd84a2c525",
+      "title": "Cobrar una incapacidad del IMSS ya no será igual para todos: este monto cambia la forma de pago",
+      "url": "https://expansion.mx/finanzas-personales/2026/10/08/imss-pago-incapacidades-monto-cambia-forma-de-pago",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El nuevo esquema obliga a usar una cuenta bancaria en ciertos casos, pero no cambia cuánto te corresponde recibir por una incapacidad.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/877e4a6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe0%2F18%2F40952c13498d865a52ec3ac4fd91%2Fpago-incapacidad-imss.png",
+      "published": "2026-10-08T23:42:09+00:00",
       "score": null,
       "tags": []
     },
     {
-      "id": "d7579c067c0318",
-      "title": "Por qué los Agentic Marketing pone a los CMOs frente a una nueva carrera tecnológica",
-      "url": "https://www.merca20.com/por-que-los-agentic-marketing-pone-a-los-cmos-frente-a-una-nueva-carrera-tecnologica/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-los-agentic-marketing-pone-a-los-cmos-frente-a-una-nueva-carrera-tecnologica",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La nueva carrera tecnológica modifica el perfil del equipo de marketing, el CMO necesita entender mucho más que campañas, medios, creatividad o experiencia del consumidor.",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Customer-Care-Care-For-Employ-255701557.jpg",
-      "published": "2026-10-08T23:40:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "57b33592db02f1",
-      "title": "Pikachu viaja al espacio: Así festeja la Agencia Espacial Europea y Pokémon la Semana Mundial del Espacio 2026",
-      "url": "https://www.merca20.com/pikachu-viaja-al-espacio-asi-festeja-la-agencia-espacial-europea-la-semana-mundial-del-espacio-2026/?utm_source=rss&utm_medium=rss&utm_campaign=pikachu-viaja-al-espacio-asi-festeja-la-agencia-espacial-europea-la-semana-mundial-del-espacio-2026",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La colaboración incluye un Pikachu que viajó al espacio con la astronauta Sophie Adenot, exposiciones en centros científicos europeos, productos especiales y actividades en Pokémon GO.",
-      "image": "https://files.merca20.com/uploads/2026/10/ESA-NASA-Pokemon.jpg",
-      "published": "2026-10-08T23:17:47+00:00",
+      "id": "521dac894a81d0",
+      "title": "Los contratos mixtos no atraen a los gigantes petroleros, pero algunas empresas sí ven negocio con Pemex",
+      "url": "https://expansion.mx/empresas/2026/10/08/contratos-mixtos-no-atraen-shell-bp-empresas-negocio-pemex",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Consorcio 5M del Golfo ya obtuvo tres campos bajo este esquema, pero considera que los contratos mixtos no son adecuados para todos los proyectos petroleros.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/2952319/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F41%2Fcd%2Fbf00585047fcb542c7e44eab1574%2Fistock-155600602.jpg",
+      "published": "2026-10-08T23:08:33+00:00",
       "score": null,
       "tags": []
     },
@@ -341,18 +881,6 @@
       "tags": []
     },
     {
-      "id": "5088e7acdeebbf",
-      "title": "Infonavit descuentos de 90 mil pesos en vivienda: Cómo aplicar y qué sueldo debes tener para ser candidato",
-      "url": "https://www.merca20.com/infonavit-descuentos-de-90-mil-pesos-en-vivienda-como-aplicar-y-que-sueldo-debes-tener-para-ser-candidato/?utm_source=rss&utm_medium=rss&utm_campaign=infonavit-descuentos-de-90-mil-pesos-en-vivienda-como-aplicar-y-que-sueldo-debes-tener-para-ser-candidato",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El ingreso mensual determina cuánto puedes ahorrar en la compra de una Vivienda para el Bienestar, con reducciones que van de 10 mil a 90 mil pesos.",
-      "image": "https://files.merca20.com/uploads/2026/08/infonavit_credito.jpg",
-      "published": "2026-10-08T22:41:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "66a8b7d5b3cab4",
       "title": "Inversión mixta entre gobierno e IP sumará 5.7 billones de pesos en 2030, dice la Secretaría de Hacienda",
       "url": "https://expansion.mx/economia/2026/10/08/inversion-mixta-billones-de-pesos-2030-sector-energetico",
@@ -361,18 +889,6 @@
       "summary": "La subsecretaria de Hacienda, María del Carmen Bonilla Rodríguez destacó que ya se cuenta con los lineamientos para la Ley que fomenta la coinversión ente el sector público y privado",
       "image": "https://cdn-3.expansion.mx/dims4/default/e179522/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff2%2Fa4%2F01b3c36e4ef9ae4d86c82dcbde30%2Fbonilla-rodriguez.jpeg",
       "published": "2026-10-08T22:41:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "029ad72bb28ae4",
-      "title": "Celular de Harry Potter podrá comprarse en PayJoy más barato que en Mercado Libre y con pagos semanales de $785",
-      "url": "https://www.merca20.com/celular-de-harry-potter-podra-comprarse-en-payjoy-mas-barato-que-en-mercado-libre-y-con-pagos-semanales-de-785/?utm_source=rss&utm_medium=rss&utm_campaign=celular-de-harry-potter-podra-comprarse-en-payjoy-mas-barato-que-en-mercado-libre-y-con-pagos-semanales-de-785",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El celular de Harry Potter llega a PayJoy, conoce el enganche, los pagos semanales y cómo comprar esta edición limitada en México.",
-      "image": "https://files.merca20.com/uploads/2026/10/realme-16-Pro-5G-Harry-Potter-Edition-llega-a-Mexico-precio-fecha-de-venta-y-como-comprarlo-con-PayJoy.jpg",
-      "published": "2026-10-08T22:40:16+00:00",
       "score": null,
       "tags": []
     },
@@ -389,30 +905,6 @@
       "tags": []
     },
     {
-      "id": "c55563ed3257bd",
-      "title": "WWE Money in the Bank 2026: ¿A qué hora y por dónde VER EN VIVO desde México?",
-      "url": "https://www.merca20.com/wwe-money-in-the-bank-2026-a-que-hora-y-por-donde-ver-en-vivo-desde-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=wwe-money-in-the-bank-2026-a-que-hora-y-por-donde-ver-en-vivo-desde-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Penta buscará el maletín masculino y Stephanie Vaquer defenderá su campeonato en una función que también enfrentará a Roman Reigns con LA Knight.",
-      "image": "https://files.merca20.com/uploads/2026/10/Money-in-The-Bank-2026-WWE.jpg",
-      "published": "2026-10-08T22:27:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "df72a980901524",
-      "title": "Walmart is increasingly attracting higher-income consumers, confirming that low prices also win over households with greater purchasing power",
-      "url": "https://www.merca20.com/walmart-is-increasingly-attracting-higher-income-consumers-confirming-that-low-prices-also-win-over-households-with-greater-purchasing-power/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-is-increasingly-attracting-higher-income-consumers-confirming-that-low-prices-also-win-over-households-with-greater-purchasing-power",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Walmart's ability to gain market share among households across different economic levels has become one of the keys to its performance",
-      "image": "https://files.merca20.com/uploads/2026/06/WALMART_LAURA-ISLAS-MERCA20.jpg",
-      "published": "2026-10-08T22:20:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a0af8d9c4d322a",
       "title": "Checo Pérez “estaciona” su Cadillac en CDMX antes de tomar Reforma: dónde verlo y cuándo será el show",
       "url": "https://expansion.mx/tendencias/2026/10/08/checo-perez-cadillac-cdmx-donde-verlo",
@@ -421,30 +913,6 @@
       "summary": "Cadillac acerca su llegada a la Fórmula 1 a los aficionados mexicanos con una exhibición previa y un showrun encabezado por Checo Pérez.",
       "image": "https://cdn-3.expansion.mx/dims4/default/1dc0c0f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2F75%2F95bcd4a247faa6153e4a1e0529b9%2Fcheco-perez-cadillac.jpg",
       "published": "2026-10-08T22:17:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "88b9943a251a93",
-      "title": "¿Agencia independiente o gran holding? La decisión que enfrenta la Generación Z",
-      "url": "https://www.merca20.com/agencia-independiente-o-gran-holding-la-decision-que-enfrenta-la-generacion-z/?utm_source=rss&utm_medium=rss&utm_campaign=agencia-independiente-o-gran-holding-la-decision-que-enfrenta-la-generacion-z",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Para una persona que comienza su carrera en publicidad, esto significa que la experiencia ya no puede medirse únicamente por la cantidad de campañas en el portafolio.",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Generation-Z-Word-Concepts-Ban-368294446.jpg",
-      "published": "2026-10-08T22:17:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e8bbb3496b93d7",
-      "title": "National Sausage Month: Where to find the best deals",
-      "url": "https://www.merca20.com/national-sausage-month-where-to-find-the-best-deals/?utm_source=rss&utm_medium=rss&utm_campaign=national-sausage-month-where-to-find-the-best-deals",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "National Sausage Month 2026 promotions range from prepared meals to family packs of sausages and artisan meats",
-      "image": "https://files.merca20.com/uploads/2026/10/National-Sausage-Month-Gemini-AI.jpg",
-      "published": "2026-10-08T22:15:55+00:00",
       "score": null,
       "tags": []
     },
@@ -473,66 +941,6 @@
       "tags": []
     },
     {
-      "id": "04ea6ef5b2552a",
-      "title": "Nafin e IP quieren descarbonizar las cadenas de valor en México",
-      "url": "https://expansion.mx/economia/2026/10/08/nafin-e-ip-quieren-descarbonizar-las-cadenas-de-valor-en-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "De acuerdo con el banco de desarrollo, el objetivo esencial es abordar la descarbonización como una forma de competir mejor, crecer y permanecer en los mercados globales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b416b91/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3c%2Fe9%2Fec75578e49bab15571f06b44e967%2Fcontaminacion-sector-electrico.jpg",
-      "published": "2026-10-08T21:50:48+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5502dd00244739",
-      "title": "Adidas places technological innovation at the heart of its footwear strategy with Adizero, Hyperboost, and 3D-printed shoes",
-      "url": "https://www.merca20.com/adidas-places-technological-innovation-at-the-heart-of-its-footwear-strategy-with-adizero-hyperboost-and-3d-printed-shoes/?utm_source=rss&utm_medium=rss&utm_campaign=adidas-places-technological-innovation-at-the-heart-of-its-footwear-strategy-with-adizero-hyperboost-and-3d-printed-shoes",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "The combination of advanced foams like Hyperboost, 3D printing, adaptive materials, and high-performance platforms reflects the direction adidas is taking for the coming years.",
-      "image": "https://files.merca20.com/uploads/2026/04/ADIDAS-TENIS-3D.jpg",
-      "published": "2026-10-08T21:38:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "341ae38a3eada3",
-      "title": "Profeco analiza 43 marcas de cereal de caja y detecta aquellos con más grasa y menos proteínas",
-      "url": "https://www.merca20.com/profeco-analiza-43-marcas-de-cereal-de-caja-y-detacta-aquellos-con-mas-grasa-y-menos-proteinas/?utm_source=rss&utm_medium=rss&utm_campaign=profeco-analiza-43-marcas-de-cereal-de-caja-y-detacta-aquellos-con-mas-grasa-y-menos-proteinas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El laboratorio de la dependencia encontró diferencias en grasa, proteína y sodio, además de inconsistencias en el etiquetado de varios productos.",
-      "image": "https://files.merca20.com/uploads/2026/10/CEREALES-gemini-ai-scaled.jpg",
-      "published": "2026-10-08T21:29:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "628d81e6b98660",
-      "title": "C.W. Morgan, ‘Scream’ Actor, Dies: Cause of Death and Net Worth",
-      "url": "https://www.merca20.com/c-w-morgan-scream-actor-dies-cause-of-death-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=c-w-morgan-scream-actor-dies-cause-of-death-and-net-worth",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "American actor C.W. Morgan was known worldwide for playing Hank Loomis, Billy Loomis’ father, in the original Scream movie",
-      "image": "https://files.merca20.com/uploads/2026/10/C.W.-Morgan.jpg",
-      "published": "2026-10-08T21:29:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "73b9567175b813",
-      "title": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
-      "url": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La industria turística trabaja en una identidad digital que permita reconocer al viajero mediante biometría. El reto está en conectar aeropuertos, aerolíneas, autoridades, hoteles y otros servicios.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/9aa08ef/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe8%2Fab%2F0e80c1c64f78b477152d45ca5fa1%2Faeropuerto-identidad-digital-biometrica-1.png",
-      "published": "2026-10-08T21:26:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "704f4e9be9d204",
       "title": "Semana Mundial del Espacio 2026: Qué es la Revolución de los Cohetes y cómo transforma a la industria hispanohablante",
       "url": "https://www.fayerwayer.com/espacio/2026/10/08/semana-mundial-del-espacio-2026-que-es-la-revolucion-de-los-cohetes-y-como-transforma-a-la-industria-hispanohablante/",
@@ -541,30 +949,6 @@
       "summary": "Semana Mundial del Espacio 2026: Todo sobre la Revolución de los Cohetes y el rol de México, Argentina, Chile, Colombia, Ecuador, España y EE. UU.",
       "image": "https://www.fayerwayer.com/resizer/v2/QXOEUSYPRFFC7OLAVEL5254MEA.jpg?auth=6133bf39ee96750126e2bbcd01e84466554b16bc26d8d630872c74e26337aee6&smart=true&width=1376&height=768",
       "published": "2026-10-08T21:16:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a8d0b29d2b9875",
-      "title": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
-      "url": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "De acuerdo con la autoridad fiscal, este tipo de prácticas daña la equidad tributaria, pues en promedio las empresas pagan una tasa efectiva de 1% de ISR, las pymes de 2.5% y los asalariados mayor a 20%.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3734915/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5c%2Fe3%2F74fab42845eda8d80e76fcf7bb30%2Fwhatsapp-image-2026-10-08-at-1.09.29%20PM.jpeg",
-      "published": "2026-10-08T21:15:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9d9c3aab5ca060",
-      "title": "Corea del Sur detecta indicios de IA en ataques a sus principales bancos y el presidente exige respuestas",
-      "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando pensamos en inteligencia artificial solemos hacerlo desde el lado de quien intenta ganar tiempo, automatizar tareas o analizar enormes cantidades de información. Pero esas mismas capacidades también pueden ponerse…",
-      "image": "https://i.blogs.es/156186/corea-del-sur/1024_2000.jpeg",
-      "published": "2026-10-08T21:13:31+00:00",
       "score": null,
       "tags": []
     },
@@ -605,18 +989,6 @@
       "tags": []
     },
     {
-      "id": "f2ceb92498ecc1",
-      "title": "EU suspende a Microsoft y Adobe visas de trabajo para extranjeros y las acusa de abusar de ellas",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/eu-suspende-a-microsoft-y-adobe-visas-de-trabajo",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La medida también alcanza a las compañías de servicios tecnológicos Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies y Capgemini.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/9324556/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F21%2F08%2Ff8632d08429c8034975b126ec44c%2Festados-unidos-suspende-visas-trabajo-microsoft.jpeg",
-      "published": "2026-10-08T20:30:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "252f9c4db17e49",
       "title": "Nasdaq pierde 1.25% tras dudas sobre ingresos de OpenAI; Dow Jones sube 0.1%",
       "url": "https://www.altonivel.com.mx/nasdaq-pierde-1-25-tras-dudas-sobre-ingresos-de-openai-dow-jones-sube-0-1/",
@@ -625,18 +997,6 @@
       "summary": "El Nasdaq Composite cayó 1.25% y el S&P 500 perdió 0.47%, presionados por las dudas sobre los ingresos de OpenAI y las perspectivas de crecimiento de la inteligencia artificial. The post Nasdaq pierde 1.25% tras dudas so…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/11/nasdaq-today.webp",
       "published": "2026-10-08T20:26:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4e2382f84ff381",
-      "title": "Miniso apuesta por la Gen Z en México con FRIENDS: así es su nuevo formato de tiendas que llega a CDMX",
-      "url": "https://expansion.mx/mercadotecnia/2026/10/08/miniso-gen-z-mexico-friends-nuevo-formato-tiendas-cdmx",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Miniso comenzó con una tienda FRIENDS en Cancún y ahora lleva el formato a Ciudad de México con nuevas aperturas en Centro Histórico y Santa Fe.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/4bdd9fd/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F87%2Fe0%2Fef0801ca41b7aeb8144f9c8acdfa%2Fimage-20261008-142100.jpg",
-      "published": "2026-10-08T20:22:51+00:00",
       "score": null,
       "tags": []
     },
@@ -665,30 +1025,6 @@
       "tags": []
     },
     {
-      "id": "dc4757cc571c66",
-      "title": "Audiolibros en Spotify México: cómo funcionan, cuál es el catálogo y cuánto cuesta sumar más horas",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/audiolibros-spotify-mexico-como-escucharlos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Spotify ya ofrece audiolibros en México. Conoce dónde encontrarlos dentro de la aplicación, qué planes incluyen horas de escucha, cuánto cuesta ampliarlas y qué otras plataformas tienen libros en formato de audio.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a5f491c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F59%2F34%2Fe3a94f88482882a72625de5db18b%2Fspotify-audiolibros-mexico.png",
-      "published": "2026-10-08T20:00:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "98779e2cb7534a",
-      "title": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
-      "url": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay algo que damos por hecho al caminar por una oficina: aunque podamos ver lo que hay al otro lado de una mampara de cristal, sabemos que no podemos atravesarla. Parece una distinción demasiado sencilla como para tener …",
-      "image": "https://i.blogs.es/d95c99/robot-cristal-portada/1024_2000.jpeg",
-      "published": "2026-10-08T20:00:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "2df0249974d02f",
       "title": "Banxico abre la puerta a nuevos recortes de tasas, pero evalúa seguir a la Fed",
       "url": "https://www.altonivel.com.mx/banxico-abre-la-puerta-a-nuevos-recortes-de-tasas-pero-evalua-seguir-a-la-fed/",
@@ -713,18 +1049,6 @@
       "tags": []
     },
     {
-      "id": "47f14f2678213d",
-      "title": "Esta gigantesca nube de Marte aparece cada mañana, mide más de 1.000 km y desaparece siempre antes de la tarde",
-      "url": "https://www.xataka.com/espacio/esta-nube-marte-aparece-cada-manana-mide-1-000-km-desaparece-antes-tarde-ahora-sabemos-que",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En Marte existe una nube que ha llamado durante años la atención de los científicos. Se llama Nube Alargada de Arsia Mons (AMEC) y resulta interesante por muchos motivos. Para empezar, porque se forma diariamente durante…",
-      "image": "https://i.blogs.es/6e9100/nube-marte/1024_2000.jpeg",
-      "published": "2026-10-08T19:30:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fceae331727566",
       "title": "¿Cómo liderar la era de la IA? Red Hat Summit: Connect 2026 llega a Ciudad de México",
       "url": "https://www.altonivel.com.mx/red-hat-summit-connect-2026-mexico-inteligencia-artificial/",
@@ -737,18 +1061,6 @@
       "tags": []
     },
     {
-      "id": "8262e6ba6649c2",
-      "title": "El estreno más importante de la semana en Netflix: un thriller de seis episodios con Josh Harnett y la atmósfera de Stephen King",
-      "url": "https://www.xataka.com/streaming/estreno-importante-semana-netflix-thriller-seis-episodios-josh-harnett-atmosfera-stephen-king",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Octubre acaba de empezar y ya tenemos decenas de estrenos en las principales plataformas . Hoy nos centramos en Netflix, que este jueves día 8 da la bienvenida a 'Bajo la superficie', una miniserie de seis episodios que …",
-      "image": "https://i.blogs.es/a28b0b/below/1024_2000.jpeg",
-      "published": "2026-10-08T19:00:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8929be962d48a3",
       "title": "‘Forza Horizon 6’ tiene fecha de lanzamiento en PS5 y sí, tendrás que esperar hasta 2027",
       "url": "https://hipertextual.com/videojuegos/forza-horizon-6-ps5-fecha-lanzamiento-confirmada/",
@@ -757,30 +1069,6 @@
       "summary": "Los rumores estaban en lo cierto: Forza Horizon 6 debutará en la PS5 en 2027. A pesar de que Playground Games había prometido que su aclamado juego de carreras se iba a lanzar en la consola de Sony antes de finales de 20…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/batch_massive_FH_6_Car_Pack_02_Italian_Passion_ALF_00_SE_048_SP_01_16x9_WM_9d9df31556.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-10-08T19:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6270f360f3fa7f",
-      "title": "Ya son oficiales los nuevos altavoces de JBL, dos opciones diferentes con sonido potente e IA donde la luz tiene mucho protagonismo",
-      "url": "https://www.xataka.com/seleccion/oficiales-nuevos-altavoces-jbl-dos-opciones-diferentes-sonido-potente-e-ia-donde-luz-tiene-mucho-protagonismo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Habemus nuevos altavoces JBL y ambos, además, ya están disponibles para comprar. Son dos opciones bastante diferentes entre sí, tanto en características como en diseño. El primero de ellos es el JBL Pulse 6, un altavoz m…",
-      "image": "https://i.blogs.es/a44570/nuevos-altavoces-jbl/1024_2000.jpeg",
-      "published": "2026-10-08T18:30:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8ac8f2c8af76d3",
-      "title": "Los expertos en ejercicio físico opinan igual: \"Si el objetivo es perder peso, debemos trabajar fuerza y resistencia de una forma secuenciada\"",
-      "url": "https://www.xataka.com/medicina-y-salud/para-adelgazar-despues-50-cardio-fuerza-experto-senala-que-deberiamos-priorizar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Tener un sistema cardiovascular bien entrenado es fundamental si queremos tener una vejez con una calidad de vida aceptable, pero otro de los objetivos que se tiene a la hora de comenzar a entrenarse sin duda es la pérdi…",
-      "image": "https://i.blogs.es/baead6/ejercicio-fuerza/1024_2000.jpeg",
-      "published": "2026-10-08T18:00:28+00:00",
       "score": null,
       "tags": []
     },
@@ -809,18 +1097,6 @@
       "tags": []
     },
     {
-      "id": "1ba379234f99c0",
-      "title": "Hoy en Lidl la solución a los problemas del WiFi en tu casa por menos de 30 euros",
-      "url": "https://www.xataka.com/seleccion/hoy-lidl-solucion-a-problemas-wifi-tu-casa-30-euros",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En muchas ocasiones, llevar la conexión WiFi a cada rincón de casa puede ser una tortura . ¿Por qué ocurre esto? Pueden ser muchos motivos: la ubicación del router, que haya muchos objetos provocando interferencias o sim…",
-      "image": "https://i.blogs.es/e0e87d/tienda-lidl-repetidor-wifi-tplink/1024_2000.jpeg",
-      "published": "2026-10-08T17:46:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cd88863e6614ec",
       "title": "Muere Maricarmen, la mujer cuyo desahucio encendió las protestas por vivienda en España",
       "url": "https://www.altonivel.com.mx/muere-maricarmen-la-mujer-cuyo-desahucio-encendio-las-protestas-por-vivienda-en-espana/",
@@ -829,18 +1105,6 @@
       "summary": "La mujer de 87 años murió tras permanecer 15 días hospitalizada, después de ser desalojada de la vivienda donde vivió durante 71 años. The post Muere Maricarmen, la mujer cuyo desahucio encendió las protestas por viviend…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/maricarmen.webp",
       "published": "2026-10-08T17:37:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "51933e921b9e36",
-      "title": "Adobe había conseguido que Photoshop fuera un muro de pago inexpugnable, hasta que alguien envió un ejército de LLMs",
-      "url": "https://www.xataka.com/aplicaciones/adobe-habia-conseguido-que-photoshop-fuera-muro-pago-inexpugnable-que-alguien-ha-enviado-ejercito-llms",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay mucha gente que mantiene una relación tóxica con la suite de Adobe. Photoshop, Illustrator, InDesign y Premiere son aplicaciones esenciales en el flujo profesional, pero las decisiones comerciales más recientes no ha…",
-      "image": "https://i.blogs.es/15ac7d/magnific__que-el-formato-de-la-imagen-sea-53-y-deja-ms-aire-__57026/1024_2000.jpeg",
-      "published": "2026-10-08T17:30:26+00:00",
       "score": null,
       "tags": []
     },
@@ -857,18 +1121,6 @@
       "tags": []
     },
     {
-      "id": "dbd583be66ab82",
-      "title": "Gemini falla este 8 de octubre y muestra el error 1099: qué significa y por qué aparece",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/gemini-presenta-fallas-8-de-octubre-error-1099",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c10474b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff1%2F96%2Fc6bdef534f8391cba68279df678d%2Fgemini-presenta-fallas-8-de-octubre-error-1099.m.png",
-      "published": "2026-10-08T17:05:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "14b6f7c88fde0f",
       "title": "¿Tu empresa quiere exportar? Estos son los pasos en los que UPS puede ayudarte",
       "url": "https://www.altonivel.com.mx/ups-exportaciones-empresa-exportar-eu-pasos-guia-comercio-internacional-logistica/",
@@ -877,18 +1129,6 @@
       "summary": "La empresa de logística busca acompañar a las MiPymes desde la documentación y aduanas hasta el transporte y seguimiento de sus mercancías. The post ¿Tu empresa quiere exportar? Estos son los pasos en los que UPS puede a…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/ups-exportaciones.webp",
       "published": "2026-10-08T17:04:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5bd9e118d47dde",
-      "title": "Los alcaldes de Navalcarnero y Arroyomolinos están siendo investigados por la contaminación del río Guadarrama",
-      "url": "https://www.xataka.com/magnet/alcaldes-navalcarnero-arroyomolinos-exalcaldesa-ana-millan-investigados-contaminacion-rio-guadarrama",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Un río ni vota ni denuncia, aguanta lo que le echen y lo reparte aguas abajo, de pueblo en pueblo. Pero el estado medioambiental del río Guadarrama acaba de llegar a los tribunales. Ahora, tras investigar actuaciones de …",
-      "image": "https://i.blogs.es/8bced4/desastre/1024_2000.jpeg",
-      "published": "2026-10-08T17:00:28+00:00",
       "score": null,
       "tags": []
     },
@@ -905,30 +1145,6 @@
       "tags": []
     },
     {
-      "id": "cd7f49a4ebd35a",
-      "title": "Dólar regresa a 18.20 pesos; moneda mexicana es afectada por petróleo y expectativas de la FED",
-      "url": "https://expansion.mx/mercados/2026/10/08/tipo-cambio-hoy-8-octubre-2026-18-pesos-dolar",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Peso mexicano se presiona ante la expectativa de que la Reserva Federal en EU seguirá incrementando las tasas de interés, mientras la inflación en México da a Banxico espacio para mantenerla en su nivel actual.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6f87b20/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F53%2F39%2Fe42521a54c45a2ea270bb9f811fd%2Fpeso-mexicano-dolar-superpeso-tipo-cambio-septiembre.png",
-      "published": "2026-10-08T16:40:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "57a72684d9e7ad",
-      "title": "Apple acaba de anunciar ‘Welcome Home’ para el 13 de octubre y todo apunta a estos dispositivos para el hogar",
-      "url": "https://www.xataka.com/eventos/apple-acaba-anunciar-welcome-home-para-13-octubre-todo-apunta-a-estos-dispositivos-para-hogar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Durante años, el hogar inteligente ha sido una suma de dispositivos que prometían hacernos la vida más fácil. Ahora estamos viendo un cambio de enfoque. Amazon ha reforzado sus dispositivos Echo con Alexa+ , Google está …",
-      "image": "https://i.blogs.es/533872/apple-evento-welcome-home/1024_2000.jpeg",
-      "published": "2026-10-08T16:36:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "1826a58dc8d9f6",
       "title": "Ley Antimemes: qué aprobó Diputados y cómo afectaría a usuarios de internet",
       "url": "https://www.altonivel.com.mx/ley-antimemes-mexico-diputados-que-cambia-memes-internet-derechos-autor/",
@@ -937,18 +1153,6 @@
       "summary": "La reforma obliga a proveedores de internet a tener políticas para terminar el servicio a infractores reincidentes de derechos de autor. The post Ley Antimemes: qué aprobó Diputados y cómo afectaría a usuarios de interne…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/07/diputados-1-jpeg.avif",
       "published": "2026-10-08T16:34:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b35e850b8b9868",
-      "title": "Los expertos coinciden: \"Los grandes responsables del consumo eléctrico son el termo o la lavadora y se nota en la factura\"",
-      "url": "https://www.xataka.com/energia/expertos-coinciden-grandes-responsables-consumo-electrico-termo-lavadora-se-nota-factura",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Con los precios de la electricidad en máximos , cualquier esfuerzo cuenta para tratar de neutralizar el impacto en el bolsillo. La cafetera, el router de internet, el termo del agua caliente, la nevera, el horno, la seca…",
-      "image": "https://i.blogs.es/b026c7/pexels-photo-11316620/1024_2000.jpeg",
-      "published": "2026-10-08T16:30:00+00:00",
       "score": null,
       "tags": []
     },
@@ -989,18 +1193,6 @@
       "tags": []
     },
     {
-      "id": "88ccdeba30acfe",
-      "title": "Decenas de pasajeros tuvieron que ir de pie en el tren a Extremadura porque Renfe vendió más billetes que asientos",
-      "url": "https://www.xataka.com/movilidad/pie-tren-a-extremadura-porque-renfe-vendio-asientos-que-tenia-disponibles",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Quienes habitualmente viajamos a Extremadura tenemos una máxima cuando lo hacemos en tren: sabes cuándo te subes, pero no cuándo llegarás a tu destino. La última semana nos ha cambiado un poco la percepción. Ahora, puede…",
-      "image": "https://i.blogs.es/288504/renfe_598_fuente_de_piedra_-_pedrera/1024_2000.jpeg",
-      "published": "2026-10-08T16:00:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d7712267e7bb78",
       "title": "‘El precio de la red’ (★★★½☆), la secuela de ‘La red social’ que Facebook no quiere que veas",
       "url": "https://hipertextual.com/cine-television/el-precio-de-la-red-critica/",
@@ -1025,18 +1217,6 @@
       "tags": []
     },
     {
-      "id": "d6f36428b3a3d9",
-      "title": "Es prácticamente imposible amañar las elecciones mediante el voto por correo en España",
-      "url": "https://www.xataka.com/magnet/amenaza-fraude-voto-correo-se-ha-convertido-obsesion-29-n-realidad-que-muy-dificil-que-ocurra",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Todas las citas electorales siguen el mismo ritual, estricto, planificado y con un calendario diseñado al dedillo. Igual que una misa. O un concierto. Se convoca a las urnas, se agria el debate político, se apuran los ti…",
-      "image": "https://i.blogs.es/e2b2b3/photo-1494172961521-33799ddd43a5/1024_2000.jpeg",
-      "published": "2026-10-08T15:46:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "df91fac2266ef6",
       "title": "La gastronomía se suma a la detección oportuna del cáncer de mama",
       "url": "https://www.altonivel.com.mx/gastronomia-deteccion-oportuna-cancer-mama-restaurantes/",
@@ -1045,18 +1225,6 @@
       "summary": "Restaurantes se unen a Sabores que Cambian Historias para apoyar evaluaciones de detección oportuna del cáncer de mama en México. The post La gastronomía se suma a la detección oportuna del cáncer de mama appeared first …",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/gastronomia-deteccion-oportuna-cancer-mama-restaurantes-cover.webp",
       "published": "2026-10-08T15:39:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "943ea746ac2d77",
-      "title": "Mexicana revela cuándo será rentable, suma una nueva ruta y va por 20 aviones para alcanzar esa meta",
-      "url": "https://expansion.mx/empresas/2026/10/08/mexicana-busca-ser-rentable-en-2030-con-mas-aviones",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Leobardo Ávila presentó un plan de tres etapas que llevará a la aerolínea de la expansión de capacidades a la búsqueda del equilibrio financiero.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c86a7b8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F19%2Fbf48bc9846e08583ff61c5e31b98%2F3-mexicana.jpeg",
-      "published": "2026-10-08T15:23:48+00:00",
       "score": null,
       "tags": []
     },
@@ -1073,18 +1241,6 @@
       "tags": []
     },
     {
-      "id": "7615834a52bcd9",
-      "title": "Tormenta perfecta para el petróleo; huracán, guerra y bajas reservas disparan su precio 5%",
-      "url": "https://expansion.mx/mercados/2026/10/08/petroleo-dispara-5-por-ciento-presiona-wall-street",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El aumento de los ataques en Oriente Medio y el cierre preventivo de producción en el golfo de México impulsaron al Brent por encima de 105 dólares y reavivaron el temor a una inflación persistente.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e94a420/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F64%2Fc9edddf945d2bd0bae6e97c923a2%2F6-afp-20260407-a6xd7t3-v2-highres-topshotchinaenergyoil.jpeg",
-      "published": "2026-10-08T15:14:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "703f279c65ba0b",
       "title": "El primer huracán de 2026 se formó muy tarde: Isaias cierra puertos en Yucatán",
       "url": "https://www.altonivel.com.mx/huracan-isaias-2026-trayectoria-estados-unidos-mexico-yucatan/",
@@ -1093,18 +1249,6 @@
       "summary": "Isaias registra vientos sostenidos de 130 km/h y se mueve hacia la costa norte del Golfo de Estados Unidos. The post El primer huracán de 2026 se formó muy tarde: Isaias cierra puertos en Yucatán appeared first on Alto N…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/huracan-isaias-2026-trayectoria-estados-unidos-mexico-yucatan.webp",
       "published": "2026-10-08T15:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a46cc288ec0153",
-      "title": "STPS lanza mapa de casos laborales del T-MEC para empresas y trabajadores",
-      "url": "https://www.altonivel.com.mx/casos-laborales-t-mec-mapa-stps-empresas-exportadoras/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La STPS abrió un mapa para consultar casos laborales del T-MEC por estado, sector y estatus. El compliance puede tener consecuencias comerciales para empresas exportadoras. The post STPS lanza mapa de casos laborales del…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/casos-laborales-t-mec-stps-empresas.jpg.webp",
-      "published": "2026-10-08T14:52:39+00:00",
       "score": null,
       "tags": []
     },
@@ -1481,18 +1625,6 @@
       "tags": []
     },
     {
-      "id": "d83bee5b4da29e",
-      "title": "Microsoft anuncia el Surface Laptop Ultra con NVIDIA RTX Spark: tiene un detalle novedoso y un precio que asusta",
-      "url": "https://hipertextual.com/hardware/nuevo-microsoft-surface-ultra-rtx-spark/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Después de una larga espera, Microsoft por fin ha presentado apropiadamente el nuevo Surface Laptop Ultra. Estamos hablando de un ordenador portátil muy potente que presume un chip NVIDIA RTX Spark bajo el capó, lo que l…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/surface-laptop-ultra.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-10-07T20:33:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c8295c7315150c",
       "title": "(Recurso) Jerarquía de exposición y registro de práctica",
       "url": "https://www.psyciencia.com/recurso-jerarquia-de-exposicion-y-registro-de-practica/",
@@ -1501,42 +1633,6 @@
       "summary": "Cuando alguien llega a consulta por ansiedad, suele traer una lista larga de cosas que dejó de hacer. Esta hoja de trabajo sirve para ordenar esa lista en una jerarquía…",
       "image": null,
       "published": "2026-10-07T20:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "445fd31e436fda",
-      "title": "Lo nuevo de Google te permite crear juegos con IA sin saber programar",
-      "url": "https://hipertextual.com/inteligencia-artificial/google-playground-crea-videojuegos-ia-sin-programar/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Crear un videojuego nunca ha sido una tarea sencilla. Aunque existen herramientas que facilitan el trabajo, los interesados necesitan saber de programación, diseño, arte, sonido y otros elementos que conforman el flujo d…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/google-playground-00.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-10-07T19:35:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a7f49a1e6de23c",
-      "title": "Elon Musk dobla las manos y confirma que usará la IA de sus rivales en Grok",
-      "url": "https://hipertextual.com/inteligencia-artificial/grok-bot-claude-opus-5-5-modelos-competencia/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Elon Musk confirmó que Grok Bot usará modelos de IA rivales para ayudarlo a responder. A unos meses de haber catalogado a Anthropic como \"malvada\", Musk ahora dependerá de Claude en algunas de las respuestas que se le ha…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/grok-bot.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-10-07T18:40:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5df335581e70df",
-      "title": "SynthID abre su detector de contenido creado con IA",
-      "url": "https://www.muycomputer.com/2026/10/07/synthid-abre-su-detector-de-contenido-creado-con-ia/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Saber si una imagen, un vídeo o un audio ha sido generado mediante inteligencia artificial resulta cada vez más complicado, especialmente a medida que mejoran los modelos y las herramientas de edición. Ayer mismo veíamos…",
-      "image": null,
-      "published": "2026-10-07T16:41:34+00:00",
       "score": null,
       "tags": []
     },
@@ -1565,18 +1661,6 @@
       "tags": []
     },
     {
-      "id": "90242ce78d3a52",
-      "title": "LibreOffice dice No a la IA como característica de la suite",
-      "url": "https://www.muycomputer.com/2026/10/07/libreoffice-dice-no-a-la-ia-como-caracteristica-de-la-suite/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Si buscas una suite ofimática que no utilice inteligencia artificial, LibreOffice es el software perfecto para ti. La Document Foundation, la organización sin ánimo de lucro creadora de este desarrollo gratuito y de códi…",
-      "image": null,
-      "published": "2026-10-07T13:11:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fe4009d5697673",
       "title": "Aulas más inmersivas y saludables: las ventajas de utilizar proyectores frente a dispositivos individuales",
       "url": "https://www.educaciontrespuntocero.com/opinion/proyeccion-en-el-aula-saludable/",
@@ -1597,18 +1681,6 @@
       "summary": "Los diagnósticos de autismo han subido muchísimo, sobre todo en adultos y mujeres. Antes de discutir si hay más autismo, conviene preguntar qué se está contando: registros clínicos, encuestas o cribados con el mismo méto…",
       "image": null,
       "published": "2026-10-07T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "faf3395acf99b0",
-      "title": "GameStop cobra 1400 dólares por una PS5 Pro usada ¡Más cara que una nueva!",
-      "url": "https://www.muycomputer.com/2026/10/07/gamestop-cobra-1400-dolares-por-una-ps5-pro-usada-mas-cara-que-una-nueva/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Un empleado de GameStop ha filtrado un memorándum interno donde la compañía anuncia una sustancial subida de precio de las PS5 Pro usada, nada menos que 1.399 dólares. La versión digital no se queda atrás: 1.299 dólares.…",
-      "image": null,
-      "published": "2026-10-07T11:36:24+00:00",
       "score": null,
       "tags": []
     },
@@ -1637,30 +1709,6 @@
       "tags": []
     },
     {
-      "id": "da0fcff244f071",
-      "title": "Consigue tu mini PC ACEMAGIC y NiPoGi con hasta un 20% de descuento",
-      "url": "https://www.muycomputer.com/2026/10/07/consigue-tu-mini-pc-acemagic-y-nipogi-con-hasta-un-20-de-descuento/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Estás buscando un mini PC capaz de ofrecer un buen rendimiento, pero tienes un presupuesto ajustado y crees que con la crisis de la memoria DRAM ya no va s a poder encontrar nada interesante porque todo ha subido y los p…",
-      "image": null,
-      "published": "2026-10-07T10:04:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0b9cccf0285833",
-      "title": "Qué placa base elegir: Guía de compras para Intel y AMD 2026",
-      "url": "https://www.muycomputer.com/2026/10/07/placa-base-elegir-guia-intel-amd/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Elegir la placa base que utilizarás para montar tu nuevo PC es, sin duda, una de las decisiones que más dudas plantea entre los usuarios, y es perfectamente normal ya que, en los últimos dos años, se ha producido un salt…",
-      "image": null,
-      "published": "2026-10-07T09:41:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8934d1f91bb973",
       "title": "Cómo conseguir que los niños se acuesten antes y duerman mejor: las claves de los expertos",
       "url": "https://www.educaciontrespuntocero.com/familias/rutina-de-sueno-infantil/",
@@ -1669,18 +1717,6 @@
       "summary": "Mantener una hora estable de irse a la cama, crear rutinas relajantes o limitar el tiempo de siesta son algunos consejos para que los menores adquieran el hábito de acostarse más temprano.",
       "image": null,
       "published": "2026-10-07T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4828b8886d0a97",
-      "title": "Razer anuncia sus nuevos mandos, Wolverine V4",
-      "url": "https://www.muycomputer.com/2026/10/07/razer-anuncia-sus-nuevos-mandos-wolverine-v4/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Razer ha anunciado sus nuevos mandos para juegos, el Wolverine V4 Pro inalámbrico y el Wolverine V4 Tournament Edition conectado por cable. Están diseñados para uso en consolas Xbox y también para PCs con enfoque a depor…",
-      "image": null,
-      "published": "2026-10-07T08:42:14+00:00",
       "score": null,
       "tags": []
     },
@@ -1733,30 +1769,6 @@
       "tags": []
     },
     {
-      "id": "fb08f9fa17be5c",
-      "title": "Inclusión educativa: DUA, IA y co-docencia para atender la diversidad en el aula",
-      "url": "https://www.educaciontrespuntocero.com/formacion-docente/inclusion-educativa-dua-ia-co-docencia-diversidad-aula/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "Para Estrella Alfonso, de VIU, la diversidad del alumnado plantea nuevos retos a los centros educativos, desde la adaptación de los contenidos hasta la organización del trabajo docente y la atención individualizada.",
-      "image": null,
-      "published": "2026-10-06T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "10908d5b8bc9da",
-      "title": "La IA como aliada para trabajar con fuentes históricas en el aula",
-      "url": "https://www.educaciontrespuntocero.com/opinion/ia-fuentes-historicas/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "La inteligencia artificial puede facilitar el acceso del alumnado a fuentes históricas originales y ayudarle a analizarlas de forma más comprensible y crítica. Marc García, profesor de Historia, explica cómo aplicarla en…",
-      "image": null,
-      "published": "2026-10-06T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d8c481331bfdbb",
       "title": "Nuevo beneficio: más difusión para tu perfil profesional",
       "url": "https://www.psyciencia.com/nuevo-beneficio-mas-difusion-para-tu-perfil-profesional/",
@@ -1777,18 +1789,6 @@
       "summary": "A partir de dos escenas clave de Frieren: más allá del final del viaje, un recorrido por cuatro procesos de la terapia de aceptación y compromiso —contacto con el momento presente, aceptación, valores y acción comprometi…",
       "image": null,
       "published": "2026-10-05T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "52d84e1fa328d0",
-      "title": "Qué puede hacer una plataforma educativa para reducir la burocracia de los centros y facilitar la comunicación",
-      "url": "https://www.educaciontrespuntocero.com/noticias/alexia-suite-educativa-educaria/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "Centralizar la gestión, reducir tareas administrativas y facilitar la comunicación con las familias son algunos de los usos de las plataformas educativas como Alexia, de Educaria, que ahora incorpora IA.",
-      "image": null,
-      "published": "2026-10-05T10:00:00+00:00",
       "score": null,
       "tags": []
     },

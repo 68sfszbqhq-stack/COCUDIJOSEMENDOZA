@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-10-08T23:00:22.110024+00:00",
+    "generated": "2026-10-09T04:53:23.687204+00:00",
     "total": 199
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "579 millones de fincas en el mundo y miles de millones de dólares buscando cómo llegar a ellas. Por qué una agtech dejó de venderle al agricultor para poder crecer. The post El agro no se vende finca por finca: la apuest…",
       "image": null,
-      "published": "2026-10-08T23:00:20.595569+00:00",
+      "published": "2026-10-09T04:53:22.200292+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Un llamado a repensar las famosas “listas de habilidades del futuro” desde la perspectiva latinoamericana. The post No necesitamos más listas: necesitamos un lenguaje propio para el talento appeared first on Entrepreneur…",
       "image": null,
-      "published": "2026-10-08T23:00:20.595096+00:00",
+      "published": "2026-10-09T04:53:22.199777+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Hoy el riesgo no está en decidir mal; está en no decidir. En un entorno saturado de datos e inteligencia artificial, la ventaja competitiva es la velocidad con criterio. The post Cómo dejar de sobrepensar para hacer crec…",
       "image": null,
-      "published": "2026-10-08T23:00:20.594609+00:00",
+      "published": "2026-10-09T04:53:22.199266+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Durante décadas, cineastas y escritores han imaginado tecnologías que aún no existían y han creado versiones ficticias del futuro para que el público las viera. Hoy contamos con las herramientas para imaginarlo, crearlo …",
       "image": null,
-      "published": "2026-10-08T23:00:20.594147+00:00",
+      "published": "2026-10-09T04:53:22.198783+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "La inteligencia artificial está pasando de responder preguntas a ejecutar procesos completos, conectándose con los sistemas y datos de las empresas para tomar decisiones y actuar de forma autónoma. The post Los agentes d…",
       "image": null,
-      "published": "2026-10-08T23:00:20.593644+00:00",
+      "published": "2026-10-09T04:53:22.198308+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "La pasión puede impulsar tu startup, pero son las ganancias las que la mantienen viva. The post Ama lo que haces, pero no dejes que hunda tu negocio. Aprende a mantener la pasión sin sacrificar la rentabilidad appeared f…",
       "image": null,
-      "published": "2026-10-08T23:00:20.592182+00:00",
+      "published": "2026-10-09T04:53:22.196825+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Los trucos tradicionales de gestión del tiempo no son suficientes para los líderes. Estas tres estrategias te ayudarán a concentrarte en lo que de verdad importa. The post No te falta tiempo: te falta enfoque. Aquí te de…",
       "image": null,
-      "published": "2026-10-08T23:00:20.591684+00:00",
+      "published": "2026-10-09T04:53:22.196356+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "He estudiado la ciencia de la conexión humana, y estas cinco frases funcionan de maravilla. The post ¿Quieres caerle bien a la gente? Solo di estas 5 frases mágicas appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-10-08T23:00:20.591206+00:00",
+      "published": "2026-10-09T04:53:22.195838+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "La certeza sobre el resultado es un pronóstico y los pronósticos fallan; la certeza de que seguirás ahí es lo que te permite encajar los golpes de emprender. The post Emprender con un ingenuo aire de certeza appeared fir…",
       "image": null,
-      "published": "2026-10-08T23:00:20.590683+00:00",
+      "published": "2026-10-09T04:53:22.195354+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,211 @@
       "category": "startup",
       "summary": "Por qué es falso el mito de que “el cliente siempre va primero”. The post Por qué quedarte con malos clientes es el error más costoso que puedes cometer appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-10-08T23:00:20.590144+00:00",
+      "published": "2026-10-09T04:53:22.194802+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "144d6ad236a78b",
+      "title": "High-NA EUV todavía está llegando a las fábricas. ASML y Zeiss ya tienen un nombre para lo siguiente: Hyper-NA",
+      "url": "https://www.xataka.com/investigacion/high-na-euv-todavia-esta-llegando-a-fabricas-asml-zeiss-tienen-nombre-para-siguiente-hyper-na",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En la industria de los semiconductores, llegar a una nueva generación tecnológica no significa detenerse a disfrutar del resultado. Las máquinas que permiten fabricar los circuitos más avanzados son el resultado de años …",
+      "image": "https://i.blogs.es/8907cd/asml_highna_cleanroom_veldhoven_068/1024_2000.jpeg",
+      "published": "2026-10-09T04:30:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2f1a2d9cbf18dd",
+      "title": "El COP Madrid aborda la jubilación y el envejecimiento desde una perspectiva psicológica, social y organizacional",
+      "url": "https://www.infocop.es/el-cop-madrid-aborda-la-jubilacion-y-el-envejecimiento-desde-una-perspectiva-psicologica-social-y-organizacional/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "El COP Madrid celebró, a través de su Foro de Veteranía, una Jornada formativa dedicada a analizar la longevidad, la jubilación y los retos asociados a esta etapa vital desde una perspectiva integradora. La entrada El CO…",
+      "image": null,
+      "published": "2026-10-09T04:01:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a4dee4c5b7cd3c",
+      "title": "Que los días tengan 24 horas es una gran mentira que nos hemos contado para vivir más felices",
+      "url": "https://www.xataka.com/espacio/que-dias-tengan-24-horas-gran-mentira-que-nos-hemos-contado-para-vivir-felices",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Según el Diccionario de la lengua española , un día es el \"período de 24 horas, que corresponde aproximadamente al tiempo en que la Tierra da una vuelta completa sobre su eje\". La palabra clave es \"aproximadamente\". Nos …",
+      "image": "https://i.blogs.es/2542e3/photo-1777047023742-1607aeb1a5bb/1024_2000.jpeg",
+      "published": "2026-10-09T04:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b864cff00c57da",
+      "title": "Escuchar la experiencia vivida de las personas con problemas de salud mental, clave para transformar los servicios de atención psicológica: Día Mundial de la Salud Mental 2026",
+      "url": "https://www.infocop.es/escuchar-la-experiencia-vivida-de-las-personas-con-problemas-de-salud-mental-clave-para-transformar-los-servicios-de-atencion-psicologica-dia-mundial-de-la-salud-mental-2026/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Cada 10 de octubre se conmemora el Día Mundial de la Salud Mental, una iniciativa impulsada por la Federación Mundial para la Salud Mental (World Federation for Mental Health, WFMH) desde 1992 (...) La entrada Escuchar l…",
+      "image": null,
+      "published": "2026-10-09T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1b186d1c2cb54d",
+      "title": "El OIM alerta de la persistencia de la cosificación de las mujeres en la publicidad alimentaria",
+      "url": "https://www.infocop.es/el-oim-alerta-de-la-persistencia-de-la-cosificacion-de-las-mujeres-en-la-publicidad-alimentaria/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "La sexualización del cuerpo de las mujeres continúa presente en la publicidad de alimentos y restauración. Junto a ella, persisten estereotipos que vinculan a las mujeres con la delgadez, las dietas y el control del peso…",
+      "image": null,
+      "published": "2026-10-09T04:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cc4c7172150674",
+      "title": "Timberland lanza su colección edición limitada Día de Muertos 2026 este 12 de octubre",
+      "url": "https://www.merca20.com/timberland-lanza-su-coleccion-edicion-limitada-dia-de-muertos-2026-este-12-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=timberland-lanza-su-coleccion-edicion-limitada-dia-de-muertos-2026-este-12-de-octubre",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Las colecciones inspiradas en el Día de Muertos se han convertido en una alternativa para las marcas que buscan conectar sus productos con elementos culturales",
+      "image": "https://files.merca20.com/uploads/2026/10/timberland-dia-de-muertos-2026.jpg",
+      "published": "2026-10-09T03:58:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e11e4a308bc00a",
+      "title": "La EFPA organiza un webinar sobre la importancia de incorporar la experiencia vivida en el abordaje de la neurodiversidad",
+      "url": "https://www.infocop.es/la-efpa-organiza-un-webinar-sobre-la-importancia-de-incorporar-la-experiencia-vivida-en-el-abordaje-de-la-neurodiversidad/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "La EFPA organiza un webinar para abordar la necesidad de integrar la experiencia vivida en la comprensión y atención a la neurodiversidad. La entrada La EFPA organiza un webinar sobre la importancia de incorporar la expe…",
+      "image": null,
+      "published": "2026-10-09T03:58:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d9b0b966b919f4",
+      "title": "StopHumo: tratamiento cognitivo-conductual a través de una app para dejar de fumar",
+      "url": "https://www.infocop.es/stophumo-tratamiento-cognitivo-conductual-a-traves-de-una-app-para-dejar-de-fumar/",
+      "source": "Infocop",
+      "category": "psicologia",
+      "summary": "Dejar de fumar mediante una aplicación puede combinar estrategias cognitivo-conductuales, seguimiento de objetivos y apoyo profesional adaptado a las necesidades de cada persona. Una nueva herramienta incorpora estos ele…",
+      "image": null,
+      "published": "2026-10-09T03:58:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9bb4fde10380e8",
+      "title": "Starbucks podría comprar Chipotle: así sería el gigante de 50,000 millones de dólares",
+      "url": "https://www.altonivel.com.mx/starbucks-compra-chipotle-brian-niccol-posible-adquisicion/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Starbucks ha trabajado con asesores para estudiar una posible compra de Chipotle. No existe todavía una oferta confirmada, pero el acuerdo rompería récords en el sector. The post Starbucks podría comprar Chipotle: así se…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/starbucks-chipotle-posible-compra-brian-niccol.jpg.webp",
+      "published": "2026-10-09T03:09:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "041b3796e2a164",
+      "title": "Semana Mundial del Espacio 2026: Por qué Google cambió su logo con la Nebulosa Rosebud y cómo Pikachu viajó al espacio",
+      "url": "https://www.fayerwayer.com/espacio/2026/10/09/semana-mundial-del-espacio-2026-por-que-google-cambio-su-logo-con-la-nebulosa-rosebud-y-como-pikachu-viajo-al-espacio/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Google cambia su apariencia por la Semana Mundial del Espacio 2026 con la Nebulosa Rosebud mientras la ESA comparte el viaje de Pikachu a la EEI.",
+      "image": "https://www.fayerwayer.com/resizer/v2/HFVG6FF22FEZ5JOVZOXQZ6JN3A.jpg?auth=cdc474998886acdb4ffdd8efb264c385ed34fc505fd1980c6b55fa3ff23ca2bd&smart=true&width=1376&height=768",
+      "published": "2026-10-09T01:25:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1e3c234024dc10",
+      "title": "Microsoft le dará acceso a Copilot a todo tu sistema de archivos en Windows mediante “Inteligencia Híbrida” y contenedores MXC",
+      "url": "https://www.fayerwayer.com/internet/2026/10/09/microsoft-le-dara-acceso-a-copilot-a-todo-tu-sistema-de-archivos-en-windows-mediante-inteligencia-hibrida-y-contenedores-mxc/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Microsoft prepara una actualización para Copilot y Windows que le dará acceso al sistema de archivos mediante inteligencia híbrida y contenedores MXC.",
+      "image": "https://www.fayerwayer.com/resizer/v2/TKYXH5MGZZAXJGKSWCFE7CVQJY.jpg?auth=57069b454a4a88fda5c17fe957e010dc3d0c62ebfb19db7c78a2772566994ba1&smart=true&width=1376&height=768",
+      "published": "2026-10-09T01:05:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8f3f3987d8452e",
+      "title": "Semana Mundial del Espacio 2026 CDMX, eventos gratis y picnic espacial con música en vivo este 9 y 10 de octubre",
+      "url": "https://www.merca20.com/semana-mundial-del-espacio-2026-cdmx-eventos-gratis-y-picnic-espacial-con-musica-en-vivo-este-9-y-10-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=semana-mundial-del-espacio-2026-cdmx-eventos-gratis-y-picnic-espacial-con-musica-en-vivo-este-9-y-10-de-octubre",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Conoce los eventos de la Semana Mundial del Espacio 2026 en CDMX este 9 y 10 de octubre: telescopios, picnic espacial y más.",
+      "image": "https://files.merca20.com/uploads/2026/10/Semana-Mundial-del-Espacio-2026-CDMX-eventos-gratis-y-telescopios-este-viernes-9-y-sabado-10-de-octubre-.jpg",
+      "published": "2026-10-09T00:47:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fcbf69ae7200c6",
+      "title": "Revelan la entrevista completa sobre GTA 6: Rob Nelson de Rockstar North detalla el sistema de relaciones, físicas y mecánicas con Jason y Lucia",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/09/revelan-la-entrevista-completa-sobre-gta-6-rob-nelson-de-rockstar-north-detalla-el-sistema-de-relaciones-fisicas-y-mecanicas-con-jason-y-lucia/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Lee la entrevista completa a Rob Nelson de Rockstar North sobre GTA 6: descubre las mecánicas de Jason y Lucia, el sistema de reputación, pisos de...",
+      "image": "https://www.fayerwayer.com/resizer/v2/QWDOL465NNFAJB2KNOP5UIZ3FA.jpg?auth=c13601bf185e7b1cfa6ad5c964bacfa3d0f8aa2b56d4df30ea7cf856cf242ee7&smart=true&width=1478&height=736",
+      "published": "2026-10-09T00:47:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5805b434e21920",
+      "title": "Zendaya bailaba detrás de Selena Gomez en este comercial de Sears de 2009",
+      "url": "https://www.merca20.com/zendaya-bailaba-detras-de-selena-gomez-en-este-comercial-de-sears-de-2009/?utm_source=rss&utm_medium=rss&utm_campaign=zendaya-bailaba-detras-de-selena-gomez-en-este-comercial-de-sears-de-2009",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Antes de la fama mundial, Zendaya bailó detrás de Selena Gomez en un comercial de Sears de 2009; así combinaba la campaña música y moda.",
+      "image": "https://files.merca20.com/uploads/2026/10/Zendaya-bailaba-detras-de-Selena-Gomez-en-este-comercial-de-Sears-de-2009-.jpg",
+      "published": "2026-10-08T23:48:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "06189284118929",
+      "title": "NIVEA sales fall, but Eucerin takes off and becomes Beiersdorf’s growth engine",
+      "url": "https://www.merca20.com/nivea-sales-fall-but-eucerin-takes-off-and-becomes-beiersdorfs-growth-engine/?utm_source=rss&utm_medium=rss&utm_campaign=nivea-sales-fall-but-eucerin-takes-off-and-becomes-beiersdorfs-growth-engine",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "NIVEA remains a giant within Beiersdorf, but it began 2026 with negative results",
+      "image": "https://files.merca20.com/uploads/2026/06/NIVEA-EUCERIN.jpg",
+      "published": "2026-10-08T23:40:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d7579c067c0318",
+      "title": "Por qué los Agentic Marketing pone a los CMOs frente a una nueva carrera tecnológica",
+      "url": "https://www.merca20.com/por-que-los-agentic-marketing-pone-a-los-cmos-frente-a-una-nueva-carrera-tecnologica/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-los-agentic-marketing-pone-a-los-cmos-frente-a-una-nueva-carrera-tecnologica",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La nueva carrera tecnológica modifica el perfil del equipo de marketing, el CMO necesita entender mucho más que campañas, medios, creatividad o experiencia del consumidor.",
+      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Customer-Care-Care-For-Employ-255701557.jpg",
+      "published": "2026-10-08T23:40:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "57b33592db02f1",
+      "title": "Pikachu viaja al espacio: Así festeja la Agencia Espacial Europea y Pokémon la Semana Mundial del Espacio 2026",
+      "url": "https://www.merca20.com/pikachu-viaja-al-espacio-asi-festeja-la-agencia-espacial-europea-la-semana-mundial-del-espacio-2026/?utm_source=rss&utm_medium=rss&utm_campaign=pikachu-viaja-al-espacio-asi-festeja-la-agencia-espacial-europea-la-semana-mundial-del-espacio-2026",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La colaboración incluye un Pikachu que viajó al espacio con la astronauta Sophie Adenot, exposiciones en centros científicos europeos, productos especiales y actividades en Pokémon GO.",
+      "image": "https://files.merca20.com/uploads/2026/10/ESA-NASA-Pokemon.jpg",
+      "published": "2026-10-08T23:17:47+00:00",
       "score": null,
       "tags": []
     },
@@ -149,6 +353,18 @@
       "tags": []
     },
     {
+      "id": "66a8b7d5b3cab4",
+      "title": "Inversión mixta entre gobierno e IP sumará 5.7 billones de pesos en 2030, dice la Secretaría de Hacienda",
+      "url": "https://expansion.mx/economia/2026/10/08/inversion-mixta-billones-de-pesos-2030-sector-energetico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La subsecretaria de Hacienda, María del Carmen Bonilla Rodríguez destacó que ya se cuenta con los lineamientos para la Ley que fomenta la coinversión ente el sector público y privado",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e179522/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff2%2Fa4%2F01b3c36e4ef9ae4d86c82dcbde30%2Fbonilla-rodriguez.jpeg",
+      "published": "2026-10-08T22:41:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "029ad72bb28ae4",
       "title": "Celular de Harry Potter podrá comprarse en PayJoy más barato que en Mercado Libre y con pagos semanales de $785",
       "url": "https://www.merca20.com/celular-de-harry-potter-podra-comprarse-en-payjoy-mas-barato-que-en-mercado-libre-y-con-pagos-semanales-de-785/?utm_source=rss&utm_medium=rss&utm_campaign=celular-de-harry-potter-podra-comprarse-en-payjoy-mas-barato-que-en-mercado-libre-y-con-pagos-semanales-de-785",
@@ -157,6 +373,18 @@
       "summary": "El celular de Harry Potter llega a PayJoy, conoce el enganche, los pagos semanales y cómo comprar esta edición limitada en México.",
       "image": "https://files.merca20.com/uploads/2026/10/realme-16-Pro-5G-Harry-Potter-Edition-llega-a-Mexico-precio-fecha-de-venta-y-como-comprarlo-con-PayJoy.jpg",
       "published": "2026-10-08T22:40:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "06e12ec333c4e1",
+      "title": "Carlos, sus tres hijos y un yerno: los 5 Slim que dominan \"Los 100 empresarios más importantes de México\" 2026",
+      "url": "https://expansion.mx/empresas/2026/10/08/los-5-slim-entre-los-empresarios-mas-importantes",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Tres integrantes de la familia están entre los 10 primeros lugares, mientras la siguiente generación consolida su presencia en telecomunicaciones, finanzas e infraestructura.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4ea0a80/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0e%2Ff2%2F4241b4b34b778de3f4bb3d333365%2F1083633-conferencia-carlos-slim-web.jpg",
+      "published": "2026-10-08T22:34:56+00:00",
       "score": null,
       "tags": []
     },
@@ -185,6 +413,18 @@
       "tags": []
     },
     {
+      "id": "a0af8d9c4d322a",
+      "title": "Checo Pérez “estaciona” su Cadillac en CDMX antes de tomar Reforma: dónde verlo y cuándo será el show",
+      "url": "https://expansion.mx/tendencias/2026/10/08/checo-perez-cadillac-cdmx-donde-verlo",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Cadillac acerca su llegada a la Fórmula 1 a los aficionados mexicanos con una exhibición previa y un showrun encabezado por Checo Pérez.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1dc0c0f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2F75%2F95bcd4a247faa6153e4a1e0529b9%2Fcheco-perez-cadillac.jpg",
+      "published": "2026-10-08T22:17:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "88b9943a251a93",
       "title": "¿Agencia independiente o gran holding? La decisión que enfrenta la Generación Z",
       "url": "https://www.merca20.com/agencia-independiente-o-gran-holding-la-decision-que-enfrenta-la-generacion-z/?utm_source=rss&utm_medium=rss&utm_campaign=agencia-independiente-o-gran-holding-la-decision-que-enfrenta-la-generacion-z",
@@ -205,6 +445,42 @@
       "summary": "National Sausage Month 2026 promotions range from prepared meals to family packs of sausages and artisan meats",
       "image": "https://files.merca20.com/uploads/2026/10/National-Sausage-Month-Gemini-AI.jpg",
       "published": "2026-10-08T22:15:55+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e9d153e2072b61",
+      "title": "Ascensos sin aumento de sueldo, ¿por qué puedes asumir un nuevo puesto sin ganar más dinero?",
+      "url": "https://expansion.mx/carrera/2026/10/08/ascenso-laboral-sin-aumento-sueldo",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Una promoción puede mejorar tu cargo antes que tu bolsillo. Aon explica cómo las empresas deberían evaluar el nuevo puesto y ajustar el sueldo desde que cambian las responsabilidades.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a342dba/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcf%2F79%2F966717bc4ca3915eb39496094e52%2Fascenso-laboral-sin-aumento-sueldo.jpg",
+      "published": "2026-10-08T21:56:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6440588569de84",
+      "title": "Cierre de Directo a México de Banxico: las apps y el dinero digital cambian el manejo de las remesas",
+      "url": "https://expansion.mx/economia/2026/10/08/por-que-cerro-programa-remesas-banxico-directo-a-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El manejo de las remesas evoluciona, el avance tecnológico va borrando las transferencias bancarias tradicionales, y pinta un mayor uso de aplicaciones y dinero digital.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/91300c7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F05%2Fee%2F2160b00e41c4ab9c29ee877dc289%2Fistock-1413041828.jpg",
+      "published": "2026-10-08T21:55:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "04ea6ef5b2552a",
+      "title": "Nafin e IP quieren descarbonizar las cadenas de valor en México",
+      "url": "https://expansion.mx/economia/2026/10/08/nafin-e-ip-quieren-descarbonizar-las-cadenas-de-valor-en-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "De acuerdo con el banco de desarrollo, el objetivo esencial es abordar la descarbonización como una forma de competir mejor, crecer y permanecer en los mercados globales.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b416b91/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3c%2Fe9%2Fec75578e49bab15571f06b44e967%2Fcontaminacion-sector-electrico.jpg",
+      "published": "2026-10-08T21:50:48+00:00",
       "score": null,
       "tags": []
     },
@@ -245,26 +521,14 @@
       "tags": []
     },
     {
-      "id": "f95688fe1dd583",
-      "title": "PAW Patrol sale de las pantallas y los juguetes, ahora llega a los alimentos congelados con dos productos",
-      "url": "https://www.merca20.com/paw-patrol-sale-de-las-pantallas-y-los-juguetes-ahora-llega-a-los-alimentos-congelados-con-dos-productos/?utm_source=rss&utm_medium=rss&utm_campaign=paw-patrol-sale-de-las-pantallas-y-los-juguetes-ahora-llega-a-los-alimentos-congelados-con-dos-productos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "PAW Patrol llega a Kroger con alimentos congelados de Incredifulls; conoce los productos, sus precios y la alianza comercial.",
-      "image": "https://files.merca20.com/uploads/2026/10/PAW-Patrol-sale-de-las-pantallas-y-los-juguetes-ahora-llega-a-los-alimentos-congelados-con-dos-productos-.jpg",
-      "published": "2026-10-08T21:28:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "12a528aace9319",
-      "title": "¿Por qué la publicidad crece mucho más que la economía?",
-      "url": "https://www.merca20.com/por-que-la-publicidad-crece-mucho-mas-que-la-economia/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-la-publicidad-crece-mucho-mas-que-la-economia",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La diferencia entre el crecimiento económico y el publicitario no significa que ambos mercados hayan dejado de estar relacionados.",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Internet-Laptop-54329912.jpg",
-      "published": "2026-10-08T21:21:33+00:00",
+      "id": "73b9567175b813",
+      "title": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
+      "url": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La industria turística trabaja en una identidad digital que permita reconocer al viajero mediante biometría. El reto está en conectar aeropuertos, aerolíneas, autoridades, hoteles y otros servicios.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9aa08ef/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe8%2Fab%2F0e80c1c64f78b477152d45ca5fa1%2Faeropuerto-identidad-digital-biometrica-1.png",
+      "published": "2026-10-08T21:26:28+00:00",
       "score": null,
       "tags": []
     },
@@ -281,6 +545,18 @@
       "tags": []
     },
     {
+      "id": "a8d0b29d2b9875",
+      "title": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
+      "url": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "De acuerdo con la autoridad fiscal, este tipo de prácticas daña la equidad tributaria, pues en promedio las empresas pagan una tasa efectiva de 1% de ISR, las pymes de 2.5% y los asalariados mayor a 20%.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3734915/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5c%2Fe3%2F74fab42845eda8d80e76fcf7bb30%2Fwhatsapp-image-2026-10-08-at-1.09.29%20PM.jpeg",
+      "published": "2026-10-08T21:15:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "9d9c3aab5ca060",
       "title": "Corea del Sur detecta indicios de IA en ataques a sus principales bancos y el presidente exige respuestas",
       "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
@@ -289,18 +565,6 @@
       "summary": "Cuando pensamos en inteligencia artificial solemos hacerlo desde el lado de quien intenta ganar tiempo, automatizar tareas o analizar enormes cantidades de información. Pero esas mismas capacidades también pueden ponerse…",
       "image": "https://i.blogs.es/156186/corea-del-sur/1024_2000.jpeg",
       "published": "2026-10-08T21:13:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a6fec5ace2bee5",
-      "title": "KFCITO: cómo KFC convirtió tres letras en una nueva oportunidad de negocio",
-      "url": "https://www.merca20.com/kfcito-kfc-from-branding-cafeteria-uruguay/?utm_source=rss&utm_medium=rss&utm_campaign=kfcito-kfc-from-branding-cafeteria-uruguay",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Una agencia uruguaya encontró una manera de aprovechar uno de los nombres más conocidos de la comida rápida. La idea ya despertó interés en otros mercados.",
-      "image": "https://files.merca20.com/uploads/2026/10/Captura-de-pantalla_8-10-2026_1891_www.youtube.com_.jpeg",
-      "published": "2026-10-08T21:10:01+00:00",
       "score": null,
       "tags": []
     },
@@ -329,30 +593,6 @@
       "tags": []
     },
     {
-      "id": "cb4040c501cee7",
-      "title": "Buccaneers vs Cowboys: hora, dónde ver EN VIVO desde México y pronóstico NFL",
-      "url": "https://www.merca20.com/buccaneers-vs-cowboys-hora-donde-ver-en-vivo-desde-mexico-y-pronostico-nfl/?utm_source=rss&utm_medium=rss&utm_campaign=buccaneers-vs-cowboys-hora-donde-ver-en-vivo-desde-mexico-y-pronostico-nfl",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Dallas busca su tercera victoria de la temporada ante unos Buccaneers que llegan sin Baker Mayfield y con cuatro derrotas consecutivas",
-      "image": "https://files.merca20.com/uploads/2026/10/Buccaneers-vs-Cowbouys.jpg",
-      "published": "2026-10-08T20:44:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "98369e8c886532",
-      "title": "Nestlé is investing more in marketing but across far fewer brands: it is concentrating its advertising on 135 brands, down from around 400 previously",
-      "url": "https://www.merca20.com/nestle-is-investing-more-in-marketing-but-across-far-fewer-brands-it-is-concentrating-its-advertising-on-135-brands-down-from-around-400-previously/?utm_source=rss&utm_medium=rss&utm_campaign=nestle-is-investing-more-in-marketing-but-across-far-fewer-brands-it-is-concentrating-its-advertising-on-135-brands-down-from-around-400-previously",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Nestlé states that it is monitoring indicators related to flavor preference, price competitiveness, shelf space, and marketing ROI",
-      "image": "https://files.merca20.com/uploads/2026/06/marcas-de-nestle.jpg",
-      "published": "2026-10-08T20:42:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "902463f4635f9c",
       "title": "Dragon Ball Super: Beerus confirma su fecha de estreno en Netflix, Crunchyroll y revelan detalles de su doblaje latino",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/10/08/dragon-ball-super-beerus-confirma-su-fecha-de-estreno-en-netflix-crunchyroll-y-revelan-detalles-de-su-doblaje-latino/",
@@ -365,14 +605,14 @@
       "tags": []
     },
     {
-      "id": "0fe167271f0999",
-      "title": "Barbie convierte el legado deportivo de Serena Williams en una nueva estrategia de marca; así luce su muñeca",
-      "url": "https://www.merca20.com/barbie-convierte-el-legado-deportivo-de-serena-williams-en-una-nueva-estrategia-de-marca-asi-luce-su-muneca/?utm_source=rss&utm_medium=rss&utm_campaign=barbie-convierte-el-legado-deportivo-de-serena-williams-en-una-nueva-estrategia-de-marca-asi-luce-su-muneca",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La nueva Barbie Signature recrea el conjunto verde y blanco que Williams llevó durante aquella final, con top de detalles cut out y malla, falda blanca, banda para el cabello, calcetas y tenis.",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Sixteen-times-Grand-Slam-champ-50098547.jpg",
-      "published": "2026-10-08T20:26:32+00:00",
+      "id": "f2ceb92498ecc1",
+      "title": "EU suspende a Microsoft y Adobe visas de trabajo para extranjeros y las acusa de abusar de ellas",
+      "url": "https://expansion.mx/tecnologia/2026/10/08/eu-suspende-a-microsoft-y-adobe-visas-de-trabajo",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La medida también alcanza a las compañías de servicios tecnológicos Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies y Capgemini.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9324556/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F21%2F08%2Ff8632d08429c8034975b126ec44c%2Festados-unidos-suspende-visas-trabajo-microsoft.jpeg",
+      "published": "2026-10-08T20:30:24+00:00",
       "score": null,
       "tags": []
     },
@@ -385,6 +625,18 @@
       "summary": "El Nasdaq Composite cayó 1.25% y el S&P 500 perdió 0.47%, presionados por las dudas sobre los ingresos de OpenAI y las perspectivas de crecimiento de la inteligencia artificial. The post Nasdaq pierde 1.25% tras dudas so…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/11/nasdaq-today.webp",
       "published": "2026-10-08T20:26:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4e2382f84ff381",
+      "title": "Miniso apuesta por la Gen Z en México con FRIENDS: así es su nuevo formato de tiendas que llega a CDMX",
+      "url": "https://expansion.mx/mercadotecnia/2026/10/08/miniso-gen-z-mexico-friends-nuevo-formato-tiendas-cdmx",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Miniso comenzó con una tienda FRIENDS en Cancún y ahora lleva el formato a Ciudad de México con nuevas aperturas en Centro Histórico y Santa Fe.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4bdd9fd/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F87%2Fe0%2Fef0801ca41b7aeb8144f9c8acdfa%2Fimage-20261008-142100.jpg",
+      "published": "2026-10-08T20:22:51+00:00",
       "score": null,
       "tags": []
     },
@@ -409,6 +661,18 @@
       "summary": "La minuta de Banxico advierte que el dinero enviado desde el extranjero rinde menos en México, mientras el consumo de los hogares permanece estancado desde hace año y medio. The post Remesas pierden más de 20% de su pode…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/08/remesas-a-la-baja.webp",
       "published": "2026-10-08T20:07:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "dc4757cc571c66",
+      "title": "Audiolibros en Spotify México: cómo funcionan, cuál es el catálogo y cuánto cuesta sumar más horas",
+      "url": "https://expansion.mx/tecnologia/2026/10/08/audiolibros-spotify-mexico-como-escucharlos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Spotify ya ofrece audiolibros en México. Conoce dónde encontrarlos dentro de la aplicación, qué planes incluyen horas de escucha, cuánto cuesta ampliarlas y qué otras plataformas tienen libros en formato de audio.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a5f491c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F59%2F34%2Fe3a94f88482882a72625de5db18b%2Fspotify-audiolibros-mexico.png",
+      "published": "2026-10-08T20:00:46+00:00",
       "score": null,
       "tags": []
     },
@@ -593,6 +857,18 @@
       "tags": []
     },
     {
+      "id": "dbd583be66ab82",
+      "title": "Gemini falla este 8 de octubre y muestra el error 1099: qué significa y por qué aparece",
+      "url": "https://expansion.mx/tecnologia/2026/10/08/gemini-presenta-fallas-8-de-octubre-error-1099",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/c10474b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff1%2F96%2Fc6bdef534f8391cba68279df678d%2Fgemini-presenta-fallas-8-de-octubre-error-1099.m.png",
+      "published": "2026-10-08T17:05:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "14b6f7c88fde0f",
       "title": "¿Tu empresa quiere exportar? Estos son los pasos en los que UPS puede ayudarte",
       "url": "https://www.altonivel.com.mx/ups-exportaciones-empresa-exportar-eu-pasos-guia-comercio-internacional-logistica/",
@@ -625,6 +901,18 @@
       "summary": "Digger se encamina a ser el fiasco más grande en la carrera de Tom Cruise. La nueva película de Alejandro González Iñárritu no solo ha cosechado reseñas bastante pobres por parte del público y la crítica especializada, s…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Digger-4-scaled.jpeg?fit=1024%2C683&quality=70&strip=all&ssl=1",
       "published": "2026-10-08T16:59:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cd7f49a4ebd35a",
+      "title": "Dólar regresa a 18.20 pesos; moneda mexicana es afectada por petróleo y expectativas de la FED",
+      "url": "https://expansion.mx/mercados/2026/10/08/tipo-cambio-hoy-8-octubre-2026-18-pesos-dolar",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Peso mexicano se presiona ante la expectativa de que la Reserva Federal en EU seguirá incrementando las tasas de interés, mientras la inflación en México da a Banxico espacio para mantenerla en su nivel actual.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6f87b20/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F53%2F39%2Fe42521a54c45a2ea270bb9f811fd%2Fpeso-mexicano-dolar-superpeso-tipo-cambio-septiembre.png",
+      "published": "2026-10-08T16:40:32+00:00",
       "score": null,
       "tags": []
     },
@@ -761,14 +1049,14 @@
       "tags": []
     },
     {
-      "id": "d44bce7a746956",
-      "title": "Las tablets de Amazon ya no serán lo que eran: Google Play, Alexa+ y una versión Pro con la que plantar cara a los grandes",
-      "url": "https://www.xataka.com/tablets/amazon-alexa-tablet-12-pro-alexa-tablet-11-alexa-tablet-8-caracteristicas-precio-ficha-tecnica",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando buscábamos una tablet económica para leer, ver series o navegar por Internet, Amazon llevaba años siendo una opción a considerar. Sin embargo, si necesitábamos un dispositivo más ambicioso para estudiar o trabajar…",
-      "image": "https://i.blogs.es/6cc535/amazon-alexa-tablets-1/1024_2000.jpeg",
-      "published": "2026-10-08T15:29:00+00:00",
+      "id": "943ea746ac2d77",
+      "title": "Mexicana revela cuándo será rentable, suma una nueva ruta y va por 20 aviones para alcanzar esa meta",
+      "url": "https://expansion.mx/empresas/2026/10/08/mexicana-busca-ser-rentable-en-2030-con-mas-aviones",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Leobardo Ávila presentó un plan de tres etapas que llevará a la aerolínea de la expansión de capacidades a la búsqueda del equilibrio financiero.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/c86a7b8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F19%2Fbf48bc9846e08583ff61c5e31b98%2F3-mexicana.jpeg",
+      "published": "2026-10-08T15:23:48+00:00",
       "score": null,
       "tags": []
     },
@@ -785,14 +1073,14 @@
       "tags": []
     },
     {
-      "id": "c2aac716d716c0",
-      "title": "Boadilla del Monte organizó el Campeonato Europeo de Boxeo y la velada terminó de la forma más violenta posible",
-      "url": "https://www.xataka.com/magnet/europeo-boxeo-boadilla-monte-acaba-batalla-campal-sillas-volando-vallas-metalicas-escudo-muchos-punetazos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay noches de boxeo en las que se pelea sobre la lona y noches en las que se atiza alrededor, como en la antigua ECW (Extreme Championship Wrestling). La del sábado 3 de octubre, en el polideportivo Rey Felipe VI de Boad…",
-      "image": "https://i.blogs.es/7d4da1/combate/1024_2000.jpeg",
-      "published": "2026-10-08T15:00:00+00:00",
+      "id": "7615834a52bcd9",
+      "title": "Tormenta perfecta para el petróleo; huracán, guerra y bajas reservas disparan su precio 5%",
+      "url": "https://expansion.mx/mercados/2026/10/08/petroleo-dispara-5-por-ciento-presiona-wall-street",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El aumento de los ataques en Oriente Medio y el cierre preventivo de producción en el golfo de México impulsaron al Brent por encima de 105 dólares y reavivaron el temor a una inflación persistente.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e94a420/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F64%2Fc9edddf945d2bd0bae6e97c923a2%2F6-afp-20260407-a6xd7t3-v2-highres-topshotchinaenergyoil.jpeg",
+      "published": "2026-10-08T15:14:32+00:00",
       "score": null,
       "tags": []
     },
@@ -817,18 +1105,6 @@
       "summary": "La STPS abrió un mapa para consultar casos laborales del T-MEC por estado, sector y estatus. El compliance puede tener consecuencias comerciales para empresas exportadoras. The post STPS lanza mapa de casos laborales del…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/casos-laborales-t-mec-stps-empresas.jpg.webp",
       "published": "2026-10-08T14:52:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8b81ff50f1e87d",
-      "title": "Inflación de México sube a 3.45% en septiembre e hila tres meses de aumentos",
-      "url": "https://www.altonivel.com.mx/inflacion-de-mexico-sube-a-3-45-en-septiembre-e-hila-tres-meses-de-aumentos/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La inflación en México acumuló tres meses consecutivos de aumentos en septiembre, con presiones destacadas en frutas, verduras y algunos servicios. The post Inflación de México sube a 3.45% en septiembre e hila tres mese…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/inflacion-mexico.webp",
-      "published": "2026-10-08T14:51:13+00:00",
       "score": null,
       "tags": []
     },
@@ -917,18 +1193,6 @@
       "tags": []
     },
     {
-      "id": "3a10af300b4997",
-      "title": "Una semana para multiplicar el talento STEM en México",
-      "url": "https://expansion.mx/opinion/2026/10/08/una-semana-para-multiplicar-el-talento-stem-en-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La escasez de talento especializado exige ampliar la formación más allá de las carreras universitarias y conectar a empresas, escuelas y trabajadores con nuevas formas de aprendizaje.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/8e1c304/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0f%2F0d%2Fbb111b124f7487fa4c87b74cad25%2Feducacion-tecnica-mas-salario-en-mexico-cepal.jpg",
-      "published": "2026-10-08T12:04:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "78cf9159d3960b",
       "title": "¿Los hombres se deprimen menos o los medimos mal?",
       "url": "https://www.psyciencia.com/depresion-masculina-brecha/",
@@ -937,54 +1201,6 @@
       "summary": "A las mujeres se les diagnostica depresión casi el doble que a los hombres. Revisé si es porque a ellos los medimos mal y no lo es: cuando se usa la misma vara, la brecha sigue. Lo que cambia es cómo se presenta, y eso s…",
       "image": null,
       "published": "2026-10-08T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fb1fde6df48447",
-      "title": "El valor de cambiar de opinión",
-      "url": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/10/08/el-valor-de-cambiar-de-opinion",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Cambiar de opinión no es necesariamente una muestra de inconsistencia: también puede ser la consecuencia de aprender, cuestionar nuestras certezas y entender que el mundo que nos rodea ha cambiado.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/45c3834/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2F78%2F7b%2F150131dc4d54ac257c2355cfa9a4%2Fetica.jpg",
-      "published": "2026-10-08T11:59:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9de1b6e35a3778",
-      "title": "Gmail bloquea 100 millones de intentos de phishing diarios: así detecta Google las amenazas",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/google-trust-safety-phishing-ia-ciberseguridad",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Laurie Richardson, vicepresidenta de Trust & Safety, explica cómo la IA está cambiando la velocidad con la que la compañía detecta abusos y corrige sus propios sistemas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b669b03/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F97%2F4a%2F14ff0286467ea2e3c14899a09145%2Flaurie-richardson-google-trust-safety-phishing-ia.jpg",
-      "published": "2026-10-08T11:55:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "94a1c4ea3eae34",
-      "title": "Amigo GNL tiene permiso ambiental, pero dos suspensiones frenan sus obras",
-      "url": "https://expansion.mx/empresas/2026/10/08/amigo-gnl-permisos-suspensiones-proyecto-gas-guaymas-sonora",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El proyecto de licuefacción en Guaymas cuenta con permisos energéticos, pero la autorización de ASEA está impugnada y no puede surtir efectos mientras siga el juicio.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/673c234/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F66%2Ff1%2Fb11a48f64063afd60853eb41c746%2F1.jpg",
-      "published": "2026-10-08T11:55:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4cb080a40368fc",
-      "title": "El CCE advierte que cambios a deducciones pueden llevar a empresas a la quiebra",
-      "url": "https://expansion.mx/economia/2026/10/08/cce-advierte-riesgo-de-quiebra-ante-ajustes-de-deducciones",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El sector privado negocia con Hacienda ajustes al Paquete Económico 2027. Anticipa mayor certidumbre y pide cuidar la inversión. Respalda la Ley de Economía Digital, pero subraya retos en zonas rurales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b3f9ed4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F67%2Ffb%2F00f97d2e466dbfc229f0271e6b78%2Fjose-medina-mora-cce.jpg",
-      "published": "2026-10-08T11:55:12+00:00",
       "score": null,
       "tags": []
     },
@@ -1205,102 +1421,6 @@
       "tags": []
     },
     {
-      "id": "ed1b69f41ba720",
-      "title": "Nissan lanza en México la Frontier PRO PHEV: hecha en China y por menos de 900,000 pesos",
-      "url": "https://expansion.mx/empresas/2026/10/07/nissan-frontier-pro-phev-precio-hecha-china",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Es la primera pickup híbrida enchufable de Nissan y el primer modelo de la marca desarrollado y producido en China para exportación global.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/bfd88a5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F91%2F02%2F1730a4184426ab82d519841f71e3%2Fimg-9479.jpeg",
-      "published": "2026-10-08T03:06:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a9aa28555b0bc4",
-      "title": "¿Correos de México puede competir con DHL y Estafeta? Así están sus precios y tiempos de entrega",
-      "url": "https://expansion.mx/empresas/2026/10/07/correos-demexico-compite-dhl-estafeta-precios-tiemposentrega",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "DHL, Estafeta y Correos de México cotizaron el mismo envío con precios que tienen una diferencia de cientos de pesos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3d6ab76/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F48%2F54%2Fc7e4cce34ed18cba31d1dce73593%2Fimage-20261007-190501-menos-paquetes-haz-los-lugares-de-atrs-como-solo-d-que-se-vea-un-poco-menos-di.jpg",
-      "published": "2026-10-08T01:44:34+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "67bf258b08d107",
-      "title": "Por qué los autos eléctricos corren más riesgo de irse a pérdida total tras un choque: una crisis global de reparabilidad",
-      "url": "https://www.fayerwayer.com/internet/2026/10/08/por-que-los-autos-electricos-corren-mas-riesgo-de-irse-a-perdida-total-tras-un-choque-una-crisis-global-de-reparabilidad/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Reparar un vehículo eléctrico cuesta hasta un 30% más que uno a gasolina: el paquete de baterías y los sensores encarecen las pólizas de seguro.",
-      "image": "https://www.fayerwayer.com/resizer/v2/DWOL2LBR6ZHOFJK6SABM2ZFWMI.jpg?auth=a8dd2115542f4a791711dd25d100dde96389aca17a79ac39fb80f0d34e19fa17&smart=true&width=1200&height=800",
-      "published": "2026-10-08T01:24:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "017ecce2d8435f",
-      "title": "Por qué Christa Pike sobrevivió a dos inyecciones letales: la explicación médica detrás del fallo histórico",
-      "url": "https://www.fayerwayer.com/ciencia/2026/10/08/por-que-christa-pike-sobrevivio-a-dos-inyecciones-letales-la-explicacion-medica-detras-del-fallo-historico/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Análisis fisiopatológico de la ejecución fallida de Christa Pike: extravasación de pentobarbital, alcalinidad, necrosis tisular y farmacocinética.",
-      "image": "https://www.fayerwayer.com/resizer/v2/PYXKFZQXLJA37NOQ2SFBVI6G3Y.jpg?auth=b3016b76519fdcb7b02c512dafa73a5ccf4dbc6bad3d0c643722465e2f8686e7&smart=true&width=1920&height=1080",
-      "published": "2026-10-08T01:13:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "60ee117ef28bab",
-      "title": "El auge de la IA choca con la guerra en el tablero del comercio mundial",
-      "url": "https://expansion.mx/economia/2026/10/07/ia-dispara-pronostico-omc-comercio-bienes-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El encarecimiento de la energía por la guerra podría restar 0.5 puntos porcentuales al crecimiento del comercio",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d2702f0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F35%2F1c%2F2aa95a18448db04436a18f7ecb74%2Fia-comercio-minorista.jpg",
-      "published": "2026-10-08T00:54:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "00916d177eb3ee",
-      "title": "WhatsApp dejará de funcionar en estos celulares: revisa la lista de teléfonos que perderán el servicio",
-      "url": "https://www.fayerwayer.com/moviles/2026/10/08/whatsapp-dejara-de-funcionar-en-estos-celulares-revisa-la-lista-de-telefonos-que-perderan-el-servicio/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "WhatsApp actualizó sus requisitos de compatibilidad. Conoce la lista de celulares Android e iPhone que perderán el servicio de mensajería de Meta.",
-      "image": "https://www.fayerwayer.com/resizer/v2/ZY6YKVC4QRGJXAPTE6WWKAPZFA.JPG?auth=6c551e5ed8171765893b60c202f741d01baf906fa8b8f63a9fc15a4051c5a99a&smart=true&width=5300&height=3533",
-      "published": "2026-10-08T00:32:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "838f974622f1a9",
-      "title": "Esta es la fecha oficial del Buen Fin 2026 que cambió el calendario y cómo registrar tu negocio",
-      "url": "https://expansion.mx/empresas/2026/10/07/cuando-es-el-buen-fin-2026-fechas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/076972c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8d%2Ff5%2F512b573742b3b1042ff9a7de57a9%2Ffechas-buen-fin-2026.jpg",
-      "published": "2026-10-08T00:05:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d824a040d258cb",
-      "title": "El IEPS de 8% a videojuegos con violencia continuará en pausa en 2027",
-      "url": "https://expansion.mx/economia/2026/10/07/ieps-videojuegos-violencia-sorteos-estimulo-2027",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Hacienda proyecta una recaudación de cero pesos por este IEPS a videojuegos para el siguiente año. También se prevé que continúe el estímulo para sorteos de la Lotería Nacional.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/7bd7cd1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa8%2Ff1%2F564c81344bf19311fdac015a9549%2F3-gta-vi-gettyimages-1832599013.jpeg",
-      "published": "2026-10-07T23:53:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4616da6d4e736d",
       "title": "Microsoft y NVIDIA unen fuerzas para llevar la IA de Windows al siguiente nivel",
       "url": "https://hipertextual.com/inteligencia-artificial/microsoft-nvidia-windows-agentes-ia-mxc-rtx-spark/",
@@ -1309,30 +1429,6 @@
       "summary": "La idea de un Windows que trabaja por ti a través de agentes de IA es algo que ha estado en la mente de Microsoft desde hace un tiempo. Si hacemos memoria, la compañía realizó un primer intento con los Copilot+ PC, una l…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/jensenhuang-satyanadella-microsoft-nvidia.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-10-07T23:42:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "34cfc760c9e3c9",
-      "title": "Concreta BMV la llegada de Adventus Capital; es la primera emisión bajo el régimen de inscripción simplificada",
-      "url": "https://expansion.mx/mercados/2026/10/07/bmv-estrena-via-rapida-adventus-emision-simplificada",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La operación por 560 millones de pesos se logró en menos de un mes y aprovechó la nueva figura de emisión, creada para reducir tiempos, costos y cargas para nuevos jugadores.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f41ad5c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa4%2Ff9%2Ffe0c642f4cc49fdfece805f9a20e%2Fopa-pantera-holdings-traxion-bmv.jpg",
-      "published": "2026-10-07T23:34:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0257b9e01653d7",
-      "title": "Crema Teatrical tuvo 4 dueños: Carlos Slim la compró y después se la vendió a Genomma Lab de Rodrigo Herrera",
-      "url": "https://expansion.mx/empresas/2026/10/07/historia-crema-teatrical-dueno-carlos-slim-genomma-lab",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/26bbb03/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F25%2F32%2F67d667d3432790dc58ac2a8fe863%2Fcrema-teatrical-carlos-slim-rodrigo-herrera.jpg",
-      "published": "2026-10-07T22:24:44+00:00",
       "score": null,
       "tags": []
     },
@@ -1361,18 +1457,6 @@
       "tags": []
     },
     {
-      "id": "addae7ae5524a9",
-      "title": "Estados Unidos redujo una quinta parte de los envíos de gas natural a México por 10 días",
-      "url": "https://expansion.mx/empresas/2026/10/07/estados-unidos-redujo-envios-gas-natural-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Cenagas aclaró que se trató de un mantenimiento programado en un gasoducto, lo que obligó a reducir el volumen de gas al país.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b67e5db/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5b%2Fa4%2F489230bd40319aab6996d79bc34a%2Fafp-20260411-a7fr4da-v1-highres-mexicoeconomyenvironmentoilgas.jpeg",
-      "published": "2026-10-07T21:57:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a33393bc52f1d6",
       "title": "ChatGPT cambia para siempre: ahora responde con gráficos, imágenes y herramientas interactivas",
       "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-gpt-6-respuestas-visuales-intelligent-ui/",
@@ -1393,30 +1477,6 @@
       "summary": "NVIDIA y Microsoft llevan meses preparando el terreno para una nueva generación de ordenadores capaces de ejecutar inteligencia artificial cada vez más avanzada directamente en local. RTX Spark ya nos había mostrado buen…",
       "image": null,
       "published": "2026-10-07T21:42:47+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "85198793615a7a",
-      "title": "Un Tesla correrá la Panamericana para probar hasta dónde llega la infraestructura de carga en México",
-      "url": "https://expansion.mx/empresas/2026/10/07/tesla-carrera-panamericana-infraestructura-carga-electrica",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Tesla Model S enfrentará más de 4,000 kilómetros entre Tuxtla y Zacatecas con una estrategia de carga que busca probar la viabilidad de los viajes eléctricos y detectar oportunidades para ampliar la infraestructura.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/ea22b1a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1e%2F31%2Ffcd8f8f0495bbe605ea3e2ee95ee%2Ftesla-carrera-panamericana-mexico.jpg",
-      "published": "2026-10-07T21:22:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "082d327a1248f5",
-      "title": "La jornada de 40 horas exige un registro electrónico y las multas pueden llegar a 586,550 pesos",
-      "url": "https://expansion.mx/carrera/2026/10/07/jornada-40-horas-registro-electronico-empresas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Las empresas deberán registrar entradas y salidas desde 2027, aunque la autoridad laboral aún debe definir las reglas para cumplir y evitar multas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/16257d4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3d%2F3c%2F437116c344b2b83a64d33f1afcb9%2Fjornada-40-horas-registro-electronico-industria-textil.jpeg",
-      "published": "2026-10-07T20:52:46+00:00",
       "score": null,
       "tags": []
     },
@@ -1621,66 +1681,6 @@
       "summary": "Razer ha anunciado sus nuevos mandos para juegos, el Wolverine V4 Pro inalámbrico y el Wolverine V4 Tournament Edition conectado por cable. Están diseñados para uso en consolas Xbox y también para PCs con enfoque a depor…",
       "image": null,
       "published": "2026-10-07T08:42:14+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b7e349dd89f20e",
-      "title": "La División de Neuropsicología Clínica del COP refuerza la coordinación y el trabajo conjunto con sus representantes territoriales",
-      "url": "https://www.infocop.es/la-division-de-neuropsicologia-clinica-del-cop-refuerza-la-coordinacion-y-el-trabajo-conjunto-con-sus-representantes-territoriales/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La sede del COP acogió los pasados días 25 y 26 de septiembre, dos jornadas de trabajo de su División de Neuropsicología Clínica (NPsiC). La entrada La División de Neuropsicología Clínica del COP refuerza la coordinación…",
-      "image": null,
-      "published": "2026-10-07T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7eb62801f16b9c",
-      "title": "Contenidos potencialmente dañinos, discursos de odio, autolesiones y ciberbullying: riesgos de las experiencias digitales de niños, niñas y adolescentes, según EU Kids Online 2026",
-      "url": "https://www.infocop.es/contenidos-potencialmente-daninos-discursos-de-odio-autolesiones-y-ciberbullying-riesgos-de-las-experiencias-digitales-de-ninos-ninas-y-adolescentes-segun-eu-kids-online-2026/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "La exposición a contenidos potencialmente perjudiciales, el ciberbullying, los discursos de odio y las dificultades para gestionar el tiempo conectado forman parte de las experiencias digitales de una proporción importan…",
-      "image": null,
-      "published": "2026-10-07T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "449443b4055553",
-      "title": "El burnout afecta a más de la mitad de los médicos jóvenes en España",
-      "url": "https://www.infocop.es/el-burnout-afecta-a-mas-de-la-mitad-de-los-medicos-jovenes-en-espana/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "Un estudio realizado con 1.419 médicos jóvenes de toda España revela una elevada prevalencia de burnout durante las primeras etapas de la carrera profesional. Según los resultados, el 93,9% presenta afectada al menos una…",
-      "image": null,
-      "published": "2026-10-07T04:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f5b7c4ff2824a1",
-      "title": "El COP-AO reunió en Córdoba a más de 270 profesionales en la Jornada nacional de Mediación",
-      "url": "https://www.infocop.es/el-cop-ao-reunio-en-cordoba-a-mas-de-270-profesionales-en-la-jornada-nacional-de-mediacion/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "El pasado mes de junio, el COP-AO celebró en Córdoba la Jornada Nacional de Mediación, un encuentro que, durante dos días, reunió a más de 270 profesionales en modalidad presencial y online (...) La entrada El COP-AO reu…",
-      "image": null,
-      "published": "2026-10-07T03:50:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3ecf9629de991a",
-      "title": "El COP Madrid rinde homenaje a la periodista de salud Patricia Matey en un acto que ha reunido a familia, compañeros y profesionales del Periodismo",
-      "url": "https://www.infocop.es/el-cop-madrid-rinde-homenaje-a-la-periodista-de-salud-patricia-matey-en-un-acto-que-ha-reunido-a-familia-companeros-y-profesionales-del-periodismo/",
-      "source": "Infocop",
-      "category": "psicologia",
-      "summary": "El COP Madrid ha rendido homenaje a Patricia Matey, referente del Periodismo de Salud en nuestro país. La entrada El COP Madrid rinde homenaje a la periodista de salud Patricia Matey en un acto que ha reunido a familia, …",
-      "image": null,
-      "published": "2026-10-07T03:45:00+00:00",
       "score": null,
       "tags": []
     },

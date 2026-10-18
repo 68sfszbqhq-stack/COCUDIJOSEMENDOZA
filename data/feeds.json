@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-10-18T10:30:35.325908+00:00",
-    "total": 198
+    "generated": "2026-10-18T15:28:40.029365+00:00",
+    "total": 197
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Si un agente de IA decide cómo y a quién pagar, los bancos podrían seguir procesando las operaciones, pero perder la relación con el cliente. ¿Qué hacer para mantenerse relevantes? The post Cuando la inteligencia artific…",
       "image": null,
-      "published": "2026-10-18T10:30:33.927289+00:00",
+      "published": "2026-10-18T15:28:38.662744+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Una respuesta de crisis exitosa depende tanto de la gestión de la reputación digital como de la gestión de la reputación en medios; pero, más que nada, depende de saber distinguir entre ambas y de cómo aprovechar mejor l…",
       "image": null,
-      "published": "2026-10-18T10:30:33.926994+00:00",
+      "published": "2026-10-18T15:28:38.662507+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "El agotamiento suele presentarse como un problema de disciplina o una debilidad emocional. Para los emprendedores mayores de 40 años, con frecuencia se trata de un déficit de recuperación. The post El burnout no es algo …",
       "image": null,
-      "published": "2026-10-18T10:30:33.926708+00:00",
+      "published": "2026-10-18T15:28:38.662274+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La compañía de Mark Zuckerberg presentó dos modelos de inteligencia artificial de frontera. Ahora buscará competir con OpenAI y Anthropic y ampliar las opciones para empresas y desarrolladores. The post Meta da un gran s…",
       "image": null,
-      "published": "2026-10-18T10:30:33.926404+00:00",
+      "published": "2026-10-18T15:28:38.662053+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Por estos días todo el mundo habla de inteligencia artificial, pero ¿están todos los países realmente listos para aprovecharla? The post La oportunidad de América Latina en la nueva economía global de la IA appeared firs…",
       "image": null,
-      "published": "2026-10-18T10:30:33.926064+00:00",
+      "published": "2026-10-18T15:28:38.661832+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "La reinvención no siempre nace del colapso. A veces surge de una certeza silenciosa de que la vida te está pidiendo crecer en una nueva dirección. The post Cómo transformar el dolor de la pérdida en un propósito poderoso…",
       "image": null,
-      "published": "2026-10-18T10:30:33.924898+00:00",
+      "published": "2026-10-18T15:28:38.660664+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Durante los últimos 30 años, nos hemos dedicado a mantener a los bots fuera de nuestros sitios. Ahora, empezamos a enfocarnos en dejar que entren. The post Antes los bots eran una amenaza. Ahora son tus clientes appeared…",
       "image": null,
-      "published": "2026-10-18T10:30:33.924608+00:00",
+      "published": "2026-10-18T15:28:38.660436+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Nunca había sido tan fácil delegar el esfuerzo de pensar. Pero, para quienes lideran equipos y toman decisiones, esa comodidad tiene un costo: el riesgo de conformarse con respuestas superficiales. The post La habilidad …",
       "image": null,
-      "published": "2026-10-18T10:30:33.924304+00:00",
+      "published": "2026-10-18T15:28:38.660187+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "La colaboración entre fundadores puede abrir oportunidades comerciales y ayudar a enfrentar el desgaste emocional que suele acompañar el crecimiento de una startup. The post Cómo una comunidad de fundadores vela por el b…",
       "image": null,
-      "published": "2026-10-18T10:30:33.923984+00:00",
+      "published": "2026-10-18T15:28:38.659944+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,235 @@
       "category": "startup",
       "summary": "Afrontar el estrés no significa evitarlo, sino actuar, establecer prioridades y seguir adelante. The post Si quieres ser emprendedor, tienes que aceptar esta dura verdad appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-10-18T10:30:33.923649+00:00",
+      "published": "2026-10-18T15:28:38.659668+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fca46845f300a1",
+      "title": "Albert Einstein: \"Una vida tranquila y modesta trae más felicidad que la búsqueda del éxito unida a una inquietud constante\"",
+      "url": "https://www.xataka.com/medicina-y-salud/albert-einstein-vida-tranquila-modesta-trae-felicidad-que-busqueda-exito-unida-a-inquietud-constante",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 1922, Albert Einstein se encontraba en un hotel de Tokio cuando, al no disponer de suelto para dar una propina a un botones, le entregó una nota manuscrita en alemán. En este momento, el famoso físico había sido notif…",
+      "image": "https://i.blogs.es/c65bb0/einstein-collage/1024_2000.jpeg",
+      "published": "2026-10-18T15:01:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6480e4f236614d",
+      "title": "5 sagas cuya segunda película es la mejor",
+      "url": "https://hipertextual.com/cine-television/5-sagas-cuya-segunda-pelicula-es-la-mejor/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Las sagas son parte sustancial del cine. Pero se enfrentan al clásico problema: ¿hay secuelas realmente buenas o que sean necesarias? Por ahora, se trata de una pregunta para la que nadie parece tener respuesta. En espec…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Secuelas.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-10-18T15:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c340b6b4072e49",
+      "title": "Europa quiere hacer algo que parecía imposible y es comprar energía como si fuera un solo país",
+      "url": "https://www.xataka.com/energia/europa-quiere-hacer-algo-que-parecia-imposible-comprar-energia-como-fuera-solo-pais",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La Unión Europea está buscando nuevas formas de hacer frente a un mercado cada vez más volátil y menos fiable. En esta ocasión, es la presidenta de la Comisión Ú rsula Von der Leyen quien presenta estos días ante el Parl…",
+      "image": "https://i.blogs.es/75f95c/francois-genon-m5iugintpvo-unsplash/1024_2000.jpeg",
+      "published": "2026-10-18T14:31:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2b0b8ae4ea2d46",
+      "title": "Una actualización de seguridad de Windows 11 rompe una función de seguridad",
+      "url": "https://www.muycomputer.com/2026/10/18/una-actualizacion-de-seguridad-de-windows-11-rompe-una-funcion-de-seguridad/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Hay contradicciones que parecen escritas a propósito. La actualización de seguridad de octubre para Windows 11 ha conseguido que algunos usuarios no puedan activar Smart App Control, precisamente una de las protecciones …",
+      "image": null,
+      "published": "2026-10-18T14:03:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8ce3a2a98020dc",
+      "title": "Rockstar tiene trabajando a 4.700 personas para lanzar 'GTA VI' y vender más de 40 millones de copias",
+      "url": "https://www.xataka.com/videojuegos/rockstar-tiene-trabajando-a-4-700-personas-para-lanzar-gta-vi-vender-40-millones-copias",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Cuando Rockstar lanzó ' Red Dead Redemption II ' en 2018 tenía 2.441 empleados. En agosto de este año tenía 4.711, repartidos en 12 oficinas. Las cifras son oficiales y aparecen en un reportaje en el que la cúpula del es…",
+      "image": "https://i.blogs.es/a0786e/33-new-details-from-the-gta-6-launch-trailer_r171.2560/1024_2000.jpeg",
+      "published": "2026-10-18T14:01:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "044c3028e34991",
+      "title": "Las 5 películas que tardaron menos en rodarse de todos los tiempos",
+      "url": "https://hipertextual.com/cine-television/las-5-peliculas-que-tardaron-menos-en-rodarse-de-todos-los-tiempos/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Como lo acaba de demostrar The Batman 2, filmar una película siempre será una combinación de factores. Por un lado, la más pura casualidad, en la que intervienen elementos tan dispares como el clima hasta la salud de los…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Menor-tiempo-de-rodaje.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-10-18T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "84e98852a9e22d",
+      "title": "Hace 75.000 años una lanza atravesó el pecho de un neandertal. Sus restos indican que ya entonces cuidaban a sus heridos",
+      "url": "https://www.xataka.com/magnet/hace-75-000-anos-lanza-atraveso-pecho-neandertal-sus-restos-indican-que-entonces-cuidaban-a-sus-heridos",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En la famosa cueva de Shanidar , situada en el Kurdistán iraquí, hace unos 75.000 años murió violentamente un neandertal . La víctima (Shanidar A) era un adulto de unos 45 años cuyo omóplato izquierdo presenta una perfor…",
+      "image": "https://i.blogs.es/d90baa/hueso/1024_2000.jpeg",
+      "published": "2026-10-18T13:31:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "166442ef1c51e7",
+      "title": "Para que la energía solar no le quite el suelo a la agricultura, Suecia está probando paneles rosas sobre el brócoli",
+      "url": "https://www.xataka.com/energia/energia-solar-no-le-quite-suelo-a-agricultura-suecia-esta-probando-paneles-rosas-brocoli",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Al lado del huerto familiar, donde tenemos entre otras cosas olivos y almendros, nuestro vecino un día tomó una decisión: quitar su viñedo y poner en su lugar unas placas fotovoltaicas. Y así es como dijo adiós a la agri…",
+      "image": "https://i.blogs.es/b4fb05/gemini_generated_image_7vai237vai237vai/1024_2000.jpeg",
+      "published": "2026-10-18T13:01:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e9c570db6796f1",
+      "title": "¿Hace falta ver ‘VisionQuest’ antes de ‘Avengers: Doomsday’ y ‘X-Men’? Su creador confirma las sospechas",
+      "url": "https://hipertextual.com/cine-television/hace-falta-ver-visionquest-antes-de-avengers-doomsday-y-x-men-entrevista-creador-terry-matalas/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con el estreno de VisionQuest en Disney+, Marvel ya ha lanzado su último proyecto antes de la llegada de Avengers: Doomsday a los cines. Esta serie, con el superhéroe de Paul Bettany como protagonista, supone el final de…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/VisionQuest-Avenegrs-Doomsday.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-10-18T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "31396c13cb04b3",
+      "title": "Por primera vez en más de 100 años, acabamos de descubrir una nueva especie de gato",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/primera-vez-100-anos-acabamos-descubrir-nueva-especie-gato",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Los gatos llevan acompañando a la humanidad desde hace unos 10.000 años , en una relación que, según se cree, empezó a forjarse por conveniencia mutua: al almacenar grano, las personas atrajeron a los roedores, y estos a…",
+      "image": "https://i.blogs.es/554bdb/gemini_generated_image_onr7q6onr7q6onr7/1024_2000.jpeg",
+      "published": "2026-10-18T12:31:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a1196795d3a148",
+      "title": "China ha encontrado en la Luna una cápsula del tiempo de hierro, ahora solo queda aprender a abrirla",
+      "url": "https://www.xataka.com/espacio/china-ha-encontrado-luna-capsula-tiempo-hierro-ahora-solo-queda-aprender-a-abrirla",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En la carrera por la colonización de la Luna , hay algo que China ha conseguido y que Estados Unidos aún no ha podido lograr: tomar muestras de su lado oculto. La encargada de hacerlo fue la misión Chang’e 6. Tras aterri…",
+      "image": "https://i.blogs.es/55f5ce/chang-e-6/1024_2000.jpeg",
+      "published": "2026-10-18T12:01:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "21d3ad027d0896",
+      "title": "De qué va ‘Coven Academy: El secreto de las brujas’, la nueva serie de Disney+ ideal para Halloween",
+      "url": "https://hipertextual.com/cine-television/de-que-va-coven-academy-el-secreto-de-las-brujas-la-nueva-serie-de-disney-ideal-para-halloween/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Coven Academy: El secreto de las brujas llega justo a tiempo para Halloween al catálogo de Disney+. Pero además, es un experimento bien pensado entre terror, historias de brujas y drama adolescente. Una mezcla que brinda…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Conven-Academy-23.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-10-18T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6c5e5c155ee53b",
+      "title": "Romper la pantalla del iPhone Duo puede costar casi medio teléfono",
+      "url": "https://www.muycomputer.com/2026/10/18/romper-la-pantalla-del-iphone-duo-puede-costar-casi-medio-telefono/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Cuando analizamos por primera vez cómo había planteado Apple el envejecimiento de la pantalla interior del iPhone Duo, una de las decisiones que más nos llamó la atención fue que su capa superior pudiera sustituirse inde…",
+      "image": null,
+      "published": "2026-10-18T11:44:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d10d92b1c0d842",
+      "title": "DroidDeck convierte tu móvil Android en una Steam Deck para jugar a juegos de PC en local y sin streaming: así funciona",
+      "url": "https://www.xataka.com/videojuegos/droiddeck-convierte-tu-movil-android-steam-deck-para-jugar-a-juegos-pc-local-streaming-asi-funciona",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Prácticamente todo el mundo tiene un móvil en su bolsillo. Y durante años, muchas compañías de videojuegos, estudios de desarrollo y editoras han querido convertirlo además en una máquina para jugar. El juego en móvil ha…",
+      "image": "https://i.blogs.es/2f3d8f/droiddeck/1024_2000.png",
+      "published": "2026-10-18T11:31:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "73d8dc25a16fc8",
+      "title": "La misma tecnología que usamos para fabricar chips sirve para escribir todo 'El Señor de los Anillos' en el filo de una hoja de papel",
+      "url": "https://www.xataka.com/empresas-y-economia/tecnologia-que-usamos-para-fabricar-chips-sirve-para-escribir-todo-senor-anillos-filo-hoja-papel",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Los equipos de fotolitografía de ultravioleta extremo (UVE) que diseña y fabrica ASML son unas de las máquinas más sofisticadas creadas por el hombre. Esta empresa neerlandesa invirtió más de dos décadas en su puesta a p…",
+      "image": "https://i.blogs.es/2d3238/asml-ap/1024_2000.jpeg",
+      "published": "2026-10-18T11:01:34+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "04930aaaeea646",
+      "title": "Sylvester Stallone sobre los niños: “Los padres deberían reaccionar. Los hijos son como la arcilla blanda: los moldeas, los lastimas y ya no vuelven a tener la misma forma”",
+      "url": "https://www.merca20.com/sylvester-stallone-sobre-los-ninos-los-padres-deberian-reaccionar-los-hijos-son-como-la-arcilla-blanda-los-moldeas-los-lastimas-y-ya-no-vuelven-a-tener-la-misma-forma/?utm_source=rss&utm_medium=rss&utm_campaign=sylvester-stallone-sobre-los-ninos-los-padres-deberian-reaccionar-los-hijos-son-como-la-arcilla-blanda-los-moldeas-los-lastimas-y-ya-no-vuelven-a-tener-la-misma-forma",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La frase del actor estadounidense Sylvester Stallone, conocido por interpretar a Rocky Balboa y John Rambo, aborda las huellas de la infancia",
+      "image": "https://files.merca20.com/uploads/2026/10/Sylvester-Stallone-Gemini-AI.jpg",
+      "published": "2026-10-18T11:00:49+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b33ebf7c907a95",
+      "title": "3 razones para ver ‘Avatar: Los Siete Refugios’, la nueva secuela de ‘La leyenda de Aang’",
+      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-avatar-los-siete-refugios-secuela-de-la-leyenda-de-aang/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Llega por fin a España Avatar: Los Siete Refugios, la nueva serie secuela de La leyenda de Aang y La leyenda de Korra. La franquicia se expande por primera vez en diez años con su tercer proyecto de animación. Una nueva …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Avatar-los-siete-refugios-1.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-10-18T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b361534f2cec31",
+      "title": "Los mejores cursos para ser un buen tutor escolar",
+      "url": "https://www.educaciontrespuntocero.com/formacion-docente/cursos-para-ser-un-buen-tutor-centros-educativos/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Ayudan a desarrollar competencias clave para el desempeño de este rol, desde diseñar un Plan de Acción Tutorial a gestionar la diversidad o favorecer una comunicación efectiva en el aula.",
+      "image": null,
+      "published": "2026-10-18T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "59c6786a5a9f2b",
+      "title": "En 1908, encontraron tantos diamantes que construyeron una ciudad alemana de lujo en el desierto. Cuando dejaron de aparecer, el desierto se cobró el alquiler",
+      "url": "https://www.xataka.com/magnet/1908-encontraron-diamantes-que-construyeron-ciudad-alemana-lujo-desierto-cuando-dejaron-aparecer-desierto-se-cobro-alquiler",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En 1908, un trabajador ferroviario encontró una piedra brillante mientras retiraba arena de unas vías en el desierto de Namibia. Era un diamante, y aquel descubrimiento desencadenó una fiebre de riqueza tan extraordinari…",
+      "image": "https://i.blogs.es/07d8d1/kolmanskop_sand/1024_2000.jpeg",
+      "published": "2026-10-18T10:31:34+00:00",
       "score": null,
       "tags": []
     },
@@ -233,18 +461,6 @@
       "tags": []
     },
     {
-      "id": "61750864f57e38",
-      "title": "\"Ya está resuelto\". Meta admite un error en sus gafas inteligentes que grababa conversaciones sin permiso",
-      "url": "https://www.xataka.com/privacidad/esta-resuelto-meta-admite-error-sus-gafas-inteligentes-que-grababa-conversaciones-permiso",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Un usuario de Reddit contaba en dos hilos distintos que sus gafas inteligentes Ray-Ban Meta guardaban conversaciones normales con otras personas sin activar la grabación con la orden \"Hey, Meta\". En los hilos hay otras p…",
-      "image": "https://i.blogs.es/491266/gafas-inteligentes-y-siluetas-urbanas-1-/1024_2000.jpeg",
-      "published": "2026-10-18T07:30:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "b8f4e104db3f02",
       "title": "Killzone: Shadow Fall ya disponible para PC en un port no oficial que no va a gustar a Sony",
       "url": "https://www.muycomputer.com/2026/10/18/killzone-shadow-fall-ya-disponible-para-pc-en-un-port-no-oficial-que-no-va-a-gustar-a-sony/",
@@ -253,18 +469,6 @@
       "summary": "Killzone: Shadow Falles uno de los mejores juegos exclusivos que llegaron a PS4, y de hecho fue, junto con Bloodborne, una de las razones por las que me compré dicha consola. La verdad es que tuve suerte, porque esperé a…",
       "image": null,
       "published": "2026-10-18T07:03:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fd4a83fa9408fb",
-      "title": "Los paneles solares pueden hacer algo inesperado cuando se instalan sobre cultivos: proteger a los agricultores del calor",
-      "url": "https://www.xataka.com/energia/paneles-solares-pueden-hacer-algo-inesperado-cuando-se-instalan-cultivos-proteger-a-agricultores-calor",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Las instalaciones de energía solar suelen ocupar grandes extensiones de espacio que también pueden destinarse a la agricultura. De ese “conflicto” nace la agrovoltaica , un sistema que permite aprovechar una misma superf…",
-      "image": "https://i.blogs.es/41bc76/sungrow-emea-wiqi8hiv8ji-unsplash/1024_2000.jpeg",
-      "published": "2026-10-18T07:01:34+00:00",
       "score": null,
       "tags": []
     },
@@ -293,30 +497,6 @@
       "tags": []
     },
     {
-      "id": "5ea4b7f380728d",
-      "title": "Decimos que el género de una IA nos da igual, hasta que llega el momento de pagarle",
-      "url": "https://www.xataka.com/robotica-e-ia/decimos-que-genero-ia-nos-da-igual-que-llega-momento-pagarle",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La IA suele tener voz de mujer. Desde la primera Siri hasta la actual Alexa, pasando por el GPS: los asistentes virtuales han adoptado tradicionalmente voces femeninas por defecto. No es casualidad, hay razones psicológi…",
-      "image": "https://i.blogs.es/bd5302/ia-asistentes-virtuales-hombre-mujer-portada/1024_2000.jpeg",
-      "published": "2026-10-18T06:00:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c0a119582d1688",
-      "title": "La historia del Solitario, la simple aplicación de cartas que llegó a ser la herramienta más utilizada en Windows",
-      "url": "https://www.xataka.com/historia-tecnologica/historia-solitario-simple-aplicacion-cartas-que-llego-a-ser-herramienta-utilizada-windows",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hoy en día mucha gente anda preocupada por la cantidad de horas que pierde en las redes sociales cuando deberían estar trabajando. Es la llamada procrastinación , el ocuparte de cosas irrelevantes e ir dejando las tareas…",
-      "image": "https://i.blogs.es/290f4e/solitario/1024_2000.jpeg",
-      "published": "2026-10-18T05:00:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "7972fde26addff",
       "title": "Astrónomos afirman haber descubierto la primera estrella verde en el universo",
       "url": "https://www.fayerwayer.com/espacio/2026/10/18/astronomos-afirman-haber-descubierto-la-primera-estrella-verde-en-el-universo/",
@@ -341,8 +521,32 @@
       "tags": []
     },
     {
+      "id": "a8f0cc308d2c66",
+      "title": "Slim y Televisa pasaron de socios a rivales: estalló una guerra de 4 años y la compra de AT&T México podría reabrirla",
+      "url": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La disputa escaló por la publicidad, el negocio de la televisión de paga y las restricciones a Telmex. Más de una década después, un acuerdo empresarial vuelve a poner a ambos grupos en ruta de colisión.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/68f569a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd1%2Fcc%2F68c426b84f52bb38f9a243b41fe5%2Fcarlos-slim-emilio-azcarraga.jpeg",
+      "published": "2026-10-18T00:05:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "38ff16eb94e8ab",
+      "title": "Francia estalla contra el costo de vida: cientos de miles protestan y desafían a Macron antes de las elecciones",
+      "url": "https://expansion.mx/mundo/2026/10/17/francia-protestas-costo-de-vida-macron-elecciones",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La movilización reunió a chalecos amarillos, jóvenes, docentes y jubilados. Las autoridades reportaron 1,200 detenidos y 150 agentes heridos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e8444a5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd3%2F7d%2F627124644903b348ae596c7dbadd%2Fprotestas-francia.jpg",
+      "published": "2026-10-17T23:49:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "d0191b621b6201",
-      "title": "Shrek regresa a las salas de cine México para  celebrar 25 años en la pantalla grande",
+      "title": "Shrek regresa a las salas de cine en México para  celebrar 25 años en la pantalla grande",
       "url": "https://www.merca20.com/shrek-regresa-a-las-salas-de-cine-mexico-para-celebrar-25-anos-en-la-pantalla-grande/?utm_source=rss&utm_medium=rss&utm_campaign=shrek-regresa-a-las-salas-de-cine-mexico-para-celebrar-25-anos-en-la-pantalla-grande",
       "source": "Merca 2.0",
       "category": "startup",
@@ -373,6 +577,18 @@
       "summary": "La NASA estima que la Voyager 1 alcanzará una distancia de un día luz de la Tierra el 18 de noviembre, un hito que hará que sus señales tarden 24 horas en llegar a la sonda y otro día en regresar.",
       "image": "https://files.merca20.com/uploads/2026/10/VOYAGER-1.jpg",
       "published": "2026-10-17T23:23:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "928738badb5086",
+      "title": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
+      "url": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El Gobierno de México busca empresas e inversionistas que aporten capital y experiencia industrial para llevar Olinia del prototipo a las líneas de producción.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e6ab2dd/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff4%2F31%2F93f3c5d240a59ebec0f62534482d%2Folinia-calificacion-experto-del-ipn.jpeg",
+      "published": "2026-10-17T21:58:32+00:00",
       "score": null,
       "tags": []
     },
@@ -437,30 +653,6 @@
       "tags": []
     },
     {
-      "id": "e7265cf10a2fba",
-      "title": "El Chernóbil asturiano: el pueblo abandonado ubicado junto a una antigua central térmica que tiene cine, escuela, club social y hasta consultorio médico",
-      "url": "https://www.xataka.com/magnet/chernobil-asturiano-pueblo-abandonado-ubicado-a-antigua-central-termica-que-tiene-cine-escuela-club-social-consultorio-medico",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Había una vez un pueblo con cine, escuela, club social, piscina y hasta un consultorio médico de rigor. Solo que está abandonado. No es un cuento, existe, está en Tineo (Asturias) y se llama Soto de la Barca. Algunos apo…",
-      "image": "https://i.blogs.es/6d2848/portadilla/1024_2000.jpeg",
-      "published": "2026-10-17T18:30:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "65af49b78c10ac",
-      "title": "Las células zombis están detrás del envejecimiento: así es como los científicos pretenden eliminarlas",
-      "url": "https://www.xataka.com/medicina-y-salud/celulas-zombis-estan-detras-envejecimiento-asi-como-cientificos-pretenden-eliminarlas",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El paso del tiempo deja huella en nuestro organismo, y uno de los principales responsables son las llamadas \"células senescentes\", también conocidas como células zombis. Y su nombre va ni que pintado, puesto que estas cé…",
-      "image": "https://i.blogs.es/c05627/celulas/1024_2000.jpeg",
-      "published": "2026-10-17T18:00:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0d7c2ba793fc9b",
       "title": "‘Super Mario Galaxy’ por fin tiene una versión para Android, pero no te emociones todavía",
       "url": "https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/",
@@ -517,18 +709,6 @@
       "summary": "La preventa del iPhone Duo agota su stock inicial y pospone envíos a enero de 2027. Conoce sus precios oficiales y disponibilidad en Latinoamérica y ...",
       "image": "https://www.fayerwayer.com/resizer/v2/YLTM74H7Y5FQZGITG7BIRNE4JM.jpg?auth=51b283f58bbba6580e00a48367f6424430a89e61338af73c14255f84115156fe&smart=true&width=1920&height=1080",
       "published": "2026-10-17T17:21:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "31ebdab626031f",
-      "title": "Llevaba 4.700 años esperando en el fondo del Mediterráneo: el asombroso hallazgo del naufragio más antiguo del mundo",
-      "url": "https://www.xataka.com/magnet/se-construia-gran-piramide-hace-4-700-anos-barco-se-hundia-mediterraneo-naufragio-antiguo-jamas-conocido",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Frente a la isla turca de Kekova yacen los restos de un barco que se hundió hace entre 4.400 y 4.700 años . Bueno, eso lo deducimos porque están encontrando e identificando restos de su carga, porque del casco de madera …",
-      "image": "https://i.blogs.es/440c9b/gemini_generated_image_nmro1vnmro1vnmro/1024_2000.jpeg",
-      "published": "2026-10-17T17:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -605,18 +785,6 @@
       "tags": []
     },
     {
-      "id": "566712295c6f2f",
-      "title": "La regla de \"100 más tu edad\" y la muerte de un presidente: cómo la medicina se equivocó durante décadas con la tensión arterial",
-      "url": "https://www.xataka.com/medicina-y-salud/regla-100-tu-edad-muerte-presidente-como-medicina-se-equivoco-durante-decadas-tension-arterial",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Durante gran parte del siglo XX, si un paciente de 70 años acudía a la consulta de su médico y el tensiómetro le marcaba 170 mmHg de sistólica (la conocida como \"la alta\"), el médico le daba una palmada y le mandaba a ca…",
-      "image": "https://i.blogs.es/3d2cf0/tension-arterial/1024_2000.jpeg",
-      "published": "2026-10-17T16:00:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "0132ec1921cc2b",
       "title": "Esta película de terror te hará vomitar y está en Disney+",
       "url": "https://hipertextual.com/cine-television/esta-pelicula-de-terror-te-hara-vomitar-y-esta-en-disney/",
@@ -665,18 +833,6 @@
       "tags": []
     },
     {
-      "id": "603b31d626a796",
-      "title": "Dinamarca tiene un enorme problema con su número de identidad y la culpa es de una contraseña mítica: \"123456\"",
-      "url": "https://www.xataka.com/seguridad/dinamarca-no-puede-fiarse-su-numero-identidad-motivo-contrasena-usada-peor-que-hay-123456",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Alguien ha entrado al registro civil danés ( CPR ) y ha obtenido datos de unos 8,8 millones de personas. Y al parecer, no necesitó sofisticadas técnicas de ataque para llegar hasta allí: simplemente accedió con una cuent…",
-      "image": "https://i.blogs.es/56fc74/photo-1757846110061-b77a1387a340/1024_2000.jpeg",
-      "published": "2026-10-17T15:30:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "34a239e5771661",
       "title": "Nuevo manga de Naruto: Konoha regresa y será escrito por Masashi Kishimoto",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/10/17/nuevo-manga-de-naruto-konoha-regresa-y-sera-escrito-por-masashi-kishimoto/",
@@ -685,18 +841,6 @@
       "summary": "Konoha regresa a lo grande: descubre los detalles del nuevo manga Naruto: Shadow Rising escrito por Masashi Kishimoto y los planes hasta 2029.",
       "image": "https://www.fayerwayer.com/resizer/v2/UCDZOXX4LZC6FGYM37JXGPUHNY.png?auth=a93dd40d47ad66ce465369da0dde00f86143c54333faeb26793f396bb4e224ed&smart=true&width=2638&height=1480",
       "published": "2026-10-17T15:27:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "72d050b0a9d7e6",
-      "title": "Creíamos que la NASA inventó Tang para los astronautas, pero resultó ser uno de los malentendidos más rentables de la historia espacial",
-      "url": "https://www.xataka.com/espacio/creiamos-que-nasa-invento-tang-para-astronautas-resulto-ser-uno-malentendidos-rentables-historia-espacial",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Durante décadas, millones de personas han creído que Tang , la popular bebida de naranja en polvo, fue inventada por la NASA para alimentar a sus astronautas. La realidad es bastante más curiosa, porque el producto ya se…",
-      "image": "https://i.blogs.es/4119d7/tang_-elegido-para-el-espacio-y-el-hogar/1024_2000.png",
-      "published": "2026-10-17T15:00:09+00:00",
       "score": null,
       "tags": []
     },
@@ -773,18 +917,6 @@
       "tags": []
     },
     {
-      "id": "c5674a616b418b",
-      "title": "Las películas de ‘Street Fighter’, ordenadas de mejor a peor según Rotten Tomatoes",
-      "url": "https://hipertextual.com/cine-television/las-peliculas-de-street-fighter-ordenadas-de-mejor-a-peor-segun-rotten-tomatoes/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La franquicia de videojuegos Street Fighter ha vuelto por fin a los cines con una nueva película live-action. El proyecto supone el renacer cinematográfico de la saga, que llevaba ya muchos años sin estrenar en la gran p…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Peliculas-Street-Fighter.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-10-17T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "64809ea14a4f73",
       "title": "Competencias digitales en la universidad: más allá de saber usar la tecnología",
       "url": "https://www.educaciontrespuntocero.com/opinion/competencias-digitales-en-la-universidad/",
@@ -821,18 +953,6 @@
       "tags": []
     },
     {
-      "id": "a8dc34473c8f59",
-      "title": "El error más famoso de Windows existe por una elección inesperada que casi nadie conoce",
-      "url": "https://hipertextual.com/software/color-pantalla-azul-de-la-muerte-origen/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Pocas imágenes son tan reconocibles en la historia de la computación como la pantalla azul de la muerte, conocida popularmente como BSOD. Desde hace décadas, millones de usuarios de Windows se han topado con ella cuando …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/windows-11-error-pantalla-azul.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-10-17T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "8cbc7eb8c1f37c",
       "title": "Google primero restringió el acceso a su nuevo modelo de IA por seguridad. Después tardó 13 días en abrirlo al público",
       "url": "https://www.genbeta.com/actualidad/google-primero-restringio-acceso-a-su-nuevo-modelo-ia-seguridad-despues-tardo-13-dias-abrirlo-al-publico",
@@ -841,18 +961,6 @@
       "summary": "Google presentó su modelo de pensamiento Gemini 4 Argon el 30 de septiembre, con acceso restringido a expertos en ciberseguridad. El 13 de octubre la empresa anunció su apertura a los usuarios con suscripción de pago. En…",
       "image": "https://i.blogs.es/4083eb/gemini-4/1024_2000.jpeg",
       "published": "2026-10-17T08:00:04+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "b54c4846d2e4ff",
-      "title": "Cómo detectar fotos, vídeos y audios creados con IA usando SynthID Detector",
-      "url": "https://hipertextual.com/inteligencia-artificial/como-detectar-fotos-videos-y-audios-creados-con-ia-usando-synthid-detector/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "En un mundo donde la realidad y la veracidad se ponen a prueba todos los días con un sinfín de contenidos creados con IA generativa, necesitamos herramientas que permitan identificarlos. Aquí entra en escena SynthID Dete…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/synthid-scaled.jpg?fit=1024%2C540&quality=70&strip=all&ssl=1",
-      "published": "2026-10-17T08:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -869,18 +977,6 @@
       "tags": []
     },
     {
-      "id": "eee54c6a948351",
-      "title": "Los 11 atajos de la tecla Windows que todo el mundo debería usar",
-      "url": "https://hipertextual.com/guias/atajos-combinaciones-tecla-windows/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Aunque las pantallas táctiles, los ratones y los trackpads le han quitado protagonismo, el teclado sigue siendo un gran aliado para interactuar con tu ordenador. Gracias a las teclas especiales, como Mayúscula, Control, …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Tecla-Windows-Teclado-PC.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-10-17T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "3f55f14ee781b8",
       "title": "Di adiós a las molestias en muñecas y reduce la fatiga con los mejores teclados divididos",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/mejores-teclados-divididos/",
@@ -889,18 +985,6 @@
       "summary": "Están separados en dos mitades o situar las teclas en dos bloques distanciados, evitando juntar las manos al escribir y favoreciendo una alineación natural de los hombros.",
       "image": null,
       "published": "2026-10-17T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "37804772f31e02",
-      "title": "Nuevo Tesla Roadster “vuela” y los memes lo aterrizan entre tráfico, cables y GTA VI",
-      "url": "https://www.merca20.com/nuevo-tesla-roadster-vuela-y-los-memes-lo-aterrizan-entre-trafico-cables-y-gta-vi/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-tesla-roadster-vuela-y-los-memes-lo-aterrizan-entre-trafico-cables-y-gta-vi",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El nuevo Tesla Roadster sorprendió con maniobras aéreas y desató memes sobre GTA VI, aseguradoras y los problemas de conducir auto “volador”.",
-      "image": "https://files.merca20.com/uploads/2026/10/Nuevo-Tesla-Roadster-vuela-y-los-memes-lo-aterrizan-entre-trafico-cables-y-GTA-VI.jpg",
-      "published": "2026-10-17T05:22:03+00:00",
       "score": null,
       "tags": []
     },
@@ -1001,18 +1085,6 @@
       "tags": []
     },
     {
-      "id": "a51347b4f0925b",
-      "title": "Linux sigue los pasos de Windows y añade un asistente de IA a Ubuntu",
-      "url": "https://hipertextual.com/inteligencia-artificial/ubuntu-26-10-myna-asistente-ia-local/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Canonical ha presentado Ubuntu 26.10, la versión estable más reciente del sistema operativo que marca un punto de inflexión en la evolución de Linux. Conocida como Stonking Stingray, esta edición incluye mejoras en rendi…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/ubuntu-terminal.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-10-16T21:37:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "e22153c2c1ab75",
       "title": "Arturo Elías Ayub encabeza una empresa ligada a Slim que factura 13,832 millones, pero triunfa fuera de México",
       "url": "https://expansion.mx/empresas/2026/10/16/arturo-elias-ayub-sitios-latinoamerica-negocio-slim",
@@ -1061,18 +1133,6 @@
       "tags": []
     },
     {
-      "id": "5e1d570ee251e9",
-      "title": "Empezó usando baterías de laptop, circula desde hace años en el espacio y es el primer auto volador de Tesla",
-      "url": "https://expansion.mx/empresas/2026/10/16/tesla-roadster-auto-volador-historia",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El Roadster nació para demostrar que un eléctrico podía ser deseable. Dos décadas después, Tesla lleva esa idea del asfalto al aire.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/faaa215/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F31%2F04%2Ff1b7cbcf4bbfb79a2fef19c1a0c8%2Ftesla-roadster-volando.jpg",
-      "published": "2026-10-16T19:37:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "83627a1170aa23",
       "title": "Dragon Ball: Masako Nozawa, la voz de Goku, explota contra la clonación por IA",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/10/16/dragon-ball-masako-nozawa-la-voz-de-goku-explota-contra-la-clonacion-por-ia/",
@@ -1085,30 +1145,6 @@
       "tags": []
     },
     {
-      "id": "ff6cff80bb44b3",
-      "title": "China avanza con las dark factories; México busca encender su industria sin apagar la luz",
-      "url": "https://expansion.mx/economia/2026/10/16/dark-factories-china-mexico-automatizacion-industrial",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "China instala más de 68 robots industriales por cada uno en México. Las dark factories marcan el rumbo de una transformación que la industria mexicana adopta “sin pausa, pero sin prisa”.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/efd1045/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F17%2Ff7%2Fa095a78f41c8bb37860f22d8e195%2Fdark-factories-china-mexico-robot-automatizacion-industrial.jpeg",
-      "published": "2026-10-16T19:00:41+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "de31185604c994",
-      "title": "Arancel cero para ensamblar autos se limita a 11 fabricantes, señala la Secretaría de Economía",
-      "url": "https://expansion.mx/economia/2026/10/16/economia-exencion-arancel-ensamble-autos-mexico",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Tener una planta en México será un requisito para acceder al beneficio. Los lineamientos también prevén mínimos de producción y controles sobre las piezas importadas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/acce609/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F75%2Fb3%2F6cb268ef41258e95056a28bad5f6%2Farancel-cero-ensamble-autos-industria-automotriz-mexico.jpeg",
-      "published": "2026-10-16T18:38:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9a9ff1c0e44129",
       "title": "Freddy Vega: «Vamos a arruinar la vida de nuestros hijos con la IA»",
       "url": "https://www.psyciencia.com/freddy-vega-ia-educacion-ninos/",
@@ -1117,18 +1153,6 @@
       "summary": "El CEO de Platzi advierte que la IA está vaciando de sentido las tareas escolares y propone escuelas sin IA. Qué dice el reel y qué sabemos sobre autorregulación y aprendizaje.",
       "image": null,
       "published": "2026-10-16T17:22:32+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2c9ad99487f3ec",
-      "title": "Alemania dará dinero a los niños para su jubilación y una pequeña ayuda podría convertirse en 160,000 euros",
-      "url": "https://expansion.mx/mundo/2026/10/16/alemania-dara-dinero-a-ninos-para-su-jubilacion",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El programa depositará 10 euros mensuales en cuentas de inversión desde los 6 hasta los 18 años. La proyección depende de los rendimientos del mercado y de las aportaciones familiares.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/04f19e8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F07%2Ffa%2F553395c0475da583a94d5c451ed0%2Fninos-dinero-retiro-alemania.jpg",
-      "published": "2026-10-16T17:10:15+00:00",
       "score": null,
       "tags": []
     },
@@ -1481,18 +1505,6 @@
       "tags": []
     },
     {
-      "id": "c358b123d19367",
-      "title": "GeForce NOW estrena los controles de DLSS 4.5 y suma diez juegos",
-      "url": "https://www.muycomputer.com/2026/10/15/geforce-now-estrena-los-controles-de-dlss-4-5-y-suma-diez-juegos/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Una semana más, GeForce NOW amplía tanto su catálogo como las posibilidades que ofrece a quienes prefieren ejecutar sus juegos desde la nube. El GFN Thursday de esta semana llega con diez nuevas incorporaciones, pero el …",
-      "image": null,
-      "published": "2026-10-15T18:13:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cfde439d661438",
       "title": "ITAM y Bulltick lanzan diplomado en inversiones alternativas y mercados privados",
       "url": "https://www.altonivel.com.mx/itam-bulltick-diplomado-inversiones-alternativas-mercados-privados/",
@@ -1549,18 +1561,6 @@
       "summary": "El presidente estadounidense anunció que la ejecución de Nidal Hasan no será transmitida en directo, aunque mantiene su fecha prevista para diciembre. The post Trump quería transmitir un fusilamiento en vivo, pero cambió…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/donald-trump.webp",
       "published": "2026-10-15T16:48:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6d79a49b692bfe",
-      "title": "Cuando el Macintosh no cumplió las expectativas",
-      "url": "https://www.muycomputer.com/2026/10/15/cuando-el-macintosh-no-cumplio-las-expectativas/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Hoy resulta prácticamente imposible hablar de la historia de la informática personal sin conceder al Macintosh un lugar privilegiado. No fue el primer ordenador con interfaz gráfica ni inventó el ratón, pero sí fue el pr…",
-      "image": null,
-      "published": "2026-10-15T16:44:22+00:00",
       "score": null,
       "tags": []
     },
@@ -1897,18 +1897,6 @@
       "summary": "Juan Luis Arsuaga, especialista en evolución humana , no es economista, y cuando le preguntan por la inteligencia artificial, contesta con lo que sabe: la historia. “Ojalá esta vez no ocurra, pero no hay precedentes de u…",
       "image": "https://i.blogs.es/25331a/juan-luis-arsuaga-antropologo/1024_2000.jpeg",
       "published": "2026-10-13T09:00:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "02c3e3dc8d3833",
-      "title": "Cómo elegir la tecnología educativa más adecuada para el centro educativo",
-      "url": "https://www.educaciontrespuntocero.com/opinion/como-elegir-la-tecnologia-educativa-mas-adecuada-para-el-centro-educativo/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "Elegir tecnología educativa va más allá de adquirir dispositivos: requiere considerar las necesidades de docentes, alumnado, dirección... Iván Fuerte, Channel Account Executive Iberia en Promethean, aporta una serie de c…",
-      "image": null,
-      "published": "2026-10-13T08:00:00+00:00",
       "score": null,
       "tags": []
     },

@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis dispositivos y el entorno · PLN José Roberto Mendoza</title>
+    <meta name="description" content="Organizador gráfico de mis prácticas de compra, uso y desecho de dispositivos digitales. COCUDI, competencia 4.4 Protección del entorno.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --red: #E12828;
+            --red-dark: #B71C1C;
+            --ink: #111;
+            --muted: #555;
+            --soft: #f6f5f2;
+            --line: #e5e2dc;
+            --green: #2E7D32;
+            --amber: #B26A00;
+        }
+        * { box-sizing: border-box; }
+        body { margin: 0; font-family: 'Inter', sans-serif; color: var(--ink); background: #fff; line-height: 1.6; }
+        a { color: var(--red); }
+        header.top { background: #111; color: #fff; padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+        header.top a { color: #fff; text-decoration: none; font-size: 0.8rem; font-weight: 700; }
+        header.top .brand { font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: #bbb; }
+        main { max-width: 980px; margin: 0 auto; padding: 32px 20px 80px; }
+        .kicker { color: var(--red); font-weight: 700; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; }
+        h1 { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 3rem); line-height: 1.1; margin: 8px 0 16px; }
+        h2 { font-family: 'Playfair Display', serif; font-size: 1.7rem; margin: 48px 0 8px; padding-top: 12px; border-top: 3px solid var(--ink); }
+        .lead { font-size: 1.1rem; color: var(--muted); max-width: 720px; }
+        .intro-sec { color: var(--muted); margin: 0 0 24px; }
+
+        /* Línea del tiempo */
+        .timeline { position: relative; margin: 24px 0 0; padding-left: 34px; }
+        .timeline::before { content: ""; position: absolute; left: 11px; top: 6px; bottom: 6px; width: 3px; background: var(--ink); border-radius: 2px; }
+        .item { position: relative; margin-bottom: 26px; }
+        .item::before { content: ""; position: absolute; left: -30px; top: 18px; width: 17px; height: 17px; border-radius: 50%; background: var(--red); border: 3px solid #fff; box-shadow: 0 0 0 3px var(--red); }
+        .card { display: grid; grid-template-columns: 200px 1fr; gap: 20px; border: 1px solid var(--line); border-radius: 14px; padding: 18px; background: #fff; }
+        .card .foto { background: var(--soft); border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 10px; }
+        .card .foto { gap: 6px; }
+        .card .foto img { width: 100%; min-width: 0; height: 150px; object-fit: contain; mix-blend-mode: multiply; }
+        .years { font-weight: 900; font-size: 0.85rem; color: var(--red); letter-spacing: 0.04em; }
+        .card h3 { margin: 2px 0 6px; font-size: 1.2rem; }
+        .card p { margin: 0 0 10px; font-size: 0.95rem; }
+        .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 12px; }
+        .chip { background: var(--soft); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; font-size: 0.75rem; font-weight: 600; }
+        .chip i { color: var(--muted); margin-right: 4px; }
+        .destino { display: inline-flex; align-items: center; gap: 8px; font-size: 0.85rem; font-weight: 700; padding: 6px 12px; border-radius: 8px; }
+        .destino.reusa { background: #e8f5e9; color: var(--green); }
+        .destino.pendiente { background: #fff4e0; color: var(--amber); }
+        .destino.fin { background: #eceff1; color: #455A64; }
+        .destino.actual { background: #e3f2fd; color: #1565C0; }
+        .destino.reciclada { background: #e0f2f1; color: #00695C; }
+        .foto-ico { font-size: 4.5rem; color: #9e9e9e; padding: 30px 0; }
+        .por-confirmar { background: #fff4e0; color: var(--amber); border-radius: 6px; padding: 1px 6px; font-size: 0.75rem; font-weight: 700; }
+        .leyenda { display: flex; flex-wrap: wrap; gap: 14px; font-size: 0.8rem; color: var(--muted); margin-top: 8px; }
+
+
+        /* Organizador */
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 20px 0 8px; }
+        .stat { background: var(--soft); border-radius: 12px; padding: 14px 16px; }
+        .stat b { display: block; font-family: 'Playfair Display', serif; font-size: 2rem; line-height: 1.1; }
+        .stat span { font-size: 0.8rem; color: var(--muted); }
+        .og { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 24px; }
+        .col { border: 2px solid var(--ink); border-radius: 16px; overflow: hidden; display: flex; flex-direction: column; }
+        .col header { color: #fff; padding: 16px; }
+        .col header i { font-size: 1.8rem; }
+        .col header h3 { margin: 6px 0 0; font-family: 'Playfair Display', serif; font-size: 1.6rem; }
+        .col header p { margin: 2px 0 0; font-size: 0.8rem; opacity: 0.85; }
+        .col.compra header { background: #1565C0; }
+        .col.uso header { background: #B26A00; }
+        .col.desecho header { background: #2E7D32; }
+        .col ul { list-style: none; margin: 0; padding: 14px 16px; flex: 1; }
+        .col li { display: grid; grid-template-columns: 26px 1fr; gap: 8px; padding: 9px 0; border-bottom: 1px dashed var(--line); font-size: 0.9rem; }
+        .col li:last-child { border-bottom: 0; }
+        .col li i { margin-top: 3px; text-align: center; }
+        .col.compra li i { color: #1565C0; } .col.uso li i { color: #B26A00; } .col.desecho li i { color: #2E7D32; }
+        .col .alerta { background: #fff5f5; border-top: 1px solid var(--line); padding: 12px 16px; font-size: 0.82rem; }
+        .col .alerta b { color: var(--red-dark); }
+        .barra { display: flex; height: 26px; border-radius: 8px; overflow: hidden; margin: 10px 0 6px; font-size: 0.72rem; font-weight: 700; color: #fff; }
+        .barra div { display: flex; align-items: center; justify-content: center; }
+        .destino-graf { padding: 0 16px 14px; }
+        .ley { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 0.72rem; color: var(--muted); }
+        .ley i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; }
+        @media (max-width: 860px) { .og { grid-template-columns: 1fr; } }
+
+        footer { max-width: 980px; margin: 0 auto; padding: 24px 20px 40px; font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--line); }
+
+        @media (max-width: 640px) {
+            .card { grid-template-columns: 1fr; }
+            .card .foto img { height: 130px; }
+            .timeline { padding-left: 26px; }
+            .timeline::before { left: 7px; }
+            .item::before { left: -26px; }
+        }
+    </style>
+</head>
+<body>
+
+<header class="top">
+    <span class="brand">PLN · José Roberto Mendoza</span>
+    <a href="index.html"><i class="fas fa-arrow-left"></i> Volver a mi PLN de Cultura Digital</a>
+</header>
+
+<main>
+    <p class="kicker">COCUDI · Competencia 4.4 Protección del entorno</p>
+    <h1>Mis dispositivos: compra, uso y desecho</h1>
+    <p class="lead">
+        Un recorrido por los aparatos que he tenido, cuánto me duraron y qué pasó con ellos.
+        Me sirve para ver mis hábitos de consumo y su impacto en el medio ambiente.
+    </p>
+
+
+    <h2>Organizador gráfico: compra, uso y desecho</h2>
+    <p class="intro-sec">Mis prácticas actuales, construidas a partir de los 20 dispositivos que he tenido desde 2003.</p>
+
+    <div class="stats">
+        <div class="stat"><b>20</b><span>dispositivos en 23 años</span></div>
+        <div class="stat"><b>6</b><span>iPhone en 8 años, uno cada 1.3 años</span></div>
+        <div class="stat"><b>$120,500</b><span>gastados en Apple (sin contar la MacBook Air M1)</span></div>
+        <div class="stat"><b>13 de 20</b><span>siguieron en uso con otra persona</span></div>
+    </div>
+
+    <div class="og">
+        <section class="col compra">
+            <header><i class="fas fa-cart-shopping"></i><h3>Compra</h3><p>Cómo y por qué adquiero</p></header>
+            <ul>
+                <li><i class="fas fa-house-user"></i><span>Mis primeras computadoras fueron de la familia, compartidas o heredadas: Compaq, Acer, HP y hasta una laptop ganada en una rifa.</span></li>
+                <li><i class="fab fa-apple"></i><span>Desde 2011 compro Apple. Con la MacBook Pro entré al ecosistema de macOS y ya no salí: hoy uso MacBook Air M4, iPhone 14 Pro, Apple Watch y AirPods Pro.</span></li>
+                <li><i class="fas fa-recycle"></i><span>Varias compras fueron de segunda mano: MacBook Pro 2012 ($5,000 + $2,000 de mejoras), iPad mini ($3,500) e iPhone 5c ($5,000).</span></li>
+                <li><i class="fas fa-file-signature"></i><span>Desde 2020 renuevo el celular en mi plan cada dos años: XR, 12 y 14 Pro. El plan me facilita cambiar aunque el equipo anterior siga funcionando.</span></li>
+                <li><i class="fas fa-arrow-trend-up"></i><span>El precio de mis celulares pasó de $5,000 (iPhone 5c) a $27,000 (iPhone 14 Pro).</span></li>
+            </ul>
+            <div class="alerta"><b>Lo que noto:</b> cambio de celular más por la renovación del plan que por necesidad.</div>
+        </section>
+
+        <section class="col uso">
+            <header><i class="fas fa-plug-circle-bolt"></i><h3>Uso</h3><p>Cómo los cuido y cuánta energía consumo</p></header>
+            <ul>
+                <li><i class="fas fa-clock"></i><span>Paso de 4 a 6 horas al día frente a pantallas.</span></li>
+                <li><i class="fas fa-battery-three-quarters"></i><span>Dejo el celular cargando toda la noche, con la carga optimizada activada.</span></li>
+                <li><i class="fas fa-power-off"></i><span>Apago la Mac con frecuencia, pero prefiero tenerla conectada y no uso modos de ahorro porque la vuelven lenta.</span></li>
+                <li><i class="fas fa-screwdriver-wrench"></i><span>Reparo y mejoro: cambié la pantalla del iPod, le puse SSD y RAM a la MacBook Pro, limpio mis equipos y los llevo a mantenimiento cada dos años.</span></li>
+                <li><i class="fas fa-plug"></i><span>Cuido los cables reforzándolos con termofit o comprando cables más resistentes.</span></li>
+                <li><i class="fas fa-hard-drive"></i><span>En la nube solo dejo lo que uso seguido; lo demás va a un disco externo de 5 TB.</span></li>
+                <li><i class="fas fa-robot"></i><span>Con la IA uso metaprompting y skills para hacer menos consultas.</span></li>
+            </ul>
+            <div class="alerta"><b>Lo que noto:</b> cada vez tengo más aparatos que cargar a diario: Mac, iPhone, Apple Watch y AirPods.</div>
+        </section>
+
+        <section class="col desecho">
+            <header><i class="fas fa-recycle"></i><h3>Desecho</h3><p>Qué pasa cuando dejo de usarlos</p></header>
+            <ul>
+                <li><i class="fas fa-hand-holding-heart"></i><span>13 de mis 20 dispositivos siguieron en uso con familiares o amigos: vendidos, donados o regalados. La MacBook Pro 2012 y el iPhone XR siguen funcionando hoy.</span></li>
+                <li><i class="fas fa-recycle"></i><span>Solo una vez llevé un equipo a reciclar: la laptop HP de la rifa, en Office Depot.</span></li>
+                <li><i class="fas fa-box-archive"></i><span>La laptop Compaq se averió y sigue guardada en casa.</span></li>
+                <li><i class="fas fa-circle-xmark"></i><span>De mis tres Nokia no sé dónde terminaron: dos los perdí y uno se descompuso.</span></li>
+                <li><i class="fas fa-plug"></i><span>Los cargadores los conservo, los dono o los reparo.</span></li>
+            </ul>
+            <div class="destino-graf">
+                <div class="barra" title="Destino de mis 20 dispositivos">
+                    <div style="width:65%;background:#2E7D32">13</div>
+                    <div style="width:5%;background:#00695C"></div>
+                    <div style="width:5%;background:#455A64"></div>
+                    <div style="width:15%;background:#9e9e9e">3</div>
+                    <div style="width:10%;background:#1565C0">2</div>
+                </div>
+                <div class="ley">
+                    <span><i style="background:#2E7D32"></i>Otra persona (13)</span>
+                    <span><i style="background:#00695C"></i>Reciclado (1)</span>
+                    <span><i style="background:#455A64"></i>Guardado (1)</span>
+                    <span><i style="background:#9e9e9e"></i>Perdido o descompuesto (3)</span>
+                    <span><i style="background:#1565C0"></i>En uso (2)</span>
+                </div>
+            </div>
+            <div class="alerta"><b>Lo que noto:</b> casi nunca uso el reciclaje formal, y de los equipos perdidos o guardados no sé qué pasó con sus baterías.</div>
+        </section>
+    </div>
+
+    <h2>Línea del tiempo: computadoras</h2>
+    <p class="intro-sec">De la primera computadora de la casa a la que uso hoy.</p>
+
+    <div class="timeline">
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/compaq-presario.jpg" alt="Computadora de escritorio Compaq Presario con monitor CRT"></div>
+                <div>
+                    <div class="years">2003 – 2008 · 5 AÑOS</div>
+                    <h3><i class="fas fa-desktop"></i> Compaq Presario de escritorio</h3>
+                    <p>
+                        Mi primera computadora, y a ella le debo mi pasión por la tecnología. En ella aprendí
+                        a usar el símbolo del sistema, la paquetería de oficina, el sistema de archivos y la
+                        Enciclopedia Encarta. Navegaba en internet con tarjetas Todito Card, porque la conexión
+                        era muy cara, y aprendí a quemar CD, descargar música, compartir archivos y jugar videojuegos.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-terminal"></i>CMD</span>
+                        <span class="chip"><i class="fas fa-file-word"></i>Ofimática</span>
+                        <span class="chip"><i class="fas fa-book-open"></i>Encarta</span>
+                        <span class="chip"><i class="fas fa-compact-disc"></i>Quemar CD</span>
+                        <span class="chip"><i class="fas fa-gamepad"></i>Videojuegos</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-heart"></i> Donada a la familia de mi prima, que estaba por entrar a la universidad</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/compaq-laptop.jpg" alt="Laptop Compaq"></div>
+                <div>
+                    <div class="years">2008 – 2011 · 3 AÑOS</div>
+                    <h3><i class="fas fa-laptop"></i> Laptop Compaq</h3>
+                    <p>
+                        Una laptop muy buena. Le instalé varios sistemas operativos, de Windows Vista a Windows 7, pero con Windows 8 ya se alentaba.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fab fa-windows"></i>Vista → 7 → 8</span>
+                        <span class="chip"><i class="fas fa-gauge-simple"></i>Se volvió lenta con cada versión</span>
+                    </div>
+                    <span class="destino fin"><i class="fas fa-box-archive"></i> Se averió, no la reparamos y sigue guardada en casa</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/hp-all-in-one.jpg" alt="Computadora HP All-in-One"></div>
+                <div>
+                    <div class="years">2012 – 2016 · 4 AÑOS</div>
+                    <h3><i class="fas fa-display"></i> HP All-in-One</h3>
+                    <p>
+                        La tuvimos para mis estudios universitarios. Terminó con Windows 10.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-graduation-cap"></i>Universidad</span>
+                        <span class="chip"><i class="fab fa-windows"></i>Windows 10</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-heart"></i> Donada a mi tía, que la necesitaba para su trabajo</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/acer-switch.jpg" alt="Acer 2 en 1 rosa, tableta con teclado desmontable"></div>
+                <div>
+                    <div class="years">2013 – 2015 · 2 AÑOS</div>
+                    <h3><i class="fas fa-tablet-screen-button"></i> Acer 2 en 1 rosa</h3>
+                    <p>
+                        Mi mamá la compró para los dos. Funcionaba como tableta y como laptop al conectarle el teclado, pero era demasiado lenta para reconocer el teclado y Windows 10 le pesaba mucho.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-people-arrows"></i>Compartida</span>
+                        <span class="chip"><i class="fas fa-hourglass-half"></i>Hardware insuficiente para Windows 10</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-heart"></i> Donada a un tío</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/hp-basica.jpg" alt="Laptop HP básica"></div>
+                <div>
+                    <div class="years">2015 – 2017 · 2 AÑOS</div>
+                    <h3><i class="fas fa-laptop"></i> Laptop HP básica</h3>
+                    <p>
+                        Mi mamá se la ganó en una rifa y me la dio. Era muy básica y súper lenta.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-gift"></i>Ganada en una rifa</span>
+                        <span class="chip"><i class="fas fa-hourglass-half"></i>Muy lenta</span>
+                    </div>
+                    <span class="destino reciclada"><i class="fas fa-recycle"></i> La llevé a reciclar a Office Depot</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/macbook-pro-2012.jpg" alt="MacBook Pro de 2012"></div>
+                <div>
+                    <div class="years">2017 – 2022 · 5 AÑOS (EL EQUIPO ERA DE 2012)</div>
+                    <h3><i class="fab fa-apple"></i> MacBook Pro 2012</h3>
+                    <p>
+                        Para mi gusto, la mejor computadora de Apple. La compré usada en $5,000 y le invertí $2,000 para ponerle disco SSD y más memoria RAM. Quedó increíble. Con ella entré al ecosistema de macOS y ya no salí.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-recycle"></i>Comprada usada</span>
+                        <span class="chip"><i class="fas fa-memory"></i>Mejorada con SSD y RAM</span>
+                        <span class="chip"><i class="fas fa-coins"></i>$5,000 + $2,000</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-dollar"></i> Vendida a un tío en 2022, que todavía la usa en su trabajo</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/macbook-air-m1.jpg" alt="MacBook Air M1 color oro"></div>
+                <div>
+                    <div class="years">2022 – 2024 · 2 AÑOS</div>
+                    <h3><i class="fab fa-apple"></i> MacBook Air M1</h3>
+                    <p>
+                        La compramos mi esposa y yo. Con ella trabajé después de vender la MacBook Pro.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-people-arrows"></i>Compartida con mi esposa</span>
+                        <span class="chip"><i class="fas fa-microchip"></i>Chip M1</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-heart"></i> La sigue usando mi esposa</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/macbook-air-m4.jpg" alt="MacBook Air M4 vista de perfil"></div>
+                <div>
+                    <div class="years">NOVIEMBRE 2025 – HOY</div>
+                    <h3><i class="fab fa-apple"></i> MacBook Air M4</h3>
+                    <p>
+                        Mi computadora actual y la primera que compré nueva, en $19,000.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-microchip"></i>Chip M4</span>
+                        <span class="chip"><i class="fas fa-tag"></i>Nueva · $19,000</span>
+                    </div>
+                    <span class="destino actual"><i class="fas fa-circle-check"></i> En uso</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <h2>Línea del tiempo: celulares y dispositivos móviles</h2>
+    <p class="intro-sec">Del Nokia de la primaria al iPhone que uso hoy.</p>
+
+    <div class="timeline">
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/nokia-3200.jpg" alt="Nokia 3200 con carátulas transparentes"><img src="entorno/nokia-3200-stickers.jpg" alt="Carátula trasera del Nokia 3200 con sticker"></div>
+                <div>
+                    <div class="years">2005 – 2008 · 3 AÑOS</div>
+                    <h3><i class="fas fa-mobile-retro"></i> Nokia 3200</h3>
+                    <p>
+                        Mi celular de la primaria. La gran novedad era que tenía la carátula transparente y le podías cambiar los stickers para personalizarlo.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-palette"></i>Carátula personalizable</span>
+                        <span class="chip"><i class="fas fa-school"></i>Primaria</span>
+                    </div>
+                    <span class="destino fin"><i class="fas fa-triangle-exclamation"></i> Se descompuso y no supe dónde quedó</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/nokia-xpressmusic.jpg" alt="Nokia XpressMusic"></div>
+                <div>
+                    <div class="years">2008 – 2009 · 1 AÑO</div>
+                    <h3><i class="fas fa-music"></i> Nokia XpressMusic</h3>
+                    <p>
+                        Mi celular de la prepa, pensado para escuchar música.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-headphones"></i>Música</span>
+                        <span class="chip"><i class="fas fa-bus"></i>Prepa</span>
+                    </div>
+                    <span class="destino fin"><i class="fas fa-circle-xmark"></i> Lo perdí en un autobús</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/nokia-c3.jpg" alt="Nokia C3 con teclado completo"></div>
+                <div>
+                    <div class="years">2009 – 2012 · 3 AÑOS</div>
+                    <h3><i class="fas fa-mobile-screen-button"></i> Nokia C3</h3>
+                    <p>
+                        Al terminar la prepa lo usaba para compartirle internet a mi iPod touch.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-wifi"></i>Compartía internet</span>
+                        <span class="chip"><i class="fas fa-keyboard"></i>Teclado completo</span>
+                    </div>
+                    <span class="destino fin"><i class="fas fa-circle-xmark"></i> Lo perdí</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/ipod-touch.jpg" alt="iPod touch de cuarta generación"></div>
+                <div>
+                    <div class="years">2011 – 2012 · 1 AÑO</div>
+                    <h3><i class="fab fa-apple"></i> iPod touch 4.ª generación</h3>
+                    <p>
+                        El primer aparato que me compré yo, y uno que anhelaba tener. Fue mi entrada al mundo de Apple. Se me rompió la pantalla y la mandé reparar.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-tag"></i>$5,500</span>
+                        <span class="chip"><i class="fas fa-screwdriver-wrench"></i>Pantalla reparada</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-dollar"></i> Reparado y vendido a una amiga</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/ipod-touch-5g.jpg" alt="iPod touch de quinta generación"></div>
+                <div>
+                    <div class="years">2015 – 2017 · 2 AÑOS</div>
+                    <h3><i class="fab fa-apple"></i> iPod touch 5.ª generación</h3>
+                    <p>
+                        Mi segundo iPod touch.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-tag"></i>$7,500</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-gift"></i> Se lo regalé a mi novia de ese entonces</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/ipad-mini.jpg" alt="iPad mini"></div>
+                <div>
+                    <div class="years">2016 – 2019 · 3 AÑOS</div>
+                    <h3><i class="fas fa-tablet-screen-button"></i> iPad mini</h3>
+                    <p>
+                        Lo compré de segunda mano.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-recycle"></i>De segunda mano</span>
+                        <span class="chip"><i class="fas fa-tag"></i>$3,500</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-gift"></i> Se lo regalé a mi primo de 10 años</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/iphone-5c.jpg" alt="iPhone 5c en varios colores"></div>
+                <div>
+                    <div class="years">2016 – 2017 · 1 AÑO</div>
+                    <h3><i class="fab fa-apple"></i> iPhone 5c</h3>
+                    <p>
+                        Mi primer iPhone, comprado de uso. Después alguien en internet me lo cambió por uno completamente nuevo con menos almacenamiento: perdí espacio, pero gané garantía.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-recycle"></i>Comprado de uso</span>
+                        <span class="chip"><i class="fas fa-tag"></i>$5,000</span>
+                        <span class="chip"><i class="fas fa-right-left"></i>Intercambiado por uno nuevo</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-dollar"></i> Lo vendí</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/iphone-se.jpg" alt="iPhone SE de primera generación"></div>
+                <div>
+                    <div class="years">2017 – 2018 · 1 AÑO</div>
+                    <h3><i class="fab fa-apple"></i> iPhone SE (1.ª generación)</h3>
+                    <p>
+                        El primer celular que pude comprar completamente nuevo.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-tag"></i>Nuevo · $9,000</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-dollar"></i> Vendido a una amiga</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/iphone-8.jpg" alt="iPhone 8"></div>
+                <div>
+                    <div class="years">2018 – 2020 · 2 AÑOS</div>
+                    <h3><i class="fab fa-apple"></i> iPhone 8</h3>
+                    <p>
+                        Me costó $10,000. Se me estrelló la pantalla con un cajón de madera.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-tag"></i>$10,000</span>
+                        <span class="chip"><i class="fas fa-heart-crack"></i>Pantalla estrellada</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-dollar"></i> Vendido con la pantalla rota a un amigo colombiano en $3,000</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/iphone-xr.jpg" alt="iPhone XR rojo"></div>
+                <div>
+                    <div class="years">2020 – 2022 · 2 AÑOS</div>
+                    <h3><i class="fab fa-apple"></i> iPhone XR</h3>
+                    <p>
+                        Liquidé lo que debía del iPhone 8 y lo saqué de mi plan a pagos.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-file-signature"></i>Plan a pagos</span>
+                        <span class="chip"><i class="fas fa-tag"></i>$11,000</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-people-arrows"></i> Vendido a mi tía, ella se lo pasó a mi tío y sigue funcionando</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/iphone-12.jpg" alt="iPhone 12 negro"></div>
+                <div>
+                    <div class="years">2022 – 2024 · 2 AÑOS</div>
+                    <h3><i class="fab fa-apple"></i> iPhone 12</h3>
+                    <p>
+                        Al terminar mi plan lo renové por el iPhone 12.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-file-signature"></i>Renovación de plan</span>
+                        <span class="chip"><i class="fas fa-tag"></i>~$16,000</span>
+                    </div>
+                    <span class="destino reusa"><i class="fas fa-hand-holding-dollar"></i> Vendido a un primo, que después lo perdió</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="card">
+                <div class="foto"><img src="entorno/iphone-14-pro.jpg" alt="iPhone Pro negro"></div>
+                <div>
+                    <div class="years">2024 – HOY</div>
+                    <h3><i class="fab fa-apple"></i> iPhone 14 Pro</h3>
+                    <p>
+                        Lo cambié en mi plan. Es el más caro que he tenido.
+                    </p>
+                    <div class="chips">
+                        <span class="chip"><i class="fas fa-file-signature"></i>Plan</span>
+                        <span class="chip"><i class="fas fa-tag"></i>~$27,000</span>
+                    </div>
+                    <span class="destino actual"><i class="fas fa-circle-check"></i> En uso</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="leyenda">
+        <span><span class="destino reusa" style="padding:2px 8px"><i class="fas fa-hand-holding-heart"></i></span> Siguió en uso con otra persona</span>
+        <span><span class="destino reciclada" style="padding:2px 8px"><i class="fas fa-recycle"></i></span> Llevado a reciclar</span>
+        <span><span class="destino fin" style="padding:2px 8px"><i class="fas fa-box-archive"></i></span> Guardado, perdido o descompuesto</span>
+        <span><span class="destino actual" style="padding:2px 8px"><i class="fas fa-circle-check"></i></span> En uso hoy</span>
+    </div>
+</main>
+
+<footer>
+    José Roberto Mendoza Mendoza · Certificación en Competencias para la Cultura Digital, IBERO Puebla.
+    Las imágenes son de referencia de cada modelo.
+</footer>
+
+</body>
+</html>

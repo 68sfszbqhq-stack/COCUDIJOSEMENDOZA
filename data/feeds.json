@@ -1,33 +1,9 @@
 {
   "meta": {
-    "generated": "2026-10-22T21:15:27.221980+00:00",
+    "generated": "2026-10-23T03:39:15.557545+00:00",
     "total": 189
   },
   "items": [
-    {
-      "id": "56628a3c158e58",
-      "title": "Los grandes líderes no toman más decisiones, sino mejores: tú también puedes hacerlo",
-      "url": "https://spanish.entrepreneur.com/emprendedores/los-grandes-lideres-no-toman-mas-decisiones-sino-mejores-tu-tambien-puedes-hacerlo",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Los grandes líderes no se definen por la cantidad de decisiones que toman, sino por la disciplina de tomar menos, pero de mayor calidad. The post Los grandes líderes no toman más decisiones, sino mejores: tú también pued…",
-      "image": null,
-      "published": "2026-10-22T21:15:25.818459+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a1676a7c7c1efe",
-      "title": "Elon Musk promete acciones de SpaceX para cada menor estadounidense",
-      "url": "https://spanish.entrepreneur.com/noticias/elon-musk-promete-acciones-de-spacex-para-cada-menor-estadounidense",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "El hombre más rico del mundo dijo estar dispuesto a donar una acción de la empresa aeroespacial para cada niño o niña estadounidense. No detalló cómo se las entregará. The post Elon Musk promete acciones de SpaceX para c…",
-      "image": null,
-      "published": "2026-10-22T21:15:25.818003+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "33c6803584d044",
       "title": "La pregunta que hago en todas mis juntas para detectar problemas a tiempo",
@@ -36,7 +12,7 @@
       "category": "startup",
       "summary": "Esta sencilla práctica de liderazgo revela riesgos ocultos, genera responsabilidad y convierte las verdades incómodas en mejores decisiones antes de que los problemas se transformen en crisis. The post La pregunta que ha…",
       "image": null,
-      "published": "2026-10-22T21:15:25.817520+00:00",
+      "published": "2026-10-23T03:39:13.623728+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +24,7 @@
       "category": "startup",
       "summary": "Para muchos, la jubilación es la oportunidad perfecta para iniciar una segunda carrera basada en una pasión de toda la vida. The post Cómo transformar tu pasión en ingresos tras la jubilación appeared first on Entreprene…",
       "image": null,
-      "published": "2026-10-22T21:15:25.817062+00:00",
+      "published": "2026-10-23T03:39:13.623239+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +36,7 @@
       "category": "startup",
       "summary": "La cultura no se forma en los grandes momentos; se moldea con las pequeñas acciones que los líderes repiten a diario. The post Las culturas más sólidas se construyen con constancia. Aquí te explicamos por qué y qué deber…",
       "image": null,
-      "published": "2026-10-22T21:15:25.816554+00:00",
+      "published": "2026-10-23T03:39:13.622781+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +48,7 @@
       "category": "startup",
       "summary": "Las habilidades que te hicieron ascender son las mismas que hoy limitan tu crecimiento. The post Los instintos que te valieron ese ascenso son los que ahora te frenan. Así puedes reemplazarlos appeared first on Entrepren…",
       "image": null,
-      "published": "2026-10-22T21:15:25.815130+00:00",
+      "published": "2026-10-23T03:39:13.622275+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +60,7 @@
       "category": "startup",
       "summary": "Aprende a formar equipos que mantengan la calma bajo presión, se adapten con rapidez y salgan fortalecidos ante el cambio, sin importar lo que el mercado les ponga enfrente. The post Cómo construir un equipo de trabajo r…",
       "image": null,
-      "published": "2026-10-22T21:15:25.814627+00:00",
+      "published": "2026-10-23T03:39:13.621793+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +72,7 @@
       "category": "startup",
       "summary": "La carrera por la IA también puede convertirse en una carrera por modernizar la tecnología que las empresas llevan años acumulando. The post Las empresas están invirtiendo millones en inteligencia artificial, pero hay un…",
       "image": null,
-      "published": "2026-10-22T21:15:25.814140+00:00",
+      "published": "2026-10-23T03:39:13.621223+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +84,7 @@
       "category": "startup",
       "summary": "El futuro del liderazgo no se trata de heroísmo individual, sino de crear ecosistemas donde el potencial colectivo pueda florecer. The post Los líderes más fuertes evitan estos 5 errores de gestión appeared first on Entr…",
       "image": null,
-      "published": "2026-10-22T21:15:25.813596+00:00",
+      "published": "2026-10-23T03:39:13.619797+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +96,271 @@
       "category": "startup",
       "summary": "Los líderes más astutos están analizando en qué casos la IA realmente les aligera el trabajo y en cuáles solo aumenta su carga mental. Así lo hacen. The post La IA está agotando a quienes más la usan: cómo escapar del “b…",
       "image": null,
-      "published": "2026-10-22T21:15:25.813079+00:00",
+      "published": "2026-10-23T03:39:13.619279+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0124fc180b5a44",
+      "title": "Incubadoras universitarias: 11 programas que pueden convertir tu idea en un negocio de verdad",
+      "url": "https://spanish.entrepreneur.com/iniciar-un-negocio/incubadoras-universitarias-11-programas-que-pueden-convertir-tu-idea-en-un-negocio-de-verdad",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Estas once incubadoras y aceleradoras universitarias ofrecen mentoría, capital y networking a los fundadores que están buscando convertir una idea en una empresa con impacto real. The post Incubadoras universitarias: 11 …",
+      "image": null,
+      "published": "2026-10-23T03:39:13.618756+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5221226a77cb59",
+      "title": "Cómo triunfar siendo un líder orientado al rendimiento (y los desafíos que debes tener en cuenta)",
+      "url": "https://spanish.entrepreneur.com/consultoria/como-triunfar-siendo-un-lider-orientado-al-rendimiento-y/483909",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Qué significa ser un líder orientado al rendimiento, cómo aprovechar al máximo esta característica y cómo superar sus posibles desafíos. The post Cómo triunfar siendo un líder orientado al rendimiento (y los desafíos que…",
+      "image": null,
+      "published": "2026-10-23T03:39:13.618189+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "582751850fda81",
+      "title": "SPEI 2.0: así cambiará el sistema de transferencias electrónicas en México",
+      "url": "https://www.altonivel.com.mx/spei-2-0-asi-cambiara-el-sistema-de-transferencias-electronicas-en-mexico/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "SPEI 2.0 busca agilizar el procesamiento de transferencias mediante operaciones en paralelo. Oscar Salcedo Yúdico, directivo de ASP, explica los cambios. The post SPEI 2.0: así cambiará el sistema de transferencias elect…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/08/SPEI.webp",
+      "published": "2026-10-23T02:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "40689e8214727d",
+      "title": "Boeing y la deuda de confiabilidad: cómo una omisión puede destruir la confianza en tu empresa",
+      "url": "https://www.altonivel.com.mx/boeing-y-la-deuda-de-confiabilidad-como-una-omision-puede-destruir-la-confianza-en-tu-empresa/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El caso de Boeing muestra cómo una falla operativa puede comprometer años de reputación. La confiabilidad empresarial depende de procesos, liderazgo y compromisos que se cumplen incluso cuando nadie supervisa. The post B…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/06/Boeing.webp",
+      "published": "2026-10-23T02:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "86a55969861f43",
+      "title": "Sam’s Club y Herdez regalarán una Jeep Renegade 2026 y otros 80 premios a los socios que compren estos productos y superen un reto",
+      "url": "https://www.merca20.com/sams-club-y-herdez-regalaran-una-jeep-renegade-2026-y-otros-80-premios-a-los-socios-que-compren-estos-productos-y-superen-un-reto/?utm_source=rss&utm_medium=rss&utm_campaign=sams-club-y-herdez-regalaran-una-jeep-renegade-2026-y-otros-80-premios-a-los-socios-que-compren-estos-productos-y-superen-un-reto",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Sam’s Club y Herdez regalarán una Jeep Renegade 2026 mediante un concurso; conoce qué productos comprar, cómo participar y cuándo termina la promoción.",
+      "image": "https://files.merca20.com/uploads/2026/10/Sams-Club-y-Herdez-regalaran-una-Jeep-Renegade-2026-y-otros-80-premios-a-los-socios-que-compren-estos-productos-y-superen-un-reto-.jpg",
+      "published": "2026-10-23T00:13:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "59928099127add",
+      "title": "“Dragon Ball GT: 100 años después” llega en HD con su primer máster Blu-ray",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/23/dragon-ball-gt-100-anos-despues-llega-en-hd-con-su-primer-master-blu-ray/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "El especial de televisión Dragon Ball GT: 100 años después debuta en calidad Blu-ray HD. Revisa los detalles del remaster del clásico de Goku Jr.",
+      "image": "https://www.fayerwayer.com/resizer/v2/KO7KDKYBR5EH3EG25N6ORIK4EQ.png?auth=8f18837556d25f6464c4e057bcdf945f0dd71e3e90c50a7780a5e4090e23276a&smart=true&width=2544&height=1434",
+      "published": "2026-10-23T00:04:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "54bc765f386316",
+      "title": "Hace 16 años comenzó una aventura con un carrito, café, pan y muchísimas ganas de salir adelante, ahora Nestlé y Carnation son sus patrocinadores",
+      "url": "https://www.merca20.com/hace-16-anos-comenzo-una-aventura-con-un-carrito-cafe-pan-y-muchisimas-ganas-de-salir-adelante-ahora-nestle-y-carnation-son-sus-patrocinadores/?utm_source=rss&utm_medium=rss&utm_campaign=hace-16-anos-comenzo-una-aventura-con-un-carrito-cafe-pan-y-muchisimas-ganas-de-salir-adelante-ahora-nestle-y-carnation-son-sus-patrocinadores",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Su historia comenzó con un carrito, café y pan. Hoy, Desayunos el Carrito forma parte de una campaña de Carnation que se exhibe en diferentes espacios de la Ciudad de México",
+      "image": "https://files.merca20.com/uploads/2026/10/desayunos-el-carrito-cortesia.jpg",
+      "published": "2026-10-22T23:31:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7d2e44dc1bdae3",
+      "title": "Mujeres con Bienestar registro 2026 de 18 a 64 años, conoce qué cambió en los requisitos y quiénes pueden solicitar el apoyo",
+      "url": "https://www.merca20.com/mujeres-con-bienestar-registro-2026-de-18-a-64-anos-conoce-que-cambio-en-los-requisitos-y-quienes-pueden-solicitar-el-apoyo/?utm_source=rss&utm_medium=rss&utm_campaign=mujeres-con-bienestar-registro-2026-de-18-a-64-anos-conoce-que-cambio-en-los-requisitos-y-quienes-pueden-solicitar-el-apoyo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Mujeres con Bienestar 2026 cambió sus requisitos de edad. Conoce quiénes pueden solicitar los 2,500 pesos y qué apoyo existe para mujeres de 60 a 64 años.",
+      "image": "https://files.merca20.com/uploads/2026/10/Mujeres-con-Bienestar-registro-2026-de-18-a-64-anos-conoce-que-cambio-en-los-requisitos-y-quienes-pueden-solicitar-el-apoyo-.jpg",
+      "published": "2026-10-22T23:25:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "30de7e4cec2a1a",
+      "title": "Spotify refuerza la verificación de su plan Familiar con códigos QR",
+      "url": "https://www.merca20.com/spotify-refuerza-la-verificacion-de-su-plan-familiar-con-codigos-qr/?utm_source=rss&utm_medium=rss&utm_campaign=spotify-refuerza-la-verificacion-de-su-plan-familiar-con-codigos-qr",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Spotify contempla una verificación con códigos QR dinámicos para comprobar que los integrantes de Premium Familiar viven en el mismo domicilio que el administrador.",
+      "image": "https://files.merca20.com/uploads/2026/05/bigstock-Krakow-Poland-October-390935276-3-scaled.jpg",
+      "published": "2026-10-22T23:15:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7f320fde145726",
+      "title": "Cuando los algoritmos se vuelven parte del romance con la marca",
+      "url": "https://www.merca20.com/cuando-los-algoritmos-se-vuelven-parte-del-romance-con-la-marca/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-los-algoritmos-se-vuelven-parte-del-romance-con-la-marca",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Más allá de la tecnología, el marketing algorítmico redefine la narrativa de las marcas.",
+      "image": "https://files.merca20.com/uploads/2025/08/bigstock-Artificial-Intelligence-Ai-Ana-470466579-1.jpg",
+      "published": "2026-10-22T23:15:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b4830377213c7c",
+      "title": "Red Robin Is Offering Free Burgers and Bottomless Steak Fries: When and How to Get the Deal",
+      "url": "https://www.merca20.com/red-robin-is-offering-free-burgers-and-bottomless-steak-fries-when-and-how-to-get-the-deal/?utm_source=rss&utm_medium=rss&utm_campaign=red-robin-is-offering-free-burgers-and-bottomless-steak-fries-when-and-how-to-get-the-deal",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Red Robin’s offer is part of its Veterans Day celebration, so only military members can take advantage of this one-day promotion",
+      "image": "https://files.merca20.com/uploads/2026/10/Red-Robin-Free-Burgers.jpg",
+      "published": "2026-10-22T23:10:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0735a43688328c",
+      "title": "Pokémon GO celebra Día de Muertos con actividades especiales en México",
+      "url": "https://www.merca20.com/pokemon-go-celebra-dia-de-muertos-con-actividades-especiales-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-go-celebra-dia-de-muertos-con-actividades-especiales-en-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Pokémon GO celebrará el Día de Muertos con nuevos Pokémon, bonificaciones y una caza de sellos en Paseo de la Reforma.",
+      "image": "https://files.merca20.com/uploads/2026/10/Pokemon-Go-dia-de-muertos.jpg",
+      "published": "2026-10-22T22:52:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0abe71f4b6f2f5",
+      "title": "Mientras la CNA investiga posibles monopolios, los vales de despensa y pagos electrónicos enfrentan hasta 120 días bajo la lupa",
+      "url": "https://www.merca20.com/mientras-la-cna-investiga-posibles-monopolios-los-vales-de-despensa-y-pagos-electronicos-enfrentan-hasta-120-dias-bajo-la-lupa/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-la-cna-investiga-posibles-monopolios-los-vales-de-despensa-y-pagos-electronicos-enfrentan-hasta-120-dias-bajo-la-lupa",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El aviso se publicó en el Diario Oficial de la Federación (DOF) este 22 de octubre, bajo el expediente DE-014-2026.",
+      "image": "https://files.merca20.com/uploads/2026/10/cna-vales-de-despensa.jpg",
+      "published": "2026-10-22T22:43:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9b83e0641a7d77",
+      "title": "Mientras unos trabajadores pueden mejorar su pensión con la Modalidad 40 del IMSS, otros no: diferencias entre Ley 73 y 97",
+      "url": "https://www.merca20.com/mientras-unos-trabajadores-pueden-mejorar-su-pension-con-la-modalidad-40-del-imss-otros-no-diferencias-entre-ley-73-y-97/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-unos-trabajadores-pueden-mejorar-su-pension-con-la-modalidad-40-del-imss-otros-no-diferencias-entre-ley-73-y-97",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Modalidad 40 del IMSS no beneficia igual a todos. Conoce las diferencias entre Ley 73 y Ley 97 y cómo pueden influir en tu futura pensión.",
+      "image": "https://files.merca20.com/uploads/2026/10/Mientras-unos-trabajadores-pueden-mejorar-su-pension-con-la-Modalidad-40-del-IMSS-otros-no-diferencias-entre-Ley-73-y-97-ok.jpg",
+      "published": "2026-10-22T22:39:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "369a03de69d3b0",
+      "title": "Polarización, medios e inteligencia artificial, los desafíos del II Encuentro Latinoamericano de Comunicación para Negocios",
+      "url": "https://www.merca20.com/polarizacion-medios-e-inteligencia-artificial-los-desafios-del-ii-encuentro-latinoamericano-de-comunicacion-para-negocios/?utm_source=rss&utm_medium=rss&utm_campaign=polarizacion-medios-e-inteligencia-artificial-los-desafios-del-ii-encuentro-latinoamericano-de-comunicacion-para-negocios",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "En el II Encuentro Latinoamericano de Comunicación para Negocios, organizado por Zimat, fundadores de Squad de Argentina, Brasil, Colombia, México y Perú analizaron cómo los cambios políticos, la transformación de los me…",
+      "image": "https://files.merca20.com/uploads/2026/10/Evento-zimat.jpeg",
+      "published": "2026-10-22T22:22:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a737e38b8b4c95",
+      "title": "Airbnb cambia sus reglas para huéspedes y limita las tareas de limpieza al salir del alojamiento",
+      "url": "https://www.merca20.com/airbnb-cambia-sus-reglas-para-huespedes-y-limita-las-tareas-de-limpieza-al-salir-del-alojamiento/?utm_source=rss&utm_medium=rss&utm_campaign=airbnb-cambia-sus-reglas-para-huespedes-y-limita-las-tareas-de-limpieza-al-salir-del-alojamiento",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Airbnb limitará las tareas de limpieza exigidas al finalizar una estancia y reforzará las reglas para anfitriones en las reservas realizadas desde el 20 de noviembre de 2026.",
+      "image": "https://files.merca20.com/uploads/2026/01/airbnb_tendencias_viajes_turismo.jpg",
+      "published": "2026-10-22T22:08:39+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c09333ac72826f",
+      "title": "Domino’s Pizza lanza la pizza Domino en México junto a Minecraft Dungeons II para conquistar a los gamers",
+      "url": "https://www.merca20.com/dominos-pizza-lanza-la-pizza-domino-en-mexico-junto-a-minecraft-dungeons-ii-para-conquistar-a-los-gamers/?utm_source=rss&utm_medium=rss&utm_campaign=dominos-pizza-lanza-la-pizza-domino-en-mexico-junto-a-minecraft-dungeons-ii-para-conquistar-a-los-gamers",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Domino’s Pizza lanzará en México su pizza individual Domino, como parte de una colaboración con Minecraft Dungeons II",
+      "image": "https://files.merca20.com/uploads/2026/10/dominos-pizza-mincreft.jpg",
+      "published": "2026-10-22T21:48:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "28c846c157392c",
+      "title": "Manuel Otto, Influencer and Stick Run Creator, Dies at 30 During Livestream: Cause of Death and Net Worth",
+      "url": "https://www.merca20.com/manuel-otto-influencer-and-stick-run-creator-dies-at-30-during-livestream-cause-of-death-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=manuel-otto-influencer-and-stick-run-creator-dies-at-30-during-livestream-cause-of-death-and-net-worth",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "The death of German developer and content creator Manuel Otto was confirmed by the Stick Run team in a statement",
+      "image": "https://files.merca20.com/uploads/2026/10/Manuel-Otto-Gemini-AI.jpg",
+      "published": "2026-10-22T21:44:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "de7b7ec2ea9696",
+      "title": "¿Y si el futuro de la publicidad ya no fueran los anuncios, sino las conversaciones?",
+      "url": "https://www.merca20.com/y-si-el-futuro-de-la-publicidad-ya-no-fueran-los-anuncios-sino-las-conversaciones/?utm_source=rss&utm_medium=rss&utm_campaign=y-si-el-futuro-de-la-publicidad-ya-no-fueran-los-anuncios-sino-las-conversaciones",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La publicidad comienza así a competir por un espacio más cercano a la decisión de compra, donde la utilidad de una respuesta puede tener tanto peso como la visibilidad de una marca.",
+      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Speaking-Together-90302363-1.jpg",
+      "published": "2026-10-22T21:39:28+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7abedb9a8d9c63",
+      "title": "Mientras 77% quiere comprar en El Buen Fin 2026, el 43% solo gastará si encuentra una oferta que realmente valga la pena",
+      "url": "https://www.merca20.com/mientras-77-quiere-comprar-en-el-buen-fin-2026-el-43-solo-gastara-si-encuentra-una-oferta-que-realmente-valga-la-pena/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-77-quiere-comprar-en-el-buen-fin-2026-el-43-solo-gastara-si-encuentra-una-oferta-que-realmente-valga-la-pena",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El 77% de consumidores potenciales quiere comprar en El Buen Fin 2026, pero el 43% esperará una oferta conveniente, revela AMVO.",
+      "image": "https://files.merca20.com/uploads/2026/10/Mientras-77-quiere-comprar-en-El-Buen-Fin-2026-el-43-solo-gastara-si-encuentra-una-oferta-que-realmente-valga-la-pena-.jpg",
+      "published": "2026-10-22T21:24:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8a8d553d2ef010",
+      "title": "Apagar el móvil cinco minutos al día: el consejo de sistemas de Moncloa que Sánchez contó en ‘La Revuelta’ para protegerse de virus",
+      "url": "https://www.xataka.com/seguridad/apagar-movil-cinco-minutos-al-dia-consejo-que-recibio-pedro-sanchez-moncloa-para-protegerlo-amenazas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hay pocas cosas aparentemente más sencillas que apagar un móvil. Otra muy distinta es pensar que mantenerlo apagado durante cinco minutos puede ayudar a protegerlo de los virus, especialmente en un momento en el que nues…",
+      "image": "https://i.blogs.es/7165c7/pedro-sanchez-en-la-revuelta/1024_2000.png",
+      "published": "2026-10-22T21:23:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e4c9de9e39e878",
+      "title": "IMSS pone límites a la Modalidad 40: ¿qué pasará con tu plan de pensión?",
+      "url": "https://www.altonivel.com.mx/imss-pone-limites-a-la-modalidad-40-que-pasara-con-tu-plan-de-pension/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "El Consejo Técnico del IMSS aprobó medidas temporales que limitan el salario para nuevas incorporaciones a la Modalidad 40, eliminan las altas retroactivas y obligan a realizar el trámite por medios digitales. The post I…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/modalidad-40-imss.webp",
+      "published": "2026-10-22T21:18:47+00:00",
       "score": null,
       "tags": []
     },
@@ -137,18 +377,6 @@
       "tags": []
     },
     {
-      "id": "71055523d58b6f",
-      "title": "Amazon acelera entregas desde EU a México con una nueva ruta por el AIFA",
-      "url": "https://www.merca20.com/amazon-acelera-entregas-desde-eu-a-mexico-con-una-nueva-ruta-por-el-aifa/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-acelera-entregas-desde-eu-a-mexico-con-una-nueva-ruta-por-el-aifa",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La compañía utiliza inventario cercano a la frontera y su operación en el AIFA para entregar compras de Estados Unidos al día siguiente en algunas ciudades.",
-      "image": "https://files.merca20.com/uploads/2025/04/AMAZON-WHITE-HOUSE-PAQUETE-2025.jpg",
-      "published": "2026-10-22T20:53:17+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "c8fe5cd3ee0777",
       "title": "Tom Skerritt, estrella de ‘Alien’ y ‘Top Gun’, ha muerto a los 93 años",
       "url": "https://hipertextual.com/cine-television/tom-skerritt-alien-top-gun-ha-muerto-93-anos/",
@@ -157,66 +385,6 @@
       "summary": "Tom Skerritt, uno de los actores más prolíficos y reconocibles de Hollywood, dueño de una carrera que se extendió por más de 60 años, ha fallecido a los 93 años. El actor es especialmente recordado por sus roles en pelíc…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Tom-Skerritt.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-10-22T20:51:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "61766decaac9a7",
-      "title": "MiQ conecta los puntos del fragmentado ecosistema de video en México",
-      "url": "https://www.merca20.com/miq-conecta-los-puntos-del-fragmentado-ecosistema-de-video-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=miq-conecta-los-puntos-del-fragmentado-ecosistema-de-video-en-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La solución del socio global de servicios y tecnología programática integra señales de TV lineal, streaming, YouTube y redes sociales para ofrecer una visión más amplia de las audiencias y la actividad de la competencia.",
-      "image": "https://files.merca20.com/uploads/2026/10/Santiago-Mendez-Castaneda-Advanced-TV-Lead-de-MiQ-e1792701602188.jpeg",
-      "published": "2026-10-22T20:40:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "214a400d4f63fd",
-      "title": "Westies presenta su colección Fall Winter 2026 en Volvo Fashion Week México",
-      "url": "https://www.merca20.com/westies-presenta-su-coleccion-fall-winter-2026-en-volvo-fashion-week-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=westies-presenta-su-coleccion-fall-winter-2026-en-volvo-fashion-week-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Con más de 30 años de trayectoria, Westies presentó su colección Fall Winter 2026 en Volvo Fashion Week México, destacando una propuesta de calzado y accesorios que combina tendencias contemporáneas, diseño y versatilida…",
-      "image": "https://files.merca20.com/uploads/2026/10/WESTIES-FW-1ERA-ENTREGA-7396-scaled-e1792701219830.jpg",
-      "published": "2026-10-22T20:36:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9cf850adc93784",
-      "title": "Lexus ES Hybrid 2027: cómo combina 244 caballos, tracción integral y hasta 19.6 km/l; conoce sus versiones y precios oficiales",
-      "url": "https://www.merca20.com/lexus-es-hybrid-2027-como-combina-244-caballos-traccion-integral-y-hasta-19-6-km-l-conoce-sus-versiones-y-precios-oficiales/?utm_source=rss&utm_medium=rss&utm_campaign=lexus-es-hybrid-2027-como-combina-244-caballos-traccion-integral-y-hasta-19-6-km-l-conoce-sus-versiones-y-precios-oficiales",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Conoce el Lexus ES Hybrid 2027, sus 244 caballos de fuerza, rendimiento de hasta 19.6 km/l, tecnología, versiones y precios oficiales.",
-      "image": "https://files.merca20.com/uploads/2026/10/Lexus-ES-Hybrid-2027-como-combina-244-caballos-traccion-integral-y-hasta-19.6-kml-conoce-sus-versiones-y-precios-oficiales-.jpg",
-      "published": "2026-10-22T20:35:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f8fdcd87ddf184",
-      "title": "Poppy Playtime Chapter 6 llegará en 2027 y revela su primer teaser",
-      "url": "https://www.merca20.com/poppy-playtime-chapter-6-llegara-en-2027-y-revela-su-primer-teaser/?utm_source=rss&utm_medium=rss&utm_campaign=poppy-playtime-chapter-6-llegara-en-2027-y-revela-su-primer-teaser",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Mob Entertainment escondió el primer adelanto del sexto capítulo dentro de Escape From Playtime, donde aparecen pistas sobre el Prototipo y el futuro de la saga.",
-      "image": "https://files.merca20.com/uploads/2026/10/Poppy-Playtime-Chapter-6.jpg",
-      "published": "2026-10-22T20:32:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fc22f7ee15d4d8",
-      "title": "Creadores usan IA para hacer anuncios que las marcas no encargaron y conquistan internet",
-      "url": "https://www.merca20.com/creadores-usan-ia-para-hacer-anuncios-que-las-marcas-no-encargaron-y-conquistan-internet/?utm_source=rss&utm_medium=rss&utm_campaign=creadores-usan-ia-para-hacer-anuncios-que-las-marcas-no-encargaron-y-conquistan-internet",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El cambio amplía el número de participantes en el mercado creativo, ya que un profesional independiente puede convertir una idea en una pieza audiovisual y ponerla a prueba ante una audiencia sin pasar por los procesos d…",
-      "image": "https://files.merca20.com/uploads/2026/09/bigstock-169291325.jpg",
-      "published": "2026-10-22T20:19:32+00:00",
       "score": null,
       "tags": []
     },
@@ -233,25 +401,13 @@
       "tags": []
     },
     {
-      "id": "308e99ed03b534",
-      "title": "Tom Skerritt dies at 93: cause of death and net worth of the Top Gun actor",
-      "url": "https://www.merca20.com/tom-skerritt-dies-at-93-cause-of-death-and-net-worth-of-the-top-gun-actor/?utm_source=rss&utm_medium=rss&utm_campaign=tom-skerritt-dies-at-93-cause-of-death-and-net-worth-of-the-top-gun-actor",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Tom Skerritt died of natural causes at the age of 93, his family confirmed. No specific medical condition was identified as contributing to his death",
-      "image": "https://files.merca20.com/uploads/2026/10/Tom-Skerritt-IMAGEN-GENERADA-CON-GEMINI-1.jpg",
-      "published": "2026-10-22T20:13:59+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4a9eef1a1264d8",
       "title": "Estados Unidos organizará el primer Mundial de Clubes Femenino en 2028",
       "url": "https://www.altonivel.com.mx/estados-unidos-organizara-el-primer-mundial-de-clubes-femenino-en-2028/",
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "La primera edición del torneo se disputará del 5 al 30 de enero de 2028, con 16 clubes de las seis confederaciones. El América Femenil figura entre los equipos clasificados. The post Estados Unidos organizará el primer M…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/mundial-de-clubes.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/mundial-clubes-femenino.webp",
       "published": "2026-10-22T19:55:42+00:00",
       "score": null,
       "tags": []
@@ -265,18 +421,6 @@
       "summary": "Las acciones de Moderna caen cerca de 25% después de que presuntos resultados de su vacuna contra el melanoma circularan antes de su presentación oficial. The post Moderna se desploma 20% en bolsa tras filtración de dato…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/farmaceutica-moderna.webp",
       "published": "2026-10-22T19:44:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0e27bf4d590088",
-      "title": "Nissan Kait 2027 llega a México con descuento de hasta 39,910 pesos: precios, versiones y hasta cuándo estará esta promoción",
-      "url": "https://www.merca20.com/nissan-kait-2027-llega-a-mexico-con-descuento-de-hasta-39910-pesos-precios-versiones-y-hasta-cuando-estara-esta-promocion/?utm_source=rss&utm_medium=rss&utm_campaign=nissan-kait-2027-llega-a-mexico-con-descuento-de-hasta-39910-pesos-precios-versiones-y-hasta-cuando-estara-esta-promocion",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Nissan Kait 2027 llega a México con descuentos de hasta $39,910; conoce los precios de sus tres versiones, equipamiento y vigencia promoción.",
-      "image": "https://files.merca20.com/uploads/2026/10/Nissan-Kait-2027-llega-a-Mexico-con-descuento-de-hasta-39910-pesos-precios-versiones-y-hasta-cuando-estara-esta-promocion-.jpg",
-      "published": "2026-10-22T19:42:44+00:00",
       "score": null,
       "tags": []
     },
@@ -305,42 +449,6 @@
       "tags": []
     },
     {
-      "id": "bb9d378c205708",
-      "title": "América Móvil lleva años buscando entrar a la televisión de paga y la compra de AT&T por Televisa podría abrirle la puerta",
-      "url": "https://www.merca20.com/america-movil-lleva-anos-buscando-entrar-a-la-television-de-paga-y-la-compra-de-att-por-televisa-podria-abrirle-la-puerta/?utm_source=rss&utm_medium=rss&utm_campaign=america-movil-lleva-anos-buscando-entrar-a-la-television-de-paga-y-la-compra-de-att-por-televisa-podria-abrirle-la-puerta",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "América Móvil ha buscado ampliar su oferta con Claro TV, pero su condición de agente económico preponderante en telecomunicaciones le impone restricciones para participar en el mercado de televisión de paga.",
-      "image": "https://files.merca20.com/uploads/2017/08/bigstock-141148637.jpg",
-      "published": "2026-10-22T19:21:16+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "42e36db3d8243d",
-      "title": "Hace 18 años, dos hermanas crearon una marca de joyería para financiar sus estudios; ahora una reina compra sus accesorios inspirados en el Día de Muertos",
-      "url": "https://www.merca20.com/hace-18-anos-dos-hermanas-crearon-una-marca-de-joyeria-para-financiar-sus-estudios-ahora-una-reina-compra-sus-accesorios-inspirados-en-el-dia-de-muertos/?utm_source=rss&utm_medium=rss&utm_campaign=hace-18-anos-dos-hermanas-crearon-una-marca-de-joyeria-para-financiar-sus-estudios-ahora-una-reina-compra-sus-accesorios-inspirados-en-el-dia-de-muertos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El camino para las marcas de diseñadores mexicanos no es sencillo. A diferencia de las grandes empresas, los pequeños emprendimientos deben distribuir recursos limitados entre producción, comercialización, marketing, pub…",
-      "image": "https://files.merca20.com/uploads/2026/10/ethnika-cortesia.jpg",
-      "published": "2026-10-22T19:21:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e8c6f05861acc7",
-      "title": "Spin-off de Bridgerton: ¿de qué trata? Netflix reveló detalles",
-      "url": "https://www.merca20.com/spin-off-de-bridgerton-de-que-trata-netflix-revelo-detalles/?utm_source=rss&utm_medium=rss&utm_campaign=spin-off-de-bridgerton-de-que-trata-netflix-revelo-detalles",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La temporada 5 de Bridgerton aún no se estrena y Netflix ya anunció la próxima llegada de un spin-off de la exitosa serie",
-      "image": "https://files.merca20.com/uploads/2026/02/Bridgerton-temporada-4-Netflix.jpg",
-      "published": "2026-10-22T19:20:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "892a74217b90fe",
       "title": "Ataxia de Friedreich: Cómo diagnosticar a tiempo la pérdida de coordinación",
       "url": "https://www.fayerwayer.com/ciencia/2026/10/22/ataxia-de-friedreich-como-diagnosticar-a-tiempo-la-perdida-de-coordinacion/",
@@ -365,30 +473,6 @@
       "tags": []
     },
     {
-      "id": "1eb95c7564cc15",
-      "title": "Playmobil remata set de Día de Muertos con 35% de descuento: incluye altar, catrinas, flores de cempasuchil, papel picado y 78 piezas para armar",
-      "url": "https://www.merca20.com/playmobil-remata-set-de-dia-de-muertos-con-35-de-descuento-incluye-altar-catrinas-flores-de-cempasuchil-papel-picado-y-78-piezas-para-armar/?utm_source=rss&utm_medium=rss&utm_campaign=playmobil-remata-set-de-dia-de-muertos-con-35-de-descuento-incluye-altar-catrinas-flores-de-cempasuchil-papel-picado-y-78-piezas-para-armar",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Mercado Libre tiene en oferta el altar de Día de Muertos de Playmobil, un set de construcción inspirado en el altar de muertos",
-      "image": "https://files.merca20.com/uploads/2026/10/IMAGEN-GENERADA-CON-GEMINI-4.jpg",
-      "published": "2026-10-22T18:57:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "50896197bfb3b5",
-      "title": "Luna del Cazador 2026 en México, ¿cuándo y a qué hora verla desde su mejor perspectiva en octubre?",
-      "url": "https://www.merca20.com/luna-del-cazador-2026-en-mexico-cuando-y-a-que-hora-verla-desde-su-mejor-perspectiva-en-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=luna-del-cazador-2026-en-mexico-cuando-y-a-que-hora-verla-desde-su-mejor-perspectiva-en-octubre",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La Luna del Cazador alcanzará su fase llena el 25 de octubre de 2026. Conoce el horario para observarla en México y por qué puede adquirir tonos anaranjados.",
-      "image": "https://files.merca20.com/uploads/2026/10/luna-del-cazador.jpg",
-      "published": "2026-10-22T18:46:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "29689006dc289e",
       "title": "Los astrónomo han hecho la mejor radiografía hasta el momento de los 5 primeros minutos del Universo",
       "url": "https://www.xataka.com/espacio/astronomo-han-hecho-mejor-radiografia-momento-5-primeros-minutos-universo",
@@ -401,18 +485,6 @@
       "tags": []
     },
     {
-      "id": "caac1acf2524e6",
-      "title": "Burger King lanza la Kitty Dorada de Hello Kitty y así puedes conseguirla",
-      "url": "https://www.merca20.com/burger-king-lanza-la-kitty-dorada-de-hello-kitty-y-asi-puedes-conseguirla/?utm_source=rss&utm_medium=rss&utm_campaign=burger-king-lanza-la-kitty-dorada-de-hello-kitty-y-asi-puedes-conseguirla",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Burger King lanzó una colección de juguetes de Hello Kitty y sus amigos en los menús King Jr",
-      "image": "https://files.merca20.com/uploads/2026/10/burger-king-hello-litty.jpg",
-      "published": "2026-10-22T18:46:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9a9786c0d6a5d6",
       "title": "Review | Kingston Dual Portable SSD: El mejor SSD dual en formato pendrive",
       "url": "https://www.fayerwayer.com/internet/2026/10/22/review-kingston-dual-portable-ssd-el-mejor-ssd-dual-en-formato-pendrive/",
@@ -421,18 +493,6 @@
       "summary": "La herramienta que necesitas sumar a tu setup: un dispositivo ultra compacto con conectores USB-A y USB-C que alcanza velocidades de 1.050 MB/s.",
       "image": "https://www.fayerwayer.com/resizer/v2/YEJDWHE4IBGUNM6NYRLNG3MAJA.jpeg?auth=3024922baf2a220b80fb5501abdf989e40771c214d851daeeeaedc08ae8bec91&smart=true&width=1600&height=1117",
       "published": "2026-10-22T18:45:42+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ae695457b74b33",
-      "title": "Este 23 de octubre sale a la venta el iPhone Duo en México, mientras HONOR sortea un plegable y Barilla anuncia ganadores F1",
-      "url": "https://www.merca20.com/este-23-de-octubre-sale-a-la-venta-el-iphone-duo-en-mexico-mientras-honor-sortea-un-plegable-y-barilla-anuncia-ganadores-f1/?utm_source=rss&utm_medium=rss&utm_campaign=este-23-de-octubre-sale-a-la-venta-el-iphone-duo-en-mexico-mientras-honor-sortea-un-plegable-y-barilla-anuncia-ganadores-f1",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Este 23 de octubre sale a la venta el iPhone Duo en México, HONOR sortea un Magic V6 y Barilla anuncia ganadores de boletos para la Fórmula 1 2026.",
-      "image": "https://files.merca20.com/uploads/2026/10/Este-23-de-octubre-sale-a-la-venta-el-iPhone-Duo-en-Mexico-mientras-HONOR-sortea-un-plegable-y-Barilla-anuncia-ganadores-F1-.jpg",
-      "published": "2026-10-22T18:37:08+00:00",
       "score": null,
       "tags": []
     },
@@ -653,6 +713,18 @@
       "tags": []
     },
     {
+      "id": "1ff2d823364d2c",
+      "title": "Meta se desploma 6.7% en apertura de Wall Street; el peso cotiza en 18.70 por dólar",
+      "url": "https://expansion.mx/mercados/2026/10/22/acciones-meta-desploma-6-7-peso-cotiza-18-70-por-dolar",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El IPC de la BMV retrocede junto con Wall Street, mientras el dólar ronda los 18.70 pesos y la inflación en México supera las expectativas del mercado.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7d6e97a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2Fba%2Fbcf8c93f48938bf25807cf935994%2Fmeta-nvidia-amazon-caida-wall-street-bolsa-mexicana-22-octubre-2026.jpg",
+      "published": "2026-10-22T16:12:55+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "6c2fca03cb918b",
       "title": "A SpaceX no le gusta que China le pise los talones, así que va a hacer lo que nadie ha hecho: recuperar y reutilizar las dos etapas de un cohete",
       "url": "https://www.xataka.com/espacio/a-spacex-no-le-gusta-que-china-le-pise-talones-asi-que-va-a-hacer-que-nadie-ha-hecho-recuperar-reutilizar-dos-etapas-cohete",
@@ -661,18 +733,6 @@
       "summary": "Parece que a Elon Musk no le gusta sentir que alguien le pisa los talones. Hace tiempo que la compañía china Deep Blue Aerospace publicó su interés en recuperar un cohete mediante un sistema de torre con palillos, como M…",
       "image": "https://i.blogs.es/7550e0/recuperacion-starship/1024_2000.jpeg",
       "published": "2026-10-22T16:00:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "37f971965cb727",
-      "title": "Madrid encara el reto más complicado de la A-5 con el corte total del tráfico para alcanzar \"el punto de no retorno\"",
-      "url": "https://www.xataka.com/movilidad/madrid-encara-reto-complicado-a-5-corte-total-trafico-para-alcanzar-punto-no-retorno",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "No pasará ningún coche por la A-5. Es el planteamiento que se ha puesto encima de la mesa ante uno de los momentos más importantes en las obras que se están llevando a cabo para enterrar la carretera en su entrada a Madr…",
-      "image": "https://i.blogs.es/4b760e/img_1757/1024_2000.jpeg",
-      "published": "2026-10-22T16:00:08+00:00",
       "score": null,
       "tags": []
     },
@@ -713,6 +773,18 @@
       "tags": []
     },
     {
+      "id": "a817808a2e47da",
+      "title": "¿Qué buscan los consumidores para el Buen Fin 2026?",
+      "url": "https://expansion.mx/bespoke-ad/2026/10/22/que-buscan-los-consumidores-para-el-buen-fin-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El 77% de los compradores potenciales podrían participar en este evento comercial, según información de la AMVO.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5a1fb78/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F69%2F47%2F8fb423c14a908cabef20478c0fe0%2Fexpansion-3.png",
+      "published": "2026-10-22T15:00:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "0159cdd255a94f",
       "title": "México registra una tasa de desempleo de 2.8% en septiembre: Inegi",
       "url": "https://www.altonivel.com.mx/mexico-registra-una-tasa-de-desempleo-de-2-8-en-septiembre-inegi/",
@@ -731,7 +803,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Musashi Auto Parts amplió su planta de San Luis Potosí con más de 737 mdp. El proyecto suma tres líneas para componentes de vehículos híbridos y 300 empleos. The post Musashi invierte más de 737 mdp en San Luis Potosí y …",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/musashi-san-luis-potosi-inversion-autopartes.jpg.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/musashi.webp",
       "published": "2026-10-22T14:58:24+00:00",
       "score": null,
       "tags": []
@@ -797,6 +869,18 @@
       "tags": []
     },
     {
+      "id": "6a9690166b7125",
+      "title": "La inflación sorprende al alza en octubre y llega a 3.62% anual: Inegi",
+      "url": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los precios aumentaron 0.41% en la primera quincena, frente al 0.38% previsto por el mercado. La inflación subyacente también sorprendió al alza, con presiones en los servicios.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b7f9408/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F69%2Fbc%2Fa1fc9b0a43819be10b5f394f6b50%2Finflacion-mexico-octubre-2026-alza-precio-electricidad.jpeg",
+      "published": "2026-10-22T12:40:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "8df7c83b20b6f6",
       "title": "Códigos de Free Fire para hoy 22 de octubre: Reclama las recompensas gratuitas de Garena",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/10/22/codigos-de-free-fire-para-hoy-22-de-octubre-reclama-las-recompensas-gratuitas-de-garena/",
@@ -809,6 +893,18 @@
       "tags": []
     },
     {
+      "id": "0ffb18bcf73b71",
+      "title": "La red humana que sostiene la vida cuando el cáncer irrumpe",
+      "url": "https://expansion.mx/opinion/2026/10/22/la-red-humana-que-sostiene-la-vida-cuando-el-cancer-irrumpe",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Asociaciones como Oncoayuda y Banco de Tapitas ofrecen apoyo emocional, orientación y recursos a pacientes con cáncer, mientras convierten la solidaridad ciudadana en una red de acompañamiento.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/fcf86d3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F99%2F6a%2F2b0addba445a96dd7d2303b29f65%2Fcancer-mama.jpeg",
+      "published": "2026-10-22T12:02:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "0077501c4b57d4",
       "title": "Prepara tus oposiciones docentes con estas academias",
       "url": "https://www.educaciontrespuntocero.com/noticias/academias-de-oposiciones-para-docentes/",
@@ -817,6 +913,42 @@
       "summary": "La metodología, los materiales y el seguimiento son algunos de los aspectos que conviene tener en cuenta al elegir una academia. Estas son algunas opciones.",
       "image": null,
       "published": "2026-10-22T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9624057c8b309f",
+      "title": "La IA cambió al estudiante antes que a la educación",
+      "url": "https://expansion.mx/opinion/2026/10/22/la-ia-cambio-al-estudiante-antes-que-a-la-educacion",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Más de 60% de estudiantes y docentes ya utiliza IA generativa semanalmente, pero las universidades aún tienen pendientes programas de capacitación para su personal académico.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/79c5c8f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3f%2Fa2%2F473629814621bc8be4b75870f8c1%2Ftrabajos-desaparecen-ia.jpg",
+      "published": "2026-10-22T11:59:14+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "48fd7650668a93",
+      "title": "Le diste los correos de tu empresa a la IA, pero, ¿quién vigila que no filtre tus secretos?",
+      "url": "https://expansion.mx/tecnologia/2026/10/22/riesgos-ia-agentes-correos-datos-empresas-ciberseguridad",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los agentes de IA pueden acceder a bases de datos y ejecutar tareas empresariales, pero muchas compañías aún carecen de controles para limitar sus permisos y evitar filtraciones de información confidencial.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/efee519/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F30%2F12%2F56d9ed2b4029b98a6e247ae6a251%2Finteligencia-artificial-acceso-correos-empresa-ciberseguridad.png",
+      "published": "2026-10-22T11:55:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "09da0febfb9927",
+      "title": "Alivio fiscal para las empresas es un “ganar-ganar”, pero el CCE mantiene la pelea por deducciones",
+      "url": "https://expansion.mx/economia/2026/10/22/cce-adeudos-fiscales-multas-recargos-y-deducciones-2027",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Eliminar multas y recargos permitirá reducir entre 50% y 60% algunos adeudos con el SAT. La IP busca cambios al ISR para 2027 ante el riesgo de que el impuesto absorba una mayor proporción de las utilidades.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/80ab1ff/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcd%2Fa8%2Ff4bf54084600a42a91107008fe0f%2Falivios-fiscales-ip-sheinbaum-medina-mora-sat.jpg",
+      "published": "2026-10-22T11:55:14+00:00",
       "score": null,
       "tags": []
     },
@@ -1079,7 +1211,7 @@
       "source": "Expansión",
       "category": "coaching",
       "summary": "El CEO de la firma, Enrique Majós, estima que el cambio hacia pagos digitales en México requerirá mayor interoperabilidad entre sistemas y coordinación entre autoridades, bancos y empresas.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a6063f2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffe%2F3e%2F720ce5a845fabccd45a111a51e6e%2Fistock-969399108.jpg",
+      "image": "https://cdn-3.expansion.mx/dims4/default/13b42a6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F52%2F40f1d3aa46c9ba53fbec8192eb6e%2Fchangarros-tienditas-digitalizacion.jpeg",
       "published": "2026-10-22T00:01:09+00:00",
       "score": null,
       "tags": []
@@ -1181,30 +1313,6 @@
       "tags": []
     },
     {
-      "id": "ec00a1a5245784",
-      "title": "Los deducibles más altos encarecen el seguro médico que las empresas dan a sus empleados",
-      "url": "https://expansion.mx/carrera/2026/10/21/seguro-medico-empresarial-aumento-pago-deducibles",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Aunque las empresas mantienen el seguro de gastos médicos mayores como una prestación, los deducibles más altos limitan la capacidad de los trabajadores para utilizar esa cobertura.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/84e69de/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5c%2F52%2F57c84fcb485f8208a2b3541778c8%2Fseguro-gastos-medicos-mayores-deducible.jpg",
-      "published": "2026-10-21T21:12:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5f4ef23994111c",
-      "title": "Meses sin intereses, pagos pequeños que comprometen tus finanzas cada mes",
-      "url": "https://expansion.mx/finanzas-personales/2026/10/21/meses-sin-intereses-riesgos-deudas-como-evitar",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Acumular compras a plazos desde apps compromete ingresos futuros, aunque parezca manejable. Al cierre de 2025, casi la mitad de tarjetas de la cartera comparable de Banxico tenía compras a MSI.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/19b58cf/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5f%2F6d%2Fcd6b53794373aed5644766e46cbe%2Fmeses-sin-intereses-deudas-finanzas-personales-mexico.png",
-      "published": "2026-10-21T21:02:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "10ba2849f2ed20",
       "title": "Xbox revela cuánto tendrás que pagar para jugar en la nube sin tener Game Pass",
       "url": "https://hipertextual.com/videojuegos/xbox-revela-los-precios-para-usar-cloud-gaming-sin-game-pass/",
@@ -1229,90 +1337,6 @@
       "tags": []
     },
     {
-      "id": "32bde2f02d2a14",
-      "title": "IMSS pone nuevas condiciones a Modalidad 40 y no todos quedan igual: qué cambia y a quién afecta",
-      "url": "https://expansion.mx/finanzas-personales/2026/10/21/modalidad-40-imss-nuevas-reglas-2026",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El IMSS modificó las reglas de una de sus modalidades más buscadas y la fecha de inscripción ahora puede marcar una diferencia clave para el asegurado.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d098115/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F12%2F6f%2F109d7cfd4ca4916dccfc5bd3d84e%2Fmodalidad-40-imss.png",
-      "published": "2026-10-21T20:07:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "758cc7e0febdf4",
-      "title": "¿Adiós al efectivo en México? Lo que implica la nueva Ley de Economía Digital",
-      "url": "https://expansion.mx/economia/2026/10/21/adios-al-efectivo-en-mexico-lo-que-implica-la-nueva-ley-de-economia-digital",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Gasolineras y casetas serán los primeros servicios donde se buscará masificar pagos digitales. La predilección por pagos en efectivo menores a 500 pesos, uno de los principales retos, según expertos.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a335288/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb4%2F99%2F5fc607af4bd88177d884a5257aa2%2Fimage-20260928-194729-pon-menos-productos-en-esta-no-quiero-que-desapare-que-no-se-vean-las-marcas-d.jpg",
-      "published": "2026-10-21T20:02:19+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6a81d42fd1657d",
-      "title": "Cambridge Analytica vuelve a perseguir a Meta: juez ordena multa de 25,000 mdd",
-      "url": "https://www.altonivel.com.mx/cambridge-analytica-vuelve-a-perseguir-a-meta-juez-ordena-multa-de-25000-mdd/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La sanción se relaciona con las promesas de privacidad de Facebook y sus prácticas para compartir datos con terceros. Meta anunció que apelará el veredicto. The post Cambridge Analytica vuelve a perseguir a Meta: juez or…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/07/cambridge-analytica-facebook.webp",
-      "published": "2026-10-21T19:54:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3de5f3c3a7afa4",
-      "title": "Comprar en Costco no siempre significa ahorrar: cuándo conviene pagar por productos en formato grande",
-      "url": "https://expansion.mx/empresas/2026/10/21/comprar-costco-no-siempre-significa-ahorrar-cuando-conviene",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Costco basa parte de su modelo en vender grandes volúmenes y presentaciones amplias, pero el ahorro no está garantizado. Estos debes revisar para saber si te conviene comprar por mayoreo.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/22fd7a7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2F1b%2F5d425aee4a9c85de2002e1e6c2f2%2F2-costco-gettyimages-2249626490.jpeg",
-      "published": "2026-10-21T19:37:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "50b874bcb32485",
-      "title": "IMSS eleva a 8% el aumento salarial para sus trabajadores tras protestas",
-      "url": "https://www.altonivel.com.mx/imss-eleva-a-8-el-aumento-salarial-para-sus-trabajadores-tras-protestas/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "El director del IMSS, Zoé Robledo, anunció el aumento salarial y un plan para otorgar plazas permanentes a 10,939 empleados contratados durante la pandemia. The post IMSS eleva a 8% el aumento salarial para sus trabajado…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/imss-protesta.webp",
-      "published": "2026-10-21T19:31:45+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9be6ba6409980c",
-      "title": "Más deuda, topes a deducciones, condonación de multas a empresas y mayores cobros a turistas avanzan en el Senado",
-      "url": "https://expansion.mx/economia/2026/10/21/deuda-deducciones-condonacion-cuotas-turistas-2027",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Los senadores de las Comisiones Unidas de Hacienda y Crédito Público y de Estudios Legislativos dieron el visto bueno a los cambios en materia de ingresos que conforman el Paquete Económico 2027.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/ec52757/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7c%2F32%2F572c211f4e059146c27c9d804777%2F13-senado-afp-20260908-c7qa99e-v1-midres-mexicopoliticsgovernment.jpeg",
-      "published": "2026-10-21T19:29:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "540825bb7ecb08",
-      "title": "Esta ley del ISSSTE suma dinero extra a tu jubilación sin salir de tu sueldo: quién aplica y cuánto pone tu empleador",
-      "url": "https://expansion.mx/finanzas-personales/2026/10/21/ahorro-solidario-issste-aportacion-empleador",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La ley permite aumentar la Cuenta Individual con descuentos desde la nómina y una aportación adicional obligatoria de la dependencia.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/817f5ee/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F61%2F5e%2Fa56d1c0745a69c4b9a5474c0fad9%2Fmujer-oficinas-issste.png",
-      "published": "2026-10-21T19:11:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "48348736e12bbe",
       "title": "Adiós a ‘Mass Effect’: EA cierra BioWare y cancela el próximo juego de la saga",
       "url": "https://hipertextual.com/videojuegos/ea-cierra-bioware-cancela-mass-effect/",
@@ -1321,18 +1345,6 @@
       "summary": "Electronic Arts ha cerrado BioWare, el emblemático estudio responsable de sagas como Baldur's Gate, Mass Effect y Star Wars: Knights of the Old Republic. La empresa confirmó que despedirá a cientos de empleados y cancela…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/bioware-mass-effect.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-10-21T19:10:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "24584824b64e1d",
-      "title": "¿Compras por impulso? Profeco aconseja cómo evitar que tus emociones te endeuden",
-      "url": "https://www.altonivel.com.mx/compras-por-impulso-profeco-aconseja-como-evitar-que-tus-emociones-te-endeuden/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Dejar productos en el carrito, revisar tu presupuesto y reconocer qué sientes antes de comprar puede ayudarte a controlar los gastos emocionales y evitar comprometer ingresos futuros. The post ¿Compras por impulso? Profe…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/05/comprar-en-linea.webp",
-      "published": "2026-10-21T19:04:17+00:00",
       "score": null,
       "tags": []
     },
@@ -1633,18 +1645,6 @@
       "summary": "Las calificaciones son solo una parte de la evaluación. Analizar la evolución del alumnado, detectar dificultades y revisar las estrategias docentes ayuda a planificar el siguiente trimestre y ajustar los apoyos educativ…",
       "image": null,
       "published": "2026-10-20T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9052e655878c3b",
-      "title": "¿Entretenimiento en Halloween? Happyland activa promociones especiales de recarga para celebrar Noche de Brujas",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/21/entretenimiento-en-halloween-happyland-activa-promociones-especiales-de-recarga-para-celebrar-noche-de-brujas/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Descubre las promociones de Happyland para HappyHalloween: recibe 19 tokens de regalo por recargas y participa en concursos de disfraces este 31 de octubre",
-      "image": "https://www.fayerwayer.com/resizer/v2/WKB6HQXBPBG3FJ5ALSFENN54OI.jpeg?auth=0e3ba28ae06ea608d014c2e3700e24243263b7b59789f98d7160d71dd5682035&smart=true&width=1600&height=1067",
-      "published": "2026-10-20T10:10:00+00:00",
       "score": null,
       "tags": []
     },

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-10-25T15:39:36.109011+00:00",
+    "generated": "2026-10-25T20:27:37.603284+00:00",
     "total": 189
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Aprende a formar equipos que mantengan la calma bajo presión, se adapten con rapidez y salgan fortalecidos ante el cambio, sin importar lo que el mercado les ponga enfrente. The post Cómo construir un equipo de trabajo r…",
       "image": null,
-      "published": "2026-10-25T15:39:34.557369+00:00",
+      "published": "2026-10-25T20:27:36.090979+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "La carrera por la IA también puede convertirse en una carrera por modernizar la tecnología que las empresas llevan años acumulando. The post Las empresas están invirtiendo millones en inteligencia artificial, pero hay un…",
       "image": null,
-      "published": "2026-10-25T15:39:34.557017+00:00",
+      "published": "2026-10-25T20:27:36.090651+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "El futuro del liderazgo no se trata de heroísmo individual, sino de crear ecosistemas donde el potencial colectivo pueda florecer. The post Los líderes más fuertes evitan estos 5 errores de gestión appeared first on Entr…",
       "image": null,
-      "published": "2026-10-25T15:39:34.556662+00:00",
+      "published": "2026-10-25T20:27:36.090304+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "Los líderes más astutos están analizando en qué casos la IA realmente les aligera el trabajo y en cuáles solo aumenta su carga mental. Así lo hacen. The post La IA está agotando a quienes más la usan: cómo escapar del “b…",
       "image": null,
-      "published": "2026-10-25T15:39:34.556253+00:00",
+      "published": "2026-10-25T20:27:36.089931+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Estas once incubadoras y aceleradoras universitarias ofrecen mentoría, capital y networking a los fundadores que están buscando convertir una idea en una empresa con impacto real. The post Incubadoras universitarias: 11 …",
       "image": null,
-      "published": "2026-10-25T15:39:34.555843+00:00",
+      "published": "2026-10-25T20:27:36.089548+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Qué significa ser un líder orientado al rendimiento, cómo aprovechar al máximo esta característica y cómo superar sus posibles desafíos. The post Cómo triunfar siendo un líder orientado al rendimiento (y los desafíos que…",
       "image": null,
-      "published": "2026-10-25T15:39:34.554365+00:00",
+      "published": "2026-10-25T20:27:36.088149+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Así es como los líderes empresariales pueden adaptarse, innovar y mantenerse competitivos. The post 5 claves para preparar tu negocio y hacerlo prosperar en tiempos de incertidumbre appeared first on Entrepreneur en Espa…",
       "image": null,
-      "published": "2026-10-25T15:39:34.553991+00:00",
+      "published": "2026-10-25T20:27:36.087791+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "La infraestructura que rodea a un modelo de inteligencia artificial puede cambiar radicalmente sus resultados. Te explicamos por qué es importante tenerla en cuenta al evaluar las afirmaciones sobre estas tecnologías y e…",
       "image": null,
-      "published": "2026-10-25T15:39:34.553637+00:00",
+      "published": "2026-10-25T20:27:36.087446+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Construir una red de relaciones basada en la confianza y el intercambio de valor puede ayudarte a encontrar soluciones, ahorrar tiempo y descubrir oportunidades para hacer crecer tu negocio. The post Emprender en solitar…",
       "image": null,
-      "published": "2026-10-25T15:39:34.553234+00:00",
+      "published": "2026-10-25T20:27:36.087073+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,271 @@
       "category": "startup",
       "summary": "Lo que parecía éxito casi me destruye — hasta que descubrí un camino poco convencional para reconstruir mi energía, claridad y propósito. The post Parecía exitoso, pero me estaba desmoronando — estos son los tres pilares…",
       "image": null,
-      "published": "2026-10-25T15:39:34.552842+00:00",
+      "published": "2026-10-25T20:27:36.086692+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a30965226de047",
+      "title": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
+      "url": "https://www.xataka.com/magnet/europa-existe-museo-dedicado-a-grandes-productos-fallidos-detras-esta-antiguo-empleado-google",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Estamos acostumbrados a entrar en un museo para encontrarnos con aquello que merece ser recordado. En España basta pensar en el Prado, el Reina Sofía o el Guggenheim Bilbao, pero también tenemos espacios dedicados a hist…",
+      "image": "https://i.blogs.es/8b4c08/museo-fracasos-portada/1024_2000.jpeg",
+      "published": "2026-10-25T20:00:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ff0236ac82b2a8",
+      "title": "¿La IA copió las letras originales? Prueba clave de Claude desató millonaria demanda de los dueños del catálogo de Elvis Presley",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/25/elvis-presley-inteligencia-artificial-anthropic-claude/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Los herederos y editores de Elvis Presley demandaron a Anthropic por USD 41 millones, alegando que Claude reprodujo canciones protegidas sin permiso.",
+      "image": "https://www.fayerwayer.com/resizer/v2/IN6XU4HFXBA7HHTVF45MHFHQCA.jpg?auth=a950633ca880480bdd0f6844a05f9ed7035f568f0e2b1c307221eaff862f64fb&smart=true&width=1376&height=768",
+      "published": "2026-10-25T19:38:16+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c0895616d7260c",
+      "title": "iPhone Duo: aparecen roturas de pantalla tras solo unas horas de uso",
+      "url": "https://www.muycomputer.com/2026/10/25/iphone-duo-aparecen-roturas-de-pantalla-tras-solo-unas-horas-de-uso/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "El iPhone Duo acaba de llegar al mercado y ya se enfrenta a las primeras dudas sobre su durabilidad. El estreno de Apple en el segmento de los teléfonos plegables despertó un enorme interés, especialmente por las solucio…",
+      "image": null,
+      "published": "2026-10-25T19:25:30+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8d52dd3946ea99",
+      "title": "Remake de ‘Dragon Ball Super’ modifica una de las escenas más icónicas de Vegeta y genera debate entre los fans",
+      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/25/remake-de-dragon-ball-super-modifica-una-de-las-escenas-mas-iconicas-de-vegeta-y-genera-debate-entre-los-fans/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Descubre cómo el anime 'Dragon Ball Super: Beerus' modificó el icónico momento de \"¡Mi Bulma!\" y por qué este cambio divide a los seguidores de la saga.",
+      "image": "https://www.fayerwayer.com/resizer/v2/VCXRAKHTWJDDTARCRW3F6KI5BI.png?auth=85ee86a2619fe313365beb745c0f85137e88d6c27eaac8e1e95c11379dd49aaa&smart=true&width=1512&height=852",
+      "published": "2026-10-25T19:22:59+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "84726078a5f172",
+      "title": "Hyundai ofrece 48 meses sin intereses para comprar el HB20 Sedán 2026, pero hay una condición para pagar solo 3,999 pesos al mes",
+      "url": "https://www.merca20.com/hyundai-ofrece-48-meses-sin-intereses-para-comprar-el-hb20-sedan-2026-pero-hay-una-condicion-para-pagar-solo-3999-pesos-al-mes/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-ofrece-48-meses-sin-intereses-para-comprar-el-hb20-sedan-2026-pero-hay-una-condicion-para-pagar-solo-3999-pesos-al-mes",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Hyundai ofrece el HB20 Sedán 2026 a 48 meses sin intereses y pagos desde 3,999 pesos; conoce el enganche requerido.",
+      "image": "https://files.merca20.com/uploads/2026/10/IMG_9913.jpeg",
+      "published": "2026-10-25T19:20:18+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9aa0a4f14e00f3",
+      "title": "Lidl soluciona (por 7,99 euros) un problema cotidiano en casa cuando llega el frío, vuelven las lluvias y sube la humedad",
+      "url": "https://www.xataka.com/seleccion/lidl-soluciona-7-99-euros-problema-cotidiano-casa-cuando-llega-frio-vuelven-lluvias-sube-humedad",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hace ya más de un mes que entró en España el otoño y, con él, han llegado las primeras borrascas y lluvias generalizadas. Algo que, sumado a la bajada de las temperaturas, hace que suba la humedad interior (sobre todo, e…",
+      "image": "https://i.blogs.es/196559/lidl-solucion-humedad/1024_2000.jpeg",
+      "published": "2026-10-25T19:16:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "007d0c9b6280df",
+      "title": "Estudio científico sobre niños que afirman haber reencarnado revela un extraño y sorprendente patrón estadístico",
+      "url": "https://www.fayerwayer.com/ciencia/2026/10/25/estudio-cientifico-sobre-ninos-que-afirman-haber-reencarnado-revela-un-extrano-y-sorprendente-patron-estadistico/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Un estudio de la Universidad de Virginia analizó casos de supuesta reencarnación en niños y descubrió un patrón estadístico con las muertes inesperadas.",
+      "image": "https://www.fayerwayer.com/resizer/v2/QHJLCS4TIZHPFEQPZNLBTVZTOE.jpg?auth=4cd44e0a411d18fc89317c1c19844c0a9396cfbaf71900963d0cb0447cd0b970&smart=true&width=1376&height=768",
+      "published": "2026-10-25T19:05:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "54656ee82dafa1",
+      "title": "He probado el Honor Robot Phone con su cámara robotizada y estas son las ocho cosas donde más se diferencia del resto",
+      "url": "https://www.xataka.com/moviles/he-probado-honor-robot-phone-su-camara-robotizada-estas-ocho-cosas-donde-se-diferencia-resto",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Honor Robot Phone es un móvil normal. Al menos en apariencia. Lo especial comienza cuando uno abre la app de cámara, pulsa el botón de desplegar el gimbal y de repente sale una cámara mecánica de la parte trasera . Un…",
+      "image": "https://i.blogs.es/a68dbd/honor-robot-phone/1024_2000.jpeg",
+      "published": "2026-10-25T19:02:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3a17de145efc33",
+      "title": "¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?",
+      "url": "https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tras-el-cierre-de-bioware/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El cierre de BioWare por parte de Electronic Arts sigue dando que hablar. El estudio detrás de sagas icónicas como Dragon Age, Mass Effect y las primeras dos entregas de Baldur’s Gate dejó de operar tras 31 años de activ…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Mass-Effect.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-10-25T19:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "068dc85f809668",
+      "title": "The Home Depot regala recipientes y cuchillos Tramontina a los clientes que cumplan este requisito, vigencia termina en menos de 48 horas",
+      "url": "https://www.merca20.com/the-home-depot-regala-recipientes-y-cuchillos-tramontina-a-los-clientes-que-cumplan-este-requisito-vigencia-termina-en-menos-de-48-horas/?utm_source=rss&utm_medium=rss&utm_campaign=the-home-depot-regala-recipientes-y-cuchillos-tramontina-a-los-clientes-que-cumplan-este-requisito-vigencia-termina-en-menos-de-48-horas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "The Home Depot regalará cuchillos o recipientes Tramontina al comprar baterías de cocina participantes; consulta cómo obtenerlos.",
+      "image": "https://files.merca20.com/uploads/2026/10/IMG_9912.jpeg",
+      "published": "2026-10-25T18:32:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "abb57c723cf8cf",
+      "title": "Ocho años después de abrirla, una tumba de 55 metros con \"antenas\" en pleno desierto del Sáhara revela por fin su edad",
+      "url": "https://www.xataka.com/magnet/ocho-anos-despues-abrirla-tumba-55-metros-antenas-pleno-desierto-sahara-revela-fin-su-edad",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En una llanura de grava del norte del Sáhara Occidental, a unos 600 metros de altura, hay un montículo ovalado de piedra del que nacen dos hileras de losas hacia el este, en un lugar tan seco e inhóspito que los pastores…",
+      "image": "https://i.blogs.es/c5a982/tumba/1024_2000.jpeg",
+      "published": "2026-10-25T18:30:12+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bd6ccb3364991a",
+      "title": "En 1518, cientos de personas empezaron a bailar sin control en Estrasburgo. La historia real es mucho más extraña",
+      "url": "https://www.xataka.com/medicina-y-salud/1518-cientos-personas-empezaron-a-bailar-control-estrasburgo-historia-real-mucho-extrana",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si hay una epidemia que ha pasado a la historia, es la que ocurrió en Estrasburgo en 1518. En este punto, las leyendas que nos han llegado hasta nuestros días cuentan que entre 50 y 400 personas bailaron sin control dura…",
+      "image": "https://i.blogs.es/55cbd3/baile-de-san-vito/1024_2000.jpeg",
+      "published": "2026-10-25T18:00:09+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "87bd8942ac4424",
+      "title": "‘The Batman 2’ no será la primera: 7 películas que tuvieron que ser filmadas por directores secundarios",
+      "url": "https://hipertextual.com/cine-television/the-batman-2-no-sera-la-primera-7-peliculas-que-tuvieron-que-ser-filmadas-por-directores-secundarios/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "A menos que vivas bajo una piedra, lo sabes: The Batman 2 pasa por momentos complicados. Su director, Matt Reeves, tuvo que abandonar la filmación en Londres en medio de una emergencia familiar. Por lo que la producción …",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Pelicula-con-otro-director.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-10-25T18:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0aa08857534c54",
+      "title": "México resguarda 3,370 semillas en la bóveda global de Svalbard en el Ártico",
+      "url": "https://www.altonivel.com.mx/cimmyt-semillas-svalbard-artico-agtech-cultivos-resistentes/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "CIMMYT depositó 3,370 muestras de maíz, trigo y triticale en Svalbard. El material genético puede apoyar el desarrollo de cultivos más resistentes. The post México resguarda 3,370 semillas en la bóveda global de Svalbard…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/cimmyt-semillas-svalbard-artico.jpg.webp",
+      "published": "2026-10-25T18:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "17cd1b8dc289ea",
+      "title": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
+      "url": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API ce…",
+      "image": "https://i.blogs.es/11c6aa/retrato-pop-art-con-estrellas-europeas/1024_2000.jpeg",
+      "published": "2026-10-25T17:30:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2a3151b8396970",
+      "title": "Pionero de la arqueología, la intuición de este vecino gaditano le llevó en 1793 a comprar unas tierras para luego descubrir todo un yacimiento romano",
+      "url": "https://www.xataka.com/magnet/pionero-arqueologia-intuicion-este-vecino-gaditano-le-llevo-1793-a-comprar-unas-tierras-para-luego-descubrir-todo-yacimiento-romano",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La simple idea de adquirir un cerro entero porque sospechas que debajo hay una ciudad oculta es un poco locura, es como andar excavando porque una vaga pista te dice que por ahí se esconde el Santo Grial. Pero eso es jus…",
+      "image": "https://i.blogs.es/cefdd0/portada/1024_2000.jpeg",
+      "published": "2026-10-25T17:00:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6daf875dc68cdb",
+      "title": "Ya están ejecutando juegos de Xbox One en un iPhone y el resultado es sorprendente",
+      "url": "https://hipertextual.com/videojuegos/ejecutar-juegos-xbox-one-iphone-mac-utsuro/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Desde hace unas semanas, la escena de la emulación y la preservación de juegos dio un giro radical. Cientos de usuarios están volcándose a la IA para decompilar o recompilar títulos que eran exclusivos de otras consolas,…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/gaming-iphone.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-10-25T17:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1b529a4699ec99",
+      "title": "Mega Procesión de las Catrinas 2026, a qué hora inicia hoy el desfile en CDMX y cuáles son las calles por donde pasará",
+      "url": "https://www.merca20.com/mega-procesion-de-las-catrinas-2026-a-que-hora-inicia-hoy-el-desfile-en-cdmx-y-cuales-son-las-calles-por-donde-pasara/?utm_source=rss&utm_medium=rss&utm_campaign=mega-procesion-de-las-catrinas-2026-a-que-hora-inicia-hoy-el-desfile-en-cdmx-y-cuales-son-las-calles-por-donde-pasara",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Mega Procesión de las Catrinas 2026: conoce a qué hora inicia hoy, domingo 25 de octubre, cuál es su ruta en CDMX y qué calles podrían verse afectadas.",
+      "image": "https://files.merca20.com/uploads/2026/10/Mega-Procesion-de-las-Catrinas-2026-a-que-hora-inicia-hoy-el-desfile-en-CDMX-y-cuales-son-las-calles-por-donde-pasara-.jpg",
+      "published": "2026-10-25T16:47:17+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7cd5049dff75d3",
+      "title": "Las abejas europeas han perdido un tercio de su territorio en un siglo. Y el cambio climático no es el principal culpable",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/abejas-europeas-han-perdido-tercio-su-territorio-siglo-cambio-climatico-no-principal-culpable",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Desde pequeños nos enseñan que las abejas son fundamentales para la supervivencia de la humanidad gracias a su capacidad de polinización. El problema llega cuando los datos de los que disponemos nos informan que las abej…",
+      "image": "https://i.blogs.es/525963/abejas/1024_2000.jpeg",
+      "published": "2026-10-25T16:30:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c9e48a5b16f402",
+      "title": "Mientras gran parte de México ya no cambia la hora, estas ciudades sí tendrán que ajustar sus relojes en noviembre de 2026",
+      "url": "https://www.merca20.com/mientras-gran-parte-de-mexico-ya-no-cambia-la-hora-estas-ciudades-si-tendran-que-ajustar-sus-relojes-en-noviembre-de-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-gran-parte-de-mexico-ya-no-cambia-la-hora-estas-ciudades-si-tendran-que-ajustar-sus-relojes-en-noviembre-de-2026",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El cambio de horario 2026 será el 1 de noviembre en ciudades de la frontera norte de México; conoce dónde aplica y cuándo atrasar el reloj.",
+      "image": "https://files.merca20.com/uploads/2026/10/Mientras-gran-parte-de-Mexico-ya-no-cambia-la-hora-estas-ciudades-si-tendran-que-ajustar-sus-relojes-en-noviembre-de-2026-.jpg",
+      "published": "2026-10-25T16:22:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "29ad0cefc03842",
+      "title": "Llevamos años viendo como los viñedos españoles desaparecen sin que podamos hacer nada. Ha llegado el turno de la ingeniería genética",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El 6 de agosto, entre Aldeanueva de Ebro y Alfaro, varios viñedos cortaron los primeros racimos de tempranillo blanco. Era la vendimia más temprana de la historia de la Rioja . Y no es algo extraordinario: en la DO Valen…",
+      "image": "https://i.blogs.es/abeb47/mika-baumeister-4gen9bddbwq-unsplash-1-/1024_2000.jpeg",
+      "published": "2026-10-25T16:00:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ba5e30905a414d",
+      "title": "‘Wildwood: El bosque salvaje’ es una obra de arte de animación que pasará a la historia",
+      "url": "https://hipertextual.com/cine-television/wildwood-el-bosque-salvaje-es-una-obra-de-arte-de-animacion-que-pasara-a-la-historia/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Wildwood: El bosque salvaje es un cuento de hadas brillante, conmovedor y con un guion lleno de sorpresas. Pero además, es una obra de arte artesanal, de paciencia y minucioso cuidado que deslumbra desde su primera escen…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/wildwood-review_gacz.1200.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-10-25T16:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -257,18 +521,6 @@
       "tags": []
     },
     {
-      "id": "cba7104c937a81",
-      "title": "Una empresa francesa lleva un año intentando lanzar una cámara para competir con Japón. El problema no es solo el precio",
-      "url": "https://www.xataka.com/fotografia-y-video/empresa-francesa-lleva-ano-intentando-lanzar-camara-para-competir-japon-problema-no-solo-precio",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El mercado de la fotografía profesional lleva décadas dominado por firmas japonesas como Sony, Canon, Nikon o Fujifilm. En Europa también tenemos dignos representantes, como Leica, Hasselblad (sueca aunque pertenezca a D…",
-      "image": "https://i.blogs.es/b150b9/esquisse-camera-portada-2/1024_2000.jpeg",
-      "published": "2026-10-25T13:00:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f59ecdcd9557f6",
       "title": "Cambio de hora: seguimos moviendo el reloj sin demostrar que compense",
       "url": "https://www.muycomputer.com/2026/10/25/cambio-de-hora-seguimos-moviendo-el-reloj-sin-demostrar-que-compense/",
@@ -277,30 +529,6 @@
       "summary": "El cambio de hora ha vuelto a modificar nuestros horarios esta madrugada, como sucede cada último domingo de octubre. A las tres volvieron a ser las dos en la España peninsular y Baleares, mientras que en Canarias los re…",
       "image": null,
       "published": "2026-10-25T12:34:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "117a4a547f5f34",
-      "title": "31,50 euros en copas y seis meses de cárcel: el Supremo cambia cómo se castiga el fraude con las tarjetas de crédito",
-      "url": "https://www.xataka.com/legislacion-y-derechos/31-50-euros-copas-seis-meses-carcel-supremo-cambia-como-se-castiga-fraude-tarjetas-credito",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El Tribunal Supremo ha dictaminado que el uso de la tarjeta bancaria de otra persona nunca es un delito leve, ni siquiera cuando la cantidad es mínima. Y es que tal y como comparte el medio El Economista, a un hombre que…",
-      "image": "https://i.blogs.es/6dffe8/nathana-reboucas-3ysdtzqnvtq-unsplash/1024_2000.jpeg",
-      "published": "2026-10-25T12:30:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "cb062e5c818c29",
-      "title": "En 1941, el acorazado USS Arizona se hundió en Pearl Harbor. EEUU ya tiene su \"sucesor\": un submarino nuclear con 28 Tomahawk más",
-      "url": "https://www.xataka.com/magnet/1941-acorazado-uss-arizona-se-hundio-pearl-harbor-eeuu-tiene-su-sucesor-submarino-nuclear-28-tomahawk",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Construido en 1916 y ya operativo en la Primera Guerra Mundial, el acorazado de la clase Pennsylvania USS Arizona se hundió de forma catastrófica durante el ataque japonés a Pearl Harbor en plena Segunda Guerra Mundial. …",
-      "image": "https://i.blogs.es/b3d50f/boat/1024_2000.jpeg",
-      "published": "2026-10-25T12:00:10+00:00",
       "score": null,
       "tags": []
     },
@@ -329,42 +557,6 @@
       "tags": []
     },
     {
-      "id": "ba61ec92df633b",
-      "title": "Los marroquíes desbancan a los europeos en la compra de vivienda en España. También pagan menos por metro cuadrado",
-      "url": "https://www.xataka.com/magnet/marroquies-desbancan-a-europeos-compra-vivienda-espana-tambien-pagan-metro-cuadrado",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Durante las últimas décadas, el extranjero que compraba casa en España tenía un perfil más o menos definido: británico, con el divino placer de unas largas vacaciones y un adosado a pocos kilómetros del mar. La pequeña S…",
-      "image": "https://i.blogs.es/8d4390/calle/1024_2000.jpeg",
-      "published": "2026-10-25T11:30:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0053ad958b4ea9",
-      "title": "¿Podemos \"enamorarnos\" de una IA? La respuesta científica es más intrigante de lo que solemos aceptar",
-      "url": "https://www.xataka.com/robotica-e-ia/podemos-enamorarnos-ia-respuesta-cientifica-intrigante-que-solemos-aceptar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Alicia Framis y Ailex Sibouwlingen se casaron el 9 de noviembre de 2024 . Ella es una artista multidisciplinar española enraizada en Países Bajos, y él, una inteligencia artificial holográfica. Esta unión formal —a travé…",
-      "image": "https://i.blogs.es/447a41/photo-1591006407747-608d13609cc1/1024_2000.jpeg",
-      "published": "2026-10-25T11:16:11+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6e81f6033af77f",
-      "title": "La empresa biométrica de Sam Altman hace su primer gran movimiento: una verificación universal orientada a grandes bancos",
-      "url": "https://www.xataka.com/seguridad/empresa-biometrica-sam-altman-hace-su-primer-gran-movimiento-verificacion-universal-orientada-a-grandes-bancos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En un momento en el que los deepfakes y los agentes de IA pueden darse la mano para operar en nombre de usuarios y suplantar a quien sea en una videollamada, las empresas buscan las formas de comprobar que, al otro lado …",
-      "image": "https://i.blogs.es/2a2f3d/esfera-futurista-pintada-sobre-fondo-naranja/1024_2000.png",
-      "published": "2026-10-25T11:00:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6f9698f96c08f6",
       "title": "Descubre Compositor, la alternativa gratuita a Photoshop para Mac",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/compositor-alternativa-gratuita-photoshop/",
@@ -373,18 +565,6 @@
       "summary": "Editar fotografías, combinar imágenes o retocar colores son algunas de las opciones que ofrece este editor de código abierto con una interfaz muy similar a la del popular programa de Adobe.",
       "image": null,
       "published": "2026-10-25T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "51010c191522ad",
-      "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-      "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X ) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden…",
-      "image": "https://i.blogs.es/64124d/christiansborg_slot/1024_2000.jpeg",
-      "published": "2026-10-25T10:30:00+00:00",
       "score": null,
       "tags": []
     },
@@ -413,18 +593,6 @@
       "tags": []
     },
     {
-      "id": "ef2a4dcb5ce137",
-      "title": "Zelenza tiene 2.000 empleados en servicios TIC y un barco sin nadie a bordo. Su futuro depende de lo segundo",
-      "url": "https://www.xataka.com/empresas-y-economia/zelenza-tiene-2-000-empleados-servicios-tic-barco-nadie-a-bordo-su-futuro-depende-segundo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El 9 de diciembre de 2024, en la base naval de Rota, la Armada española recibió una embarcación de siete metros de fibra de vidrio que a primera vista parecía una semirrígida cualquiera. No lo era: no tenía sitio para na…",
-      "image": "https://i.blogs.es/93bb2f/zelenza-2/1024_2000.png",
-      "published": "2026-10-25T10:00:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "5524256dd16a49",
       "title": "Ahora puedes jugar uno de los mejores ‘Gran Turismo’ directamente desde tu móvil Android",
       "url": "https://hipertextual.com/videojuegos/gran-turismo-3-llega-a-android-con-este-nuevo-port/",
@@ -433,18 +601,6 @@
       "summary": "Si eres fan de los juegos de coches y carreras, Gran Turismo 3 seguramente ocupe un lugar muy especial en tu corazón. El juego de Polyphony Digital debutó en la PS2 en el 2000 y se convirtió en un favorito del público, y…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Gran-Turismo-3-2.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-10-25T10:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ff8facfcd4082a",
-      "title": "G-LAB Keyz Elite 300 GRG, análisis: un teclado mecánico inalámbrico y muy completo para quien quiere jugar y trabajar sin gastarse una fortuna",
-      "url": "https://www.xataka.com/analisis/g-lab-keyz-elite-300-grg-analisis-caracteristicas-precio-especificaciones",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay todo un abanico de opciones si nos adentramos en el mundo de los teclados mecánicos . Y lo bueno es que tampoco hace falta gastarse un dineral para tener algo medio decente con lo que tirar. Tenemos muchas opciones e…",
-      "image": "https://i.blogs.es/130e84/1/1024_2000.jpeg",
-      "published": "2026-10-25T09:30:11+00:00",
       "score": null,
       "tags": []
     },
@@ -809,18 +965,6 @@
       "tags": []
     },
     {
-      "id": "0e578d7bbe670e",
-      "title": "CNMD 2026 analizará cómo crear contenido, retener clientes y fortalecer el ecommerce",
-      "url": "https://www.merca20.com/cnmd-2026-paneles-crear-contenido-retener-clientes-fortalecer-ecommerce/?utm_source=rss&utm_medium=rss&utm_campaign=cnmd-2026-paneles-crear-contenido-retener-clientes-fortalecer-ecommerce",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El Congreso Nacional de Marketing Digital 2026 (CNMD 2026) es el mayor evento de la industria en LATAM",
-      "image": "https://files.merca20.com/uploads/2026/07/cnmd-2026-geely.jpg",
-      "published": "2026-10-24T15:20:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "5d805358602027",
       "title": "‘Sentido y sensibilidad’ es una película genial para los fans de Jane Austen",
       "url": "https://hipertextual.com/cine-television/sentido-y-sensibilidad-es-una-pelicula-genial-para-los-fans-de-jane-austen/",
@@ -965,18 +1109,6 @@
       "tags": []
     },
     {
-      "id": "c6be572c8356b1",
-      "title": "Con este simple truco de Windows, olvídate de volver a “perder” el puntero del mouse",
-      "url": "https://hipertextual.com/software/como-activar-buscar-mi-mouse-en-windows-con-powertoys/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Si usas un PC con múltiples pantallas, seguramente has “perdido” el puntero del mouse en más de una oportunidad. Es bastante normal desorientarse al saltar de un monitor a otro y no encontrar la flecha del ratón, lo mism…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/jeswin-thomas-5nWgzq7srvo-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-10-24T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4f289b31efa0e3",
       "title": "Elon Musk dice que Tesla está trabajando para evitar que los robotaxis atropellen gatos grises en la carretera",
       "url": "https://www.genbeta.com/actualidad/elon-musk-dice-que-tesla-esta-trabajando-para-evitar-que-robotaxis-atropellen-gatos-grises-carretera",
@@ -1001,18 +1133,6 @@
       "tags": []
     },
     {
-      "id": "1ae4793c0b9e53",
-      "title": "Crear tu propia nube privada en casa con Umbrel: gratis, en tu viejo PC y con tienda de apps",
-      "url": "https://hipertextual.com/guias/umbrel-nube-privada-casa-servidor-personal-gratis-apps/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Cuando subes un archivo a la nube o compartes tus fotografías y vídeos, lo que estás haciendo es enviar ese contenido de tu ordenador o teléfono móvil a un servidor a kilómetros de distancia. Y un servidor no es más que …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Umbrel-Dispositivos-NAS-Pantalla-Escritorio-umbrelOS.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-10-24T07:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "311eb52148b670",
       "title": "Cuando la salud mental y el humor se dan la mano: los mejores libros de Ángel Martín",
       "url": "https://www.educaciontrespuntocero.com/libros/angel-martin-libros/",
@@ -1025,42 +1145,6 @@
       "tags": []
     },
     {
-      "id": "a1ecfa1f0d2942",
-      "title": "La inteligencia artificial ya puede ayudarte a decidir qué comprar, pero hay algo que no deberías dejar en sus manos",
-      "url": "https://www.merca20.com/la-inteligencia-artificial-ya-puede-ayudarte-a-decidir-que-comprar-pero-hay-algo-que-no-deberias-dejar-en-sus-manos/?utm_source=rss&utm_medium=rss&utm_campaign=la-inteligencia-artificial-ya-puede-ayudarte-a-decidir-que-comprar-pero-hay-algo-que-no-deberias-dejar-en-sus-manos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La inteligencia artificial puede ayudarte a comparar productos antes de comprar, pero sus recomendaciones tienen límites. Descubre qué debes verificar.",
-      "image": "https://files.merca20.com/uploads/2026/10/La-inteligencia-artificial-ya-puede-ayudarte-a-decidir-que-comprar-pero-hay-algo-que-no-deberias-dejar-en-sus-manos-.jpg",
-      "published": "2026-10-24T04:48:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8e3cbd8ace019e",
-      "title": "Mientras las marcas pagan por aparecer en los partidos, el 70% de los aficionados quiere seguir conectado con el deporte todo el año",
-      "url": "https://www.merca20.com/mientras-las-marcas-pagan-por-aparecer-en-los-partidos-el-70-de-los-aficionados-quiere-seguir-conectado-con-el-deporte-todo-el-ano/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-las-marcas-pagan-por-aparecer-en-los-partidos-el-70-de-los-aficionados-quiere-seguir-conectado-con-el-deporte-todo-el-ano",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Getty Images revela que el 70% de los aficionados quiere seguir conectado con el deporte fuera de temporada. Así cambian los patrocinios.",
-      "image": "https://files.merca20.com/uploads/2026/10/Mientras-las-marcas-pagan-por-aparecer-en-los-partidos-el-70-de-los-aficionados-quiere-seguir-conectado-con-el-deporte-todo-el-ano-.jpg",
-      "published": "2026-10-24T04:15:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "26c97fc1f9acf6",
-      "title": "Restaurante junto a la Cineteca Nacional lanza menú de Halloween con pizzas de zombis, hamburguesas monstruosas y bebidas desde 75 pesos",
-      "url": "https://www.merca20.com/restaurante-junto-a-la-cineteca-nacional-lanza-menu-de-halloween-con-pizzas-de-zombis-hamburguesas-monstruosas-y-bebidas-desde-75-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=restaurante-junto-a-la-cineteca-nacional-lanza-menu-de-halloween-con-pizzas-de-zombis-hamburguesas-monstruosas-y-bebidas-desde-75-pesos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La Crepa TK, junto a la Cineteca Nacional de CDMX, tiene un menú de Halloween con pizzas, hamburguesas y bebidas temáticas desde 75 pesos.",
-      "image": "https://files.merca20.com/uploads/2026/10/Restaurante-junto-a-la-Cineteca-Nacional-lanza-menu-de-Halloween-con-pizzas-de-zombis-hamburguesas-monstruosas-y-bebidas-desde-75-pesos-.jpg",
-      "published": "2026-10-24T03:28:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "646f8074aeac9a",
       "title": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
       "url": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
@@ -1069,18 +1153,6 @@
       "summary": "Olinia tomó como referencia el concepto de los kei cars; el Suzuki e-Sky muestra hasta dónde puede llegar esa fórmula en Japón.",
       "image": "https://cdn-3.expansion.mx/dims4/default/d79134f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2F4f%2Fa3afcb224754821cb80171abf717%2Folinia-suzuki-e-sky.png",
       "published": "2026-10-24T01:52:46+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f5604d4ca832f3",
-      "title": "PlayStation Plus renovó su catálogo: estos son los 9 juegos nuevos en Extra y Premium",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/10/23/playstation-plus-renovo-su-catalogo-estos-son-los-9-juegos-nuevos-en-extra-y-premium/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El servicio de suscripción de Sony renueva su catálogo con destacados como Mafia: The Old Country, Horizon Forbidden West y el clásico de culto Dino Crisis",
-      "image": "https://www.fayerwayer.com/resizer/v2/QWAESO7KLZCPJE5KAZS2IASA6M.png?auth=0804e6550adfab61e47f056fcbba259658e6b81ecfcd9a9c851ce73a7436556d&smart=true&width=1764&height=986",
-      "published": "2026-10-23T23:56:37+00:00",
       "score": null,
       "tags": []
     },
@@ -1145,18 +1217,6 @@
       "tags": []
     },
     {
-      "id": "a333a545f96a3a",
-      "title": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
-      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Microsoft continúa ajustando su estrategia de inteligencia artificial en Windows 11. A unos meses de prometer cambios estructurales, el gigante tecnológico confirmó que retirará varias acciones de Copilot integradas en e…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/tecla-copilot-windows-microsoft.jpg?fit=1024%2C570&quality=70&strip=all&ssl=1",
-      "published": "2026-10-23T20:46:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f22278b54fbdd5",
       "title": "Bet365 y Betano podrían regresar a México tras fallo judicial, pero el dinero de usuarios sigue bloqueado",
       "url": "https://expansion.mx/tecnologia/2026/10/23/bet365-betano-regreso-mexico-fallo-tribunal-dinero-usuarios",
@@ -1201,30 +1261,6 @@
       "summary": "Hoy casi todos los equipos de marketing usan inteligencia artificial. El problema es que muy pocos pueden demostrar que les está dando mejores resultados. Los números lo dejan claro. Según un estudio de Social Media Exam…",
       "image": null,
       "published": "2026-10-23T19:47:27+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "445eb98556e355",
-      "title": "Alerta en la industria tech: EE. UU. estrena nuevo veto y frena dispositivos por llevar un chip espía de Huawei",
-      "url": "https://www.fayerwayer.com/internet/2026/10/23/alerta-en-la-industria-tech-ee-uu-estrena-nuevo-veto-y-frena-dispositivos-por-llevar-un-chip-espia-de-huawei/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La FCC bloquea por primera vez dos dispositivos en EE. UU. por llevar un chip de videovigilancia de HiSilicon (Huawei). Conoce la nueva norma de seguridad.",
-      "image": "https://www.fayerwayer.com/resizer/v2/GVALQSFM2VFMVFIUDF7K7MDW2A.jpg?auth=e850267850526e5f2ee8e2fbccad2120eaee604025777aecf3ecb670b4ef5a71&smart=true&width=3070&height=2047",
-      "published": "2026-10-23T19:22:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "14479b7a290b79",
-      "title": "Netflix quería pagar una fortuna para hacer series y películas de juegos de Xbox: por qué no prosperó",
-      "url": "https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-para-peliculas-y-series/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Netflix intentó licenciar en exclusiva las propiedades intelectuales de Xbox para desarrollar series y películas originales, pero el acuerdo finalmente no llegó a buen puerto. Según reporta Puck, la plataforma de streami…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/03/halo-serie-live-action.jpg?fit=1024%2C673&quality=70&strip=all&ssl=1",
-      "published": "2026-10-23T19:07:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1397,18 +1433,6 @@
       "tags": []
     },
     {
-      "id": "13d7b202dc90d9",
-      "title": "Cinco trucos de WhatsApp útiles y funciones esenciales para exprimir la aplicación",
-      "url": "https://www.fayerwayer.com/moviles/2026/10/23/cinco-trucos-de-whatsapp-utiles-y-funciones-esenciales-para-exprimir-la-aplicacion/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Descubre 5 trucos de WhatsApp útiles: cómo usar WhatsApp Web, configurar el aspecto de los chats, poner etiquetas en grupos, nombres de usuario y más.",
-      "image": "https://www.fayerwayer.com/resizer/v2/BSKSKY4ZKFD2PHESAQQ6ES2CXA.jpg?auth=922937d4608cdd3064436ccde1829b9ce9fd47f56ac850961a7740c838327e3f&smart=true&width=1376&height=768",
-      "published": "2026-10-23T11:51:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "ded2c71f1fc279",
       "title": "Ofertas TOP de la semana ¡Aprovecha!",
       "url": "https://www.muycomputer.com/2026/10/23/ofertas-top-de-la-semana-aprovecha/",
@@ -1477,18 +1501,6 @@
       "summary": "Enrique Escandón, experto en liderazgo educativo, reflexiona sobre los retos de la dirección escolar ante la caída de la natalidad, la transformación educativa y la necesidad de diferenciarse sin sobrecargar al profesora…",
       "image": null,
       "published": "2026-10-23T07:09:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "dd66cc4675f717",
-      "title": "Corsair TC80 análisis completo de esta silla gaming",
-      "url": "https://www.muycomputer.com/2026/10/23/corsair-tc80-analisis-completo-de-esta-silla-gaming/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "El mercado de las sillas gaming es sin duda uno de los más concurridos y de los más complejos que existen actualmente. Existen muchas opciones diferentes, y esto hace que elegir resulte complicado, porque tenemos que ele…",
-      "image": null,
-      "published": "2026-10-23T07:02:22+00:00",
       "score": null,
       "tags": []
     },
@@ -1621,18 +1633,6 @@
       "summary": "Las acciones tecnológicas y vinculadas con la inteligencia artificial presionaron a Wall Street. El Nasdaq Composite perdió 2.6% y el S&P 500 bajó 1.2%. El Dow Jones logró mantenerse en terreno positivo, con un avance ma…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/11/nasdaq-today.webp",
       "published": "2026-10-22T20:16:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4a9eef1a1264d8",
-      "title": "Estados Unidos organizará el primer Mundial de Clubes Femenino en 2028",
-      "url": "https://www.altonivel.com.mx/estados-unidos-organizara-el-primer-mundial-de-clubes-femenino-en-2028/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La primera edición del torneo se disputará del 5 al 30 de enero de 2028, con 16 clubes de las seis confederaciones. El América Femenil figura entre los equipos clasificados. The post Estados Unidos organizará el primer M…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/10/mundial-clubes-femenino.webp",
-      "published": "2026-10-22T19:55:42+00:00",
       "score": null,
       "tags": []
     },

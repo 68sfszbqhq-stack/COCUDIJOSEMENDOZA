@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-11-08T12:51:46.133350+00:00",
-    "total": 182
+    "generated": "2026-11-08T21:45:26.285015+00:00",
+    "total": 176
   },
   "items": [
     {
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "Años de experiencia y conocimientos suelen quedarse atrapados en conversaciones privadas, cuando podrían convertirse en el material más valioso para construir una marca con presencia pública. The post Tu experiencia vale…",
       "image": null,
-      "published": "2026-11-08T12:51:44.736352+00:00",
+      "published": "2026-11-08T21:45:24.906034+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Evita ponerte a la defensiva y sé receptivo a la retroalimentación. Un mayor conflicto en tu equipo podría, de hecho, mejorar los resultados. The post ¿Desacuerdos en tu equipo? Usa este marco de 5 pasos para convertir e…",
       "image": null,
-      "published": "2026-11-08T12:51:44.735966+00:00",
+      "published": "2026-11-08T21:45:24.905748+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "La rotación de empleados es una señal clave para detectar ambientes laborales tóxicos antes de aceptar un trabajo. The post ¿Existe un ambiente laboral tóxico? Considera este foco rojo antes de aceptar el trabajo appeare…",
       "image": null,
-      "published": "2026-11-08T12:51:44.735572+00:00",
+      "published": "2026-11-08T21:45:24.905457+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "La adopción de la inteligencia artificial ha perdido casi todo su valor como indicador de ventaja competitiva. The post Hoy todas las empresas usan IA. Esto es lo que distingue a las que realmente saben aprovecharla appe…",
       "image": null,
-      "published": "2026-11-08T12:51:44.735165+00:00",
+      "published": "2026-11-08T21:45:24.905146+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "Descubre cinco poderosas frases que inspiran a emprendedores en cada etapa del viaje de una startup, desde la idea hasta el crecimiento. Una lectura obligada para fundadores que buscan motivación y claridad. The post Est…",
       "image": null,
-      "published": "2026-11-08T12:51:44.734717+00:00",
+      "published": "2026-11-08T21:45:24.904839+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Las herramientas de IA quedarán desactivadas de forma predeterminada para los estudiantes en 2027, pero los distritos escolares que opten por excluirse por completo tampoco podrán acceder a las herramientas de búsqueda. …",
       "image": null,
-      "published": "2026-11-08T12:51:44.727241+00:00",
+      "published": "2026-11-08T21:45:24.903664+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Los emprendedores hablan con frecuencia de sus rutinas matutinas, pero es igual de esencial reconocer la importancia de las rutinas nocturnas. The post 8 hábitos nocturnos que pueden mejorar significativamente tu product…",
       "image": null,
-      "published": "2026-11-08T12:51:44.726829+00:00",
+      "published": "2026-11-08T21:45:24.903358+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Un cargo puede desaparecer de la noche a la mañana, pero las habilidades que desarrollaste permanecen. Estas tres preguntas te ayudarán a identificar las fortalezas que puedes llevar contigo a cualquier nueva etapa. The …",
       "image": null,
-      "published": "2026-11-08T12:51:44.726463+00:00",
+      "published": "2026-11-08T21:45:24.903041+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "Los avances de la inteligencia artificial están facilitando a la banca tradicional el complejo proceso de migrar arquitecturas legadas a la hoy indispensable nube. The post Así es como los agentes de IA están transforman…",
       "image": null,
-      "published": "2026-11-08T12:51:44.726075+00:00",
+      "published": "2026-11-08T21:45:24.902728+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,439 @@
       "category": "startup",
       "summary": "La IA está redefiniendo el marketing al automatizar la ejecución y elevar el valor del juicio humano. The post ¿Qué habilidades necesitas para seguir siendo indispensable en marketing en la era de la IA? appeared first o…",
       "image": null,
-      "published": "2026-11-08T12:51:44.725630+00:00",
+      "published": "2026-11-08T21:45:24.902379+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a85019d7957a33",
+      "title": "Europa observa Marruecos desde el espacio y presencia impotente la expansión de una gigantesca mancha roja",
+      "url": "https://www.genbeta.com/actualidad/europa-observa-marruecos-espacio-presencia-impotente-expansion-gigantesca-mancha-roja",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "El detalle rojo en esta imagen de satélite es debido a la presencia de vegetación en el sur de Marruecos . Los datos de Sentinel-2 han sido procesados de manera que el infrarrojo cercano (reflejado por las plantas) apare…",
+      "image": "https://i.blogs.es/d08939/franja-urbana-y-embalse-entre-montanas-deserticas/1024_2000.png",
+      "published": "2026-11-08T21:01:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2f6cb539023125",
+      "title": "El alcohol no solo es una fuente de calorías vacías: también nos empuja a desear comida ultraprocesada",
+      "url": "https://www.psyciencia.com/el-alcohol-no-solo-es-una-fuente-de-calorias-vacias-tambien-nos-empuja-a-desear-comida-ultraprocesada/",
+      "source": "Psyciencia",
+      "category": "psicologia",
+      "summary": "Adrián Cordellat: Esa asociación, sin embargo, podría tener otra explicación. Y es que, según los resultados de una investigación publicada en la revista científica Obesity Reviews, el consumo de alcohol,…",
+      "image": null,
+      "published": "2026-11-08T20:37:29+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8767c5bd73af45",
+      "title": "Supernova Eclipse 2027: fecha, cartelera y todo lo que debes saber",
+      "url": "https://www.merca20.com/supernova-eclipse-2027-fecha-cartelera-y-todo-lo-que-debes-saber/?utm_source=rss&utm_medium=rss&utm_campaign=supernova-eclipse-2027-fecha-cartelera-y-todo-lo-que-debes-saber",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Supernova Eclipse se celebrará en mayo de 2027 en la Ciudad de México y promete incorporar nuevos enfrentamientos al cuadrilátero",
+      "image": "https://files.merca20.com/uploads/2026/11/SUPERNOVA-ECLIPSE.jpg",
+      "published": "2026-11-08T20:36:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7e7becfda40c14",
+      "title": "Valencia sabía desde 2003 el lugar en el que se inundaría: por qué la humanidad sigue viviendo en zonas catastróficas",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/valencia-sabia-2003-lugar-que-se-inundaria-que-humanidad-sigue-viviendo-zonas-catastroficas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Hace apenas unas semanas, la dana Adam volvió a convertir en ríos las calles de Oliva, Pego o Els Poblets : helicópteros rescatando a vecinos de los tejados, más de 600 litros por metro cuadrado en 48 horas y, al final, …",
+      "image": "https://i.blogs.es/b5b59f/dana_alfafar_coches-1-/1024_2000.jpeg",
+      "published": "2026-11-08T20:31:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0633ecfafc426d",
+      "title": "China está construyendo una grúa capaz de levantar 14.000 toneladas. Necesita dos unidades trabajando juntas",
+      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-construyendo-grua-capaz-levantar-14-000-toneladas-necesita-dos-unidades-trabajando-juntas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "China lleva décadas demostrando hasta dónde puede llegar la ingeniería cuando se propone construir a una escala extraordinaria. Ahí tenemos la presa de las Tres Gargantas , el enlace de 55 kilómetros que conecta Hong Kon…",
+      "image": "https://i.blogs.es/2c4478/xcmg-1/1024_2000.jpeg",
+      "published": "2026-11-08T20:01:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "18d30ecc31289e",
+      "title": "León vs. Chivas: dónde y a qué hora ver el partido EN VIVO",
+      "url": "https://www.merca20.com/leon-vs-chivas-donde-y-a-que-hora-ver-el-partido-en-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=leon-vs-chivas-donde-y-a-que-hora-ver-el-partido-en-vivo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "León y Chivas protagonizarán uno de los enfrentamientos más atractivos del domingo, en el cierre de la Jornada 16 de la Liga MX",
+      "image": "https://files.merca20.com/uploads/2026/11/Leon-vs.-Chivas-Gemini-AI.jpg",
+      "published": "2026-11-08T19:41:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8f4dd64611f1b2",
+      "title": "Hace 110 años, el guanaco se extinguió de una parte de Argentina. Un viaje de 3.200 kilómetros lo trajo de vuelta",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/hace-110-anos-guanaco-se-extinguio-parte-argentina-viaje-3-200-kilometros-trajo-vuelta",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Gran Chaco es, después de la Amazonia, el segundo bioma más extenso de toda América del Sur y se extiende por Argentina, Bolivia, Brasil y Paraguay. Estamos hablando de una vasta llanura, en buena parte semiárida y co…",
+      "image": "https://i.blogs.es/4bb5ad/guanaco_patagonico/1024_2000.jpeg",
+      "published": "2026-11-08T19:31:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "25950a3adc8d1f",
+      "title": "Hoy en Ikea (por 24,99 euros) la solución 5 en 1 para tener enchufes en las esquinas de las paredes y los rincones desaprovechados de casa",
+      "url": "https://www.xataka.com/seleccion/hoy-ikea-24-99-euros-solucion-5-1-para-tener-enchufes-esquinas-paredes-rincones-desaprovechados-casa",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Con la cantidad de dispositivos electrónicos que usamos en nuestro día a día, tanto los que van conectados siempre a la corriente eléctrica como los que hay que recargar constantemente, lo ideal es contar con cuantos más…",
+      "image": "https://i.blogs.es/20b22d/ikea-solucion/1024_2000.jpeg",
+      "published": "2026-11-08T19:15:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e512eaec3e2551",
+      "title": "Sabíamos que el exceso de azúcar era malo para engordar. Ahora también puede dar demencia muchos años antes de que te des cuenta",
+      "url": "https://www.xataka.com/medicina-y-salud/sabiamos-que-exceso-azucar-era-malo-para-engordar-ahora-tambien-puede-dar-demencia-muchos-anos-te-des-cuenta",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En septiembre de 1953, el Reino Unido puso fin al racionamiento de azúcar instaurado durante la Segunda Guerra Mundial . De la noche a la mañana, el consumo medio diario de los británicos prácticamente se duplicó, pasand…",
+      "image": "https://i.blogs.es/11c5ce/azucar/1024_2000.jpeg",
+      "published": "2026-11-08T19:01:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cd214a9d420591",
+      "title": "Mi cofundador y yo éramos rivales en hackathons. A los 21 años, he puesto la universidad en pausa para construir una startup con él",
+      "url": "https://www.genbeta.com/laboral/mi-cofundador-yo-eramos-rivales-hackathons-a-21-anos-he-puesto-universidad-pausa-para-construir-startup",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Cuando Raymond Loong Ng participaba en concursos de programación, nunca imaginó que uno de sus principales rivales acabaría siendo su socio. Ambos competían en equipos diferentes, pero solían ser de los pocos que seguían…",
+      "image": "https://i.blogs.es/2185a9/genbeta-7-silicon-valley/1024_2000.jpeg",
+      "published": "2026-11-08T19:01:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4fba2f9d2f3173",
+      "title": "El iPod no ha muerto: esta aplicación convierte tu móvil, PC y Mac en el mítico reproductor de Apple",
+      "url": "https://hipertextual.com/guias/ipod-apple-app-reproductor-musica-classipod/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "El final del iPod llegó oficialmente en 2022, cuando Apple anunciaba que este dispositivo dejaba de estar a la venta y de fabricarse. Un dispositivo que cambió nuestra manera de escuchar música y que hoy en día sigue pre…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Siluetas-iPod-Publicidad-2003.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-11-08T19:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cd8f3251662238",
+      "title": "Cuándo es el Cyber Monday 2026 y qué ofertas habrá en México",
+      "url": "https://www.merca20.com/cuando-es-el-cyber-monday-2026-y-que-ofertas-habra-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-es-el-cyber-monday-2026-y-que-ofertas-habra-en-mexico",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Durante el Cyber Monday 2026, los consumidores podrán encontrar ofertas en tecnología, electrónica y diversas categorías",
+      "image": "https://files.merca20.com/uploads/2026/11/Cyber-Monday-Gemini-AI-1.jpg",
+      "published": "2026-11-08T18:45:02+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "055635c7ad5d8d",
+      "title": "Un edificio del tamaño de un campo de fútbol llevaba 2.600 años oculto en el delta del Nilo. Lo ha encontrado un satélite",
+      "url": "https://www.xataka.com/magnet/edificio-tamano-campo-futbol-llevaba-2-600-anos-oculto-delta-nilo-ha-encontrado-satelite",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Pocas civilizaciones antiguas han sido tan estudiadas como Egipto y sin embargo, esta sigue sorprendiéndonos con hallazgos en forma de edificios enormes que, curiosamente, no son pirámides . Y ojo, no es porque haya pasa…",
+      "image": "https://i.blogs.es/fd2656/annie-spratt-p2jr9b3j_mq-unsplash/1024_2000.jpeg",
+      "published": "2026-11-08T18:31:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f504c5fbfe365f",
+      "title": "Por qué es festivo el 16 de noviembre y qué pasa si trabajo ese día",
+      "url": "https://www.merca20.com/por-que-es-festivo-el-16-de-noviembre-y-que-pasa-si-trabajo-ese-dia/?utm_source=rss&utm_medium=rss&utm_campaign=por-que-es-festivo-el-16-de-noviembre-y-que-pasa-si-trabajo-ese-dia",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Millones de estudiantes y trabajadores en México podrán disfrutar de un fin de semana largo gracias el festivo del 16 de noviembre",
+      "image": "https://files.merca20.com/uploads/2026/11/Dia-festivo-Gemini-AI.jpg",
+      "published": "2026-11-08T18:17:41+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d6b6c6574a71a5",
+      "title": "Nadie vio venir el problema del edificio Walkie-Talkie hasta que los coches aparcados enfrente empezaron a derretirse",
+      "url": "https://www.xataka.com/magnet/este-edificio-londres-parecia-normal-que-coches-aparcados-enfrente-empezaron-a-derretirse",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Corría el año 2013 cuando el propietario de un Jaguar se quejó de que este se había deformado después de mantenerlo aparcado en Eastcheap , cerca de Fenchurch Street, en Londres. Con el tiempo, otros conductores comenzar…",
+      "image": "https://i.blogs.es/deb0a2/edificio-walkie-talkie/1024_2000.jpeg",
+      "published": "2026-11-08T18:01:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4d64ab649660b1",
+      "title": "¿De qué va la extraña serie documental mexicana ‘Poeta caníbal’ que acaba de llegar a HBO Max?",
+      "url": "https://hipertextual.com/cine-television/de-que-va-la-extrana-serie-documental-mexicana-poeta-canibal-que-acaba-de-llegar-a-hbo-max/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Poeta caníbal, el nuevo true crime mexicano que acaba de estrenarse en HBO Max, cuenta un oscuro episodio del mundo criminal del país. Pero también es un recorrido elegante y bien planteado sobre el horror de la violenci…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Poeta-Can%C2%B4pibal.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-11-08T18:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "65d9041587b8cd",
+      "title": "Esto es lo que le pasa a tu cuerpo cuando estás sentado todo el día",
+      "url": "https://www.psyciencia.com/esto-es-lo-que-le-pasa-a-tu-cuerpo-cuando-estas-sentado-todo-el-dia/",
+      "source": "Psyciencia",
+      "category": "psicologia",
+      "summary": "Incluso las personas que se ejercitan regularmente pueden sufrir de los efectos de estar sentadas todo el día. En esta conferencia el científico Keith Diaz sostiene que un remedio para…",
+      "image": null,
+      "published": "2026-11-08T17:44:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fdb63e42cde0ed",
+      "title": "Feria del Pulque y la Barbacoa CDMX 2026: fechas, horarios y dónde será",
+      "url": "https://www.merca20.com/feria-del-pulque-y-la-barbacoa-cdmx-2026-fechas-horarios-y-donde-sera/?utm_source=rss&utm_medium=rss&utm_campaign=feria-del-pulque-y-la-barbacoa-cdmx-2026-fechas-horarios-y-donde-sera",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La Feria del Pulque y la Barbacoa tendrá lugar durante el segundo fin de semana de noviembre, con gastronomía y actividades culturales",
+      "image": "https://files.merca20.com/uploads/2026/11/Feria-del-Pulque-y-la-Barbacoa-Gemini-AI.jpg",
+      "published": "2026-11-08T17:12:47+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9c830796bef59e",
+      "title": "Las mariposas tienen un truco oculto en sus alas para escapar de los depredadores: engañar a su cerebro",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/mariposas-tienen-truco-oculto-sus-alas-para-escapar-depredadores-enganar-a-su-cerebro",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Una de las grandes preguntas que podemos tener en la cabeza está precisamente en por qué las mariposas cuentan con deslumbrantes patrones geométricos y colores en sus alas. La explicación convencional se dividía casi sie…",
+      "image": "https://i.blogs.es/66d20c/alas-mariposa/1024_2000.jpeg",
+      "published": "2026-11-08T17:01:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c15ef2806da6e4",
+      "title": "Roblox, acusado de descargar 145 GB de modelos 3D, incluido contenido para adultos, para entrenar IA. La empresa niega haber usado los archivos",
+      "url": "https://www.genbeta.com/seguridad/roblox-acusado-descargar-145-gb-modelos-3d-incluido-contenido-para-adultos-para-entrenar-ia-empresa-niega-haber-usado-archivos",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Según Open3DLab , el rastreador asociado a la plataforma de juegos online Roblox se llevó 145,5 GB de modelos 3D de Open3DLab y sus sitios hermanos (SFMLab y SmutBase) . Asimismo, ha sido acusado de pasar por alto las re…",
+      "image": "https://i.blogs.es/d6fccb/sede-de-roblox/1024_2000.png",
+      "published": "2026-11-08T17:01:08+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1d335c305bea17",
+      "title": "Las 5 mejores películas de Godzilla que tienes que ver antes de ‘Godzilla Minus Zero’",
+      "url": "https://hipertextual.com/cine-television/las-5-mejores-peliculas-de-godzilla-que-tienes-que-ver-antes-de-godzilla-minus-zero/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Las películas de Godzilla llevan despertando la curiosidad de los espectadores desde hace ya más de 70 años. Fue en 1954 cuando el público pudo ver por primera vez al gigantesco lagarto japonés arrasando Tokio. Desde aqu…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Godzilla-peliculas.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-11-08T17:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a5c7e89b94827f",
+      "title": "Resulta que el \"rey\" que llevó a Roma hasta Britania era una mujer: la pista estaba en sus monedas",
+      "url": "https://www.xataka.com/magnet/resulta-que-rey-que-llevo-a-roma-britania-era-mujer-pista-estaba-sus-monedas",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En el año 43 d.C., el Imperio Romano invadió Britania, si bien desde hace poco sabemos que su \"conquista\" había empezado antes . El historiador Dion Casio escribió en el siglo III que Verica, gobernante de los atrebates …",
+      "image": "https://i.blogs.es/f7c4ad/stater_of_verica/1024_2000.jpeg",
+      "published": "2026-11-08T16:31:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2055b06f6c1a94",
+      "title": "Don Omar anuncia gira en México: fechas y cómo registrarte para la preventa",
+      "url": "https://www.merca20.com/don-omar-anuncia-gira-en-mexico-fechas-y-como-registrarte-para-la-preventa/?utm_source=rss&utm_medium=rss&utm_campaign=don-omar-anuncia-gira-en-mexico-fechas-y-como-registrarte-para-la-preventa",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "México será una de las paradas de la gira latinoamericana de Don Omar, que lleva por nombre The Last King World Tour Latam 2027",
+      "image": "https://files.merca20.com/uploads/2026/11/Don-Omar.jpg",
+      "published": "2026-11-08T16:25:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ee77c74df4f115",
+      "title": "El cangrejo azul no tenía depredadores naturales en el mediterráneo, hasta que el pulpo empezó a tener hambre",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/cangrejo-azul-no-tenia-depredadores-naturales-mediterraneo-que-pulpo-empezo-a-tener-hambre",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El 2 de octubre de 2022 , un buceador fotografió una hembra de cangrejo azul caminando por la arena de San Antoni de Portmany en Ibiza. Le faltaba una pinza y medía 16 centímetros de ancho. Una hora después, el cangrejo …",
+      "image": "https://i.blogs.es/537866/meressa-chartrand-eki3rr2vkzo-unsplash-1-1-/1024_2000.jpeg",
+      "published": "2026-11-08T16:01:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9ea665f3d0196a",
+      "title": "3 razones para ver la nueva y espectacular temporada de ‘La edad dorada’ en HBO Max",
+      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-y-espectacular-temporada-de-la-edad-dorada-en-hbo-max/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La edad dorada ya estrenó el primer capítulo de su cuarta temporada en HBO Max y sorprendió. En especial, porque el regreso al convulso Nueva York del año 1886 estuvo lleno de sorpresas. Del inesperado cameo de Matt Damo…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/La-edad-dorada-calendario.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-11-08T16:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6b14735bdfd21d",
+      "title": "Mientras algunas tiendas se preparan para el Buen Fin, Walmart, Sam’s Club y Bodega Aurrera adelantan ofertas en el Fin Irresistible",
+      "url": "https://www.merca20.com/mientras-algunas-tiendas-se-preparan-para-el-buen-fin-walmart-sams-club-y-bodega-aurrera-adelantan-ofertas-en-el-fin-irresistible/?utm_source=rss&utm_medium=rss&utm_campaign=mientras-algunas-tiendas-se-preparan-para-el-buen-fin-walmart-sams-club-y-bodega-aurrera-adelantan-ofertas-en-el-fin-irresistible",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El Fin Irresistible 2026 de Walmart, Sams' Club y Bodega Aurrera comenzó el 5 de noviembre y tendrá una duración de dos semanas",
+      "image": "https://files.merca20.com/uploads/2026/11/folleto-sams-club-fin-irresistible.jpg",
+      "published": "2026-11-08T15:39:04+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0c375de8593598",
+      "title": "CNMD 2026: Falabella México revelará cómo ganar relevancia cuando los consumidores ya no quieren escuchar a las marcas",
+      "url": "https://www.merca20.com/cnmd-2026-falabella-mexico-revelara-como-ganar-relevancia-cuando-los-consumidores-ya-no-quieren-escuchar-a-las-marcas/?utm_source=rss&utm_medium=rss&utm_campaign=cnmd-2026-falabella-mexico-revelara-como-ganar-relevancia-cuando-los-consumidores-ya-no-quieren-escuchar-a-las-marcas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El CNMD 2026 ofrecerá un análisis profundo para profesionales de marketing, publicidad, medios, comercio electrónico, creatividad y tecnología",
+      "image": "https://files.merca20.com/uploads/2026/07/cnmd-2026-geely.jpg",
+      "published": "2026-11-08T15:20:10+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea3fb9eca3affa",
+      "title": "El uso de agua en los centros de datos de IA crece en áreas azotadas por la sequía",
+      "url": "https://www.genbeta.com/inteligencia-artificial/uso-agua-centros-datos-ia-crece-areas-azotadas-sequia",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Los centros de datos de IA necesitan enormes cantidades de agua para mantener sus servidores a una temperatura adecuada, algo que preocupa especialmente en lugares como Arizona en el que la sequía lleva años poniendo en …",
+      "image": "https://i.blogs.es/73f7cd/genbeta-6-centro-de-datos/1024_2000.jpeg",
+      "published": "2026-11-08T15:01:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "a9ba41bf8ea06f",
+      "title": "Nano está reducido, pero no recortado: Xbox apuesta por un mando apto para manos pequeñas y de cautivadora estética retro",
+      "url": "https://www.xataka.com/videojuegos/nano-esta-reducido-no-recortado-xbox-apuesta-mando-apto-para-manos-pequenas-cautivadora-estetica-retro",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Con un panorama navideño absolutamente huérfano de lanzamientos de hardware, los grandes nombres del sector intentan sacudir un poco los bolsillos con ofertas, refritos, rediseños y ofertas variadas. Apunta a una tempora…",
+      "image": "https://i.blogs.es/e15829/whatsapp-image-2026-11-05-at-16.33.24/1024_2000.jpeg",
+      "published": "2026-11-08T15:01:05+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2b44681d28a0f5",
+      "title": "Jackie Kennedy sobre el matrimonio: “La primera vez te casas por amor, la segunda por dinero y la tercera por compañía”",
+      "url": "https://www.merca20.com/jackie-kennedy-sobre-el-matrimonio-la-primera-vez-te-casas-por-amor-la-segunda-por-dinero-y-la-tercera-por-compania/?utm_source=rss&utm_medium=rss&utm_campaign=jackie-kennedy-sobre-el-matrimonio-la-primera-vez-te-casas-por-amor-la-segunda-por-dinero-y-la-tercera-por-compania",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La vida sentimental de Jacqueline Kennedy estuvo marcada por dos matrimonios que recibieron una enorme atención pública",
+      "image": "https://files.merca20.com/uploads/2026/11/JACKIE-KENNEDY-GEMINI.jpg",
+      "published": "2026-11-08T14:51:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "310f239fbfe5d4",
+      "title": "España ya genera el 56% de su electricidad con renovables, pero la AIE señala el gran problema que todavía no ha resuelto",
+      "url": "https://www.xataka.com/energia/espana-genera-56-su-electricidad-renovables-aie-senala-gran-problema-que-todavia-no-ha-resuelto",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En los últimos años, España ha conseguido avances muy relevantes en energías renovables y descarbonización. No lo decimos nosotros. Tampoco el Gobierno. Lo ha dicho la Agencia Internacional de la Energía (AIE) que ha pub…",
+      "image": "https://i.blogs.es/e2540e/david-vives-yyvjdk7qepo-unsplash/1024_2000.jpeg",
+      "published": "2026-11-08T14:31:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "76a159d9ef5075",
+      "title": "Un satélite japonés ha visto cómo se aceleraban electrones asesinos en una zona donde se suponía que no podía pasar",
+      "url": "https://www.xataka.com/espacio/satelite-japones-ha-visto-como-se-aceleraban-electrones-asesinos-zona-donde-se-suponia-que-no-podia-pasar",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "No somos suficientemente conscientes de lo bien protegidos que estamos en la Tierra. Multitud de barreras protectoras, desde el campo magnético hasta la capa de ozono nos protegen de todo tipo de amenazas externas que co…",
+      "image": "https://i.blogs.es/491e30/van-allen/1024_2000.jpeg",
+      "published": "2026-11-08T14:01:07+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8dd2ffc76adedb",
+      "title": "Los personajes más detestados del cine y la televisión reciente (y no son los que piensas)",
+      "url": "https://hipertextual.com/cine-television/los-personajes-mas-detestados-del-cine-y-la-television-reciente-y-no-son-los-que-piensas/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "¿Qué hace a un buen personaje de cine o televisión serlo? La pregunta es tramposa e implica varias cosas a la vez. La más notoria: el esfuerzo, imaginación y sutileza que haya puesto el escritor de turno para desarrollar…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Personajes-detestables.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1",
+      "published": "2026-11-08T14:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "491f9d97f64897",
+      "title": "Garmin quiere que Waze avise a los conductores de la presencia de ciclistas",
+      "url": "https://www.muycomputer.com/2026/11/08/garmin-quiere-que-waze-avise-a-los-conductores-de-la-presencia-de-ciclistas/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Garmin podría estar preparando una de esas funciones que hacen que un dispositivo deportivo resulte útil incluso para quienes no lo llevan puesto. Una posible integración con Waze permitiría compartir la ubicación de los…",
+      "image": null,
+      "published": "2026-11-08T13:05:35+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f0e5ee308667d3",
+      "title": "“La IA no va a meterse debajo de las casas para instalar tuberías “: en Estados Unidos, el nuevo atractivo por la formación en oficios manuales",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-estados-unidos-nuevo-atractivo-formacion-oficios-manuales",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Victor Velasco (26) estudia fontanería en el Los Angeles Trade-Technical College (California) . Es una opción con la que busca una profesión con demanda. “La IA no va a ir debajo de las casas a poner tuberías” , dice. Pa…",
+      "image": "https://i.blogs.es/d705e9/aprendiendo-uniones-de-madera-en-equipo/1024_2000.jpeg",
+      "published": "2026-11-08T13:01:15+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ff220e426af45e",
+      "title": "El mando de mi tele tiene botones que no utilizo. Le he pedido a la IA que los cambie por las apps que sí uso",
+      "url": "https://www.xataka.com/robotica-e-ia/mando-mi-tele-tiene-botones-que-no-utilizo-le-he-pedido-a-ia-que-cambie-apps-que-uso",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Con la llegada de la inteligencia a las Smart TVs también aterrizaron mandos para los que hay que hacer un máster si quieres entenderlos por completo. Supongo que por eso colocaron botones directos a Netflix y compañía ,…",
+      "image": "https://i.blogs.es/2c1b1e/editar-botones-mando-tele-portada/1024_2000.jpeg",
+      "published": "2026-11-08T13:01:14+00:00",
       "score": null,
       "tags": []
     },
@@ -137,18 +569,6 @@
       "tags": []
     },
     {
-      "id": "f00f715225ae8d",
-      "title": "Tras años de envejecimiento, China se enfrenta a una nueva realidad: sus familias ya mantienen a más ancianos que niños",
-      "url": "https://www.xataka.com/magnet/anos-envejecimiento-china-se-enfrenta-a-nueva-realidad-sus-familias-mantienen-a-ancianos-que-ninos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "China arrancó 2026 con un récord histórico . En enero su Oficina Nacional de Estadísticas reveló que la tasa de natalidad se ha desplomado al nivel más bajo desde al menos 1949 , año de la fundación de la República Popul…",
-      "image": "https://i.blogs.es/85f749/joylynn-goh-34tvwwvx-lq-unsplash/1024_2000.jpeg",
-      "published": "2026-11-08T12:01:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d4c7fe8e989cab",
       "title": "Lo que faltaba: este bug de Paint deja tu PC con Windows 11 a merced de los hackers",
       "url": "https://hipertextual.com/software/lo-que-faltaba-este-bug-de-paint-deja-tu-pc-con-windows-11-a-merced-de-los-hackers/",
@@ -161,26 +581,14 @@
       "tags": []
     },
     {
-      "id": "6cbc960a67d727",
-      "title": "El Alpine A390 GT es toda una masterclass de cómo hacer un coche eléctrico deportivo y divertido cuando tienes que mover 2.200 kg",
-      "url": "https://www.xataka.com/movilidad/alpine-a390-gt-analisis-review-caracteristicas-precio-especificaciones",
-      "source": "Xataka",
+      "id": "ecbc9849e0b4de",
+      "title": "PlayStation 6: un exjefe de Sony prefiere una PS5 de 300 dólares a una consola de 1.200",
+      "url": "https://www.muycomputer.com/2026/11/08/playstation-6-un-exjefe-de-sony-prefiere-una-ps5-de-300-dolares-a-una-consola-de-1-200/",
+      "source": "Muycomputer",
       "category": "tech-ia",
-      "summary": "Empezaremos con emociones fuertes esta prueba: el Alpine A390 GT es uno de los coches eléctricos más interesantes que puedes comprar. Y, pese a ello, lo verás poquísimo por las calles. Contaban hace unas semanas en la ve…",
-      "image": "https://i.blogs.es/5b7e50/dscf6175.raf/1024_2000.jpeg",
-      "published": "2026-11-08T11:31:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "446484b6e3346c",
-      "title": "En su empeño por ser una potencia del petróleo, China perforó el segundo pozo más profundo del mundo",
-      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/su-empeno-ser-potencia-petroleo-china-perforo-segundo-pozo-profundo-mundo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "China ha iniciado en los últimos años una cantidad considerable de proyectos que son tremendamente ambiciosos. Tiene en marcha la Nueva Ruta de la Seda , se ha propuesto liderar en la creación de baterías para coches elé…",
-      "image": "https://i.blogs.es/a2b27c/captura-de-pantalla-2025-03-27-a-las-19.57.39/1024_2000.jpeg",
-      "published": "2026-11-08T11:01:12+00:00",
+      "summary": "PlayStation 6 todavía no tiene precio ni fecha de lanzamiento confirmados, pero el debate sobre cuánto debería costar la próxima consola de Sony ya está servido. Shawn Layden, antiguo responsable de PlayStation, cree que…",
+      "image": null,
+      "published": "2026-11-08T11:34:37+00:00",
       "score": null,
       "tags": []
     },
@@ -209,14 +617,14 @@
       "tags": []
     },
     {
-      "id": "ac029ffecf4817",
-      "title": "Un país de Europa acaba de mostrar una de las piezas de artillería más insólitas: un monstruo que dispara proyectiles de 100 kg y huye a 80 km/h",
-      "url": "https://www.xataka.com/magnet/pais-europa-acaba-mostrar-piezas-artilleria-insolitas-monstruo-que-dispara-proyectiles-100-kg-huye-a-80-km-h",
-      "source": "Xataka",
+      "id": "9ccef3d03edb8e",
+      "title": "iOS esconde una lista de miles de frases que su teclado se niega a sugerir",
+      "url": "https://www.muycomputer.com/2026/11/08/ios-esconde-una-lista-de-miles-de-frases-que-su-teclado-se-niega-a-sugerir/",
+      "source": "Muycomputer",
       "category": "tech-ia",
-      "summary": "Serbia ha presentado las primeras imágenes de una pieza de artillería que parece desafiar las reglas de la ingeniería militar: un mortero gigantesco instalado sobre un camión relativamente ligero. Su propuesta es tan sen…",
-      "image": "https://i.blogs.es/e58a3d/serbian-mortar/1024_2000.jpeg",
-      "published": "2026-11-08T10:31:06+00:00",
+      "summary": "iOS lleva años decidiendo qué palabras aparecen en el teclado predictivo del iPhone, pero una investigación acaba de revelar que sus filtros van mucho más allá de los insultos y las expresiones ofensivas. Derik Kauffman …",
+      "image": null,
+      "published": "2026-11-08T10:04:51+00:00",
       "score": null,
       "tags": []
     },
@@ -233,18 +641,6 @@
       "tags": []
     },
     {
-      "id": "7b781027c98e77",
-      "title": "La extraña supervivencia de Pinterest: quién demonios sigue utilizándolo y por qué sigue ganando dinero",
-      "url": "https://www.xataka.com/empresas-y-economia/extrana-supervivencia-pinterest-quien-demonios-sigue-utilizandolo-que-sigue-ganando-dinero",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Casi todo el mundo ha acabado alguna vez en Pinterest buscando cómo maximizar el espacio de su pequeño salón, qué cocinar con lo que queda en la nevera el día 29, qué peinado de moda puede llevar a una boda o alguna idea…",
-      "image": "https://i.blogs.es/56c6e3/magnific__cambia-esas-imgenes-por-otras-mas-habituales-en-pi__66142/1024_2000.jpeg",
-      "published": "2026-11-08T10:01:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "a3702a41f8f0ed",
       "title": "No te ilusiones con jugar ‘The Elder Scrolls 6: Sentinel’ pronto: la espera será aún más larga",
       "url": "https://hipertextual.com/videojuegos/the-elder-scrolls-6-sentinel-espera-mas-larga/",
@@ -253,54 +649,6 @@
       "summary": "Después de mucho tiempo de espera, los fanáticos de The Elder Scrolls tuvieron una buena noticia en los últimos días tras darse a conocer el nombre oficial de la próxima entrega de la saga. Bethesda confirmó que, tal y c…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/TES6-logo.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-11-08T10:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3c803fcc903e70",
-      "title": "Cinco ofertas para aprovechar los primeros adelantos del Black Friday en MediaMarkt y El Corte Inglés, hoy 8 de noviembre",
-      "url": "https://www.xataka.com/seleccion/cinco-ofertas-para-aprovechar-primeros-adelantos-black-friday-mediamarkt-corte-ingles-hoy-8-noviembre",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Las tiendas han comenzado el mes de noviembre lanzando sus primeras campañas relacionadas con el Black Friday , y tanto en MediaMarkt como en El Corte Inglés podemos encontrar muy buenos descuentos. En este artículo vamo…",
-      "image": "https://i.blogs.es/c6dfd6/mediamarkt-y-el-corte-ingles/1024_2000.jpeg",
-      "published": "2026-11-08T09:17:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "336de8594d6a61",
-      "title": "Ni vino de Asia ni lo trajeron los romanos: el mapa que desvela el verdadero origen del castaño en Europa",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/vino-asia-trajeron-romanos-mapa-que-desvela-verdadero-origen-castano-europa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Pocos árboles hay tan característicos y emblemáticos a lo largo y ancho de toda Europa como el castaño . Y que se puedan exprimir tanto: da frutos (es época y en la airfryer se preparan en un pispás ), da madera, sirve c…",
-      "image": "https://i.blogs.es/8b3f33/castanooo/1024_2000.jpeg",
-      "published": "2026-11-08T09:01:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4bb654f7deb879",
-      "title": "Zaragoza sale a la calle contra los centros de datos: \"No generan empleo, no pagan impuestos y se quedan con todos los recursos\"",
-      "url": "https://www.xataka.com/robotica-e-ia/zaragoza-sale-a-calle-centros-datos-no-generan-empleo-no-pagan-impuestos-se-quedan-todos-recursos",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Ayer era el Día Europeo contra los centros de datos y la capital de la región \"favorita\" de los datacenters en España salió a la calle para protestar: a la manifestación de Zaragoza acudieron miles de personas. Las cifra…",
-      "image": "https://i.blogs.es/e4d5d0/zaragoza/1024_2000.jpeg",
-      "published": "2026-11-08T08:31:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "61d62c72ac2ede",
-      "title": "TCL nos ha mostrado dos televisores Mini LED por dentro para enseñarnos algo importante: el nombre no siempre significa lo mismo",
-      "url": "https://www.xataka.com/televisores/tcl-nos-ha-mostrado-dos-televisores-mini-led-dentro-para-ensenarnos-algo-importante-nombre-no-siempre-significa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hay una parte de los televisores que normalmente permanece oculta a nuestros ojos. Podemos pasar horas delante de una pantalla disfrutando de una película o una serie sin preguntarnos demasiado cómo consigue reproducir l…",
-      "image": "https://i.blogs.es/6464a7/prueba-tcl-espana-4/1024_2000.jpeg",
-      "published": "2026-11-08T08:01:07+00:00",
       "score": null,
       "tags": []
     },
@@ -337,30 +685,6 @@
       "summary": "Los videojuegos permiten recorrer escenarios históricos y acercarse al pasado de otra manera. Marc García, historiador y profesor de Historia del Bachillerato Internacional, explica cómo utilizarlos para analizar fuentes…",
       "image": null,
       "published": "2026-11-08T08:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f5bed260c69be6",
-      "title": "En una isla de California solo quedaban 15 zorros a finales de los noventa: tras expulsar a las águilas reales, hoy son más de 300",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/isla-california-solo-quedaban-15-zorros-a-finales-noventa-expulsar-a-aguilas-reales-hoy-300",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "En la década de los 90, las Islas del Canal frente a la costa de California fueron el escenario de una catástrofe ecológica fulminante. En este punto, el zorro isleño, un carnívoro endémico y rey indiscutible de este arc…",
-      "image": "https://i.blogs.es/6dceb9/zorro/1024_2000.jpeg",
-      "published": "2026-11-08T07:01:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "308558ede95d7a",
-      "title": "Pitidos molestos, ruidos extraños, toda una odisea: cómo conectábamos los primitivos módems a internet",
-      "url": "https://www.xataka.com/historia-tecnologica/pitidos-molestos-ruidos-extranos-toda-odisea-como-conectabamos-primitivos-modems-a-internet",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El que suscribe vivió (y sufrió) aquella era de las conexiones a internet con un módem telefónico, y seguro que como yo muchos recordaréis aquella particular ruidosa secuencia de pitidos que se producía justo antes de qu…",
-      "image": "https://i.blogs.es/cc4a25/modemos-1-/1024_2000.jpeg",
-      "published": "2026-11-08T06:31:06+00:00",
       "score": null,
       "tags": []
     },
@@ -473,66 +797,6 @@
       "tags": []
     },
     {
-      "id": "ebb5d4fd796143",
-      "title": "El misterioso motivo por el que los avanzadísimos retretes japoneses no han triunfado en el resto del mundo",
-      "url": "https://www.xataka.com/internet-of-things/misterioso-motivo-que-avanzadisimos-retretes-japoneses-no-han-triunfado-resto-mundo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Uno podría confundirlos con instrumentos de tortura, pero los retretes japoneses son un pequeño prodigio de la tecnología más escatológica posible. Fabricantes como Toto se han convertido en la Dyson o la Apple del secto…",
-      "image": "https://i.blogs.es/6596a3/photo-1718851972745-7287cd0b7807/1024_2000.jpeg",
-      "published": "2026-11-07T20:31:07+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "210285b6555c9b",
-      "title": "Pumas vs. América: dónde y a qué hora ver el partido GRATIS y EN VIVO",
-      "url": "https://www.merca20.com/pumas-vs-america-donde-y-a-que-hora-ver-el-partido-gratis-y-en-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=pumas-vs-america-donde-y-a-que-hora-ver-el-partido-gratis-y-en-vivo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Pumas y América buscarán obtener la victoria en el Estadio Olímpico Universitario, en el partido correspondiente a la Jornada 16 de la Liga MX",
-      "image": "https://files.merca20.com/uploads/2026/05/Pumas-vs.-America-Gemini-AI.jpg",
-      "published": "2026-11-07T20:29:09+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5ec4e312e3e78a",
-      "title": "EEUU financió una red de sensores en el Pacífico. China ha utilizado sus datos para descubrir una gigantesca estructura invisible bajo el mar",
-      "url": "https://www.xataka.com/magnet/eeuu-financio-red-sensores-pacifico-china-ha-utilizado-sus-datos-para-descubrir-gigantesca-estructura-invisible-mar",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hace más de 20 años, Estados Unidos desplegó decenas de sensores en el fondo del Pacífico para estudiar sus corrientes. Ahora, científicos chinos han recuperado aquellos datos y encontrado algo que podría tener implicaci…",
-      "image": "https://i.blogs.es/008d96/image-from-rawpixel-id-3393630-original/1024_2000.jpeg",
-      "published": "2026-11-07T19:31:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "372f99e2543fa2",
-      "title": "Muñeca Zoey Fashion de Kpop Demon Hunters: precio y dónde comprarla",
-      "url": "https://www.merca20.com/muneca-zoey-fashion-de-kpop-demon-hunters-precio-y-donde-comprarla/?utm_source=rss&utm_medium=rss&utm_campaign=muneca-zoey-fashion-de-kpop-demon-hunters-precio-y-donde-comprarla",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La muñeca Zoey Fashion de Kpop Demon Hunters incluye varios accesorios esculpidos con acabados detallados, incluido el Shin-kal",
-      "image": "https://files.merca20.com/uploads/2026/11/Muneca-Zoey-Fashion-Kpop-Demon-Hunters.jpg",
-      "published": "2026-11-07T19:18:10+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "abdb3eeeeef1f1",
-      "title": "Hace 600 años, unos conquistadores europeos llegaron a Lanzarote y levantaron una ciudad donde apenas había agua. Ahora sabemos cómo sobrevivieron",
-      "url": "https://www.xataka.com/magnet/hace-600-anos-unos-conquistadores-europeos-llegaron-a-lanzarote-levantaron-ciudad-donde-apenas-habia-agua-ahora-sabemos-como-sobrevivieron",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Imagina la escena. En 1402, dos nobles aventureros franceses desembarcan para conquistar, evangelizar y colonizar las Islas Canarias. Son Jean de Béthencourt y Gadifer de La Salle y acaban de entrar por la desembocadura …",
-      "image": "https://i.blogs.es/e6ae5a/asentamiento/1024_2000.jpeg",
-      "published": "2026-11-07T19:01:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "1e21fcbe819955",
       "title": "El CEO multimillonario de Palantir dice que solo dos tipos de personas tendrán éxito en la era de la IA: trabajadores manuales o \"neurodivergentes\"",
       "url": "https://www.genbeta.com/inteligencia-artificial/ceo-multimillonario-palantir-dice-que-solo-dos-tipos-personas-tendran-exito-era-ia-trabajadores-manuales-neurodivergentes",
@@ -569,18 +833,6 @@
       "tags": []
     },
     {
-      "id": "c076c1b3084b12",
-      "title": "Cuándo es el Black Friday 2026 y qué ofertas habrá en México",
-      "url": "https://www.merca20.com/cuando-es-el-black-friday-2026-y-que-ofertas-habra-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-es-el-black-friday-2026-y-que-ofertas-habra-en-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Las promociones del Black Friday suelen concentrarse en productos tecnológicos, artículos para el hogar, moda y entretenimiento",
-      "image": "https://files.merca20.com/uploads/2026/10/Black-Friday-ChatGPT.jpg",
-      "published": "2026-11-07T18:31:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6aba37b71af885",
       "title": "De qué va ‘Nightborn’, la rara película de terror que ya llegó a Movistar+ con Rupert Grint de Harry Potter",
       "url": "https://hipertextual.com/cine-television/de-que-va-nightborn-la-rara-pelicula-de-terror-que-ya-llego-a-movistar-con-rupert-grint-de-harry-potter/",
@@ -589,18 +841,6 @@
       "summary": "Nightborn es una de las exploraciones más perturbadoras de la paternidad de los últimos años. Y lo es por una razón muy concreta: la capacidad de la cinta para inquietar y resultar hasta repulsiva. Eso, sin perder en nin…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Nightborn23.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-11-07T18:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "692fc251889cfa",
-      "title": "Licencia de conducir permanente en CDMX: fecha límite y cómo tramitarla paso a paso",
-      "url": "https://www.merca20.com/licencia-de-conducir-permanente-en-cdmx-fecha-limite-y-como-tramitarla-paso-a-paso/?utm_source=rss&utm_medium=rss&utm_campaign=licencia-de-conducir-permanente-en-cdmx-fecha-limite-y-como-tramitarla-paso-a-paso",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La Secretaría de Movilidad confirmó que el trámite de la licencia de conducir permanente tiene una fecha de conclusión definitiva",
-      "image": "https://files.merca20.com/uploads/2025/06/licencia_permanente.jpeg",
-      "published": "2026-11-07T17:27:03+00:00",
       "score": null,
       "tags": []
     },
@@ -629,30 +869,6 @@
       "tags": []
     },
     {
-      "id": "d0ffed21184720",
-      "title": "CNMD 2026: Especialistas y marcas analizarán el futuro del contenido y la inversión digital",
-      "url": "https://www.merca20.com/cnmd-2026-coca-cola-dove-roku-aeromexico-y-mcdonalds-analizaran-el-futuro-del-contenido-y-la-inversion-digital/?utm_source=rss&utm_medium=rss&utm_campaign=cnmd-2026-coca-cola-dove-roku-aeromexico-y-mcdonalds-analizaran-el-futuro-del-contenido-y-la-inversion-digital",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El Congreso Nacional de Marketing Digital 2026 (CNMD 2026) reunirá a especialistas, para analizar los cambios en la industria",
-      "image": "https://files.merca20.com/uploads/2026/07/cnmd-2026-geely.jpg",
-      "published": "2026-11-07T16:53:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "757d2fbafd78f0",
-      "title": "Cajita Feliz de Pokémon: ¿qué juguetes lanzará McDonad’s? Esto podrás coleccionar",
-      "url": "https://www.merca20.com/cajita-feliz-de-pokemon-que-juguetes-lanzara-mcdonads-esto-podras-coleccionar/?utm_source=rss&utm_medium=rss&utm_campaign=cajita-feliz-de-pokemon-que-juguetes-lanzara-mcdonads-esto-podras-coleccionar",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La Cajita Feliz de Pokémon incluye 15 juguetes que se pueden usar como llaveros o adornos para bolsos, junto con 15 tarjetas coleccionables",
-      "image": "https://files.merca20.com/uploads/2026/11/Pokemon-Happy-Meal.jpg",
-      "published": "2026-11-07T16:30:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "dfd665d5997cb1",
       "title": "Si te gustan los true crime, este es de los mejores del año",
       "url": "https://hipertextual.com/cine-television/si-te-gustan-los-true-crime-este-es-de-los-mejores-del-ano/",
@@ -661,30 +877,6 @@
       "summary": "Desaparecida: Natalee Holloway es el más reciente true crime de Netflix, pero uno además que evita los clichés sobre casos semejantes. Por lo que, en lugar de solo relatar cómo la víctima desapareció en la paradisíaca is…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Taken-Netflix.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
       "published": "2026-11-07T16:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c9e3ac478c11b5",
-      "title": "CFE, cómo saber cuánto debes de luz y consultar tu recibo desde el celular con fecha límite para realizar el pago en línea",
-      "url": "https://www.merca20.com/cfe-como-saber-cuanto-debes-de-luz-y-consultar-tu-recibo-desde-el-celular-con-fecha-limite-para-realizar-el-pago-en-linea/?utm_source=rss&utm_medium=rss&utm_campaign=cfe-como-saber-cuanto-debes-de-luz-y-consultar-tu-recibo-desde-el-celular-con-fecha-limite-para-realizar-el-pago-en-linea",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Consulta cuánto debes de luz en CFE, descargar tu recibo desde el celular y conocer las opciones oficiales para realizar el pago en línea.",
-      "image": null,
-      "published": "2026-11-07T15:53:15+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "f283b23c2ccece",
-      "title": "Buen Fin 2026: así puedes verificar promociones reales y evitar fraudes",
-      "url": "https://www.merca20.com/buen-fin-2026-asi-puedes-verificar-promociones-reales-y-evitar-fraudes/?utm_source=rss&utm_medium=rss&utm_campaign=buen-fin-2026-asi-puedes-verificar-promociones-reales-y-evitar-fraudes",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Antes de realizar una compra en el Buen Fin, la Profeco recomienda comprobar que las rebajas o promociones anunciadas sean reales",
-      "image": "https://files.merca20.com/uploads/2026/11/buen-fin-2026-foto-merca.jpg",
-      "published": "2026-11-07T15:39:54+00:00",
       "score": null,
       "tags": []
     },
@@ -749,18 +941,6 @@
       "tags": []
     },
     {
-      "id": "84f1a45a5e51d5",
-      "title": "¿Es tan mala como la pintan? Tres razones para ver ‘Crystal Lake’ en HBO Max",
-      "url": "https://hipertextual.com/cine-television/es-tan-mala-como-la-pintan-tres-razones-para-ver-crystal-lake-en-hbo-max/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Crystal Lake se ha convertido en un éxito instantáneo. No en vano, es la producción original más vista de A24 desde su incursión en el mundo de las series. Pero también se volvió, y con la misma rapidez, motivo de debate…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Crystal-Lake-Hipertextual-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-11-07T11:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "00baa801366773",
       "title": "Los 30 atajos de teclado de Windows que te harán ahorrar tiempo cada día",
       "url": "https://www.educaciontrespuntocero.com/tecnologia/atajos-utiles-para-el-teclado/",
@@ -785,18 +965,6 @@
       "tags": []
     },
     {
-      "id": "364e3e1198d05c",
-      "title": "¿Tendrá secuela ‘Godzilla Minus Zero’? Esto es todo lo que sabemos",
-      "url": "https://hipertextual.com/cine-television/tendra-secuela-godzilla-minus-zero-esto-es-todo-lo-que-sabemos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Acaba de llegar a los cines Godzilla Minus Zero, la ansiada secuela de la ya inolvidable Godzilla Minus One. El filme, de nuevo con el mismo director Takashi Yamazaki al frente, ofrece otro espectáculo colosal de kaijus …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Godzilla-Minus-Zero-1-1.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-11-07T10:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "69152241121254",
       "title": "Black Friday en PcComponentes: las mejores ofertas actualizadas a diario",
       "url": "https://www.muycomputer.com/2026/11/07/black-friday-en-pccomponentes-las-mejores-ofertas-actualizadas-a-diario/",
@@ -817,18 +985,6 @@
       "summary": "Limpiar a fondo un smartphone es una tarea obligatoria antes de venderlo, entregarlo al fabricante/operadora para abaratar la compra de su relevo o simplemente cederlo a un familiar o amigo. Y no hablamos solo de la limp…",
       "image": null,
       "published": "2026-11-07T09:45:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9c4a3e7f4c7649",
-      "title": "¿Tu PC se está quedando sin espacio? Esta carpeta de Windows podría tener parte de culpa",
-      "url": "https://hipertextual.com/guias/limpiar-espacio-disponible-carpeta-windows-installer/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Windows 11 cumplió cinco años el pasado 5 de octubre. Y aunque no tuvo una bienvenida demasiado calurosa por culpa de sus exigentes requisitos mínimos, a base de actualizaciones y otras estrategias, Microsoft ha logrado …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Carpeta-Prohibida-Windows.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-11-07T08:12:39+00:00",
       "score": null,
       "tags": []
     },
@@ -901,18 +1057,6 @@
       "summary": "La obligación entrará en vigor el 1 de enero de 2027. Elegir un sistema, acordar su funcionamiento con los trabajadores y realizar pruebas antes de esa fecha será clave para evitar riesgos laborales y preparar la transic…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/registro-electronico-de-jornada.webp",
       "published": "2026-11-07T02:45:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4bce63c63914c8",
-      "title": "“No es un simple lavado de cara”: Alexis Escobar explica qué cambió en Zelda Ocarina of Time y por qué le da un 10 a su nuevo lanzamiento",
-      "url": "https://www.merca20.com/no-es-un-simple-lavado-de-cara-alexis-escobar-explica-que-cambio-en-zelda-ocarina-of-time-y-por-que-le-da-un-10-a-su-nuevo-lanzamiento/?utm_source=rss&utm_medium=rss&utm_campaign=no-es-un-simple-lavado-de-cara-alexis-escobar-explica-que-cambio-en-zelda-ocarina-of-time-y-por-que-le-da-un-10-a-su-nuevo-lanzamiento",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Alexis Escobar explica qué cambió en el remake de Zelda: Ocarina of Time, qué opina de las voces en español latino y por qué le da un 10.",
-      "image": null,
-      "published": "2026-11-07T02:25:02+00:00",
       "score": null,
       "tags": []
     },
@@ -1025,18 +1169,6 @@
       "tags": []
     },
     {
-      "id": "13bc0b7ee77550",
-      "title": "Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027",
-      "url": "https://hipertextual.com/software/windows-11-27h2-actualizacion-2027-novedades/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Durante años, la industria tecnológica dio por hecho que el siguiente gran salto de Microsoft sería Windows 12. No obstante, la compañía ha cambiado la trayectoria y decidió enfocarse en mejorar la versión actual del sis…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/windows-11-27-h2.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-11-06T22:09:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4c292b20c163cc",
       "title": "S&P 500 cierra su mayor caída semanal en 17 meses; Nasdaq cae 3.4% y el Dow Jones -0.9%",
       "url": "https://www.altonivel.com.mx/sp-500-cierra-su-mayor-caida-semanal-en-17-meses-nasdaq-cae-3-4-y-el-dow-jones-0-9/",
@@ -1045,18 +1177,6 @@
       "summary": "El Nasdaq ganó 1.09% y el S&P 500 avanzó 0.31%, mientras que el Dow Jones perdió 0.46% en una sesión de recuperación tras el desplome del jueves. The post S&P 500 cierra su mayor caída semanal en 17 meses; Nasdaq cae 3.4…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2025/08/SP-500-dow-jones.webp",
       "published": "2026-11-06T21:51:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "cbe3c5e34eac86",
-      "title": "El próximo iPhone podría quedarse sin su botón más útil",
-      "url": "https://hipertextual.com/apple/el-proximo-iphone-podria-quedarse-sin-el-boton-de-accion/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Apple prepararía un importante cambio para sus próximos iPhone, que perderían su botón físico más útil. Según recoge MacRumors, una nueva filtración apunta a que los de Cupertino podrían eliminar el botón de acción de lo…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/iPhone-17-Pro-07.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
-      "published": "2026-11-06T21:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1109,30 +1229,6 @@
       "tags": []
     },
     {
-      "id": "34ee59d1fe8f5d",
-      "title": "Alerta en Android: Google corrige 216 fallas de seguridad y explica por qué el parche incluye dos fechas clave",
-      "url": "https://www.fayerwayer.com/moviles/2026/11/06/alerta-en-android-google-corrige-216-fallas-de-seguridad-y-explica-por-que-el-parche-incluye-dos-fechas-clave/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El nuevo boletín de seguridad incluye una vulnerabilidad crítica de ejecución remota de código y divide sus soluciones en dos niveles diferentes.",
-      "image": "https://www.fayerwayer.com/resizer/v2/66T3QV37XJA5XJXHMVJF3DW34I.jpg?auth=89762a04e18f6f58c46e4ecc380898cd9f2029352e49c6b4011130b2414e4025&smart=true&width=638&height=384",
-      "published": "2026-11-06T19:29:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3bf494512e528b",
-      "title": "Motorola Signature 27: Cinco razones para elegir a uno de los smartphones Android más poderosos de este 2026",
-      "url": "https://www.fayerwayer.com/moviles/2026/11/06/motorola-signature-27-cinco-razones-para-elegir-a-uno-de-los-smartphones-android-mas-poderosos-de-este-2026/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Conoce el nuevo buque insignia de la marca que destaca por su pantalla de 12.000 nits, cámara periscópica de 200 MP y el chip Snapdragon 8 Elite Extreme.",
-      "image": "https://www.fayerwayer.com/resizer/v2/Y4VAMEZAMNB7RAOPWNDVD6RPOE.png?auth=97d96a88f5b87e7f2adbcd8ee18497cec43242077a3ecf19bc8903d6b13402e5&smart=true&width=2900&height=1598",
-      "published": "2026-11-06T19:18:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "e3b6f044609800",
       "title": "Xbox convierte tu móvil en un mando para jugar en la televisión y estrena conexión directa a la nube",
       "url": "https://www.muycomputer.com/2026/11/06/xbox-convierte-tu-movil-en-un-mando-para-jugar-en-la-television-y-estrena-conexion-directa-a-la-nube/",
@@ -1181,18 +1277,6 @@
       "tags": []
     },
     {
-      "id": "e9179d9a8e0ae0",
-      "title": "¿Censura absurda? Borran a Mr. Popo en la emisión televisiva de Dragon Ball Daima en Francia pero su voz sigue sonando",
-      "url": "https://www.fayerwayer.com/entretenimiento/2026/11/06/censura-absurda-borran-a-mr-popo-en-la-emision-televisiva-de-dragon-ball-daima-en-francia-pero-su-voz-sigue-sonando/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La emisión en el canal francés Gulli eliminó a la emblemática figura mediante zoom y recortes, aunque mantuvo su voz en off generando indignación.",
-      "image": "https://www.fayerwayer.com/resizer/v2/QBY6RFO5YNDX5C6FTMG62YEEMQ.jpg?auth=00731cd6524c46a52f8554d5465abab1739293068b63d9b5313228665812bcbc&smart=true&width=1200&height=674",
-      "published": "2026-11-06T18:52:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "4f4c219ddd3437",
       "title": "Sheinbaum confía en que baja de tasas de Banxico impulse la inversión en México",
       "url": "https://www.altonivel.com.mx/sheinbaum-banxico-baja-tasas-interes-inversion-mexico/",
@@ -1217,18 +1301,6 @@
       "tags": []
     },
     {
-      "id": "622f8b32188da0",
-      "title": "Sabor a zapatilla: Paige Bueckers y Nike revelan las GT Cut 4 inspiradas en el icónico refresco Baja Blast",
-      "url": "https://www.fayerwayer.com/sneakers/2026/11/06/sabor-a-zapatilla-paige-bueckers-y-nike-revelan-las-gt-cut-4-inspiradas-en-el-iconico-refresco-baja-blast/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "La estrella de la WNBA colabora nuevamente con Nike para lanzar un llamativo modelo inspirado en la popular bebida de Mountain Dew.",
-      "image": "https://www.fayerwayer.com/resizer/v2/VCOBIL2LXBCNHN5UKQ7LV6NF7Y.jpg?auth=1a5b4e7d127d37ce24c234e3f8ad79d371f8adcdf45555a1e54191193ee9dc34&smart=true&width=1376&height=768",
-      "published": "2026-11-06T18:34:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "83c5bc42664377",
       "title": "Apple prepara un gran salto para el MacBook Neo: 16 millones de unidades en 2027",
       "url": "https://www.muycomputer.com/2026/11/06/apple-prepara-un-gran-salto-para-el-macbook-neo-16-millones-de-unidades-en-2027/",
@@ -1237,18 +1309,6 @@
       "summary": "El MacBook Neo podría convertirse en uno de los grandes motores de crecimiento de Apple durante 2027. Según fuentes de la cadena de suministro, la compañía ha trasladado a sus proveedores una previsión de 16 millones de …",
       "image": null,
       "published": "2026-11-06T18:32:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5088b08bc587fb",
-      "title": "Desarrollador frustrado de Adobe crea Photoshop, Premiere y otros con IA como código abierto",
-      "url": "https://www.genbeta.com/actualidad/desarrollador-frustrado-adobe-crea-photoshop-premiere-otros-ia-como-codigo-abierto",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "Como las suscripciones de Adobe no convencen a todo el mundo, Brandon Thomas (un desarrollador con 15 años de experiencia) ha decidido llevar su descontento un paso más allá. Tras recibir varias penalizaciones por cancel…",
-      "image": "https://i.blogs.es/22395b/genbeta-6-photoshop/1024_2000.jpeg",
-      "published": "2026-11-06T17:01:08+00:00",
       "score": null,
       "tags": []
     },
@@ -1273,30 +1333,6 @@
       "summary": "CORSAIR demuestra que la estética gaming no tiene por qué estar reñida con la elegancia, y que hay muchas formas de dar personalidad a nuestro espacio de juego. Durante años, las sillas para jugadores han estado dominada…",
       "image": null,
       "published": "2026-11-06T16:40:53+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "39e0d51fee05c9",
-      "title": "El rey de Android: Motorola Signature 27 supera al iPhone 18 Pro en cámaras según las pruebas de DXOMARK",
-      "url": "https://www.fayerwayer.com/moviles/2026/11/06/el-rey-de-android-motorola-signature-27-supera-al-iphone-18-pro-en-camaras-segun-las-pruebas-de-dxomark/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "El Motorola Signature 27 fue analizado por DXOMARK, superando al iPhone 18 Pro con 173 puntos y coronándose como el mejor dispositivo Android para...",
-      "image": "https://www.fayerwayer.com/resizer/v2/VD2MPCAUFBEJHH5VT6QLWNTZFU.png?auth=03998e3931859dc34e476bb5cd6537b5f5c535f0ea4f888fec6cb8f15bbc0e37&smart=true&width=2902&height=1614",
-      "published": "2026-11-06T16:34:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ccc0c63f7e34eb",
-      "title": "Adiós al acero inoxidable: Tesla reducirá la producción del Cybertruck en Texas para fabricar más Cybercabs",
-      "url": "https://www.fayerwayer.com/internet/2026/11/06/adios-al-acero-inoxidable-tesla-reducira-la-produccion-del-cybertruck-en-texas-para-fabricar-mas-cybercabs/",
-      "source": "FayerWayer",
-      "category": "tech-ia",
-      "summary": "Tesla reducirá la producción del Cybertruck en Texas a mediados de 2027 para dar espacio al Cybercab. Conoce los detalles de este giro estratégico.",
-      "image": "https://www.fayerwayer.com/resizer/v2/MUDVHMRS5JHW7NZ53IDCNIVATM.jpg?auth=e9a0791b60bd4a6ee2007ffe2419d904ad83ff7f4d4ad85fa5502a95cacdcd36&smart=true&width=4240&height=2832",
-      "published": "2026-11-06T16:17:01+00:00",
       "score": null,
       "tags": []
     },
@@ -1333,30 +1369,6 @@
       "summary": "La Unidad de Inteligencia Financiera incluyó a 25 personas y 15 empresas en su Lista de Personas Bloqueadas por operaciones financieras de riesgo y presentó una denuncia ante la FGR. The post UIF bloquea a 40 personas y …",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/09/reforma-judicial-ine-jpg.webp",
       "published": "2026-11-06T15:16:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0d9f520e43c54b",
-      "title": "Arturo Pérez Reverte, escritor: \"Hay un libro que siempre recomiendo, se llama 'La isla del coral', y otro, 'El señor de las moscas\"",
-      "url": "https://www.genbeta.com/actualidad/arturo-perez-reverte-escritor-hay-libro-que-siempre-recomiendo-se-llama-isla-coral-otro-senor-moscas",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "Tras su éxito con Alatriste, Arturo Pérez-Reverte ha vuelto al género de aventuras en 'La hipótesis más peligrosa' , su última novela recién publicada. Esta vez, el protagonista tiene dieciséis años y se embarca en un ve…",
-      "image": "https://i.blogs.es/f93091/revert/1024_2000.jpeg",
-      "published": "2026-11-06T15:13:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "124260b916ac7c",
-      "title": "Jeff Bezos revela una visión de inteligencia artificial que podría transformar la jornada laboral estadounidense.",
-      "url": "https://www.genbeta.com/laboral/jeff-bezos-revela-vision-inteligencia-artificial-que-podria-transformar-jornada-laboral-estadounidense",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "Jeff Bezos tiene una visión súper optimista sobre cómo la IA transformará el mercado laboral. Mientras muchas empresas recurren a esta tecnología para automatizar tareas y reducir costes, el fundador de Amazon cree que s…",
-      "image": "https://i.blogs.es/4521d4/genbeta-1-jeff-bezos/1024_2000.jpeg",
-      "published": "2026-11-06T15:01:12+00:00",
       "score": null,
       "tags": []
     },
@@ -1445,30 +1457,6 @@
       "tags": []
     },
     {
-      "id": "7dbf9aff9dd18e",
-      "title": "Construyen el puente para animales más grande del mundo, una obra que busca reconectar hábitats y proteger a pumas aislados",
-      "url": "https://www.genbeta.com/actualidad/construyen-puente-para-animales-grande-mundo-obra-que-busca-reconectar-habitats-proteger-a-pumas-aislados",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "El Wallis Annenberg Wildlife Crossing, un paso elevado para animales que cruza los diez carriles de la autopista US-101 en Agoura Hills, al noroeste de Los Ángeles, está a punto de terminarse. Sus impulsores lo presentan…",
-      "image": "https://i.blogs.es/5e8d21/paso/1024_2000.jpeg",
-      "published": "2026-11-06T13:50:51+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c41a73478ef634",
-      "title": "Un cocinero italiano se negó por tercera vez a poner piña en una pizza y acabó despedido",
-      "url": "https://www.genbeta.com/laboral/cocinero-italiano-se-nego-tercera-vez-a-poner-pina-pizza-acabo-despedido",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "Davide Tamburella era el jefe de cocina de La Costa, un restaurante italiano que se anunciaba como un rincón de la Riviera en pleno Fortitude Valley, el barrio de ocio nocturno de Brisbane, capital de Queensland y que es…",
-      "image": "https://i.blogs.es/2ba846/pizza-pina-directo-al-paladar/1024_2000.jpeg",
-      "published": "2026-11-06T13:35:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "982e54dcd97156",
       "title": "Blade Runner 2099: los replicantes tomarán el control del mundo dentro de tres semanas",
       "url": "https://www.muycomputer.com/2026/11/06/blade-runner-2099-los-replicantes-toman-el-control-del-mundo-en-tres-semanas/",
@@ -1513,42 +1501,6 @@
       "summary": "La agencia de ciberdefensa estadounidense, CISA, y el FBI, han emitido una alerta ante los ciberataques contra los sistemas de refrigeración industrial y de control de la cadena de frío en todo el mundo, lo que está prov…",
       "image": null,
       "published": "2026-11-06T10:21:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "89bf3f2d93a136",
-      "title": "Black Friday en GVGmall: hasta un 91 % de descuento, Gemini Pro 6 meses por 15€ y Windows 11 Pro por 22€",
-      "url": "https://www.muycomputer.com/2026/11/06/black-friday-en-gvgmall-hasta-un-91-de-descuento-gemini-pro-6-meses-por-15e-y-windows-11-pro-por-22e/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Hablar de inteligencia artificial en el PC suele llevarnos inmediatamente a pensar en los nuevos equipos con chips que integran una NPU, tarjetas gráficas de alto rendimiento, etc., pero renovar el hardware no es la únic…",
-      "image": null,
-      "published": "2026-11-06T08:57:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "6d7b10dc6a85a7",
-      "title": "Sony recupera los auriculares del Walkman, pero no recomienda usarlos con un Walkman",
-      "url": "https://www.muycomputer.com/2026/11/06/sony-recupera-los-auriculares-del-walkman-pero-no-recomienda-usarlos-con-un-walkman/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "El Walkman original cambió en 1979 nuestra manera de escuchar música, y Sony quiere recuperar parte de aquella experiencia con los MDR-3R, unos auriculares que reinterpretan el modelo que acompañaba al legendario TPS-L2.…",
-      "image": null,
-      "published": "2026-11-06T08:03:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "63e4bb49d46cf3",
-      "title": "GeForce NOW estrena DLSS 5 en Hogwarts Legacy y anuncia 24 juegos para noviembre",
-      "url": "https://www.muycomputer.com/2026/11/06/geforce-now-estrena-dlss-5-en-hogwarts-legacy-y-anuncia-24-juegos-para-noviembre/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "GeForce NOW arranca noviembre con una de esas actualizaciones que recuerdan hasta qué punto el juego en la nube ha evolucionado durante los últimos años. Ya no se trata únicamente de ejecutar nuestros títulos favoritos s…",
-      "image": null,
-      "published": "2026-11-06T07:02:05+00:00",
       "score": null,
       "tags": []
     },
@@ -2017,30 +1969,6 @@
       "summary": "Alicia Gutiérrez y Nicolás García explican en Psicoflix cómo trabajan desde la Terapia Centrada en Soluciones: cómo formular la demanda, buscar excepciones, usar la pregunta milagro y las escalas, y estructurar sesiones …",
       "image": null,
       "published": "2026-10-31T00:06:54+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "cc47cf4017c615",
-      "title": "Hoy: webinar gratis sobre análisis funcional con Eparquio Delgado y Fabián Maero",
-      "url": "https://www.psyciencia.com/hoy-webinar-gratis-sobre-analisis-funcional-con-eparquio-delgado-y-fabian-maero/",
-      "source": "Psyciencia",
-      "category": "psicologia",
-      "summary": "Webinar gratuito de Ítaca hoy a las 11:30 a.m. (Panamá) con Eparquio Delgado y Fabián Maero: 5 claves desde el análisis funcional de la conducta.",
-      "image": null,
-      "published": "2026-10-30T15:08:31+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7e33f21571cb09",
-      "title": "Alimentación e impulsividad en el trastorno límite de la personalidad: qué muestra un nuevo estudio",
-      "url": "https://www.psyciencia.com/alimentacion-impulsividad-trastorno-limite-personalidad/",
-      "source": "Psyciencia",
-      "category": "psicologia",
-      "summary": "En la primera entrevista con un consultante con trastorno límite de la personalidad (TLP) solemos preguntar por el sueño, el consumo de sustancias, las autolesiones y las relaciones. Pocas veces…",
-      "image": null,
-      "published": "2026-10-30T00:06:25+00:00",
       "score": null,
       "tags": []
     },

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-11-15T05:07:34.441505+00:00",
+    "generated": "2026-11-15T13:31:47.532340+00:00",
     "total": 189
   },
   "items": [
@@ -12,7 +12,7 @@
       "category": "startup",
       "summary": "La cobranza no debería iniciar cuando aparece el primer pago atrasado. El análisis de datos permite identificar señales tempranas de riesgo, anticipar dificultades financieras y diseñar estrategias de recuperación más ef…",
       "image": null,
-      "published": "2026-11-15T05:07:33.049990+00:00",
+      "published": "2026-11-15T13:31:46.053965+00:00",
       "score": null,
       "tags": []
     },
@@ -24,7 +24,7 @@
       "category": "startup",
       "summary": "Pasé de ser pasante en la ONU a cofundar una de las startups tecnológicas de más rápido crecimiento en Europa, demostrando que el éxito no depende del origen, sino de la mentalidad y la perseverancia. The post Mentalidad…",
       "image": null,
-      "published": "2026-11-15T05:07:33.049806+00:00",
+      "published": "2026-11-15T13:31:46.053686+00:00",
       "score": null,
       "tags": []
     },
@@ -36,7 +36,7 @@
       "category": "startup",
       "summary": "Lograste aparecer en los medios, ¿y ahora qué? Así es como puedes transformar la credibilidad en clics y los clics en clientes. The post Cómo convertir la cobertura mediática en clientes potenciales reales para tu negoci…",
       "image": null,
-      "published": "2026-11-15T05:07:33.049615+00:00",
+      "published": "2026-11-15T13:31:46.053420+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +48,7 @@
       "category": "startup",
       "summary": "El primer crédito puede marcar el inicio de una trayectoria financiera. Conoce por qué el acceso a información crediticia es clave para ampliar oportunidades y fortalecer la inclusión financiera en México. The post “New …",
       "image": null,
-      "published": "2026-11-15T05:07:33.049415+00:00",
+      "published": "2026-11-15T13:31:46.053152+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +60,7 @@
       "category": "startup",
       "summary": "El fundador del gigante fabricante de chips Nvidia dejó su cargo como CEO en medio de acusaciones escandalosas. The post “No hay excusa para lo que hice”: Jensen Huang renuncia a Nvidia tras salir a la luz sus relaciones…",
       "image": null,
-      "published": "2026-11-15T05:07:33.049207+00:00",
+      "published": "2026-11-15T13:31:46.052856+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +72,7 @@
       "category": "startup",
       "summary": "Esta es la base que toda pequeña empresa necesita para prosperar. The post Hasta los emprendedores más exitosos piden ayuda: así puedes encontrar a las personas correctas para tu equipo appeared first on Entrepreneur en …",
       "image": null,
-      "published": "2026-11-15T05:07:33.048083+00:00",
+      "published": "2026-11-15T13:31:46.051659+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +84,7 @@
       "category": "startup",
       "summary": "Prueba estas estrategias para establecer límites y evitar sentirte sobrecargado en un mundo lleno de información y presión constante. The post Cómo establecer límites para evitar la sobrecarga de información y recuperar …",
       "image": null,
-      "published": "2026-11-15T05:07:33.047877+00:00",
+      "published": "2026-11-15T13:31:46.051376+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +96,7 @@
       "category": "startup",
       "summary": "Estos son los factores que están transformando las preferencias de los estudiantes y cómo las universidades pueden adaptar sus programas académicos a las necesidades del mercado laboral para ayudar a los jóvenes a tomar …",
       "image": null,
-      "published": "2026-11-15T05:07:33.047661+00:00",
+      "published": "2026-11-15T13:31:46.051084+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "category": "startup",
       "summary": "No se trata de un episodio de “Black Mirror”; es lo que viene ocurriendo desde agosto de 2026 con congeladores y cámaras frigoríficas en Estados Unidos y Europa. ¿Llegarán a Latinoamérica? The post Los ciberataques a con…",
       "image": null,
-      "published": "2026-11-15T05:07:33.047418+00:00",
+      "published": "2026-11-15T13:31:46.050764+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +120,391 @@
       "category": "startup",
       "summary": "En un mundo definido por la disrupción constante, los líderes más efectivos de hoy son aquellos que abrazan la incertidumbre, construyen confianza a través de la colaboración y cultivan una resiliencia interna para impul…",
       "image": null,
-      "published": "2026-11-15T05:07:33.047174+00:00",
+      "published": "2026-11-15T13:31:46.050441+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2b0c9d42692699",
+      "title": "\"En Málaga podremos hacer cosas que en Bélgica están totalmente prohibidas\": hablamos con Karel van Gils, director general de imec Spain",
+      "url": "https://www.xataka.com/entrevistas/malaga-podremos-hacer-cosas-que-belgica-estan-totalmente-prohibidas-hablamos-karel-van-gils-director-general-imec-spain",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Imec ( Interuniversity Microelectronics Centre o Centro Interuniversitario de Microelectrónica) es el laboratorio de investigación especializado en el desarrollo de semiconductores avanzados más importante de Europa. Y u…",
+      "image": "https://i.blogs.es/460307/karel-ap/1024_2000.jpeg",
+      "published": "2026-11-15T13:01:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f7e0f7b41c7ecb",
+      "title": "Un router pone en jaque el control aéreo de Estados Unidos",
+      "url": "https://www.muycomputer.com/2026/11/15/un-router-pone-en-jaque-el-control-aereo-de-estados-unidos/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Hay infraestructuras tecnológicas cuya importancia solo se hace evidente cuando dejan de funcionar. El control aéreo es una de ellas, y Estados Unidos acaba de comprobar hasta qué punto puede resultar vulnerable. El vier…",
+      "image": null,
+      "published": "2026-11-15T13:01:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3f3a8f5c956b31",
+      "title": "5 posibles escenarios que podría enfrentar el ‘Universo DC’ en adelante (y cinco riesgos que corre)",
+      "url": "https://hipertextual.com/cine-television/5-posibles-escenarios-que-podria-enfrentar-el-universo-dc-en-adelante-y-cinco-riesgos-que-corre/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "DC se encuentra otra vez en medio de la incertidumbre. Luego de la salida de James Gunn y Peter Safran, el universo cinematográfico de la editorial pasa por momentos complicados. Mucho más parece otra vez enfrentar el te…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Universo-DC-Studios.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-11-15T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "cd8e902a49bd37",
+      "title": "Terapia de aceptación y compromiso con niños: lo que sabemos y lo que no",
+      "url": "https://www.psyciencia.com/act-con-ninos-y-familias/",
+      "source": "Psyciencia",
+      "category": "psicologia",
+      "summary": "Qué sabemos de ACT con niños y con sus familias, y cómo llevarlo a la consulta. Una revisión para clínicos que distingue la evidencia según se intervenga con el niño, con los cuidadores o con ambos.",
+      "image": null,
+      "published": "2026-11-15T13:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5039caa402034c",
+      "title": "LG xboom Blast, análisis: es grande y pesa, pero es un altavoz Bluetooth mucho más versátil de lo que dejan caer su diseño y colores",
+      "url": "https://www.xataka.com/analisis/lg-xboom-blast-analisis-caracteristicas-precio-especificaciones",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La gama xboom de LG lleva más o menos una década en el mercado y desde entonces la marca ha explorado todo lo que se podía explorar en el terreno del audio doméstico. Hace un par de años además comenzaron una colaboració…",
+      "image": "https://i.blogs.es/daea4c/7/1024_2000.jpeg",
+      "published": "2026-11-15T12:31:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "90837e9ddb7028",
+      "title": "Madrid ya está saturado, así que el mercado de la vivienda se está disparando ahora en Torrejón, Parla y Alcorcón",
+      "url": "https://www.xataka.com/magnet/mercado-vivienda-capitales-esta-rato-que-esta-acabando-plan-b-muchas-familias-comprar-periferia",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Es lo más lógico. Si quieres comprar un piso en el centro de Madrid pero no tienes dinero suficiente acabas buscando alternativas en las afueras o municipios limítrofes, áreas en las que (en teoría) el mercado debería es…",
+      "image": "https://i.blogs.es/b76578/torrejon_de_ardoz-aire_-cropped-/1024_2000.jpeg",
+      "published": "2026-11-15T12:01:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "10b9c9275484f3",
+      "title": "Elizabeth Wakefield, asesora financiera: “Tener todo el dinero en una cuenta corriente es uno de los principales errores que mucha gente comete”",
+      "url": "https://www.genbeta.com/laboral/elizabeth-wakefield-asesora-financiera-tener-todo-dinero-cuenta-corriente-uno-principales-errores-que-mucha-gente-comete",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Una buena forma de empezar a controlar tus finanzas es separar tus fondos en diferentes cuentas. Por ejemplo, no conviene poner todos tus ahorros en la cuenta en la que tengas los fondos con los que pago los recibos. Y e…",
+      "image": "https://i.blogs.es/5ac01b/elizabeth-wakefield/1024_2000.jpeg",
+      "published": "2026-11-15T12:01:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ba6d4561011f29",
+      "title": "¿De qué va ‘Ramayana: El nacimiento de una leyenda’, la estrambótica película india de la que todo el mundo habla?",
+      "url": "https://hipertextual.com/cine-television/de-que-va-ramayana-el-nacimiento-de-una-leyenda-la-estrambotica-pelicula-india-de-la-que-todo-el-mundo-habla/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Ramayana: El nacimiento de una leyenda es quizás el más ambicioso intento del cine indio de llegar a una audiencia universal. Eso, sin perder su tono monumental, épico y colorido. Bajo la dirección de Nitesh Tiwari (Dang…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Ramayana-Direccion.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-11-15T12:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "215b61debc1695",
+      "title": "Las 34 canciones del álbum de GTA VI salen a la luz antes de tiempo",
+      "url": "https://www.muycomputer.com/2026/11/15/las-34-canciones-del-album-de-gta-vi-salen-a-la-luz-antes-de-tiempo/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "La música siempre ha sido una de las señas de identidad de Grand Theft Auto, y la nueva entrega llega con una ambición que va bastante más allá de llenar sus emisoras de éxitos conocidos. A solo cuatro días del estreno d…",
+      "image": null,
+      "published": "2026-11-15T11:34:11+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f5805871fdbe5e",
+      "title": "En esta aldea asturiana quedan seis habitantes. Dos de ellos son dos mujeres que pasan el día jugando al parchís",
+      "url": "https://www.xataka.com/magnet/esta-aldea-asturiana-quedan-seis-habitantes-dos-ellos-dos-mujeres-que-pasan-dia-jugando-al-parchis",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "En Xataka ya hemos hablado de aquel pueblo asturiano que nació para una térmica y se quedó vacío . O también de la villa con 14 casas que ahora mismo está a la venta , entero. Cansinos es la tercera versión: nadie cerró …",
+      "image": "https://i.blogs.es/b64292/primas/1024_2000.jpeg",
+      "published": "2026-11-15T11:33:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "dcacff553af4ed",
+      "title": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+      "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La escasez de memoria provocada por el auge de la IA es ya uno de los mayores problemas de suministro del sector tecnológico. Los precios se han disparado y los fabricantes prevén que se prolongue hasta, al menos, 2028. …",
+      "image": "https://i.blogs.es/307471/original/1024_2000.jpeg",
+      "published": "2026-11-15T11:01:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b524e7f9997688",
+      "title": "Ni drogas ni violencia: GTA 6 casi se mete en problemas por mostrar “demasiados genitales”",
+      "url": "https://hipertextual.com/videojuegos/gta-6-casi-mete-problemas-demasiados-genitales-corea-del-sur/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con GTA 6 a solo un puñado de días de su lanzamiento, las historias y curiosidades detrás del juego son cada vez más llamativas. Recientemente se supo que lo nuevo de Rockstar Games estuvo muy cerca de quedarse sin calif…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Vice_City_18.001ebutl6h-9w-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-11-15T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "7dd78fb379461c",
+      "title": "Wokwi: un laboratorio virtual para aprender electrónica y programación en clase",
+      "url": "https://www.educaciontrespuntocero.com/tecnologia/wokwi-simulador-online/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Este simulador online permite diseñar circuitos, programar placas electrónicas y experimentar con sensores, luces LED y pantallas sin necesidad de componentes físicos.",
+      "image": null,
+      "published": "2026-11-15T11:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "181e37dfcb6e06",
+      "title": "China estrena su avión eléctrico por fin con gente a bordo, pero no revela lo más importante: la batería",
+      "url": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "China acaba de dar un paso de gigante hacia la aviación comercial eléctrica: la compañía aeronáutica estatal COMAC ha culminado con éxito el primer vuelo con tripulación de su avión comercial eléctrico, el CE-25A, del qu…",
+      "image": "https://i.blogs.es/b8f47d/gemini_generated_image_1c76k81c76k81c76/1024_2000.jpeg",
+      "published": "2026-11-15T10:30:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b78dfdb5879a2d",
+      "title": "GEEKOM IT12 2026 análisis completo",
+      "url": "https://www.muycomputer.com/2026/11/15/geekom-it12-2026-analisis-completo/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "En el mercado de los mini PCs podemos encontrar muchas opciones con precios diversos que, en general, son lo bastante ajustados como para diferenciar unos modelos de otros. El GEEKOM IT12 2026 es un modelo que encaja den…",
+      "image": null,
+      "published": "2026-11-15T10:12:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "2465ad1e56eb07",
+      "title": "Entró en vigor: Es obligatorio tener en casa un protocolo de riesgos laborales para el servicio doméstico",
+      "url": "https://www.genbeta.com/laboral/entro-vigor-obligatorio-tener-casa-protocolo-riesgos-laborales-para-servicio-domestico",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Los empleadores de servicio doméstico tienen la obligación de llevar a cabo una evaluación de riesgos y poner en marcha las medidas preventivas que sean necesarias. Hasta el día 14 de noviembre de 2025 disponían de tiemp…",
+      "image": "https://i.blogs.es/6efdd9/asistenta/1024_2000.jpeg",
+      "published": "2026-11-15T10:01:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "380ff21f8f942b",
+      "title": "La IA más rentable de 2027 no va a explicarnos nada. Solo nos dará respuestas como un 0,82 o un 0,16",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Ya hace casi cuatro años del momento ChatGPT. Ese día en que todo empezó a cambiar. En estos casi cuatro años hemos tendido a medir la IA por lo bien que habla. Si escribe como una persona, si tiende a darnos la razón y …",
+      "image": "https://i.blogs.es/2a4050/decisiones/1024_2000.jpeg",
+      "published": "2026-11-15T10:01:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "0b9bf571d4ca3b",
+      "title": "¿Cuál es la próxima serie de Marvel después de ‘VisionQuest’?",
+      "url": "https://hipertextual.com/cine-television/cual-es-la-proxima-serie-de-marvel-despues-de-visionquest/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con el final de VisionQuest hace apenas unos días, los fans de Marvel se han vuelto a quedar huérfanos de series en Disney+. La compañía lleva ya años estrenando varios proyectos en streaming con los que ampliar su unive…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Marvel-VisionQuest-Disney.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
+      "published": "2026-11-15T10:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "d67326449c3325",
+      "title": "Cinco ofertas para aprovechar las ofertas previas al Black Friday de El Corte Inglés y MediaMarkt, hoy 15 de noviembre",
+      "url": "https://www.xataka.com/seleccion/cinco-ofertas-para-aprovechar-ofertas-previas-al-black-friday-corte-ingles-mediamarkt-hoy-15-noviembre",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Tanto MediaMarkt como El Corte Inglés están celebrando el periodo previo al Black Friday con numerosas ofertas en tecnología, por lo que en este artículo hemos reunido los mejores chollos que estarán disponibles durante …",
+      "image": "https://i.blogs.es/b5c893/mediamarkt-y-el-corte-ingles/1024_2000.jpeg",
+      "published": "2026-11-15T09:15:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4c856e896d8f30",
+      "title": "España no está llena ni vacía: está concentrada, y este mapa lo demuestra",
+      "url": "https://www.xataka.com/magnet/espana-no-esta-llena-vacia-esta-concentrada-este-mapa-demuestra",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Instituto Nacional de Estadística dice que la población de España es de 49.801.559 personas a 1 de julio de 2026. La densidad poblacional de España es de unos 95-97 habitante/por kilómetro cuadrado frente a los 109,1 …",
+      "image": "https://i.blogs.es/7b99ef/mapa-espana/1024_2000.jpeg",
+      "published": "2026-11-15T09:01:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "be698b3d48105b",
+      "title": "Lastbook convierte tu PC o Mac en una biblioteca de supervivencia sin internet",
+      "url": "https://www.muycomputer.com/2026/11/15/lastbook-convierte-tu-pc-o-mac-en-una-biblioteca-de-supervivencia-sin-internet/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Se llama Lastbook y es una propuesta tan peculiar como interesante: una biblioteca de supervivencia completa que se instala en el PC o en el Mac y funciona sin internet. Manuales, vídeos, enciclopedias, mapas y un chat c…",
+      "image": null,
+      "published": "2026-11-15T09:00:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ea616714e93306",
+      "title": "Este nuevo Linux con inteligencia artificial nace de una de las figuras más conocidas de Android",
+      "url": "https://hipertextual.com/inteligencia-artificial/kora-os-linux-ia-creador-cyanogen/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Con Microsoft y otras empresas insertando IA en los sistemas operativos, era cuestión de tiempo para que comenzáramos a ver esta tendencia en Linux. Hace unas semanas, Canonical confirmó la llegada de un asistente inteli…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/koraos_06.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "published": "2026-11-15T09:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "8fe6a40eb2c213",
+      "title": "Volkswagen Tayron eHybrid, senderos",
+      "url": "https://www.muycomputer.com/2026/11/15/volkswagen-tayron-ehybrid-senderos/",
+      "source": "Muycomputer",
+      "category": "tech-ia",
+      "summary": "Hold on to the feelin Journey (Escape, 1981) Orugario apoya las pezuñas sobre el escritorio cubierto de reclamaciones y se reclina sobre la silla que se queja crujiendo de forma lastimera. Se rasca entre los cuernos mien…",
+      "image": null,
+      "published": "2026-11-15T08:03:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "6f2e5861e3dc3c",
+      "title": "El pueblo de Guadalajara que quiere independizarse de Castilla-La Mancha para integrarse en la Comunidad de Madrid",
+      "url": "https://www.genbeta.com/actualidad/pueblo-guadalajara-que-quiere-independizarse-castilla-mancha-para-integrarse-comunidad-madrid",
+      "source": "Genbeta",
+      "category": "tech-ia",
+      "summary": "Una iniciativa propone que El Cardoso de la Sierra (Guadalajara) pase a Madrid . La iniciativa cuenta con una recogida de firmas. El creador de esta iniciativa, Luis Bustillo , anima a las administraciones a que consider…",
+      "image": "https://i.blogs.es/59e035/el_cardoso_de_la_sierra/1024_2000.jpeg",
+      "published": "2026-11-15T08:01:20+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "28960cc733e16e",
+      "title": "Cómo crear presentaciones con Gemini Notebook para compartirlas en PDF o PowerPoint",
+      "url": "https://hipertextual.com/guias/crear-presentaciones-pdf-powerpoint-gemini-notebook-notebooklm/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "Las presentaciones son, junto a los documentos PDF o las hojas de cálculo, un formato muy habitual para transmitir o compartir ideas o temas complicados de una manera más llevadera, práctica y ágil. Y aunque tiene sus de…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Gemini-Notebook-Robot-Clase-Pantalla-PDF-PowerPoint.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
+      "published": "2026-11-15T08:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "c8dce01f931de1",
+      "title": "Mucho más que una función escolar: aprender creando un teatro musical",
+      "url": "https://www.educaciontrespuntocero.com/experiencias/convivencia-teatro-musical-fin-curso-primaria/",
+      "source": "Educación 3.0",
+      "category": "educacion",
+      "summary": "Un grupo de 6º de Primaria con graves problemas de convivencia transformó el festival de fin de curso en un proyecto competencial e inclusivo. Así lo cuenta Rafael Roselló, maestro de Educación Musical.",
+      "image": null,
+      "published": "2026-11-15T08:00:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "33627f6b46b789",
+      "title": "Italia pone un multazo a Meta de 805 millones por acceder sin permiso a la galería de 20 millones de móviles",
+      "url": "https://www.xataka.com/privacidad/italia-multa-a-meta-805-millones-euros-mirar-galeria-20-millones-moviles",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Meta puede sumar una multa más a su larga lista de escándalos relacionados con la privacidad y además es una de las más duras de su historia: el Garante per la Protezione dei Dati Personali (algo así como la agencia ital…",
+      "image": "https://i.blogs.es/d3ee8a/retrato-editorial-con-bandera-italiana/1024_2000.jpeg",
+      "published": "2026-11-15T07:42:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "adcb0122b82e43",
+      "title": "El hielo de la Tierra cruza una línea roja histórica: la ciencia advierte que la criosfera ha superado sus \"umbrales seguros\"",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/hielo-tierra-cruza-linea-roja-historica-ciencia-advierte-que-criosfera-ha-superado-sus-umbrales-seguros",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Las regiones heladas de nuestro planeta están perdiendo la batalla. Tras años de advertencias, una investigación acaba de confirmar lo que muchos temían: la criosfera terrestre ha salido oficialmente de su \"espacio segur…",
+      "image": "https://i.blogs.es/60184e/hielo-/1024_2000.jpeg",
+      "published": "2026-11-15T07:01:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "055ebc0cf48ca4",
+      "title": "Los médicos siguen teniendo guardias de 24 horas en los hospitales. El origen de todo es la cocaína",
+      "url": "https://www.xataka.com/medicina-y-salud/medicos-siguen-teniendo-guardias-24-horas-hospitales-origen-todo-cocaina",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "La necesidad es la madre de todas las invenciones, dicen. Cada tanto tiempo, uno se pregunta por qué los médicos residentes trabajan jornadas maratonianas. El Estatuto Jurídico del Personal Médico de nuestro país apunta …",
+      "image": "https://i.blogs.es/c09048/photo-1785688835731-324a926f6bba/1024_2000.jpeg",
+      "published": "2026-11-15T06:01:26+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "3860abf4579f70",
+      "title": "Puentes SEP de noviembre 2026, oficial habrá dos descansos de tres días para estudiantes y así quedan las fechas del 16 al 30",
+      "url": "https://www.merca20.com/puentes-sep-de-noviembre-2026-oficial-habra-dos-descansos-de-tres-dias-para-estudiantes-y-asi-quedan-las-fechas-del-16-al-30/?utm_source=rss&utm_medium=rss&utm_campaign=puentes-sep-de-noviembre-2026-oficial-habra-dos-descansos-de-tres-dias-para-estudiantes-y-asi-quedan-las-fechas-del-16-al-30",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Consulta cómo quedan los puentes SEP de noviembre de 2026, qué días no hay clases del 16 al 30 y cuándo descansan trabajadores y bancos.",
+      "image": null,
+      "published": "2026-11-15T05:21:53+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "131b2b7fa4add1",
+      "title": "El ictus aumenta en adultos jóvenes",
+      "url": "https://www.psyciencia.com/el-ictus-aumenta-en-adultos-jovenes/",
+      "source": "Psyciencia",
+      "category": "psicologia",
+      "summary": "Jessica Mouzo informa de este preocupante incremento: Los ictus están aumentando entre los adultos jóvenes. Esta emergencia médica, que se produce cuando se interrumpe la circulación de la sangre al…",
+      "image": null,
+      "published": "2026-11-15T05:16:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "b4953041bb6d7a",
+      "title": "México envejece, pero ¿están preparados sus hospitales y seguros médicos?",
+      "url": "https://www.altonivel.com.mx/envejece-mexico-sistema-salud-seguros-medicos/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "En 2024, 44.5 millones de mexicanos presentaban carencia de acceso a servicios de salud, una situación especialmente preocupante ante el crecimiento de la población adulta mayor. The post México envejece, pero ¿están pre…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/vejez-hospitales.webp",
+      "published": "2026-11-15T00:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -193,6 +577,18 @@
       "summary": "El cantante fue registrado como detenido horas después de que suspendieran su presentación en la Feria Internacional Ganadera. Esto dijeron las autoridades y los organizadores.",
       "image": "https://files.merca20.com/uploads/2026/11/Gabito-Ballesteros-1.jpg",
       "published": "2026-11-14T21:14:52+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "61d2f8ba8e1be4",
+      "title": "Data centers en México duplicarán su valor hacia 2030, pero enfrentan un reto energético",
+      "url": "https://www.altonivel.com.mx/data-centers-mexico-crecimiento-2030-inversion-energia/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "Querétaro, Ciudad de México, Monterrey y Guadalajara concentran el desarrollo de infraestructura digital, aunque la disponibilidad de energía condiciona nuevos proyectos. The post Data centers en México duplicarán su val…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/data-centers-mexico.webp",
+      "published": "2026-11-14T21:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -329,18 +725,6 @@
       "tags": []
     },
     {
-      "id": "02d0b58b15455a",
-      "title": "Cuando el desierto se queda corto: resulta que la sequía extrema amenaza la supervivencia del cactus",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/cuando-desierto-se-queda-corto-resulta-que-sequia-extrema-amenaza-supervivencia-cactus",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si pensamos en seres capaces de sobrevivir en condiciones extremas, uno de los que nos viene a la cabeza dentro del reino vegetal son los cactus: tienen espinas, un tallo que almacena agua y un metabolismo optimizado en …",
-      "image": "https://i.blogs.es/370ec2/lydia-venjohn-zs4dlmzosp8-unsplash/1024_2000.jpeg",
-      "published": "2026-11-14T18:01:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "010b6155d116e4",
       "title": "Javi Linares, el asesor financiero avisa: \"Un móvil de 1.400 euros parece asumible por 39 al mes, pero ahí está la trampa de las cuotas\"",
       "url": "https://www.genbeta.com/actualidad/javi-linares-asesor-financiero-avisa-movil-1-400-euros-parece-asumible-39-al-mes-ahi-esta-trampa-cuotas",
@@ -349,6 +733,18 @@
       "summary": "Pagar un móvil de 1.400 euros a plazos puede hacer que parezca mucho más llevadero que soltar todo el dinero de golpe, pero el asesor financiero Javi Linares avisa de que esa es precisamente “la trampa de las cuotas”. Lo…",
       "image": "https://i.blogs.es/7ec199/giorgio-trovato-i0cm51ipbo4-unsplash/1024_2000.jpeg",
       "published": "2026-11-14T18:01:23+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "02d0b58b15455a",
+      "title": "Los científicos lo confirman: resulta que la sequía extrema amenaza la supervivencia del cactus",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/cuando-desierto-se-queda-corto-resulta-que-sequia-extrema-amenaza-supervivencia-cactus",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Si pensamos en seres capaces de sobrevivir en condiciones extremas, uno de los que nos viene a la cabeza dentro del reino vegetal son los cactus: tienen espinas, un tallo que almacena agua y un metabolismo optimizado en …",
+      "image": "https://i.blogs.es/370ec2/lydia-venjohn-zs4dlmzosp8-unsplash/1024_2000.jpeg",
+      "published": "2026-11-14T18:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -377,30 +773,6 @@
       "tags": []
     },
     {
-      "id": "c828c062eb049d",
-      "title": "Ante el problema de las riadas, en parte de Valencia ya subvencionan hasta 500 euros por instalar barreras en la puerta de tu casa",
-      "url": "https://www.xataka.com/magnet/problema-riadas-parte-valencia-subvencionan-500-euros-instalar-barreras-puerta-tu-casa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "71 litros por metro cuadrado en media hora. Eso fue lo que cayó sobre Torrent la noche del 16 de septiembre, dentro de los casi 97 litros en total, según AVAMET . Fue suficiente para devolver a la ciudad al recuerdo de l…",
-      "image": "https://i.blogs.es/c522e6/portada/1024_2000.jpeg",
-      "published": "2026-11-14T17:31:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "62c40cce257b25",
-      "title": "Muchas personas se despiertan “solas” a la hora que quieren sin necesidad de despertador y la ciencia tiene una explicación",
-      "url": "https://www.xataka.com/medicina-y-salud/cuerpo-humano-capaz-anticipar-hora-a-que-queremos-despertarnos-hay-explicacion-cientifica",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Una escena bastante típica que han vivido muchas personas es poner el despertador a las siete de la mañana, comenzar a dormir y de repente abrir los ojos y ver que quedan un par de minutos para que el reloj comience a so…",
-      "image": "https://i.blogs.es/f443c0/dormir-despertar/1024_2000.jpeg",
-      "published": "2026-11-14T17:01:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "80217c6d10ea1e",
       "title": "La historia de Barbie: cómo una muñeca se convirtió en una marca global",
       "url": "https://www.merca20.com/la-historia-de-barbie-como-una-muneca-se-convirtio-en-una-marca-global/?utm_source=rss&utm_medium=rss&utm_campaign=la-historia-de-barbie-como-una-muneca-se-convirtio-en-una-marca-global",
@@ -425,18 +797,6 @@
       "tags": []
     },
     {
-      "id": "f73f5b6aeeb2e0",
-      "title": "Rockstar lleva 29 años satirizando Estados Unidos y tiene un problema con 'GTA VI': la realidad es ya completamente imparodiable",
-      "url": "https://www.xataka.com/videojuegos/rockstar-lleva-29-anos-satirizando-estados-unidos-tiene-problema-gta-vi-realidad-completamente-imparodiable",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Un clip de quince segundos de ‘GTA VI’ ha pasado esta semana por un vídeo real de Miami. Para una saga que lleva casi tres décadas viviendo de exagerar Estados Unidos, esta comprensible confusión nos lleva a revisar qué …",
-      "image": "https://i.blogs.es/03795e/vice_city_18/1024_2000.jpeg",
-      "published": "2026-11-14T16:31:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "fd5b8e97f05010",
       "title": "Suman más de 16 mil vuelos cancelados en Estados Unidos por fallas en comunicaciones",
       "url": "https://expansion.mx/empresas/2026/11/14/vuelos-estados-unidos-se-restablecen-paulatimente-caos",
@@ -457,18 +817,6 @@
       "summary": "El objeto será visitado por la sonda japonesa Hayabusa2 en 2031, pero un estudio cuestiona que su aceleración se deba a la actividad de un cometa oscuro.",
       "image": "https://files.merca20.com/uploads/2025/02/Asteroide1.jpg",
       "published": "2026-11-14T16:27:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d0ccb0a9b18733",
-      "title": "En 2013, EEUU guardó en un cajón una de las armas más revolucionarias para la guerra. China lo acaba de construir y le ha quitado hasta el piloto",
-      "url": "https://www.xataka.com/magnet/2013-eeuu-guardo-cajon-armas-revolucionarias-para-guerra-china-acaba-construir-le-ha-quitado-piloto",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hace exactamente 15 años, Estados Unidos parecía estar a punto de revolucionar la aviación de combate con una nueva generación de aparatos furtivos . Sin embargo, el Pentágono decidió tomar otro camino. Las últimas imáge…",
-      "image": "https://i.blogs.es/e0a59c/gj-11-grande-enfocado/1024_2000.jpeg",
-      "published": "2026-11-14T16:01:23+00:00",
       "score": null,
       "tags": []
     },
@@ -533,42 +881,6 @@
       "tags": []
     },
     {
-      "id": "e5d5f9e14bf409",
-      "title": "Costco revela qué frena la apertura de nuevas tiendas en México",
-      "url": "https://www.merca20.com/costco-revela-que-frena-la-apertura-de-nuevas-tiendas-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=costco-revela-que-frena-la-apertura-de-nuevas-tiendas-en-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La apertura de nuevas tiendas Costco en México no depende únicamente de encontrar terrenos disponibles o identificar ciudades con potencial comercial. La cadena estadounidense reconoce que existen otros factores que pued…",
-      "image": "https://files.merca20.com/uploads/2026/10/bigstock-Indianapolis-Circa-August-318832321.jpg",
-      "published": "2026-11-14T15:37:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "72ad42ce212fdd",
-      "title": "Estados Unidos desclasifica nuevos documentos sobre OVNIs y saca a la luz platillos volantes de los años 50",
-      "url": "https://www.xataka.com/espacio/estados-unidos-desclasifica-informes-ovnis-cada-pocas-semanas-ultimo-informe-incluye-triangulo-negro-2026-platillos-voladores-anos-50",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Lo de Estados Unidos con los OVNIS , ahora conocidos como UAPS (de las siglas en inglés de fenómenos anómalos no identificados), empieza a ser bastante curioso. Desde que comenzaron a desclasificar información al respect…",
-      "image": "https://i.blogs.es/61a8c7/ovni/1024_2000.jpeg",
-      "published": "2026-11-14T15:31:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "8e5a55ae7e8fcf",
-      "title": "Creíamos que los gatos sagrados del Antiguo Egipto tenían una vida dorada, pero sus cráneos dicen otra cosa",
-      "url": "https://www.xataka.com/magnet/creiamos-que-gatos-sagrados-antiguo-egipto-tenian-vida-dorada-sus-craneos-dicen-otra-cosa",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Si hay un animal que aparece en el arte y los restos de los egipcios de forma recurrente, ese es el gato. El Antiguo Egipto adoraba a los gatos, tanto que simbolizaban a los dioses y la protección , pero una cosa es vene…",
-      "image": "https://i.blogs.es/feef2d/british_museum-_egypt_mummies_of_animals_-4423733728-/1024_2000.jpeg",
-      "published": "2026-11-14T15:01:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f1aa7759ba9f26",
       "title": "De qué va la serie ‘El cuerpo’, uno de los grandes estrenos de Netflix este año",
       "url": "https://hipertextual.com/cine-television/de-que-va-la-serie-el-cuerpo-uno-de-los-grandes-estrenos-de-netflix-este-ano/",
@@ -593,30 +905,6 @@
       "tags": []
     },
     {
-      "id": "23669ea4f22eb9",
-      "title": "De hacer el cabra en YouTube a entrevistar al presidente del Gobierno de España: la evolución de Jordi Wild",
-      "url": "https://www.xataka.com/magnet/hacer-cabra-youtube-a-entrevistar-al-presidente-gobierno-espana-evolucion-jordi-wild",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "A Pedro Sánchez en La Revuelta de TVE1 le vieron 4,38 millones de personas. En YouTube, cara a cara con Jordi Wild , su entrevista ya ha acumulado ya 4,8 millones de visualizaciones y eso que en el momento de escribir es…",
-      "image": "https://i.blogs.es/4d6163/captura-de-pantalla-2026-11-14-a-las-11.51.50/1024_2000.jpeg",
-      "published": "2026-11-14T14:30:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "443c08ecad6b41",
-      "title": "CyberGhost adelanta su Black Friday: una de las mejores VPN sale ahora por 2,19 euros al mes con cuatro meses de regalo",
-      "url": "https://www.xataka.com/seleccion/cyberghost-adelanta-su-black-friday-mejores-vpn-sale-ahora-2-19-euros-al-mes-cuatro-meses-regalo",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando pensamos en el Black Friday, normalmente solemos poner el foco en las ofertas más interesantes en dispositivos de todo tipo, como pueden ser móviles, portátiles o teles. Sin embargo, también hay muchos servicios y…",
-      "image": "https://i.blogs.es/18254f/cyberghost-black-friday-portada/1024_2000.jpeg",
-      "published": "2026-11-14T14:15:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "f110bf2152531f",
       "title": "Irene Gramage, abogada, acerca de los repartos de bienes: “Heredar no es gratis, cuesta dinero. No solo está el impuesto de sucesiones, también la plusvalía municipal”",
       "url": "https://www.genbeta.com/actualidad/irene-gramage-abogada-acerca-repartos-bienes-heredar-no-gratis-cuesta-dinero-no-solo-esta-impuesto-sucesiones-tambien-plusvalia-municipal",
@@ -625,18 +913,6 @@
       "summary": "Incluso aunque tengamos en cuenta que el impuesto a pagar sea pequeño, no son gratuitas todas estas transmisiones de los padres a los hijos . La abogada Irene Gramage advierte de esa confusión: “Heredar no es gratis, cue…",
       "image": "https://i.blogs.es/1f01be/abogada-irene-gramage/1024_2000.jpeg",
       "published": "2026-11-14T14:01:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "45d585d2ee28de",
-      "title": "Liam Pearson-Noseworthy, profesor de ciencias del deporte: “Levantar pesas despacio no es siempre lo mejor”",
-      "url": "https://www.xataka.com/medicina-y-salud/liam-pearson-noseworthy-profesor-ciencias-deporte-levantar-pesas-despacio-no-siempre-mejor",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Generalmente, cuando levantamos peso en el gimnasio , solemos hacerlo despacio, con el movimiento controlado. Eso nos ayuda a evitar lesiones y, de paso, favorece la formación de nuevo músculo y el aumento de fuerza. Sin…",
-      "image": "https://i.blogs.es/a07765/levantar-peso-rapido/1024_2000.jpeg",
-      "published": "2026-11-14T14:01:21+00:00",
       "score": null,
       "tags": []
     },
@@ -665,30 +941,6 @@
       "tags": []
     },
     {
-      "id": "288eea6b3d99d9",
-      "title": "La energía solar ya produce más electricidad que todas las centrales nucleares del mundo juntas, cuando hace diez años apenas representaba el 1%",
-      "url": "https://www.xataka.com/energia/energia-solar-produce-electricidad-que-todas-centrales-nucleares-mundo-juntas-cuando-hace-diez-anos-apenas-representaba-1",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Hace tan solo una década, la energía solar apenas representaba el 1% de la electricidad a nivel mundial. Hoy se espera que esta tecnología alcance el 10%, llegando a situarse por delante de otras fuentes de energía tan a…",
-      "image": "https://i.blogs.es/64f94a/raphael-cruz-iwy-27cerca-unsplash/1024_2000.jpeg",
-      "published": "2026-11-14T13:31:26+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0c7c6c5a91ffc7",
-      "title": "Noruega tiene 3.500 robots con IA armados con láser cazando piojos en sus granjas de salmón",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/noruega-tiene-3-500-robots-ia-armados-laser-cazando-piojos-sus-granjas-salmon",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Aunque en el sur de Europa no lo hayamos visto tan claro con nuestros propios ojos como en las granjas de cerdos y pollos que hay aquí o las bateas de los mejillones, buena parte del salmón que llega a nuestros platos pr…",
-      "image": "https://i.blogs.es/1f9a37/gemini_generated_image_jc6f96jc6f96jc6f/1024_2000.jpeg",
-      "published": "2026-11-14T13:01:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "e61c57bc182e8e",
       "title": "La cronología de todos los conflictos del Universo Cinematográfico DC y que provocaron la salida de James Gunn",
       "url": "https://hipertextual.com/cine-television/la-cronologia-de-todos-los-conflictos-del-universo-cinematografico-dc-y-que-provocaron-la-salida-de-james-gunn/",
@@ -697,18 +949,6 @@
       "summary": "James Gunn y Peter Safran abandonan DC apenas luego de cuatro años de llegar al estudio. Mucho más, dejando incumplida la promesa de convertir a la franquicia de la editorial en un éxito. Se trata de una noticia que lleg…",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/Universo-DC-James-Gunn.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
       "published": "2026-11-14T13:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "889833e04fd4db",
-      "title": "España está dejando de beber todos los alcoholes que solía beber excepto uno: el tequila",
-      "url": "https://www.xataka.com/magnet/plena-crisis-alcohol-espana-esta-viviendo-fiebre-tequila-su-segundo-mayor-mercado-internacional",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "La industria del alcohol no atraviesa su mejor momento en España, pero eso no significa que todas las variedades de bebidas estén en la misma situación . Al tequila no le va nada mal. Las estadísticas de su Consejo Regul…",
-      "image": "https://i.blogs.es/2bd3de/francisco-galarza-hos80gyhota-unsplash/1024_2000.jpeg",
-      "published": "2026-11-14T12:31:22+00:00",
       "score": null,
       "tags": []
     },
@@ -809,18 +1049,6 @@
       "tags": []
     },
     {
-      "id": "de281b7a08777d",
-      "title": "Actualiza Windows 11 ya: el parche de noviembre corrige más de 1.200 fallos y acelera los equipos con poca RAM",
-      "url": "https://hipertextual.com/seguridad/windows-11-actualizacion-corrige-mas-de-1200-fallos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Microsoft ha lanzado una nueva actualización para Windows 11 que corrige más de 1.200 vulnerabilidades, una de las mayores tasas registradas a la fecha. El Patch Tuesday de noviembre de 2026 se enfoca en parchear cientos…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-11-1.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-11-14T09:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "53f46773c79aad",
       "title": "Noruega multa a Xandr de Microsoft con 9.6 millones de dólares por compartir datos de Grindr",
       "url": "https://www.genbeta.com/seguridad/noruega-multa-a-xandr-microsoft-9-6-millones-dolares-compartir-datos-grindr",
@@ -841,18 +1069,6 @@
       "summary": "La micromovilidad urbana ha dejado de ser un terreno exclusivo para patinetes ligeros de última milla pensados únicamente para doblar y subir al metro. Quienes buscan un vehículo capaz de lidiar con asfalto, pendientes p…",
       "image": null,
       "published": "2026-11-14T08:01:02+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1b4488f91b4f8f",
-      "title": "Estos comandos te ayudan a personalizar ChatGPT, Gemini y Claude sin escribir prompts largos",
-      "url": "https://hipertextual.com/guias/comandos-chatgpt-gemini-claude-personalizar-ia/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "La Unesco define la inteligencia artificial como “cualquier sistema informático que simula la inteligencia humana para operar sitios web, aplicaciones, robots y otros entornos o equipos programables”. Para funcionar, la …",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Gemini-ChatGPT-Claude-Portatiles.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-      "published": "2026-11-14T08:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -1001,18 +1217,6 @@
       "tags": []
     },
     {
-      "id": "0a72058c951431",
-      "title": "Gemini ya puede conectarse con Google Wallet para acceder a tus finanzas",
-      "url": "https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracion-finanzas-gastos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Google ha ampliado las capacidades de su inteligencia artificial para ofrecer respuestas más útiles relacionadas con tus finanzas. El gigante tecnológico integró Gemini con Google Wallet, lo que permitirá a la IA acceder…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-2.jpg?fit=1024%2C650&quality=70&strip=all&ssl=1",
-      "published": "2026-11-13T21:21:28+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "30a2d9c491f4c9",
       "title": "S&P 500, Nasdaq y Dow Jones se anotan alza semanal de más del 2% pese a renuncia del CEO de Nvidia",
       "url": "https://www.altonivel.com.mx/sp-500-nasdaq-y-dow-jones-se-anotan-alza-semanal-de-mas-del-2-pese-a-renuncia-del-ceo-de-nvidia/",
@@ -1061,18 +1265,6 @@
       "tags": []
     },
     {
-      "id": "1527091b95378e",
-      "title": "De Batman a 007: Robert Pattinson podría ser el nuevo James Bond",
-      "url": "https://hipertextual.com/cine-television/de-batman-a-007-robert-pattinson-podria-ser-el-nuevo-james-bond/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Robert Pattinson sería la primera opción de Amazon como nuevo James Bond, según reporta Puck News (vía ScreenTime). El actor británico todavía no tendría el papel asegurado, pero habría recibido la oferta más suculenta e…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Robert-Pattinson-scaled.jpg?fit=1024%2C600&quality=70&strip=all&ssl=1",
-      "published": "2026-11-13T20:29:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "97219f6b327a40",
       "title": "Bitcoin cae por debajo de 70,000 dólares y toca su nivel más bajo desde agosto",
       "url": "https://www.altonivel.com.mx/bitcoin-cae-por-debajo-de-70000-dolares-y-toca-su-nivel-mas-bajo-desde-agosto/",
@@ -1093,18 +1285,6 @@
       "summary": "Los retiros por desempleo en las Afores sumaron 41,099 mdp de enero a octubre de 2026, un nuevo máximo histórico y ya ha rebasado a todo lo registrado el año pasado.",
       "image": "https://cdn-3.expansion.mx/dims4/default/64cc975/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3e%2F17%2F5eff78a447fb88adafa3c8fd38f7%2Fafores-retiros-por-desempleo.jpeg",
       "published": "2026-11-13T20:02:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "7c9ab20f69bc04",
-      "title": "Millones de documentos de Word podrían cambiar tras esta decisión de Microsoft",
-      "url": "https://hipertextual.com/software/microsoft-retira-funciones-compatibilidad-word-documentos-antiguos/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Microsoft anunció que eliminará algunas características de Word, lo cual podría afectar a documentos creados con versiones antiguas de la aplicación. En una actualización del centro de mensajes de Microsoft 365, el gigan…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/microsoft-word.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-11-13T19:27:33+00:00",
       "score": null,
       "tags": []
     },
@@ -1229,18 +1409,6 @@
       "tags": []
     },
     {
-      "id": "790fa93329d707",
-      "title": "¿Quiénes son los principales candidatos a reemplazar a Jensen Huang en NVIDIA?",
-      "url": "https://hipertextual.com/economia-empresas/candidatos-reemplazar-jensen-huang-ceo-nvidia/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Con la renuncia de Jensen Huang todavía fresca, el desenlace del drama que hoy envuelve a NVIDIA todavía es un misterio. La empresa busca dar vuelta la página tras el nombramiento de Colette Kress como CEO interina, pens…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Jensen-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "published": "2026-11-13T16:40:38+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "977bf61709310f",
       "title": "Japón y México acuerdan fortalecer comercio y cooperación energética rumbo a 2027",
       "url": "https://www.altonivel.com.mx/japon-y-mexico-acuerdan-fortalecer-comercio-y-cooperacion-energetica-rumbo-a-2027/",
@@ -1349,102 +1517,6 @@
       "tags": []
     },
     {
-      "id": "6ad893cd272582",
-      "title": "Siren Halo: el arma secreta de AMD con CPU Zen 6, GPU RDNA 5 y GDDR7 que dice adiós a la RAM",
-      "url": "https://www.muycomputer.com/2026/11/13/siren-halo-el-arma-secreta-de-amd-con-cpu-zen-6-gpu-rdna-5-y-gddr7-que-dice-adios-a-la-ram/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Gracias a una filtración sabemos que AMD está trabajando en Siren Halo, una solución que es mucho más que una simple APU, ya que no solo integraría una CPU Zen 6 y una GPU RDNA 5, sino que además vendría con memoria GDDR…",
-      "image": null,
-      "published": "2026-11-13T12:55:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "86a93bcf8ae85a",
-      "title": "Encuentra un barril de cerveza lleno en una grieta de la montaña, que había desaparecido hacía casi 50 años",
-      "url": "https://www.genbeta.com/actualidad/encuentra-barril-cerveza-lleno-grieta-montana-que-habia-desaparecido-casi-50-anos",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "Un barril de cerveza (que pesaría unos 40 kilos) quedó atrapado en la grieta de un glaciar que hay en el valle de Ahrn (Tirol del Sur, Italia) . Allí estaba desde hacía décadas. Ha sido rescatado por Daniel Oberlechner (…",
-      "image": "https://i.blogs.es/9cd5b7/montanismo/1024_2000.jpeg",
-      "published": "2026-11-13T12:01:23+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "74f5c3f1c42c89",
-      "title": "Feijóo, en Jordi Wild, sobre ampliar la edad de jubilación: \"Hay jueces, hay magistrados que quieren seguir. Yo se lo voy a facilitar\"",
-      "url": "https://www.genbeta.com/a-fondo/feijoo-jordi-wild-ampliar-edad-jubilacion-hay-jueces-hay-magistrados-que-quieren-seguir-yo-se-voy-a-facilitar",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "Jordi Wild quería saber si financiar las pensiones acabaría por obligar a los trabajadores a jubilarse más tarde. Alberto Núñez Feijóo, presidente del Partido Popular (PP), le respondió que consideraba razonable el umbra…",
-      "image": "https://i.blogs.es/67f1ef/f.elconfidencial.com_original_e52_697_add_e52697add640093b857a6b020009c7ab/1024_2000.png",
-      "published": "2026-11-13T11:57:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "274f0a923946ea",
-      "title": "Jordi Wild pregunta por la bajada de impuestos. Feijóo, sobre las cuentas públicas: \"Tengo muchas dudas\"",
-      "url": "https://www.genbeta.com/a-fondo/jordi-wild-pregunta-bajada-impuestos-feijoo-cuentas-publicas-tengo-muchas-dudas",
-      "source": "Genbeta",
-      "category": "tech-ia",
-      "summary": "La pregunta sobre los impuestos le llegó a Alberto Núñez Feijóo cuando hablaba de cómo financiar las pensiones. Jordi Wild le recordó que había defendido una rebaja fiscal y le pidió que concretara si pensaba llevarla a …",
-      "image": "https://i.blogs.es/7d9d1f/f.elconfidencial.com_original_135_21a_dcc_13521adcc996a08c9e1f58207d32d41b-1-/1024_2000.jpeg",
-      "published": "2026-11-13T11:48:03+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "3b9809268d10dd",
-      "title": "FireCuda Forge revive el almacenamiento híbrido, una buena idea si los precios de las memorias acompañaran",
-      "url": "https://www.muycomputer.com/2026/11/13/firecuda-forge-revive-el-almacenamiento-hibrido-una-buena-idea-si-los-precios-de-las-memorias-acompanaran/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Seagate ha presentado el FireCuda Forge, una solución de almacenamiento externo que combina la capacidad de los discos duros con el rendimiento de las unidades de estado sólido. La idea no es ni mala ni novedosa, pero se…",
-      "image": null,
-      "published": "2026-11-13T11:37:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "54bfac612e29c9",
-      "title": "Ofertas de Samsung en el Black Friday 2026: hasta el 55% solo este fin de semana",
-      "url": "https://www.muycomputer.com/2026/11/13/ofertas-de-samsung-en-el-black-friday-2026-hasta-el-55-solo-este-fin-de-semana/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Si estás buscando ofertas de Samsung en el Black Friday 2026, tenemos buenas noticias. Dentro de la campaña general del Viernes Negro, PcComponentes ha puesto en marcha una promoción específica que este fin de semana ofr…",
-      "image": null,
-      "published": "2026-11-13T10:44:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2cfdb0d846c43c",
-      "title": "Xbox anuncia Wolfenstein 3 e Id Software revela que hay un nuevo Doom en camino",
-      "url": "https://www.muycomputer.com/2026/11/13/xbox-anuncia-wolfenstein-3-e-id-software-revela-que-hay-un-nuevo-doom-en-camino/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Xbox ha anunciado Wolfenstein 3, la tercera entrega del reinicio de una franquicia mítica que popularizó en la década de los 90 los videojuegos de disparos en primera persona y abrió el camino hacia otros tan importantes…",
-      "image": null,
-      "published": "2026-11-13T10:16:30+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "4dc636f5405daf",
-      "title": "De la información al documento final: Office 2024 por 18 euros y seis meses de Gemini Pro por 21 euros",
-      "url": "https://www.muycomputer.com/2026/11/13/de-la-informacion-al-documento-final-office-2024-por-18-euros-y-seis-meses-de-gemini-pro-por-21-euros/",
-      "source": "Muycomputer",
-      "category": "tech-ia",
-      "summary": "Una parte importante de nuestra jornada no se dedica a tomar decisiones o crear algo nuevo, sino a ordenar todo lo que necesitamos antes de hacerlo. Revisar documentos, localizar datos, resumir información, preparar una …",
-      "image": null,
-      "published": "2026-11-13T09:01:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "9701ca73a588c5",
       "title": "El COP Madrid acogió la presentación del 2º Estudio «¿Cuánto perdura un deseo?» de la Fundación Pequeño Deseo",
       "url": "https://www.infocop.es/el-cop-madrid-acogio-la-presentacion-del-2o-estudio-cuanto-perdura-un-deseo-de-la-fundacion-pequeno-deseo/",
@@ -1505,38 +1577,14 @@
       "tags": []
     },
     {
-      "id": "cd141ab47d6744",
-      "title": "Los medicamentos para bajar de peso están cambiando algo más que los cuerpos: el mercado",
-      "url": "https://www.altonivel.com.mx/efecto-glp-1-consumo-retail-moda-alimentos/",
+      "id": "0720a2d75c7673",
+      "title": "¿Pueden los productos biológicos transformar el negocio agrícola? Grupo Dragón apuesta por ellos",
+      "url": "https://www.altonivel.com.mx/grupo-dragon-soluciones-biorracionales-biotecnologia-agricola/",
       "source": "Alto Nivel",
       "category": "coaching",
-      "summary": "Los consumidores que utilizan GLP-1 prevén gastar más en frutas, verduras y alimentos ricos en proteínas, mientras disminuyen otras categorías. The post Los medicamentos para bajar de peso están cambiando algo más que lo…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/efecto-glp-1-consumo-retail-moda-alimentos.webp",
-      "published": "2026-11-13T04:08:33+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c176e49a68c23f",
-      "title": "Tu empresa podría estar desperdiciando casi 3 de cada 10 dólares que gasta en la nube",
-      "url": "https://www.altonivel.com.mx/costos-nube-fatiga-multinube-ahorro-empresas/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "La contratación de múltiples servicios cloud puede generar costos innecesarios cuando las empresas no supervisan el uso y la capacidad de sus aplicaciones. The post Tu empresa podría estar desperdiciando casi 3 de cada 1…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/costos-nube-gastos-invisibles-empresas.jpg.webp",
-      "published": "2026-11-13T03:56:40+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "fe52d948900b99",
-      "title": "La IA no viene por tu chamba, viene por tu presupuesto: el negocio del miedo",
-      "url": "https://www.altonivel.com.mx/inteligencia-artificial-empleo-negocio-miedo/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Mientras empresas y especialistas anuncian una revolución inevitable, el autor defiende el papel del criterio humano y del prompt como herramientas de dirección estratégica. The post La IA no viene por tu chamba, viene p…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/inteligencia-artificial-empleo-negocio-miedo.webp",
-      "published": "2026-11-13T03:41:00+00:00",
+      "summary": "La compañía mexicana, con nueve décadas de historia, busca ganar participación de mercado mediante innovación y alternativas biológicas para la protección de cultivos. The post ¿Pueden los productos biológicos transforma…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/grupo-dragon.webp",
+      "published": "2026-11-13T03:00:04+00:00",
       "score": null,
       "tags": []
     },
@@ -1913,18 +1961,6 @@
       "tags": []
     },
     {
-      "id": "ac607e8b235cd3",
-      "title": "SIMO EDUCACIÓN 2026 vuelve a convertirse en el encuentro imprescindible de la innovación educativa",
-      "url": "https://www.educaciontrespuntocero.com/noticias/simo-educacion-2026-guia/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "El Salón reunirá a partir de mañana 60 empresas en su área expositiva y desplegará una amplia agenda congresual en espacios como SIMO EDUCACIÓN DIRECTORES, SIMO EDUCACIÓN TALKS o el I Congreso Internacional NeuroEduca.",
-      "image": null,
-      "published": "2026-11-10T15:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "81b7073d6ad1cf",
       "title": "GTA 6 ya se puede precargar: cuánto ocupa y qué debes saber antes del 19 de noviembre",
       "url": "https://www.fayerwayer.com/entretenimiento/2026/11/10/gta-6-ya-se-puede-precargar-cuanto-ocupa-y-que-debes-saber-antes-del-19-de-noviembre/",
@@ -1933,18 +1969,6 @@
       "summary": "Rockstar habilitó la precarga de GTA 6 para quienes reservaron el juego. El esperado título llegará el 19 de noviembre a PlayStation 5 y Xbox Series X|S.",
       "image": "https://www.fayerwayer.com/resizer/v2/2EW6MWSFR5CTJHLNI7NMOFDKLA.png?auth=0660250af4e15dbe444724d99ddb31b7c28a318da79ff877372e57b4d55082b4&smart=true&width=1776&height=980",
       "published": "2026-11-10T14:13:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a736705b3f3402",
-      "title": "La capacidad de agencia de la infancia en la era de la IA: desarrollar competencias básicas en IA para todos los niños",
-      "url": "https://www.educaciontrespuntocero.com/noticias/alfabetizacion-inteligencia-artificial-ninos-lego-education/",
-      "source": "Educación 3.0",
-      "category": "educacion",
-      "summary": "La educación en inteligencia artificial va más allá de aprender a utilizar sus herramientas: implica comprender cómo funcionan, cuestionar sus resultados y desarrollar las competencias necesarias para que los niños pueda…",
-      "image": null,
-      "published": "2026-11-10T13:00:00+00:00",
       "score": null,
       "tags": []
     },
@@ -2021,18 +2045,6 @@
       "tags": []
     },
     {
-      "id": "6d8da4e5d8220a",
-      "title": "La regla de las tres ideas: cómo usar la IA sin dejar que piense por ti",
-      "url": "https://www.psyciencia.com/la-regla-de-las-tres-ideas-como-usar-la-ia-sin-dejar-que-piense-por-ti/",
-      "source": "Psyciencia",
-      "category": "psicologia",
-      "summary": "Es tentador pedirle a la IA que piense por ti. Que te dé ideas para un regalo de cumpleaños, que redacte el mensaje para tu novia o para tu jefe,…",
-      "image": null,
-      "published": "2026-11-06T16:58:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "26ac30a5faa877",
       "title": "Luum Awards 2026 reconoce campañas que impulsan cambios sociales, ambientales y de bienestar",
       "url": "https://ilifebelt.com/luum-awards-2026-reconoce-campanas-que-impulsan-cambios-sociales-ambientales-y-de-bienestar/2026/11/",
@@ -2065,18 +2077,6 @@
       "summary": "MakerWomenSTEM impulsa la participación de mujeres latinoamericanas en STEM mediante formación, mentoría y colaboración. Conoce la experiencia detrás de esta iniciativa internacional y cómo sus talleres buscan fortalecer…",
       "image": null,
       "published": "2026-11-05T16:31:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "89ae6f8b188c5e",
-      "title": "¿Quién inventó realmente la terapia cognitivo-conductual?",
-      "url": "https://www.psyciencia.com/quien-invento-realmente-la-terapia-cognitivo-conductual/",
-      "source": "Psyciencia",
-      "category": "psicologia",
-      "summary": "Este texto es una traducción y adaptación de un escrito de Donald J. Robertson —psicoterapeuta cognitivo-conductual y autor de How to Think Like a Roman Emperor y The Philosophy of…",
-      "image": null,
-      "published": "2026-11-05T13:23:20+00:00",
       "score": null,
       "tags": []
     },

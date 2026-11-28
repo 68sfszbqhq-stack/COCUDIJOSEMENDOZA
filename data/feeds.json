@@ -1,33 +1,9 @@
 {
   "meta": {
-    "generated": "2026-11-27T20:45:06.415267+00:00",
+    "generated": "2026-11-28T06:35:45.066019+00:00",
     "total": 186
   },
   "items": [
-    {
-      "id": "b2a17b17010a45",
-      "title": "La cultura se come a la estrategia… y casi nadie habla de eso",
-      "url": "https://spanish.entrepreneur.com/emprendedores/la-cultura-se-come-a-la-estrategia-y-casi-nadie-habla-de-eso",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "La cultura organizacional puede impulsar o frenar una estrategia. La confianza, la seguridad para expresar desacuerdos y el comportamiento de los líderes son factores clave para convertir los planes en resultados. The po…",
-      "image": null,
-      "published": "2026-11-27T20:45:05.033194+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "bcddba44d31381",
-      "title": "“Grand Theft Auto VI” generó $3,790 millones de dólares en un solo día: casi el doble que toda la gira “Eras Tour” de Taylor Swift",
-      "url": "https://spanish.entrepreneur.com/noticias/grand-theft-auto-vi-genero-3790-millones-de-dolares-en-un-solo-dia-casi-el-doble-que-toda-la-gira-eras-tour-de-taylor-swift",
-      "source": "Entrepreneur ES",
-      "category": "startup",
-      "summary": "Rockstar considera que el lanzamiento de su nuevo videojuego es el más grande en la historia del entretenimiento, y las cifras son de otro nivel. The post “Grand Theft Auto VI” generó $3,790 millones de dólares en un sol…",
-      "image": null,
-      "published": "2026-11-27T20:45:05.032851+00:00",
-      "score": null,
-      "tags": []
-    },
     {
       "id": "60dd96545bc59d",
       "title": "Cómo ser “auténtico” puede jugar en contra de los líderes — y qué significa la verdadera autenticidad",
@@ -36,7 +12,7 @@
       "category": "startup",
       "summary": "Ser auténtico no implica mostrar todas tus emociones, sino alinear tus valores, tus palabras y tus acciones para generar confianza. The post Cómo ser “auténtico” puede jugar en contra de los líderes — y qué significa la …",
       "image": null,
-      "published": "2026-11-27T20:45:05.032503+00:00",
+      "published": "2026-11-28T06:35:43.583346+00:00",
       "score": null,
       "tags": []
     },
@@ -48,7 +24,7 @@
       "category": "startup",
       "summary": "El bajo desempeño de un colaborador no siempre es un problema individual. La claridad, la retroalimentación y las condiciones que crea un líder también influyen en los resultados y en la retención del talento. The post E…",
       "image": null,
-      "published": "2026-11-27T20:45:05.032118+00:00",
+      "published": "2026-11-28T06:35:43.582991+00:00",
       "score": null,
       "tags": []
     },
@@ -60,7 +36,7 @@
       "category": "startup",
       "summary": "Estos cinco errores pueden arruinar tus esfuerzos de crear conexiones. The post 5 errores comunes que los emprendedores cometen al hacer networking y construir relaciones appeared first on Entrepreneur en Espanol .",
       "image": null,
-      "published": "2026-11-27T20:45:05.031758+00:00",
+      "published": "2026-11-28T06:35:43.582644+00:00",
       "score": null,
       "tags": []
     },
@@ -72,7 +48,7 @@
       "category": "startup",
       "summary": "Cada vez más emprendedores latinoamericanos aprovechan su experiencia, innovación y talento para expandir sus empresas tecnológicas hacia Estados Unidos. The post Cómo los fundadores que operan entre Estados Unidos y Lat…",
       "image": null,
-      "published": "2026-11-27T20:45:05.030416+00:00",
+      "published": "2026-11-28T06:35:43.582274+00:00",
       "score": null,
       "tags": []
     },
@@ -84,7 +60,7 @@
       "category": "startup",
       "summary": "Las financieras ya pueden contratar buena parte de su infraestructura tecnológica, pero su ventaja competitiva dependerá de cómo integren sus sistemas, administren sus datos y mantengan el control de sus decisiones. The …",
       "image": null,
-      "published": "2026-11-27T20:45:05.030044+00:00",
+      "published": "2026-11-28T06:35:43.581835+00:00",
       "score": null,
       "tags": []
     },
@@ -96,7 +72,7 @@
       "category": "startup",
       "summary": "¿Cansado de los consejos tradicionales sobre el equilibrio entre la vida y el trabajo? Aquí tienes seis estrategias poco comunes que ayudan a los emprendedores a prevenir el agotamiento, recuperar energía y alinear el tr…",
       "image": null,
-      "published": "2026-11-27T20:45:05.029632+00:00",
+      "published": "2026-11-28T06:35:43.580605+00:00",
       "score": null,
       "tags": []
     },
@@ -108,7 +84,7 @@
       "category": "startup",
       "summary": "Así pueden las pequeñas empresas aprovechar la tecnología para gestionar a su personal, prevenir el agotamiento laboral y mantener sus operaciones en marcha sin contratiempos. The post Cómo detectar el agotamiento labora…",
       "image": null,
-      "published": "2026-11-27T20:45:05.029272+00:00",
+      "published": "2026-11-28T06:35:43.580257+00:00",
       "score": null,
       "tags": []
     },
@@ -120,7 +96,259 @@
       "category": "startup",
       "summary": "El síndrome del fundador puede tensar las relaciones dentro del equipo, generar desmotivación y aumentar la rotación de personal. Pero sus riesgos pueden superarse y mitigarse con la intervención adecuada. The post ¿Tú e…",
       "image": null,
-      "published": "2026-11-27T20:45:05.028869+00:00",
+      "published": "2026-11-28T06:35:43.579903+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9f69d7c6e8ac0a",
+      "title": "¿Puede la IA realmente añadir valor al sector inmobiliario?",
+      "url": "https://spanish.entrepreneur.com/tecnologia/puede-la-ia-realmente-anadir-valor-al-sector-inmobiliario",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "El sector inmobiliario está aprovechando la inteligencia artificial, pero también está enfrentando los retos que conlleva aplicarla. The post ¿Puede la IA realmente añadir valor al sector inmobiliario? appeared first on …",
+      "image": null,
+      "published": "2026-11-28T06:35:43.579548+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "5ec82926c72c21",
+      "title": "Los líderes fuertes usan esta estrategia creativa para generar las mejores ideas",
+      "url": "https://spanish.entrepreneur.com/emprendedores/los-lideres-fuertes-usan-esta-estrategia-creativa-para-generar-las-mejores-ideas",
+      "source": "Entrepreneur ES",
+      "category": "startup",
+      "summary": "Las ideas más transformadoras suelen venir de quienes están en la primera línea — no de la oficina de la esquina. The post Los líderes fuertes usan esta estrategia creativa para generar las mejores ideas appeared first o…",
+      "image": null,
+      "published": "2026-11-28T06:35:43.579123+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "dd00fc63b84c8e",
+      "title": "\"Perdona, ¿tienes un minuto?\": los trucos psicológicos del captador de ONG que te asalta a la salida del metro",
+      "url": "https://www.xataka.com/magnet/perdona-tienes-minuto-trucos-psicologicos-captador-ongs-que-te-asalta-a-salida-metro",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "\"Perdona, ¿tienes un minuto?\". Están ahí, acechando. Rodeando las salidas del metro o patrullando por las calles comerciales del centro de la ciudad. Es curioso: hace unos años eran algo rarísimo, pero ahora los captador…",
+      "image": "https://i.blogs.es/20d5aa/captador-ong/1024_2000.jpeg",
+      "published": "2026-11-28T06:00:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4f6624372d72c3",
+      "title": "China completa las pruebas de un expansor de 600 MW, una pieza clave para almacenar electricidad con aire comprimido",
+      "url": "https://www.xataka.com/energia/china-completa-pruebas-expansor-600-mw-pieza-clave-para-almacenar-electricidad-aire-comprimido",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "¿Y si pudiésemos aprovechar el excedente de electricidad que a veces sobra de los paneles solares y aerogeneradores para comprimir aire y liberarlo después para mover una turbina y generar de nuevo energía cuando sea nec…",
+      "image": "https://i.blogs.es/6bc641/hyb0be_biaanhwd/1024_2000.jpeg",
+      "published": "2026-11-28T06:00:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "94096c34dda4fc",
+      "title": "Digimon Alysion brings the trading card game to mobile for free, with rewards for all players",
+      "url": "https://www.merca20.com/digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players/?utm_source=rss&utm_medium=rss&utm_campaign=digimon-alysion-brings-the-trading-card-game-to-mobile-for-free-with-rewards-for-all-players",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Digimon Alysion launches for free on iOS and Android after surpassing 450,000 preregistrations. Discover its cards, rewards, and how the game works.",
+      "image": null,
+      "published": "2026-11-28T04:43:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "eaf90bc65d45bc",
+      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 28 de noviembre",
+      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-28-noviembre",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Una semana más entra en vigor el operativo del Hoy No Circula sabatino, la estrategia ambiental con la que la Secretaría de Medio Ambiente de la Ciudad de México ( SEDEMA ) regula el tránsito de determinados automóviles …",
+      "image": "https://i.blogs.es/74b47a/jakob-owens-uz8w3wxrgie-unsplash/1024_2000.jpeg",
+      "published": "2026-11-28T04:00:27+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "65c80dba43375b",
+      "title": "Milk Bar Brings Back Snoopy for Christmas 2026 With a Collectible Tin and Four New Cookie Flavors After Selling Out in 2025",
+      "url": "https://www.merca20.com/milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=milk-bar-brings-back-snoopy-for-christmas-2026-with-a-collectible-tin-and-four-new-cookie-flavors-after-selling-out-in-2025",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Milk Bar and Peanuts celebrate Christmas 2026 with a new collectible Snoopy tin, four cookie flavors, chocolates, and other desserts.",
+      "image": null,
+      "published": "2026-11-28T03:46:13+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "be94de62048e1c",
+      "title": "Walmart cancela el encendido de su árbol de Navidad en Toreo y otros estados por el clima; esto dijo la marca",
+      "url": "https://www.merca20.com/walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-cancela-el-encendido-de-su-arbol-de-navidad-en-toreo-y-otros-estados-por-el-clima-esto-dijo-la-marca",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Walmart México canceló los eventos de encendido de sus árboles de Navidad programados para este sábado 28 de noviembre a nivel nacional",
+      "image": "https://files.merca20.com/uploads/2026/11/walmart-arbol-navidad-newsroom-walmart.jpg",
+      "published": "2026-11-28T02:18:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "fa5cf03251e7c0",
+      "title": "Bronson Reed dies at 38: WWE wrestler’s cause of death and net worth",
+      "url": "https://www.merca20.com/bronson-reed-dies-at-38-wwe-wrestlers-cause-of-death-age-and-net-worth/?utm_source=rss&utm_medium=rss&utm_campaign=bronson-reed-dies-at-38-wwe-wrestlers-cause-of-death-age-and-net-worth",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "WWE confirmed the death of Australian professional wrestler Jermaine Haley, better known as Bronson Reed, on November 27",
+      "image": "https://files.merca20.com/uploads/2026/11/reed-die-chatgpt.jpg",
+      "published": "2026-11-28T01:27:03+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f1096cc0770362",
+      "title": "¿Quién tiene el poder de decidir en el marketing actual: las marcas o las audiencias?",
+      "url": "https://www.merca20.com/quien-tiene-el-poder-de-decidir-en-el-marketing-actual-las-marcas-o-las-audiencias/?utm_source=rss&utm_medium=rss&utm_campaign=quien-tiene-el-poder-de-decidir-en-el-marketing-actual-las-marcas-o-las-audiencias",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El marketing actual se parece menos a una emisión y más a una negociación. La marca establece una identidad, pero la audiencia decide cuánto la adopta, cuestiona, transforma o comparte.",
+      "image": "https://files.merca20.com/uploads/2026/11/Marketing-bigstock-83034143-1.jpg",
+      "published": "2026-11-27T23:23:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "358c43658bce7c",
+      "title": "WhatsApp comienza a estrenar stickers con audio en Android y iPhone, cómo crear los tuyos, añadirles sonido y dónde conseguirlos",
+      "url": "https://www.merca20.com/whatsapp-comienza-a-estrenar-stickers-con-audio-en-android-y-iphone-como-crear-los-tuyos-anadirles-sonido-y-donde-conseguirlos/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-comienza-a-estrenar-stickers-con-audio-en-android-y-iphone-como-crear-los-tuyos-anadirles-sonido-y-donde-conseguirlos",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "WhatsApp comienza a estrenar stickers con audio en Android y iPhone. Descubre cómo crear los tuyos y dónde conseguirlos.",
+      "image": null,
+      "published": "2026-11-27T22:58:42+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "921c0a594102ff",
+      "title": "¿Qué hay detrás de la supuesta falta de atención de la Gen Z y cómo esta idea está transformando las decisiones de marketing?",
+      "url": "https://www.merca20.com/que-hay-detras-de-la-supuesta-falta-de-atencion-de-la-gen-z-y-como-esta-idea-esta-transformando-las-decisiones-de-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=que-hay-detras-de-la-supuesta-falta-de-atencion-de-la-gen-z-y-como-esta-idea-esta-transformando-las-decisiones-de-marketing",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El mito de la atención breve ha contribuido a popularizar una lógica de comunicación basada en comprimirlo todo. Mensajes de seis segundos, videos cada vez más rápidos, textos reducidos y una búsqueda constante del estím…",
+      "image": "https://files.merca20.com/uploads/2026/11/Generation-Z-bigstock-175082647-1.jpg",
+      "published": "2026-11-27T22:29:42+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "e0127cd1c65138",
+      "title": "Pedirle a ChatGPT que llame, responda un mensaje o mire tu pantalla: Qué sugiere su código en Android",
+      "url": "https://www.fayerwayer.com/moviles/2026/11/27/pedirle-a-chatgpt-que-llame-responda-un-mensaje-o-mire-tu-pantalla-que-sugiere-su-codigo-en-android/",
+      "source": "FayerWayer",
+      "category": "tech-ia",
+      "summary": "Un análisis de código en la versión 1.2026.328 de ChatGPT para Android apunta a hacer llamadas, gestionar SMS, controlar música, leer la pantalla y...",
+      "image": "https://www.fayerwayer.com/resizer/v2/RZXICIANSREDHB2ZWYU4C24IDU.jpg?auth=d26cc23abd88acf28f202372155d131e09fff56417f04bf541b15185cdd0b1fc&smart=true&width=1376&height=768",
+      "published": "2026-11-27T22:15:01+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "058d16a629b1ac",
+      "title": "Uber se asegura el 87% de la dueña de PedidosYa en una operación de 14,800 millones de dólares",
+      "url": "https://www.merca20.com/uber-compra-pedidosya-delivery-hero-america-latina/?utm_source=rss&utm_medium=rss&utm_campaign=uber-compra-pedidosya-delivery-hero-america-latina",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Uber avanza en una adquisición de 14,800 millones de dólares que le permitiría incorporar las operaciones de PedidosYa en 13 países latinoamericanos y ampliar su presencia mundial en el negocio del delivery.",
+      "image": "https://files.merca20.com/uploads/2026/11/DH-rider-vendor-store-scaled-1.jpg",
+      "published": "2026-11-27T22:05:40+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "f60ba5dd0f3fb6",
+      "title": "El consumo autónomo está cambiando las reglas: ¿cómo pueden las marcas adaptarse a un consumidor que decide por sí mismo?",
+      "url": "https://www.merca20.com/el-consumo-autonomo-esta-cambiando-las-reglas-como-pueden-las-marcas-adaptarse-a-un-consumidor-que-decide-por-si-mismo/?utm_source=rss&utm_medium=rss&utm_campaign=el-consumo-autonomo-esta-cambiando-las-reglas-como-pueden-las-marcas-adaptarse-a-un-consumidor-que-decide-por-si-mismo",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "La autonomía también se refleja en la pérdida de fidelidad automática hacia las marcas.",
+      "image": "https://files.merca20.com/uploads/2026/11/consumidor-foto-bigstock-379375348.jpg",
+      "published": "2026-11-27T21:22:38+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4f8980dfd52012",
+      "title": "Ofrecen recompensa para encontrar a Inti, perrito beige de 10 años perdido en San Mateo Xalpa y La Chavarrieta, Xochimilco CDMX",
+      "url": "https://www.merca20.com/ofrecen-recompensa-para-encontrar-a-inti-perrito-beige-de-10-anos-perdido-en-san-mateo-xalpa-y-la-chavarrieta-xochimilco-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=ofrecen-recompensa-para-encontrar-a-inti-perrito-beige-de-10-anos-perdido-en-san-mateo-xalpa-y-la-chavarrieta-xochimilco-cdmx",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "Buscan a Inti, perrito beige de 10 años perdido en San Mateo Xalpa, Xochimilco. Su familia ofrece recompensa.",
+      "image": null,
+      "published": "2026-11-27T21:22:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "df43bfa2e24787",
+      "title": "Tlalpan inaugura segunda clínica veterinaria pública en Coapa con consultas y vacunas gratuitas",
+      "url": "https://www.altonivel.com.mx/tlalpan-inaugura-segunda-clinica-veterinaria-publica-coapa-consultas-vacunas-gratuitas-desparasitacion-gratis-mascotas/",
+      "source": "Alto Nivel",
+      "category": "coaching",
+      "summary": "La nueva clínica veterinaria pública de Tlalpan está en el mercado Villa Coapa y ofrece consultas, vacunación y desparasitación gratuitas o a bajo costo. The post Tlalpan inaugura segunda clínica veterinaria pública en C…",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/tlalpan-inaugura-segunda-clinica-veterinaria-publica-coapa-consultas-vacunas-gratuitas-desparasitacion-gratis-mascotas.webp",
+      "published": "2026-11-27T21:15:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "93f76e6d5b61e2",
+      "title": "El padre de PlayStation confiesa cómo ayudó a crear Xbox",
+      "url": "https://hipertextual.com/videojuegos/padre-playstation-ayudo-crear-xbox-ken-kutaragi/",
+      "source": "Hipertextual",
+      "category": "tech-ia",
+      "summary": "La rivalidad entre PlayStation y Xbox ha marcado a varias generaciones de jugadores. Pese a que Sony tomó la delantera, Microsoft todavía intenta recuperar terreno y volverse competitiva. Curiosamente, el padre de PlaySt…",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/ken-kutaragi-xbox.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
+      "published": "2026-11-27T21:04:00+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "ccbc93e093c7c7",
+      "title": "Hay un iPhone que se ha colado en las ofertas de última hora del Black Friday. Nunca lo hemos visto más barato",
+      "url": "https://www.xataka.com/seleccion/hay-iphone-que-se-ha-colado-ofertas-ultima-hora-black-friday-nunca-hemos-visto-barato",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Los iPhone no han bajado prácticamente nada durante el Black Friday, salvo el iPhone 17 que sí lo hemos visto por debajo de la barrera de los 1.000 euros. Pero sigue siendo caro. Sin embargo, a pocas horas de finalizar e…",
+      "image": "https://i.blogs.es/62ecae/iphone-air/1024_2000.jpeg",
+      "published": "2026-11-27T21:00:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1167c11f1604f4",
+      "title": "Tu perro convierte la vuelta a casa en una caótica fiesta. La ciencia sabe perfectamente por qué se entusiasma",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/que-tu-perro-convierte-tu-vuelta-a-casa-autentica-fiesta-incluso-solo-has-salido-a-tirar-basura",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "Quien tiene una mascota en casa sabe que cuando va a abrir la puerta de casa tras salir cinco minutos a tirar la basura, se va a encontrar con mucha seguridad a su perro en la puerta esperándolo. Orejas hacia atrás, cola…",
+      "image": "https://i.blogs.es/1c4821/perrooo/1024_2000.jpeg",
+      "published": "2026-11-27T21:00:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "19be24a996ab71",
+      "title": "El Black Friday retro de Powerplanet tiene regalos tecnológicos originales con descuentos de hasta el 71%",
+      "url": "https://www.xataka.com/seleccion/black-friday-retro-powerplanet-tiene-regalos-tecnologicos-originales-descuentos-71",
+      "source": "Xataka",
+      "category": "tech-ia",
+      "summary": "El Black Friday por fin ha llegado. Tras un mes donde hemos podido encontrar ofertas de todo tipo, el verdadero viernes negro ya ha llegado. Lo mejor de todo es que Powerplanet ha querido celebrarlo por todo lo alto con …",
+      "image": "https://i.blogs.es/72ccf6/1-1-/1024_2000.png",
+      "published": "2026-11-27T20:46:19+00:00",
       "score": null,
       "tags": []
     },
@@ -133,6 +361,18 @@
       "summary": "Oficialmente, hoy se celebra el Black Friday y los estamos siguiendo en directo desde Xataka . Teles, móviles y muchos dispositivos tienen hoy muy buenos descuentos, para así anticiparte a las compras. Si llevas tiempo p…",
       "image": "https://i.blogs.es/89d780/amazon-alexa-tablet-8-1-/1024_2000.jpeg",
       "published": "2026-11-27T20:30:25+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "dfbe98051c30ab",
+      "title": "Más vigilancia y menos tiempos de espera motivan a Hacienda a eliminar el efectivo en gasolineras y casetas",
+      "url": "https://expansion.mx/economia/2026/11/27/motivos-hacienda-pagos-digitales-gasolineras-casetas",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La SHCP detalló en el Diario Oficial de la Federación los motivos para agilizar y promover los pagos digitales y electrónicos para la venta de gasolinas y cobro de peajes.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/10626ce/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa1%2F6e%2Ff64838b64599b478149db514fe0c%2Fistock-1400251044.jpg",
+      "published": "2026-11-27T20:30:03+00:00",
       "score": null,
       "tags": []
     },
@@ -157,6 +397,18 @@
       "summary": "Llevo más de 30 años jugando a videojuegos y si algo echo de menos con cierta nostalgia son los salones recreativos. Puede que ya no juegue tanto como antes, pero reconozco que me encantaría tener una de esas máquinas en…",
       "image": "https://i.blogs.es/279ee4/arcade-time-crisis-en-ciudad-retro/1024_2000.png",
       "published": "2026-11-27T20:16:19+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4a9d81a7cf3a95",
+      "title": "La grieta interna que sabotea resultados: marketing vs ventas",
+      "url": "https://www.merca20.com/la-grieta-interna-que-sabotea-resultados-marketing-vs-ventas/?utm_source=rss&utm_medium=rss&utm_campaign=la-grieta-interna-que-sabotea-resultados-marketing-vs-ventas",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "En la economía actual, la verdadera batalla no es marketing contra ventas, sino ambos contra el mercado.",
+      "image": "https://files.merca20.com/uploads/2026/02/bigstock-Business-Risk-With-Crisis-58129187.jpg",
+      "published": "2026-11-27T20:11:38+00:00",
       "score": null,
       "tags": []
     },
@@ -197,6 +449,18 @@
       "tags": []
     },
     {
+      "id": "110cc81daf8692",
+      "title": "Aviso SEP, Alumnos de preescolar, primaria y secundaria tendrán último megapuente esta semana noviembre 2026 y solo 15 días de clases antes de las vacaciones",
+      "url": "https://www.merca20.com/aviso-sep-alumnos-de-preescolar-primaria-y-secundaria-tendran-ultimo-megapuente-esta-semana-noviembre-2026-y-solo-15-dias-de-clases-antes-de-las-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=aviso-sep-alumnos-de-preescolar-primaria-y-secundaria-tendran-ultimo-megapuente-esta-semana-noviembre-2026-y-solo-15-dias-de-clases-antes-de-las-vacaciones",
+      "source": "Merca 2.0",
+      "category": "startup",
+      "summary": "El último megapuente SEP de noviembre 2026 comienza el viernes 27. Consulta las fechas de descanso y cuándo inician las vacaciones de diciembre.",
+      "image": null,
+      "published": "2026-11-27T19:58:56+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "281497424a4804",
       "title": "Domino’s regala chamarras para perros inspiradas en sus bolsas de pizza; dónde y cómo conseguirlas gratis",
       "url": "https://www.merca20.com/dominos-regala-chamarras-para-perros-inspiradas-en-sus-bolsas-de-pizza-donde-y-como-conseguirlas-gratis/?utm_source=rss&utm_medium=rss&utm_campaign=dominos-regala-chamarras-para-perros-inspiradas-en-sus-bolsas-de-pizza-donde-y-como-conseguirlas-gratis",
@@ -233,6 +497,18 @@
       "tags": []
     },
     {
+      "id": "846bb4e80db8b7",
+      "title": "Aguinaldo del ISSSTE 2026: cuándo cae el depósito y qué pensionados pueden recibirlo",
+      "url": "https://expansion.mx/finanzas-personales/2026/11/27/pago-aguinaldo-issste-2026-pensionados-fecha-deposito",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Los pensionados del instituto verán reflejado en su cuenta el deposito de la gratificación anual y las últimas mensualidades.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/126c335/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F27%2F85%2Fcaa9c3634b7fa2ae74d10b102876%2Fpago-aguinaldo-issste-pensionados-fecha-2026.jpg",
+      "published": "2026-11-27T19:39:48+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "4bb6e461963711",
       "title": "Doble cesta, 9,5 litros y 2.470 W: la freidora de aire gigante de Ninja se desploma en el Black Friday de Amazon",
       "url": "https://www.xataka.com/seleccion/doble-cesta-9-5-litros-2-470-w-freidora-aire-gigante-ninja-se-desploma-black-friday-amazon",
@@ -257,14 +533,62 @@
       "tags": []
     },
     {
-      "id": "534e6b1f50d9be",
-      "title": "Costco tiene juguetes de Navidad 2026 desde 549 pesos, hay LEGO, Hot Wheels, princesas Disney y descuentos de hasta 500 pesos",
-      "url": "https://www.merca20.com/costco-tiene-juguetes-de-navidad-2026-desde-549-pesos-hay-lego-hot-wheels-princesas-disney-y-descuentos-de-hasta-500-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=costco-tiene-juguetes-de-navidad-2026-desde-549-pesos-hay-lego-hot-wheels-princesas-disney-y-descuentos-de-hasta-500-pesos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Costco México presenta su catálogo de juguetes para Navidad 2026 con precios desde 549 pesos, descuentos de hasta 500 pesos y envío incluido.",
-      "image": null,
-      "published": "2026-11-27T19:07:57+00:00",
+      "id": "944019ae89642a",
+      "title": "¿Por qué es tan improbable que vuelva a nevar en la CDMX como ocurrió en 1967?",
+      "url": "https://expansion.mx/tendencias/2026/11/27/por-que-no-vuelve-a-nevar-en-cdmx-nevada-1967",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La llegada de aire polar al Valle de México puede provocar nevadas en las zonas montañosas, pero el frío por sí solo no basta para cubrir de blanco la capital.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3ba10c8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7f%2F70%2Fd90de7234f95a59089604b07debb%2Ffrio-cdmx.png",
+      "published": "2026-11-27T19:27:37+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "950b75d20d7543",
+      "title": "Tendencias globales que perfilan el futuro de las inversiones en México",
+      "url": "https://expansion.mx/economia/2026/11/27/tendencias-globales-que-perfilan-el-futuro-de-las-inversiones-en-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La transición hacia un mundo fragmentado, los ajustes en la política monetaria en Estados Unidos y el avance de la inteligencia artificial redefinen la gestión de portafolios en el entorno local.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/aa4cde0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb4%2F6c%2F355f6c9c440bb379dd272ef0bcd5%2Ftendencias-globales-inversiones-hsbc.jpg",
+      "published": "2026-11-27T19:14:44+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "1d0eaa25558776",
+      "title": "El Diario íntimo del papa Francisco sale a la venta: dónde comprar el libro desde México",
+      "url": "https://expansion.mx/tendencias/2026/11/27/diario-papa-francisco-donde-comprar-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El libro reúne anotaciones de Jorge Mario Bergoglio entre 1992 y 2024, en las que escribió sobre sus temores, crisis espirituales, experiencias religiosas y su relación con Dios.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/fd756d2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7a%2F4b%2F519aa6a4423a9adae94ecd2415fc%2Fel-diario-del-papa-francisco-que-revela-como-fue-estar-al-frente-del-vaticano.jpg",
+      "published": "2026-11-27T19:05:33+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "398758079c7341",
+      "title": "Nu bajará los rendimientos de sus cajitas en diciembre, pero hay una forma de conservar el 13%",
+      "url": "https://expansion.mx/economia/2026/11/27/nu-bajara-rendimientos-cajitas-diciembre",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La fintech ajustará las tasas de sus herramientas de ahorro en diciembre, además puso una condición para conservar uno de los mayores rendimientos.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/62ad9f6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa2%2F7d%2F9d5bdff3422bb5549b01b20e5e3d%2Fnu-baja-sus-rendimientos-de-las-cajitas-esto-pasa-con-la-turbo-congeladas-y-24-7.jpg",
+      "published": "2026-11-27T19:02:45+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "bbbad368630611",
+      "title": "¿Recibiste este mensaje? Cuidado: podrían vaciar tu cuenta bancaria",
+      "url": "https://expansion.mx/finanzas-personales/2026/11/27/mensaje-banco-estafa-vaciar-cuenta-banco",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Ten cuidado con los mensajes que vengan supuestamente firmados por tu banco y te pidan hacer click a un enlace o te pidan el código de acceso.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/16ce068/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1c%2F0a%2Fd86473e0498eb7fb7efb189c691e%2Fmensaje-alerta-fraude-robo-bancario.jpg",
+      "published": "2026-11-27T19:02:40+00:00",
       "score": null,
       "tags": []
     },
@@ -329,26 +653,14 @@
       "tags": []
     },
     {
-      "id": "4596ca1e1e6b92",
-      "title": "Lefant nos deja sin excusas en su Black Friday: su robot aspirador compacto M210 Omni baja de 599 euros a menos de 180 euros",
-      "url": "https://www.xataka.com/seleccion/lefant-nos-deja-excusas-su-black-friday-su-robot-aspirador-compacto-m210-omni-baja-599-euros-a-180-euros",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "El Black Friday siempre es una opción perfecta para comprar cualquier tipo de producto. No solo nos sirve para ahorrarnos dinero de cara a Navidad, sino que también puede servirnos de ayuda para cambiar algún imprescindi…",
-      "image": "https://i.blogs.es/fafcd1/lefant-m210-omni-pro/1024_2000.jpeg",
-      "published": "2026-11-27T18:46:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c054bd5dd98a0a",
-      "title": "Beca Sor Juana Inés de la Cruz Edomex 2026: fecha de registro, documentos y resultados para saber si recibirás los 8 mil pesos",
-      "url": "https://www.merca20.com/beca-sor-juana-ines-de-la-cruz-edomex-2026-fecha-de-registro-documentos-y-resultados-para-saber-si-recibiras-los-8-mil-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=beca-sor-juana-ines-de-la-cruz-edomex-2026-fecha-de-registro-documentos-y-resultados-para-saber-si-recibiras-los-8-mil-pesos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La Beca Sor Juana Inés de la Cruz Edomex 2026 ya tiene fechas para el registro de estudiantes que buscan recibir un apoyo económico de 8 mil pesos",
-      "image": "https://files.merca20.com/uploads/2026/11/BECA-SOR-JUANA-INES-FOTO-EDOMEX-CHATGPT.jpg",
-      "published": "2026-11-27T18:43:50+00:00",
+      "id": "80075031581704",
+      "title": "Ley de Economía Digital: Bancos y empresas alistan campaña nacional para impulsar pagos digitales y reducir comisiones",
+      "url": "https://expansion.mx/economia/2026/11/27/ley-de-economia-digital-bancos-y-empresas-alistan-campana-nacional-para-impulsar-pagos-digitales-y-reducir-comisiones",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Impulso a campñas de educación financiera en el país, así como promociones en compra de tags y terminales puntop de venta, son la apuesta de arranque para impulsar los pagos digitales",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7f1c30b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2F71%2F8b0dd74a49529fea821addc75c03%2Fabm-prepara-la-campana-mexico-paga-digital.jpeg",
+      "published": "2026-11-27T18:47:11+00:00",
       "score": null,
       "tags": []
     },
@@ -359,20 +671,8 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "El Museo del Prado, en España, y el Louisiana Museum of Modern Art, en Dinamarca, ocupan el segundo y tercer lugar, respectivamente. The post El Museo Nacional de Antropología de México es elegido el mejor del mundo en 2…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2023/05/museo-nacional-de-antropologia.jpg",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/museo-cacional-antropologia-mejor-del-mundo.webp",
       "published": "2026-11-27T18:39:57+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c37ae5a49df5a3",
-      "title": "WWE Survivor Series 2026: horario, cartelera y dónde ver EN VIVO en México",
-      "url": "https://www.merca20.com/wwe-survivor-series-2026-horario-cartelera-y-donde-ver-en-vivo-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=wwe-survivor-series-2026-horario-cartelera-y-donde-ver-en-vivo-en-mexico",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Survivor Series WarGames se celebra este sábado con combates en jaula, Team México contra Team USA y el regreso de The Rock, conoce dónde verlo.",
-      "image": "https://files.merca20.com/uploads/2026/11/WWE-Survivor-series-2026-Cortesia-WWE.jpg",
-      "published": "2026-11-27T18:39:51+00:00",
       "score": null,
       "tags": []
     },
@@ -389,42 +689,6 @@
       "tags": []
     },
     {
-      "id": "2d9bad9913c5a0",
-      "title": "Más barata que comprar los recambios solos: esta afeitadora Philips para cara y cuerpo cuesta menos de 33 euros",
-      "url": "https://www.xataka.com/seleccion/barata-que-comprar-recambios-solos-esta-afeitadora-philips-para-cara-cuerpo-cuesta-33-euros",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Soy usuario de una afeitadora OneBlade desde hace tiempo y uno de sus puntos débiles lo he encontrado no en sus características, sino en el precio de sus recambios sueltos . Es por ello por lo que en el Black Friday (eve…",
-      "image": "https://i.blogs.es/6e515b/afeitadora-philips-oneblade-360-1-/1024_2000.jpeg",
-      "published": "2026-11-27T18:32:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "adb06de09e04c5",
-      "title": "EEUU se va a poner dura para evitar que las GPU de Nvidia lleguen a China. Y esta vez parece que van en serio",
-      "url": "https://www.xataka.com/robotica-e-ia/eeuu-se-va-a-poner-dura-para-evitar-que-gpu-nvidia-lleguen-a-china-esta-vez-parece-que-van-serio",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Estados Unidos lleva varios años de guerra comercial y tecnológica con China, y los chips de Nvidia estaban en el ojo del conflicto. No podían vender sus chips más avanzados para inteligencia artificial a empresas chinas…",
-      "image": "https://i.blogs.es/7706d9/original/1024_2000.jpeg",
-      "published": "2026-11-27T18:32:22+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "ac8f6c41b36316",
-      "title": "Claudia Sheinbaum alerta por caída de nieve en Jalisco, Colima y Michoacán y por la noche en EDOMEX y CDMX",
-      "url": "https://www.merca20.com/claudia-sheinbaum-alerta-por-caida-de-nieve-en-jalisco-colima-y-michoacan-y-por-la-noche-en-edomex-y-cdmx/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-sheinbaum-alerta-por-caida-de-nieve-en-jalisco-colima-y-michoacan-y-por-la-noche-en-edomex-y-cdmx",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La primera tormenta invernal provocará lluvias intensas, posible caída de nieve y aguanieve, fuertes vientos y heladas en distintas regiones del país.",
-      "image": "https://files.merca20.com/uploads/2026/11/Claudia-Sheinbaum-cortesia-Gobierno-de-Mexico.jpg",
-      "published": "2026-11-27T18:22:52+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "dd14a1695598e2",
       "title": "México busca reducir aranceles de Estados Unidos al acero, aluminio y automóviles antes de cerrar el año",
       "url": "https://www.altonivel.com.mx/mexico-busca-reducir-aranceles-de-estados-unidos-al-acero-aluminio-y-automoviles-antes-de-cerrar-el-ano/",
@@ -433,30 +697,6 @@
       "summary": "México espera alcanzar un entendimiento en diciembre para reducir los aranceles al acero, aluminio y automóviles, aunque Sheinbaum descartó que sea la última oportunidad para negociar con Trump. The post México busca red…",
       "image": "https://www.altonivel.com.mx/wp-content/uploads/2024/12/sheinbaum-sin-invitacion-investidura-trump-jpg.webp",
       "published": "2026-11-27T18:19:55+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "24662d90e7f939",
-      "title": "Oferta en Black Friday: Samsung remata el Galaxy S26 Ultra azul claro de 512 GB a precio mínimo; el regalo ideal para Navidad",
-      "url": "https://www.merca20.com/oferta-en-black-friday-samsung-remata-el-galaxy-s26-ultra-azul-claro-de-512-gb-a-precio-minimo-el-regalo-ideal-para-navidad/?utm_source=rss&utm_medium=rss&utm_campaign=oferta-en-black-friday-samsung-remata-el-galaxy-s26-ultra-azul-claro-de-512-gb-a-precio-minimo-el-regalo-ideal-para-navidad",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Una de las ofertas que destacan en Amazon durante este Black Friday es el Samsung Galaxy S26 Ultra",
-      "image": "https://files.merca20.com/uploads/2026/11/AMAZON-SAMSUNG-BLACK-FOTO-AMAZON.jpg",
-      "published": "2026-11-27T18:19:12+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e82f1f9ac3083f",
-      "title": "Un móvil de gama alta de Samsung por menos de 475 euros: es una de las mejores ofertas de este Black Friday",
-      "url": "https://www.xataka.com/seleccion/movil-gama-alta-samsung-475-euros-mejores-ofertas-este-black-friday",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Cuando se trata de ahorrar al comprar un móvil, mirar hacia una generación anterior es una buena idea. Si a eso le sumamos que estamos en pleno Black Friday y que hay tiendas lanzando los mejores descuentos del año, mejo…",
-      "image": "https://i.blogs.es/f5bdcf/s25-portada/1024_2000.jpeg",
-      "published": "2026-11-27T18:16:20+00:00",
       "score": null,
       "tags": []
     },
@@ -473,18 +713,6 @@
       "tags": []
     },
     {
-      "id": "df4ea5516a311c",
-      "title": "Aragón pierde otro centro de datos: Capital Energy se retira de Épila y vende su conexión eléctrica a Blackstone",
-      "url": "https://www.xataka.com/energia/capital-energy-abandona-su-tercer-centro-datos-aragon-vende-150-mw-a-blackstone-para-su-proyecto-rhodes",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "Aragón se ha convertido en uno de los territorios más atractivos para la industria de los centros de datos. Pero no todos los proyectos anunciados llegan a construirse. De hecho, la región ha perdido recientemente otro m…",
-      "image": "https://i.blogs.es/4f336b/box2bit_dc_1200x900_filled/1024_2000.png",
-      "published": "2026-11-27T18:02:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "df7aed2dec1775",
       "title": "El brillo festivo de diciembre llega a la silueta clásica: Así luce la nueva Dunk Low navideña",
       "url": "https://www.fayerwayer.com/sneakers/2026/11/27/el-brillo-festivo-de-diciembre-llega-a-la-silueta-clasica-asi-luce-la-nueva-dunk-low-navidena/",
@@ -493,54 +721,6 @@
       "summary": "El 4 de diciembre de 2026 llega la Dunk Low “Christmas”, apostando por paneles de cuero brillante en verde pino y detalles en rojo universitario.",
       "image": "https://www.fayerwayer.com/resizer/v2/J34K2GKLX5BRRFD4DFRR33L66M.png?auth=4bfed25a916aa9d8640f34297e94607ab23438d5c8d25e14d76dc17841cf6c86&smart=true&width=1466&height=1474",
       "published": "2026-11-27T17:54:56+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "e7f23b7f8d85b8",
-      "title": "Razer y OpTic Gaming lanzan audífonos de aniversario para esports",
-      "url": "https://www.merca20.com/razer-y-optic-gaming-lanzan-audifonos-de-aniversario-para-esports/?utm_source=rss&utm_medium=rss&utm_campaign=razer-y-optic-gaming-lanzan-audifonos-de-aniversario-para-esports",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Razer presenta una edición limitada de los BlackShark V3 Pro para celebrar los 20 años de OpTic Gaming, con diseño exclusivo y funciones para gaming competitivo.",
-      "image": "https://files.merca20.com/uploads/2026/11/Blackshark-v3-PRO-Cortesia-Razer.jpg",
-      "published": "2026-11-27T17:52:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "1d1e0b9038dfe7",
-      "title": "Después de agotar su colección navideña en 2025, Milk Bar vuelve con una lata coleccionable de Snoopy y cuatro nuevos sabores de galletas",
-      "url": "https://www.merca20.com/despues-de-agotar-su-coleccion-navidena-en-2025-milk-bar-vuelve-con-una-lata-coleccionable-de-snoopy-y-cuatro-nuevos-sabores-de-galletas/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-agotar-su-coleccion-navidena-en-2025-milk-bar-vuelve-con-una-lata-coleccionable-de-snoopy-y-cuatro-nuevos-sabores-de-galletas",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Milk Bar y Peanuts celebran la Navidad 2026 con una nueva lata coleccionable de Snoopy, cuatro sabores de galletas, chocolates y otros postres.",
-      "image": null,
-      "published": "2026-11-27T17:50:21+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0daf2067fd380d",
-      "title": "Se está agotando: Amazon revienta el precio del Google Pixel 11 a unas horas de que termine el Black Friday (y con 512 GB)",
-      "url": "https://www.xataka.com/seleccion/amazon-revienta-precio-google-pixel-11-a-unas-horas-que-termine-black-friday-512-gb-almacenamiento",
-      "source": "Xataka",
-      "category": "tech-ia",
-      "summary": "¿Merece la pena esperar a última hora de Black Friday para renovar móvil? Normalmente, te diríamos que las mejores ofertas no suelen durar hasta los últimos días de noviembre, pero de vez en cuando encontramos algún chol…",
-      "image": "https://i.blogs.es/528cc3/pixel_02/1024_2000.jpeg",
-      "published": "2026-11-27T17:46:20+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5c11ccb335d1b1",
-      "title": "El perfume árabe que huele tan rico La Vie est Belle de Lancôme y solo cuesta 519 pesos: dura horas y deja estela al pasar",
-      "url": "https://www.merca20.com/el-perfume-arabe-que-huele-tan-rico-la-vie-est-belle-de-lancome-y-solo-cuesta-519-pesos-dura-horas-y-deja-estela-al-pasar/?utm_source=rss&utm_medium=rss&utm_campaign=el-perfume-arabe-que-huele-tan-rico-la-vie-est-belle-de-lancome-y-solo-cuesta-519-pesos-dura-horas-y-deja-estela-al-pasar",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Este perfume tiene un aroma gourmand que evoca a La vie est belle de Lancôme, pero tiene un precio mucho más accesible",
-      "image": "https://files.merca20.com/uploads/2026/11/mercado-libre-cortesia-lattafa-yara-perfume.jpg",
-      "published": "2026-11-27T17:43:32+00:00",
       "score": null,
       "tags": []
     },
@@ -569,18 +749,6 @@
       "tags": []
     },
     {
-      "id": "de6611d0e8683e",
-      "title": "El perfume Versace para mujeres que prefieren los aromas frescos y sofisticados en lugar de las fragancias demasiado dulces",
-      "url": "https://www.merca20.com/el-perfume-versace-para-mujeres-que-prefieren-los-aromas-frescos-y-sofisticados-en-lugar-de-las-fragancias-demasiado-dulces/?utm_source=rss&utm_medium=rss&utm_campaign=el-perfume-versace-para-mujeres-que-prefieren-los-aromas-frescos-y-sofisticados-en-lugar-de-las-fragancias-demasiado-dulces",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Rematan perfume Versace Bright Crystal para mujer de 90 ml con 37% de descuento. Tiene notas de peonía, magnolia, granada y almizcle por 1,199 pesos",
-      "image": "https://files.merca20.com/uploads/2026/11/perfume-Versace-Bright-Crystal-cortesia-mercado-libre.jpg",
-      "published": "2026-11-27T17:33:05+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "6e517c9a750416",
       "title": "América Latina frena redes sociales en niños: ¿Por qué es importante abordar el hábito digital?",
       "url": "https://www.fayerwayer.com/internet/2026/11/27/america-latina-frena-redes-sociales-en-ninos/",
@@ -605,42 +773,6 @@
       "tags": []
     },
     {
-      "id": "e44a07dd898cba",
-      "title": "El perfume que es perfecto para las mujeres que aman los aromas florales, frescos y elegantes, puede durar hasta seis horas y cuesta menos de 400 pesos",
-      "url": "https://www.merca20.com/el-perfume-que-es-perfecto-para-las-mujeres-que-aman-los-aromas-florales-frescos-y-elegantes-puede-durar-hasta-seis-horas-y-cuesta-menos-de-400-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=el-perfume-que-es-perfecto-para-las-mujeres-que-aman-los-aromas-florales-frescos-y-elegantes-puede-durar-hasta-seis-horas-y-cuesta-menos-de-400-pesos",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "El perfume Guess 1981 para mujer, en su presentación Eau de Toilette de 100 mililitros, pasó de un precio de lista de 689 pesos a solamente 366 pesos",
-      "image": "https://files.merca20.com/uploads/2026/11/PERFUME-GUESS-CORTESIA-MERCADO-LIBRE.jpg",
-      "published": "2026-11-27T17:21:35+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "38e66537de7bab",
-      "title": "Cuándo es momento de evolucionar una marca y cómo hacerlo",
-      "url": "https://www.merca20.com/cuando-es-momento-de-evolucionar-una-marca-y-como-hacerlo/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-es-momento-de-evolucionar-una-marca-y-como-hacerlo",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "La evolución de las marcas ya no será un evento puntual, sino un proceso continuo.",
-      "image": "https://files.merca20.com/uploads/2025/05/crecer-foto-de-bigstock-148978775.jpg",
-      "published": "2026-11-27T17:15:01+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c365bc90d07c98",
-      "title": "adidas remata tenis Cloudfoam Comfy para hombre con 55% de descuento: ideales para caminar y vestir cómodamente todos los días",
-      "url": "https://www.merca20.com/adidas-remata-tenis-cloudfoam-comfy-para-hombre-con-55-de-descuento-ideales-para-caminar-y-vestir-comodamente-todos-los-dias/?utm_source=rss&utm_medium=rss&utm_campaign=adidas-remata-tenis-cloudfoam-comfy-para-hombre-con-55-de-descuento-ideales-para-caminar-y-vestir-comodamente-todos-los-dias",
-      "source": "Merca 2.0",
-      "category": "startup",
-      "summary": "Los tenis adidas Casual Cloudfoam Comfy pasaron de un precio de lista de 1,399 pesos a solamente 629.54 pesos",
-      "image": "https://files.merca20.com/uploads/2026/11/TENIS-ADIDAS-CORTESIA-MERCADO-LIBRE.jpg",
-      "published": "2026-11-27T17:01:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "d9fe6545a5efe7",
       "title": "Marketing y reputación: por qué las marcas ahora deben demostrar más de lo que prometen",
       "url": "https://ilifebelt.com/marketing-y-reputacion-por-que-las-marcas-ahora-deben-demostrar-mas-de-lo-que-prometen/2026/11/",
@@ -649,6 +781,18 @@
       "summary": "Las estrategias de marketing y reputación atraviesan un cambio en el que la publicidad ya no concentra todos los esfuerzos para posicionar una marca. Las empresas necesitan respaldar sus mensajes con resultados comprobab…",
       "image": null,
       "published": "2026-11-27T16:53:06+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4db9459b5554da",
+      "title": "HSBC Travel One te acerca a tu próximo destino",
+      "url": "https://expansion.mx/tendencias/2026/11/27/hsbc-travel-one-te-acerca-a-tu-proximo-destino",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "HSBC México lanzó Tarjetas de Crédito para viajeros que permiten volar con diferentes aerolíneas, sin atarse a marcas, ofreciendo puntos acelerados, salas VIP, vuelos redondos de bienvenida y más.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6d9a6da/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F36%2F4b%2Fdfcea7f441f7b0f3e7e1fcb228a7%2F82a8303-1.jpg",
+      "published": "2026-11-27T16:45:58+00:00",
       "score": null,
       "tags": []
     },
@@ -665,13 +809,25 @@
       "tags": []
     },
     {
+      "id": "c0da7f40110a9f",
+      "title": "Hackers vulneran la nube militar de EU operada por Microsoft, Amazon, Google y Oracle",
+      "url": "https://expansion.mx/tecnologia/2026/11/27/hackers-ciberataque-cloud-one-fuerza-aerea-estados-unidos",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El ataque afectó a Cloud One, una de las mayores plataformas de computación en la nube de la Fuerza Aérea estadounidense, que gestiona desde información del personal hasta sistemas de seguimiento de misiles.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/74e613b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F46%2F52%2Fd2a037394c5283ca43a33633f274%2Fvulneracion-one-cloud-fuerza-aerea-estados-unidos.jpeg",
+      "published": "2026-11-27T16:38:54+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "7c2e2f1a2d0d1e",
       "title": "Sheinbaum reclama a Estados Unidos por iniciativa de la DEA para recibir denuncias contra carteles",
       "url": "https://www.altonivel.com.mx/sheinbaum-reclama-a-estados-unidos-por-iniciativa-de-la-dea-para-recibir-denuncias-contra-carteles/",
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "La presidenta Claudia Sheinbaum informó que la Secretaría de Relaciones Exteriores presentó una queja ante el embajador Ronald Johnson por los canales de denuncia habilitados por la agencia antidrogas estadounidense. The…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/sheinbaum-reclama-a-estados-unidos.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/claudia-sheinbaum-dea.webp",
       "published": "2026-11-27T16:34:53+00:00",
       "score": null,
       "tags": []
@@ -701,6 +857,18 @@
       "tags": []
     },
     {
+      "id": "8eb35e3a50527c",
+      "title": "Anthropic ya está en la BMV, cómo invertir desde México en la empresa detrás de Claude y qué debes saber antes",
+      "url": "https://expansion.mx/economia/2026/11/27/anthropic-bmv-como-invertir-en-acciones-desde-mexico",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "El SIC permite operar valores internacionales en pesos y sin abrir una cuenta en el extranjero, aunque hay costos y riesgos que conviene considerar.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e1ba7a8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F90%2F39%2F5ce9740c4c089f4c05f13ad6c296%2Fclaude-anthropic-afp-20261111-d76l3lm-v1-highres-indiatechnologyai.jpeg",
+      "published": "2026-11-27T16:06:58+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
       "id": "2c09d7372a1602",
       "title": "Stickers que suenan y barra de dos líneas: WhatsApp ajusta la creación y el chat en su beta de Android",
       "url": "https://www.fayerwayer.com/moviles/2026/11/27/sound-stickers-de-whatsapp-suman-audio-y-ajustes/",
@@ -719,7 +887,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Dos empresas chinas declararon tener servidores GB300 y GB200 de Nvidia en un centro de datos de Shanghái y los utilizaron como garantía para obtener préstamos, reveló un reporte de Bloomberg. The post Detectan chips de …",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/ceo-nvidia-jensen-huang.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/chips-nvidia-espia-china.webp",
       "published": "2026-11-27T16:01:34+00:00",
       "score": null,
       "tags": []
@@ -767,8 +935,20 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Las exportaciones mexicanas crecieron 30.33% entre enero y octubre de 2026, su mayor avance para un periodo comparable desde 2010, impulsadas por los envíos de equipo de cómputo a Estados Unidos. The post Exportaciones d…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/08/exportaciones-mexico.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/esportaciones-mexico.webp",
       "published": "2026-11-27T15:04:31+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "4484e3f600a214",
+      "title": "Intentaron llevar GTA 6 a PC sin permiso, pero Rockstar ya bloqueó todos los esfuerzos",
+      "url": "https://expansion.mx/tecnologia/2026/11/27/gta-6-pc-rockstar-bloquea-proyecto-leonida",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Take-Two consiguió que GitHub retirara más de 3,000 repositorios vinculados con un proyecto que buscaba ejecutar el videojuego en computadoras a partir de archivos filtrados de Xbox.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/dc0dc89/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd8%2F99%2F901190d24f00b12c7b8c20335218%2F6-gta-gettyimages-2305932399.jpeg",
+      "published": "2026-11-27T15:03:14+00:00",
       "score": null,
       "tags": []
     },
@@ -791,7 +971,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "La especialización científica ya no es suficiente para construir una carrera en la industria farmacéutica. Diana Rodríguez H., directora de Recursos Humanos de Merck México, explica por qué las empresas necesitan profesi…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/medical-technicians-working-in-laboratory-Depositphotos_110135844_L.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/industria-farmaceitica.webp",
       "published": "2026-11-27T14:33:00+00:00",
       "score": null,
       "tags": []
@@ -829,6 +1009,18 @@
       "summary": "Albert Einstein tenía una propuesta bastante peculiar para los jóvenes que querían dedicarse a la ciencia: trabajar en un faro. No lo decía de broma. En octubre de 1933, durante una intervención en Londres, el físico def…",
       "image": "https://i.blogs.es/a682b4/genbeta-5-einstein/1024_2000.jpeg",
       "published": "2026-11-27T14:00:24+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "9e2f7bf8f6106f",
+      "title": "México supera en octubre sus exportaciones de todo 2025 y alcanza 713,203 mdd",
+      "url": "https://expansion.mx/economia/2026/11/27/exportaciones-mexico-record-octubre-2026",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "Las ventas al exterior crecieron 30.3% de enero a octubre, impulsadas por las manufacturas. México pasó del déficit a un superávit comercial de 9,552.5 mdd.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1a636e8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F43%2F96%2F5be56c434dbebb92ceddcc9e8170%2Fexportaciones-mexico-octubre-2026.jpeg",
+      "published": "2026-11-27T13:59:45+00:00",
       "score": null,
       "tags": []
     },
@@ -889,6 +1081,18 @@
       "summary": "Pedro Sánchez ha hablado en varias ocasiones de su abuelo, que tuvo que emigrar a Alemania durante la dictadura para mantener a su familia. También ha recordado algo bastante más cotidiano: las partidas de cinquillo que …",
       "image": "https://i.blogs.es/394b54/genbeta-3-pedro-sanchez/1024_2000.jpeg",
       "published": "2026-11-27T12:00:22+00:00",
+      "score": null,
+      "tags": []
+    },
+    {
+      "id": "078e81f57828f6",
+      "title": "Más allá de la contratación, el desafío de impulsar el talento femenino en ciberseguridad",
+      "url": "https://expansion.mx/opinion/2026/11/27/desafio-de-impulsar-talento-femenino-en-ciberseguridad",
+      "source": "Expansión",
+      "category": "coaching",
+      "summary": "La inteligencia artificial está cambiando las habilidades que demanda el sector. En la encuesta, el 27% de las mujeres y el 17% de los hombres dijeron tener conocimientos significativos de IA y aprendizaje automático.",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4394fc9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F72%2F10%2Fed9e8331474888c4782f58a77fd2%2Fmujeres-talento-femenino-ciberseguridad.png",
+      "published": "2026-11-27T11:59:56+00:00",
       "score": null,
       "tags": []
     },
@@ -1151,7 +1355,7 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Financiar vivienda social puede ser un negocio rentable cuando se conocen el mercado y sus riesgos. Víctor Manuel Requejo y Rodrigo Padilla explican cómo Banco Inmobiliario Mexicano busca aumentar su escala, fortalecer l…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/bim-cover.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/banco-inmobiliario-mexicano.webp",
       "published": "2026-11-27T04:00:00+00:00",
       "score": null,
       "tags": []
@@ -1165,114 +1369,6 @@
       "summary": "Nintendo publica el parche 1.1.2 de The Legend of Zelda: Ocarina of Time en Nintendo Switch 2 para destrabar la Canción de Epona y mejorar el juego.",
       "image": "https://www.fayerwayer.com/resizer/v2/OIINWBF6HVDYVKY5RDYYPIAQWA.png?auth=6bc4abbb55d8407480bc042887ce928c52fd97308f1106211ac2428520d1ce64&smart=true&width=1798&height=1008",
       "published": "2026-11-27T03:39:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "d1fce1138c2006",
-      "title": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
-      "url": "https://expansion.mx/economia/2026/11/26/moises-chaves-deja-consejo-de-bankaool-ante-imposibilidad-de-que-cnbv-autorice-su-cargo-como-dueno-mayoritario",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Bradley C. Hanson retoma sus funciones como Presidente del Consejo; el regulador mexicano le negó tomar la totalidad del banco en febrero pasado",
-      "image": "https://cdn-3.expansion.mx/dims4/default/916021b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2F35%2F05efce6c4aa1a70a757c7874357c%2Fcambio-consejo-bankaool.jpeg",
-      "published": "2026-11-27T02:09:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "2b7ecf0fb09218",
-      "title": "Venden Ozempic falsificado en México, Cofepris identifica lotes irregulares",
-      "url": "https://expansion.mx/tendencias/2026/11/26/venden-ozempic-falsificado-cofepris-irregulares",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Novo Nordisk México reportó productos falsificados que presentan lotes no reconocidos, plumas de otros laboratorios y empaques con anomalías.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d4bd69a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2Faa%2F0e58ee9847e4961c8f152aac7936%2F000-36na2z9.jpg",
-      "published": "2026-11-27T01:42:13+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c32feed4a405cb",
-      "title": "LG quiere aprender de los mexicanos para diseñar sus próximos productos",
-      "url": "https://expansion.mx/tecnologia/2026/11/26/lg-mexico-another-campus-desarrollo-productos-tecnologicos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La compañía surcoreana inauguró en el Tec de Monterrey la primera sede del Another Campus fuera de Corea del Sur, una iniciativa que también le permitirá conocer los hábitos y necesidades de los consumidores locales.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5dd78b9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2F58%2Fe47a10f44094867a8bad3550d623%2Fcolaboracion-creativa-en-el-campus-tecnologico.png",
-      "published": "2026-11-27T00:00:43+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "a27b26d6c090fa",
-      "title": "Agentes de seguros ven necesario mejorar las condiciones de gastos médicos tras un año difícil para renovar pólizas",
-      "url": "https://expansion.mx/economia/2026/11/26/agentes-de-seguros-ven-necesario-mejorar-las-condiciones-de-gastos-medicos-tras-un-ano-dificil-para-renovar-polizas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La Amasfac pide un análisis profundo por parte de las autoridades de la iniciativa del diputado Ricardo Monreal; aumentos en seguro de gastos médicos mantienen un promedio de 25%.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/26c7e7b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fdc%2F76%2F349d65f64fc5b2a0e48c9df0934e%2Fregularan-seguro-gastos-medicos-mayores.jpeg",
-      "published": "2026-11-26T23:23:49+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "0b4b02836ee9f7",
-      "title": "El hospital del Tec de Monterrey que impulsó el empresario detrás de Cemex y atiende más de 100,000 pacientes",
-      "url": "https://expansion.mx/empresas/2026/11/26/hospital-empresario-cemex-tec-monterrey-atiende-100-000",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Más allá de su trayectoria al frente de Cemex, Lorenzo Zambrano también participó en el impulso de proyectos educativos y médicos del Tecnológico de Monterrey.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e88e7e0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2Fbe%2Fd884f091499d941b1e2c8d15fdc4%2Fquien-es-el-dueno-del-hospital-zambrano-hellion-tecsalud-y-que-tiene-que-ver-el-director-de-cemex.jpg",
-      "published": "2026-11-26T23:02:39+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "74f8cf11415c65",
-      "title": "Tu jefe puede reducirte el aguinaldo por tus faltas, pero hay descuentos que no puede aplicar aunque quiera",
-      "url": "https://expansion.mx/finanzas-personales/2026/11/26/aguinaldo-descuentos-por-faltas-deudas-o-impuestos",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Aunque no existe ningún fundamento legal para que haya un descuento directo al aguinaldo, sí existen escenarios en los que el cálculo reste días o incluya retenciones.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c34b010/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6c%2Fde%2F841d361f41afbd007e5f6c21a501%2Faguinaldo-reducciones-por-faltas.jpg",
-      "published": "2026-11-26T22:33:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "46cde9ec2959d6",
-      "title": "Gobernadora de Banxico descarta inicio de ciclo de reducciones en la tasa de referencia",
-      "url": "https://expansion.mx/economia/2026/11/26/gobernadora-banxico-descarta-reducciones-tasa-interes",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "De acuerdo con Victoria Rodríguez, la decisión de la Junta de Gobierno de noviembre se sustentó en la continuación de un proceso de menor inflación en el país.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/14d0c1c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc8%2Faa%2F8f43b8a9499cbb50c875684339e7%2Fvictoria-rodriguez-ceja-gobernadora-de-banxico.jpeg",
-      "published": "2026-11-26T22:15:29+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "5520169180cd41",
-      "title": "México registra su quinta mayor salida trimestral de inversión de cartera",
-      "url": "https://expansion.mx/economia/2026/11/26/mexico-registra-su-quinta-mayor-salida-trimestral-de-inversion-de-cartera",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Si bien durante el tercer trimestre del año se reportó una salida de 11,696 mdd en inversiones de bonos y acciones; analistas atribuyen el ajuste al alza de tasas en EU y a que más mexicanos invirtieron en el extranjero",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c7d225a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff1%2F64%2Ffbb618064b15b9c59e1b4082dc4d%2Fsalida-capitales-mexico.jpeg",
-      "published": "2026-11-26T21:25:37+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "c966e9ec539bec",
-      "title": "Tiendas 3B deja de lado los comerciales y apuesta por una publicidad difícil de comprar, que sus clientes la recomienden",
-      "url": "https://expansion.mx/mercadotecnia/2026/11/26/tiendas-3b-estrategia-competir-sin-gastar-comerciales",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "En lugar de pagar comerciales de televisión, radio o anuncios impresos, Tiendas 3B utiliza herramientas de bajo costo que lo ha llevado a abrir más de 3,000 tiendas en México.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3734c33/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F65%2F2d%2F268c675547b3b9536f93b82395f6%2Flos-propios-clientes-de-tiendas-3b-le-hacen-publicidad-y-asi-el-negocio-se-ahorra-gastos-en-comerciales-para-la-tv.jpeg",
-      "published": "2026-11-26T21:21:11+00:00",
       "score": null,
       "tags": []
     },
@@ -1307,20 +1403,8 @@
       "source": "Alto Nivel",
       "category": "coaching",
       "summary": "Comprar arte puede parecer intimidante cuando no se conoce el mercado. Lara y Saraí Balderrama quieren cambiar esa percepción. Las fundadoras de Agencia de Arte abrieron su primera galería permanente después de más de un…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/hermanas-arte.webp",
+      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/agencia-de-arte.webp",
       "published": "2026-11-26T19:08:25+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "80845ba05df173",
-      "title": "Las estafas con IA ya clonan la voz de tus familiares y pueden vaciar tus cuentas con una llamada falsa en minutos",
-      "url": "https://expansion.mx/tecnologia/2026/11/26/nueva-estafa-con-voces-clonadas-con-ia-en-llamadas",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La recomendación principal es verificar de inmediato si la persona es quien dice ser colgando la llamada y comunicándose con ella a través de un canal alterno.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3ff18b3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2Fcf%2Fab9b607c434f999989bb0aa08f41%2Festafa-con-voz-clonada-con-ia.jpg",
-      "published": "2026-11-26T19:07:24+00:00",
       "score": null,
       "tags": []
     },
@@ -1349,18 +1433,6 @@
       "tags": []
     },
     {
-      "id": "bd8af79316a675",
-      "title": "PIB de México crecerá más, Banxico sube expectativa a 1.9% para el cierre de 2026",
-      "url": "https://expansion.mx/economia/2026/11/26/banxico-expectativa-pib-economia-2026-2027",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El banco central indicó que esta mejora se debió al crecimiento que mostró el sector de servicios y a la reactivación continua de las actividades industriales en el país",
-      "image": "https://cdn-3.expansion.mx/dims4/default/92fb998/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3c%2F8d%2F3df5495c44d284f86a14fde59bc5%2F26.11.26.MediaPrincipal.1.jpg",
-      "published": "2026-11-26T18:47:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "eeb3c6ce57bc2d",
       "title": "‘GTA 6’ rompe el récord de estreno en físico en España… con una caja sin disco",
       "url": "https://hipertextual.com/videojuegos/gta-6-record-lanzamiento-fisico-caja-sin-disco/",
@@ -1373,18 +1445,6 @@
       "tags": []
     },
     {
-      "id": "7b2163606e8ac5",
-      "title": "Pensión IMSS e ISSSTE de diciembre: cuándo depositan el último pago del año y quiénes recibirán el aguinaldo",
-      "url": "https://expansion.mx/finanzas-personales/2026/11/26/pension-imss-issste-diciembre-2026-cuando-cuanto-depositan",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El último pago del año llegará para millones de jubilados y pensionados. Revisa cuándo depositan el IMSS y el ISSSTE, qué pasa con el aguinaldo y cómo reportar un depósito pendiente.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b2638e0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F99%2Fd2%2F18c3745148b0a9fed20584ebfe95%2Fpagos-pension-de-imss-e-issste-en-diciembre.png",
-      "published": "2026-11-26T18:41:06+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "93a8da4e8bb2dc",
       "title": "Gemini Notebook quiere que estudies mejor, y ahora también te recuerda cuándo toca",
       "url": "https://www.muycomputer.com/2026/11/26/gemini-notebook-quiere-que-estudies-mejor-y-ahora-tambien-te-recuerda-cuando-toca/",
@@ -1393,18 +1453,6 @@
       "summary": "Hay una diferencia importante entre entender algo mientras lo estamos leyendo y ser capaces de recordarlo unos días después. Podemos preparar unos apuntes excelentes, organizar toda la información y generar resúmenes muy…",
       "image": null,
       "published": "2026-11-26T18:05:58+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "973bf26f7ed1e1",
-      "title": "CFE obtiene concesión para competir con Telcel, AT&T y Movistar en el mercado móvil",
-      "url": "https://expansion.mx/empresas/2026/11/26/cfe-concesion-competir-telcel-mercado-movil",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "La empresa estatal podrá ofrecer servicios de telefonía e internet con fines de lucro, bajo nuevas obligaciones de transparencia financiera, inversión y compartición de infraestructura.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/00cc5ca/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4b%2F81%2F63daba7e431ea6c3a7f342342401%2F13-cfe-internet-1.jpeg",
-      "published": "2026-11-26T17:57:04+00:00",
       "score": null,
       "tags": []
     },
@@ -1481,18 +1529,6 @@
       "tags": []
     },
     {
-      "id": "67c1ecf6e589a8",
-      "title": "Xcaret planea un hotel más económico para familias ante la menor ocupación en la Riviera Maya",
-      "url": "https://expansion.mx/empresas/2026/11/26/xcaret-evitar-efecto-tulum-abrira-hotel-barato",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "Miguel Quintana Pali planea un hotel donde seis personas paguen por una sola habitación y visiten los parques con horarios fijos, en un Caribe mexicano con menor ocupación hotelera.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a81ead0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F68%2F98%2F7f9e013d45b1acfa98c1f8eab2cb%2Fxcaret-parque-2.jpeg",
-      "published": "2026-11-26T16:45:08+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "cc0b69646d3bdb",
       "title": "Pusieron en marcha un tren de 7,6 kilómetros con 696 vagones y aseguran que han batido el récord mundial de longitud",
       "url": "https://www.genbeta.com/internacional/pusieron-marcha-tren-7-6-kilometros-696-vagones-aseguran-que-han-batido-record-mundial-longitud",
@@ -1513,18 +1549,6 @@
       "summary": "Podemos pensar que cuando alguien baja al mismo bar todas las mañanas a desayunar pese a tener café y pan en casa lo hace por prisa o por tener pocas ganas de hacerse el desayuno. Pero algunos estudios psicológicos apunt…",
       "image": "https://i.blogs.es/f8c55b/rod-long-i79pgmhmy5m-unsplash/1024_2000.jpeg",
       "published": "2026-11-26T16:41:18+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "199c693429a4fc",
-      "title": "España tendrá por primera vez la presidencia del BCE: Pablo Hernández sustituirá a Christine Lagarde",
-      "url": "https://www.altonivel.com.mx/espana-tendra-por-primera-vez-la-presidencia-del-bce-pablo-hernandez-sustituira-a-christine-lagarde/",
-      "source": "Alto Nivel",
-      "category": "coaching",
-      "summary": "Pablo Hernández de Cos será el primer español en presidir el Banco Central Europeo, tras conseguir el respaldo de Países Bajos y alcanzar un acuerdo de consenso entre los Veintisiete. The post España tendrá por primera v…",
-      "image": "https://www.altonivel.com.mx/wp-content/uploads/2026/11/Pablo-Hernandez.webp",
-      "published": "2026-11-26T16:40:19+00:00",
       "score": null,
       "tags": []
     },
@@ -1613,18 +1637,6 @@
       "tags": []
     },
     {
-      "id": "6a7b306230dc14",
-      "title": "Elon Musk regalará acciones de SpaceX a los niños de EU, pero su apuesta va más lejos: “un millón de veces” más valor",
-      "url": "https://expansion.mx/tecnologia/2026/11/26/elon-musk-regalara-acciones-de-spacex-a-los-ninos-eu",
-      "source": "Expansión",
-      "category": "coaching",
-      "summary": "El multimillonario asegura que las acciones pueden valer aproximadamente un millón de veces la economía global actual. Ya dio fechas de la entrega de las acciones.",
-      "image": "https://cdn-3.expansion.mx/dims4/default/25de2ea/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7e%2Fa8%2F5059b9ab4ca3a6594cf1cb71cdd5%2F000-1972wx.jpg",
-      "published": "2026-11-26T14:22:24+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
       "id": "67e89c524d0cbc",
       "title": "Neuralink obtiene aprobación de la FDA para un ensayo pivotal de su implante LINK en pacientes con ELA tras más de 30 casos previos",
       "url": "https://www.fayerwayer.com/ciencia/2026/11/26/neuralink-obtiene-aprobacion-de-la-fda-para-un-ensayo-pivotal-de-su-implante-link-en-pacientes-con-ela-tras-mas-de-30-casos-previos/",
@@ -1693,18 +1705,6 @@
       "summary": "Descubre qué es un booktrailer, qué elementos debe incluir y cómo crear uno en clase para trabajar la comprensión lectora y la competencia digital.",
       "image": null,
       "published": "2026-11-26T12:00:00+00:00",
-      "score": null,
-      "tags": []
-    },
-    {
-      "id": "9a5544392e17b8",
-      "title": "Brutal clip de ‘Avengers: Doomsday’ con el enfrentamiento de Magneto y el Doctor Doom: casi le arranca la máscara",
-      "url": "https://hipertextual.com/cine-television/brutal-clip-de-avengers-doomsday-con-el-enfrentamiento-de-magneto-y-el-doctor-doom-casi-le-arranca-la-mascara/",
-      "source": "Hipertextual",
-      "category": "tech-ia",
-      "summary": "Hace apenas unos días, Marvel estrenó el tráiler final de Avengers: Doomsday. Un avance muy esperado que se ha convertido en el segundo tráiler más visto de todos los tiempos en sus primeras 24 horas, solo por detrás del…",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Tolkien-46.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-      "published": "2026-11-26T10:01:29+00:00",
       "score": null,
       "tags": []
     },
